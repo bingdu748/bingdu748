@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,412 次 |
-| 🎤 歌手总计 | 19,044 位 |
+| 🎧 播放总次数 | 82,419 次 |
+| 🎤 歌手总计 | 19,045 位 |
 | 💿 专辑总计 | 19,938 张 |
-| 🎶 歌曲总计 | 61,034 首 |
+| 🎶 歌曲总计 | 61,040 首 |
 
-🎧 **正在播放：** 【00猪】模拟医生为小朋友的你打针 | 伤口清洁 | Simulated doctor giving you an injection as a child | Wound cleaning — 小0觉觉猪
+🎧 **正在播放：** 中文asmr角色扮演:璐璐姊姊是你的私人宠物护理 — 璐璐ASMR小馆
 
 **🎵 最近在听**  
-- 🎵 【00猪】模拟医生为小朋友的你打针 | 伤口清洁 | Simulated doctor giving you an injection as a child | Wound cleaning — 小0觉觉猪
-- 🎵 ASMR 30min+ Soft Spoken Whispering 💕 ear to ear whisper, binaural, ramble, close to mic, stutter — Cindy asmr
-- 🎵 ASMR | Your Bestie Does Your Makeup For a Date — Judy asmr
-- 🎵 水音世界观--6月9日--平壤街头出现四川火锅店，反映了朝鲜服务业的发展和消费能力的提升，以及对中国经济合作的准备。 — 水音世界观
-- 🎵 我一句话都没说就被她俩盒完了？【魔裁二创/剧透警告】 — 狗狗月_
+- 🎵 中文asmr角色扮演:璐璐姊姊是你的私人宠物护理 — 璐璐ASMR小馆
+- 🎵 2025年最強的中文ASMR专注力测试体验 — 璐璐ASMR小馆
+- 🎵 ASMR中文；轻语冥想深度睡眠体验 — 璐璐ASMR小馆
+- 🎵 中文ASMR角色扮演：璐璐姊姊是你的私人医生 — 璐璐ASMR小馆
+- 🎵 2024年最強的ASMR角色扮演体验 — 璐璐ASMR小馆
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **林俊傑** — 31 次播放
 - 🥈 **许嵩** — 15 次播放
 - 🥉 **Fahrenheit** — 13 次播放
-- 4️⃣ **USAO** — 9 次播放
-- 5️⃣ **水音世界观** — 8 次播放
+- 4️⃣ **水音世界观** — 8 次播放
+- 5️⃣ **Fahrenheit, 田馥甄** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 **🎤 本月艺术家**  
 - 🥇 **Relaxu**
 - 🥈 **Various Artists**
-- 🥉 **英语听力**
+- 🥉 **a_hisa**
 
 **🎶 本月歌曲**  
 - 🥇 Echoes of the Past — Jason Hayes
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/10 12:44:30*
+*更新时间: 2026/6/10 14:22:43*
 <!-- LASTFM_END -->
