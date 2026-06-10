@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,419 次 |
-| 🎤 歌手总计 | 19,045 位 |
+| 🎧 播放总次数 | 82,424 次 |
+| 🎤 歌手总计 | 19,046 位 |
 | 💿 专辑总计 | 19,938 张 |
-| 🎶 歌曲总计 | 61,040 首 |
+| 🎶 歌曲总计 | 61,043 首 |
 
-🎧 **正在播放：** 中文asmr角色扮演:璐璐姊姊是你的私人宠物护理 — 璐璐ASMR小馆
+
 
 **🎵 最近在听**  
-- 🎵 中文asmr角色扮演:璐璐姊姊是你的私人宠物护理 — 璐璐ASMR小馆
-- 🎵 2025年最強的中文ASMR专注力测试体验 — 璐璐ASMR小馆
-- 🎵 ASMR中文；轻语冥想深度睡眠体验 — 璐璐ASMR小馆
-- 🎵 中文ASMR角色扮演：璐璐姊姊是你的私人医生 — 璐璐ASMR小馆
-- 🎵 2024年最強的ASMR角色扮演体验 — 璐璐ASMR小馆
+- 🎵 【魔裁】汉娜雪莉篇 — 幽伊様
+- 🎵 【魔裁】-假如你的朋友是杀手 — 阿库娅保护协会
+- 🎵 怎么样..？希罗酱♡ — IceDream夢
+- 🎵 怎么样..？希罗酱♡ — IceDream夢
+- 🎵 “我一直以为当时的百万英镑最多相当于今天几千万人民币，结果居然是100多亿。《百万英镑》：一张废纸值战列舰，伦敦全城跪地舔” — Movie话影
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
 - 🥈 江南 — 林俊傑
 - 🥉 Only have feelings for you — Fahrenheit
-- 4️⃣ 【EmojiASMR】99.9%眠くなる謎の絵文字ASMR — Kaerukun ASMR
-- 5️⃣ 鐵花飛 — Mili&塞壬唱片-MSR
+- 4️⃣ 怎么样..？希罗酱♡ — IceDream夢
+- 5️⃣ 【EmojiASMR】99.9%眠くなる謎の絵文字ASMR — Kaerukun ASMR
 
 **💿 热门专辑**  
 - 🥇 **江南** — 林俊傑
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/10 14:22:43*
+*更新时间: 2026/6/10 17:42:08*
 <!-- LASTFM_END -->
