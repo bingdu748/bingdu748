@@ -21,17 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,411 次 |
-| 🎤 歌手总计 | 19,043 位 |
+| 🎧 播放总次数 | 82,412 次 |
+| 🎤 歌手总计 | 19,044 位 |
 | 💿 专辑总计 | 19,938 张 |
-| 🎶 歌曲总计 | 61,033 首 |
+| 🎶 歌曲总计 | 61,034 首 |
 
-🎧 **正在播放：** ASMR 30min+ Soft Spoken Whispering 💕 ear to ear whisper, binaural, ramble, close to mic, stutter — Cindy asmr**🎵 最近在听**  
+🎧 **正在播放：** 【00猪】模拟医生为小朋友的你打针 | 伤口清洁 | Simulated doctor giving you an injection as a child | Wound cleaning — 小0觉觉猪
+
+**🎵 最近在听**  
+- 🎵 【00猪】模拟医生为小朋友的你打针 | 伤口清洁 | Simulated doctor giving you an injection as a child | Wound cleaning — 小0觉觉猪
 - 🎵 ASMR 30min+ Soft Spoken Whispering 💕 ear to ear whisper, binaural, ramble, close to mic, stutter — Cindy asmr
 - 🎵 ASMR | Your Bestie Does Your Makeup For a Date — Judy asmr
 - 🎵 水音世界观--6月9日--平壤街头出现四川火锅店，反映了朝鲜服务业的发展和消费能力的提升，以及对中国经济合作的准备。 — 水音世界观
 - 🎵 我一句话都没说就被她俩盒完了？【魔裁二创/剧透警告】 — 狗狗月_
-- 🎵 【东方】芙！兰！光！线！【羽衣工船（ういこうせん）】 — 铅笔Ennpitsu
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -107,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/10 12:23:02*
+*更新时间: 2026/6/10 12:44:30*
 <!-- LASTFM_END -->
