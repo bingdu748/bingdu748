@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 | 项目 | 数据 |
 |------|------|
 | 🎧 总播放次数 | 82,392 |
-| 🎤 听过艺术家 | 5 位 |
-| 🎶 听过歌曲 | 5 首 |
-| 💿 听过专辑 | 3 张 |
+| 🎤 听过艺术家 | 19,037 位 |
+| 💿 听过专辑 | 19,938 张 |
+| 🎶 听过歌曲 | 61,020 首 |
 
 **🎧 正在播放**  
 🎵 暂无正在播放的歌曲
@@ -108,5 +108,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/10 07:42:10*
+*更新时间: 2026/6/10 10:20:32*
 <!-- LASTFM_END -->
