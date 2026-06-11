@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,452 次 |
-| 🎤 歌手总计 | 19,051 位 |
-| 💿 专辑总计 | 19,947 张 |
-| 🎶 歌曲总计 | 61,057 首 |
+| 🎧 播放总次数 | 82,454 次 |
+| 🎤 歌手总计 | 19,052 位 |
+| 💿 专辑总计 | 19,948 张 |
+| 🎶 歌曲总计 | 61,059 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 T氏の話を信じるな (feat. 初音ミク & 重音テト) (不要相信T氏的话) — ピノキオピー/初音ミク/重音テト
+- 🎵 你可能不认识我，但你一定听过我的歌（M2U） — M2U_Official
 - 🎵 水音世界观---6月10日--印度裔全面占领硅谷与NASA，加拿大彻底沦为“印拿大”？ — 水音世界观
 - 🎵 Sprout (雁矢よしの（CV.高橋李依）) — 高橋李依/KOTONOHOUSE
 - 🎵 Free Will (第133話〜第156話エンディングテーマ) — Ruppina
-- 🎵 Remains (遗骸) — 鈴華ゆう子
-- 🎵 Brilliant Wand — 仲村芽衣子
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 **💿 热门专辑**  
 - 🥇 **江南** — 林俊傑
 - 🥈 **许嵩精选合辑** — 许嵩
-- 🥉 **AD:Nearly 180** — Diverse System
+- 🥉 **Fahrenheit** — Fahrenheit
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/11 13:59:25*
+*更新时间: 2026/6/11 17:40:30*
 <!-- LASTFM_END -->
