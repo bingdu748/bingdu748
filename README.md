@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,424 次 |
+| 🎧 播放总次数 | 82,432 次 |
 | 🎤 歌手总计 | 19,046 位 |
 | 💿 专辑总计 | 19,938 张 |
-| 🎶 歌曲总计 | 61,043 首 |
+| 🎶 歌曲总计 | 61,045 首 |
 
-
+🎧 **正在播放：** 暮春 — VuXa
 
 **🎵 最近在听**  
-- 🎵 【魔裁】汉娜雪莉篇 — 幽伊様
-- 🎵 【魔裁】-假如你的朋友是杀手 — 阿库娅保护协会
-- 🎵 怎么样..？希罗酱♡ — IceDream夢
-- 🎵 怎么样..？希罗酱♡ — IceDream夢
-- 🎵 “我一直以为当时的百万英镑最多相当于今天几千万人民币，结果居然是100多亿。《百万英镑》：一张废纸值战列舰，伦敦全城跪地舔” — Movie话影
+- 🎵 暮春 — VuXa
+- 🎵 i haven't forgotten you — Xeuphoria
+- 🎵 天使の涙 (feat. 初音ミク) (天使之泪) — MIMI/初音ミク
+- 🎵 Lost Aria (失落的咏叹调) — Elliot Hsu
+- 🎵 強く生きろ笑 (坚强活下去吧w) — Z²
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🥇 **林俊傑** — 31 次播放
 - 🥈 **许嵩** — 15 次播放
 - 🥉 **Fahrenheit** — 13 次播放
-- 4️⃣ **水音世界观** — 8 次播放
+- 4️⃣ **水音世界观** — 9 次播放
 - 5️⃣ **Fahrenheit, 田馥甄** — 7 次播放
 
 **🎶 热门歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/10 22:51:19*
+*更新时间: 2026/6/11 00:15:12*
 <!-- LASTFM_END -->
