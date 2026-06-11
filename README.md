@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,436 次 |
-| 🎤 歌手总计 | 19,046 位 |
-| 💿 专辑总计 | 19,938 张 |
-| 🎶 歌曲总计 | 61,045 首 |
+| 🎧 播放总次数 | 82,452 次 |
+| 🎤 歌手总计 | 19,051 位 |
+| 💿 专辑总计 | 19,947 张 |
+| 🎶 歌曲总计 | 61,057 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 パラサイトエンジェル (feat. 初音ミク) — Yunomi/甘口コレクティブ/初音ミク
-- 🎵 パラサイトエンジェル (feat. 初音ミク) — Yunomi/甘口コレクティブ/初音ミク
-- 🎵 Shizuku (feat. NEONA) — PIKASONIC/Tatsunoshin/KOTONOHOUSE/NEONA
-- 🎵 Rainbow Chaser (2021 Remake) (彩虹追逐者（2021 Remake）) — Plum - Melodic Artist
-- 🎵 暮春 — VuXa
+- 🎵 水音世界观---6月10日--印度裔全面占领硅谷与NASA，加拿大彻底沦为“印拿大”？ — 水音世界观
+- 🎵 Sprout (雁矢よしの（CV.高橋李依）) — 高橋李依/KOTONOHOUSE
+- 🎵 Free Will (第133話〜第156話エンディングテーマ) — Ruppina
+- 🎵 Remains (遗骸) — 鈴華ゆう子
+- 🎵 Brilliant Wand — 仲村芽衣子
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🥇 **林俊傑** — 31 次播放
 - 🥈 **许嵩** — 15 次播放
 - 🥉 **Fahrenheit** — 13 次播放
-- 4️⃣ **水音世界观** — 9 次播放
+- 4️⃣ **水音世界观** — 8 次播放
 - 5️⃣ **Fahrenheit, 田馥甄** — 7 次播放
 
 **🎶 热门歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/11 09:50:35*
+*更新时间: 2026/6/11 13:59:25*
 <!-- LASTFM_END -->
