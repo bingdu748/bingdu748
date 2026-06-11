@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,432 次 |
+| 🎧 播放总次数 | 82,436 次 |
 | 🎤 歌手总计 | 19,046 位 |
 | 💿 专辑总计 | 19,938 张 |
 | 🎶 歌曲总计 | 61,045 首 |
 
-🎧 **正在播放：** 暮春 — VuXa
+
 
 **🎵 最近在听**  
+- 🎵 パラサイトエンジェル (feat. 初音ミク) — Yunomi/甘口コレクティブ/初音ミク
+- 🎵 パラサイトエンジェル (feat. 初音ミク) — Yunomi/甘口コレクティブ/初音ミク
+- 🎵 Shizuku (feat. NEONA) — PIKASONIC/Tatsunoshin/KOTONOHOUSE/NEONA
+- 🎵 Rainbow Chaser (2021 Remake) (彩虹追逐者（2021 Remake）) — Plum - Melodic Artist
 - 🎵 暮春 — VuXa
-- 🎵 i haven't forgotten you — Xeuphoria
-- 🎵 天使の涙 (feat. 初音ミク) (天使之泪) — MIMI/初音ミク
-- 🎵 Lost Aria (失落的咏叹调) — Elliot Hsu
-- 🎵 強く生きろ笑 (坚强活下去吧w) — Z²
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/11 00:15:12*
+*更新时间: 2026/6/11 05:09:39*
 <!-- LASTFM_END -->
