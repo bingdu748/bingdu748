@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,517 次 |
+| 🎧 播放总次数 | 82,519 次 |
 | 🎤 歌手总计 | 19,059 位 |
 | 💿 专辑总计 | 19,958 张 |
-| 🎶 歌曲总计 | 61,086 首 |
+| 🎶 歌曲总计 | 61,088 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 璐璐姊姊的中文口腔音ASMR，帮助你摆脱失眠困扰 — 璐璐ASMR小馆
+- 🎵 姊姊的口腔音助眠：The BEST ASMR Video for Sleep! — 璐璐ASMR小馆
 - 🎵 金坷垃《三妖精SAY YA!!!》 — 邵旭东
 - 🎵 願い~あの頃のキミへ~（翻唱完整版） — 音律调控者
 - 🎵 Sunny Day(温暖阳光洒落在你的窗前) — SkeL
-- 🎵 The end of Renaissance — Void
-- 🎵 願い～あの頃のキミへ～ (祈愿～致那时候的你～) — 當山みれい
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/12 16:18:18*
+*更新时间: 2026/6/12 18:23:47*
 <!-- LASTFM_END -->
