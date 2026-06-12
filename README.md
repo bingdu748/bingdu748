@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 19,952 张 |
 | 🎶 歌曲总计 | 61,076 首 |
 
-🎧 **正在播放：** 【范式：起源】节奏大师 x Paradigm: Reboot 联动专辑《复兴乐章》(Revival Movement) Vol.1/Vol.2 曲目预览 — 范式起源Paradigm
+
 
 **🎵 最近在听**  
 - 🎵 【范式：起源】节奏大师 x Paradigm: Reboot 联动专辑《复兴乐章》(Revival Movement) Vol.1/Vol.2 曲目预览 — 范式起源Paradigm
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/12 05:14:09*
+*更新时间: 2026/6/12 09:42:15*
 <!-- LASTFM_END -->
