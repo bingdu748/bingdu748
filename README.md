@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,503 次 |
-| 🎤 歌手总计 | 19,054 位 |
-| 💿 专辑总计 | 19,952 张 |
-| 🎶 歌曲总计 | 61,076 首 |
+| 🎧 播放总次数 | 82,517 次 |
+| 🎤 歌手总计 | 19,059 位 |
+| 💿 专辑总计 | 19,958 张 |
+| 🎶 歌曲总计 | 61,086 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 【范式：起源】节奏大师 x Paradigm: Reboot 联动专辑《复兴乐章》(Revival Movement) Vol.1/Vol.2 曲目预览 — 范式起源Paradigm
-- 🎵 ⚡️⚡️如何把兄弟掰成女同，说服他和你一起打音游⚡️⚡️ — --安魂卿--
-- 🎵 Leading — Mixmaster
-- 🎵 Mirror（feat. 藤間桜） — 藤間桜（CV. 天城サリー）
-- 🎵 Dig Delight! — Happy Around!
+- 🎵 金坷垃《三妖精SAY YA!!!》 — 邵旭东
+- 🎵 願い~あの頃のキミへ~（翻唱完整版） — 音律调控者
+- 🎵 Sunny Day(温暖阳光洒落在你的窗前) — SkeL
+- 🎵 The end of Renaissance — Void
+- 🎵 願い～あの頃のキミへ～ (祈愿～致那时候的你～) — 當山みれい
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/12 09:42:15*
+*更新时间: 2026/6/12 12:53:57*
 <!-- LASTFM_END -->
