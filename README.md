@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,454 次 |
+| 🎧 播放总次数 | 82,466 次 |
 | 🎤 歌手总计 | 19,052 位 |
 | 💿 专辑总计 | 19,948 张 |
-| 🎶 歌曲总计 | 61,059 首 |
+| 🎶 歌曲总计 | 61,063 首 |
 
-
+🎧 **正在播放：** Highway — DFK
 
 **🎵 最近在听**  
-- 🎵 T氏の話を信じるな (feat. 初音ミク & 重音テト) (不要相信T氏的话) — ピノキオピー/初音ミク/重音テト
-- 🎵 你可能不认识我，但你一定听过我的歌（M2U） — M2U_Official
-- 🎵 水音世界观---6月10日--印度裔全面占领硅谷与NASA，加拿大彻底沦为“印拿大”？ — 水音世界观
-- 🎵 Sprout (雁矢よしの（CV.高橋李依）) — 高橋李依/KOTONOHOUSE
-- 🎵 Free Will (第133話〜第156話エンディングテーマ) — Ruppina
+- 🎵 Highway — DFK
+- 🎵 2Box — djack
+- 🎵 逆光のフリューゲル — Peaky P-key
+- 🎵 Bombrush — Bombhead
+- 🎵 Eternity — 根守
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **林俊傑** — 31 次播放
 - 🥈 **许嵩** — 15 次播放
 - 🥉 **Fahrenheit** — 13 次播放
-- 4️⃣ **水音世界观** — 8 次播放
-- 5️⃣ **Fahrenheit, 田馥甄** — 7 次播放
+- 4️⃣ **Fahrenheit, 田馥甄** — 7 次播放
+- 5️⃣ **VEEE_薇** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/11 22:22:07*
+*更新时间: 2026/6/12 00:01:19*
 <!-- LASTFM_END -->
