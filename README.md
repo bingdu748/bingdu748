@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,551 次 |
+| 🎧 播放总次数 | 82,553 次 |
 | 🎤 歌手总计 | 19,059 位 |
 | 💿 专辑总计 | 19,958 张 |
-| 🎶 歌曲总计 | 61,101 首 |
+| 🎶 歌曲总计 | 61,103 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--6月13日 — 水音世界观
+- 🎵 水音世界观--6月13日--美伊谈判14点谅解备忘录曝光，伊朗强硬立场引发关注 — 水音世界观
 - 🎵 Maple Syrup Honey Caramel Yum Yum Cake — a_hisa
 - 🎵 Sugarfull Horoscope — a_hisa
 - 🎵 Sherbet Lagoon — a_hisa
-- 🎵 Choc Chip Adventure — a_hisa
-- 🎵 Cream Puff's Umbrella — a_hisa
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **a_hisa** — 30 次播放
-- 🥈 **林俊傑** — 22 次播放
+- 🥈 **林俊傑** — 21 次播放
 - 🥉 **许嵩** — 15 次播放
 - 4️⃣ **Fahrenheit** — 13 次播放
-- 5️⃣ **Fahrenheit, 田馥甄** — 7 次播放
+- 5️⃣ **水音世界观** — 8 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/14 06:41:11*
+*更新时间: 2026/6/14 10:24:46*
 <!-- LASTFM_END -->
