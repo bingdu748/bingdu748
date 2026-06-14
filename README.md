@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **a_hisa** — 30 次播放
-- 🥈 **林俊傑** — 21 次播放
+- 🥈 **林俊傑** — 19 次播放
 - 🥉 **许嵩** — 15 次播放
 - 4️⃣ **Fahrenheit** — 13 次播放
 - 5️⃣ **水音世界观** — 8 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/14 10:24:46*
+*更新时间: 2026/6/14 12:22:47*
 <!-- LASTFM_END -->
