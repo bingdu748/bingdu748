@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,570 次 |
+| 🎧 播放总次数 | 82,633 次 |
 | 🎤 歌手总计 | 19,065 位 |
-| 💿 专辑总计 | 19,968 张 |
-| 🎶 歌曲总计 | 61,115 首 |
+| 💿 专辑总计 | 19,975 张 |
+| 🎶 歌曲总计 | 61,138 首 |
 
-
+🎧 **正在播放：** 昔へ送る言葉 — 楓
 
 **🎵 最近在听**  
-- 🎵 NO BATIDÃO — PROPHECY/棍圣
-- 🎵 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
-- 🎵 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
-- 🎵 Lemonade — PIKASONIC
-- 🎵 Journey To The Rainbows (Rizline Edit) (彩虹之旅) — Ardolf
+- 🎵 昔へ送る言葉 — 楓
+- 🎵 辺境国でスローライフ — Hjll
+- 🎵 Flower Rocket (花火箭) — Plum - Melodic Artist
+- 🎵 ふわふわ♪ (轻飘飘♪) — 牧野由依
+- 🎵 By the Seaside (feat. Kitsui Akira) — Kirara Magic
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,23 +45,23 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **a_hisa** — 30 次播放
-- 🥈 **林俊傑** — 19 次播放
+- 🥇 **Plum** — 47 次播放
+- 🥈 **a_hisa** — 30 次播放
 - 🥉 **许嵩** — 15 次播放
 - 4️⃣ **Fahrenheit** — 13 次播放
-- 5️⃣ **Fahrenheit, 田馥甄** — 7 次播放
+- 5️⃣ **林俊傑** — 10 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
-- 🥈 江南 — 林俊傑
-- 🥉 Only have feelings for you — Fahrenheit
-- 4️⃣ 怎么样..？希罗酱♡ — IceDream夢
-- 5️⃣ 鐵花飛 — Mili&塞壬唱片-MSR
+- 🥈 Only have feelings for you — Fahrenheit
+- 🥉 怎么样..？希罗酱♡ — IceDream夢
+- 4️⃣ 鐵花飛 — Mili&塞壬唱片-MSR
+- 5️⃣ LES PARFUMS DE CELEBREZ — naotyu-
 
 **💿 热门专辑**  
-- 🥇 **江南** — 林俊傑
-- 🥈 **许嵩精选合辑** — 许嵩
-- 🥉 **Fahrenheit** — Fahrenheit
+- 🥇 **Seasons** — Plum
+- 🥈 **Dreams Everywhere** — Plum
+- 🥉 **许嵩精选合辑** — 许嵩
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/15 05:36:48*
+*更新时间: 2026/6/15 12:13:55*
 <!-- LASTFM_END -->
