@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,633 次 |
+| 🎧 播放总次数 | 82,635 次 |
 | 🎤 歌手总计 | 19,065 位 |
 | 💿 专辑总计 | 19,975 张 |
-| 🎶 歌曲总计 | 61,138 首 |
+| 🎶 歌曲总计 | 61,139 首 |
 
-🎧 **正在播放：** 昔へ送る言葉 — 楓
+
 
 **🎵 最近在听**  
+- 🎵 Inverted World (音乐游戏《Rotaeno》独占曲) — ARForest
+- 🎵 Dance of The Violins (小提琴之舞) — F-777
 - 🎵 昔へ送る言葉 — 楓
 - 🎵 辺境国でスローライフ — Hjll
 - 🎵 Flower Rocket (花火箭) — Plum - Melodic Artist
-- 🎵 ふわふわ♪ (轻飘飘♪) — 牧野由依
-- 🎵 By the Seaside (feat. Kitsui Akira) — Kirara Magic
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 ### 📆 本月精选
 
 **🎤 本月艺术家**  
-- 🥇 **Relaxu**
-- 🥈 **Various Artists**
+- 🥇 **Various Artists**
+- 🥈 **Relaxu**
 - 🥉 **a_hisa**
 
 **🎶 本月歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/15 12:13:55*
+*更新时间: 2026/6/15 17:30:40*
 <!-- LASTFM_END -->
