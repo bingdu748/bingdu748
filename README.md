@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,553 次 |
-| 🎤 歌手总计 | 19,059 位 |
-| 💿 专辑总计 | 19,958 张 |
-| 🎶 歌曲总计 | 61,103 首 |
+| 🎧 播放总次数 | 82,563 次 |
+| 🎤 歌手总计 | 19,063 位 |
+| 💿 专辑总计 | 19,963 张 |
+| 🎶 歌曲总计 | 61,110 首 |
 
-
+🎧 **正在播放：** I Dream of Ibiza — Approaching Nirvana
 
 **🎵 最近在听**  
-- 🎵 水音世界观--6月13日 — 水音世界观
-- 🎵 水音世界观--6月13日--美伊谈判14点谅解备忘录曝光，伊朗强硬立场引发关注 — 水音世界观
-- 🎵 Maple Syrup Honey Caramel Yum Yum Cake — a_hisa
-- 🎵 Sugarfull Horoscope — a_hisa
-- 🎵 Sherbet Lagoon — a_hisa
+- 🎵 I Dream of Ibiza — Approaching Nirvana
+- 🎵 Sinos De Natal (圣诞铃音) — MGD/MXZHPHXNK
+- 🎵 Sypha — Wisp X
+- 🎵 DREAM FUNK — LUMIX/KXRSED
+- 🎵 LEVEL UP! — Marxo
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **林俊傑** — 19 次播放
 - 🥉 **许嵩** — 15 次播放
 - 4️⃣ **Fahrenheit** — 13 次播放
-- 5️⃣ **水音世界观** — 8 次播放
+- 5️⃣ **Fahrenheit, 田馥甄** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/14 22:40:41*
+*更新时间: 2026/6/15 00:09:05*
 <!-- LASTFM_END -->
