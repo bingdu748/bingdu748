@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,563 次 |
-| 🎤 歌手总计 | 19,063 位 |
-| 💿 专辑总计 | 19,963 张 |
-| 🎶 歌曲总计 | 61,110 首 |
+| 🎧 播放总次数 | 82,570 次 |
+| 🎤 歌手总计 | 19,065 位 |
+| 💿 专辑总计 | 19,968 张 |
+| 🎶 歌曲总计 | 61,115 首 |
 
-🎧 **正在播放：** I Dream of Ibiza — Approaching Nirvana
+
 
 **🎵 最近在听**  
-- 🎵 I Dream of Ibiza — Approaching Nirvana
-- 🎵 Sinos De Natal (圣诞铃音) — MGD/MXZHPHXNK
-- 🎵 Sypha — Wisp X
-- 🎵 DREAM FUNK — LUMIX/KXRSED
-- 🎵 LEVEL UP! — Marxo
+- 🎵 NO BATIDÃO — PROPHECY/棍圣
+- 🎵 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
+- 🎵 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
+- 🎵 Lemonade — PIKASONIC
+- 🎵 Journey To The Rainbows (Rizline Edit) (彩虹之旅) — Ardolf
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/15 00:09:05*
+*更新时间: 2026/6/15 05:36:48*
 <!-- LASTFM_END -->
