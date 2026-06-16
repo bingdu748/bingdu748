@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **Plum** — 47 次播放
 - 🥈 **a_hisa** — 30 次播放
 - 🥉 **许嵩** — 15 次播放
-- 4️⃣ **林俊傑** — 10 次播放
-- 5️⃣ **水音世界观** — 7 次播放
+- 4️⃣ **水音世界观** — 7 次播放
+- 5️⃣ **璐璐ASMR小馆** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 怎么样..？希罗酱♡ — IceDream夢
@@ -68,13 +68,13 @@ Here are some ideas to get you started:
 ### 📆 本月精选
 
 **🎤 本月艺术家**  
-- 🥇 **Various Artists**
-- 🥈 **Relaxu**
+- 🥇 **Relaxu**
+- 🥈 **Various Artists**
 - 🥉 **a_hisa**
 
 **🎶 本月歌曲**  
-- 🥇 Echoes of the Past — Jason Hayes
-- 🥈 Satie - 3 Gymnopedies No.1 Lent et douloureux — V.A.
+- 🥇 Satie - 3 Gymnopedies No.1 Lent et douloureux — V.A.
+- 🥈 Echoes of the Past — Jason Hayes
 - 🥉 Feelings for you — Fahrenheit, 田馥甄
 
 ---
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/16 02:07:10*
+*更新时间: 2026/6/16 08:27:01*
 <!-- LASTFM_END -->
