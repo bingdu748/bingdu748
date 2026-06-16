@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 - 🥇 **Plum** — 47 次播放
 - 🥈 **a_hisa** — 30 次播放
 - 🥉 **许嵩** — 15 次播放
-- 4️⃣ **Fahrenheit** — 13 次播放
-- 5️⃣ **林俊傑** — 10 次播放
+- 4️⃣ **林俊傑** — 10 次播放
+- 5️⃣ **水音世界观** — 7 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Feelings for you — Fahrenheit, 田馥甄
-- 🥈 Only have feelings for you — Fahrenheit
-- 🥉 怎么样..？希罗酱♡ — IceDream夢
-- 4️⃣ 鐵花飛 — Mili&塞壬唱片-MSR
-- 5️⃣ LES PARFUMS DE CELEBREZ — naotyu-
+- 🥇 怎么样..？希罗酱♡ — IceDream夢
+- 🥈 LES PARFUMS DE CELEBREZ — naotyu-
+- 🥉 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
+- 4️⃣ Shelter of Wind — Plum
+- 5️⃣ SPÏKA — Rigël Theatre
 
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/15 23:02:59*
+*更新时间: 2026/6/16 02:07:10*
 <!-- LASTFM_END -->
