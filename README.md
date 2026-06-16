@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,635 次 |
-| 🎤 歌手总计 | 19,065 位 |
-| 💿 专辑总计 | 19,975 张 |
-| 🎶 歌曲总计 | 61,139 首 |
+| 🎧 播放总次数 | 82,656 次 |
+| 🎤 歌手总计 | 19,066 位 |
+| 💿 专辑总计 | 19,976 张 |
+| 🎶 歌曲总计 | 61,154 首 |
 
-
+🎧 **正在播放：** 水音世界观---6月15日--中东停火协议下的战略错位与霸权困境 — 水音世界观
 
 **🎵 最近在听**  
-- 🎵 Inverted World (音乐游戏《Rotaeno》独占曲) — ARForest
-- 🎵 Dance of The Violins (小提琴之舞) — F-777
-- 🎵 昔へ送る言葉 — 楓
-- 🎵 辺境国でスローライフ — Hjll
-- 🎵 Flower Rocket (花火箭) — Plum - Melodic Artist
+- 🎵 水音世界观---6月15日--中东停火协议下的战略错位与霸权困境 — 水音世界观
+- 🎵 水音世界观--6月15日--美伊谅解备忘录草案内容曝光，14条协议要点解析 — 水音世界观
+- 🎵 I/O Torrent (天河激流) — DashSound (HJLL × UraniumW)
+- 🎵 Bloodstream — Plum
+- 🎵 Stellar Parade — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 47 次播放
+- 🥇 **Plum** — 65 次播放
 - 🥈 **a_hisa** — 30 次播放
-- 🥉 **许嵩** — 15 次播放
-- 4️⃣ **水音世界观** — 7 次播放
-- 5️⃣ **璐璐ASMR小馆** — 7 次播放
+- 🥉 **水音世界观** — 9 次播放
+- 4️⃣ **璐璐ASMR小馆** — 7 次播放
+- 5️⃣ **Plum - Melodic Artist** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 怎么样..？希罗酱♡ — IceDream夢
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
 - 🥈 **Dreams Everywhere** — Plum
-- 🥉 **许嵩精选合辑** — 许嵩
+- 🥉 **Stream of Life** — Plum
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/16 08:27:01*
+*更新时间: 2026/6/16 13:13:17*
 <!-- LASTFM_END -->
