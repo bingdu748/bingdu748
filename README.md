@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,656 次 |
+| 🎧 播放总次数 | 82,683 次 |
 | 🎤 歌手总计 | 19,066 位 |
-| 💿 专辑总计 | 19,976 张 |
-| 🎶 歌曲总计 | 61,154 首 |
+| 💿 专辑总计 | 19,977 张 |
+| 🎶 歌曲总计 | 61,162 首 |
 
-🎧 **正在播放：** 水音世界观---6月15日--中东停火协议下的战略错位与霸权困境 — 水音世界观
+
 
 **🎵 最近在听**  
-- 🎵 水音世界观---6月15日--中东停火协议下的战略错位与霸权困境 — 水音世界观
-- 🎵 水音世界观--6月15日--美伊谅解备忘录草案内容曝光，14条协议要点解析 — 水音世界观
-- 🎵 I/O Torrent (天河激流) — DashSound (HJLL × UraniumW)
-- 🎵 Bloodstream — Plum
-- 🎵 Stellar Parade — Plum
+- 🎵 Sushi Tornado — Halv
+- 🎵 봄에 가두다 — Plum, 유니
+- 🎵 비밀 인형극 II — Plum, 유니
+- 🎵 성지연 — Plum, 유니
+- 🎵 종말론 — Plum, 유니
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,23 +45,23 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 65 次播放
+- 🥇 **Plum** — 84 次播放
 - 🥈 **a_hisa** — 30 次播放
 - 🥉 **水音世界观** — 9 次播放
-- 4️⃣ **璐璐ASMR小馆** — 7 次播放
-- 5️⃣ **Plum - Melodic Artist** — 4 次播放
+- 4️⃣ **Plum, 유니** — 7 次播放
+- 5️⃣ **璐璐ASMR小馆** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 怎么样..？希罗酱♡ — IceDream夢
 - 🥈 LES PARFUMS DE CELEBREZ — naotyu-
 - 🥉 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
-- 4️⃣ Shelter of Wind — Plum
-- 5️⃣ SPÏKA — Rigël Theatre
+- 4️⃣ Bloodstream — Plum
+- 5️⃣ Shelter of Wind — Plum
 
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
-- 🥈 **Dreams Everywhere** — Plum
-- 🥉 **Stream of Life** — Plum
+- 🥈 **Stream of Life** — Plum
+- 🥉 **Dreams Everywhere** — Plum
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/16 13:13:17*
+*更新时间: 2026/6/16 18:15:59*
 <!-- LASTFM_END -->
