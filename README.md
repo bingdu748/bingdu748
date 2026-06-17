@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,702 次 |
+| 🎧 播放总次数 | 82,704 次 |
 | 🎤 歌手总计 | 19,066 位 |
 | 💿 专辑总计 | 19,980 张 |
-| 🎶 歌曲总计 | 61,174 首 |
+| 🎶 歌曲总计 | 61,175 首 |
 
-🎧 **正在播放：** Rain Dance — Plum, 유니
+
 
 **🎵 最近在听**  
+- 🎵 Skyward — SLT
+- 🎵 水音世界观--6月16日--美伊达成协议要求结束黎巴嫩战事，以色列总理内塔尼亚胡表示将继续驻军 — 水音世界观
 - 🎵 Rain Dance — Plum, 유니
 - 🎵 우주의 아이 — Plum, 유니
 - 🎵 밤하늘을 달리는 소녀 — Plum, 유니
-- 🎵 생존신고 — Plum, 유니
-- 🎵 맑은하늘로봇 — Plum, 유니
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🥇 **Plum** — 95 次播放
 - 🥈 **a_hisa** — 30 次播放
 - 🥉 **Plum, 유니** — 15 次播放
-- 4️⃣ **水音世界观** — 8 次播放
+- 4️⃣ **水音世界观** — 7 次播放
 - 5️⃣ **璐璐ASMR小馆** — 7 次播放
 
 **🎶 热门歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/17 07:33:21*
+*更新时间: 2026/6/17 12:16:34*
 <!-- LASTFM_END -->
