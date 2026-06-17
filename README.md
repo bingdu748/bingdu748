@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,683 次 |
+| 🎧 播放总次数 | 82,694 次 |
 | 🎤 歌手总计 | 19,066 位 |
-| 💿 专辑总计 | 19,977 张 |
-| 🎶 歌曲总计 | 61,162 首 |
+| 💿 专辑总计 | 19,980 张 |
+| 🎶 歌曲总计 | 61,166 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Sushi Tornado — Halv
-- 🎵 봄에 가두다 — Plum, 유니
-- 🎵 비밀 인형극 II — Plum, 유니
-- 🎵 성지연 — Plum, 유니
-- 🎵 종말론 — Plum, 유니
+- 🎵 Rainbow Chaser — Plum
+- 🎵 성지연 (星之緣) — Plum
+- 🎵 별이 보이지 않는 밤 (看不见星星的夜晚)(2021 Remake) — Plum
+- 🎵 The Lost Aria — Plum
+- 🎵 Halloween Candystore — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 84 次播放
+- 🥇 **Plum** — 95 次播放
 - 🥈 **a_hisa** — 30 次播放
-- 🥉 **水音世界观** — 9 次播放
+- 🥉 **水音世界观** — 8 次播放
 - 4️⃣ **Plum, 유니** — 7 次播放
 - 5️⃣ **璐璐ASMR小馆** — 7 次播放
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 🥈 LES PARFUMS DE CELEBREZ — naotyu-
 - 🥉 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
 - 4️⃣ Bloodstream — Plum
-- 5️⃣ Shelter of Wind — Plum
+- 5️⃣ Megamix — Plum
 
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/16 23:05:12*
+*更新时间: 2026/6/17 02:01:39*
 <!-- LASTFM_END -->
