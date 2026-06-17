@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,704 次 |
-| 🎤 歌手总计 | 19,066 位 |
-| 💿 专辑总计 | 19,980 张 |
-| 🎶 歌曲总计 | 61,175 首 |
+| 🎧 播放总次数 | 82,728 次 |
+| 🎤 歌手总计 | 19,067 位 |
+| 💿 专辑总计 | 19,983 张 |
+| 🎶 歌曲总计 | 61,196 首 |
 
-
+🎧 **正在播放：** Variations On The Canon By Pachelbel (卡农) — George Winston
 
 **🎵 最近在听**  
-- 🎵 Skyward — SLT
-- 🎵 水音世界观--6月16日--美伊达成协议要求结束黎巴嫩战事，以色列总理内塔尼亚胡表示将继续驻军 — 水音世界观
-- 🎵 Rain Dance — Plum, 유니
-- 🎵 우주의 아이 — Plum, 유니
-- 🎵 밤하늘을 달리는 소녀 — Plum, 유니
+- 🎵 Canon in D (D大调卡农，作品 37) — Johann Pachelbel/Chris Snelling
+- 🎵 卡农-帕海贝尔 Canon / Pachelbel — Craig Owen and Greg Scot
+- 🎵 你要的不是我 — 林俊傑
+- 🎵 Now That She's Gone — 林俊傑
+- 🎵 進化論 — 林俊傑
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum** — 95 次播放
 - 🥈 **a_hisa** — 30 次播放
-- 🥉 **Plum, 유니** — 15 次播放
-- 4️⃣ **水音世界观** — 7 次播放
-- 5️⃣ **璐璐ASMR小馆** — 7 次播放
+- 🥉 **林俊傑** — 22 次播放
+- 4️⃣ **Plum, 유니** — 15 次播放
+- 5️⃣ **水音世界观** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 怎么样..？希罗酱♡ — IceDream夢
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/17 12:16:34*
+*更新时间: 2026/6/17 16:12:13*
 <!-- LASTFM_END -->
