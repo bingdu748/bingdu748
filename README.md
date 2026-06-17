@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 19,983 张 |
 | 🎶 歌曲总计 | 61,196 首 |
 
-🎧 **正在播放：** Variations On The Canon By Pachelbel (卡农) — George Winston
+
 
 **🎵 最近在听**  
 - 🎵 Canon in D (D大调卡农，作品 37) — Johann Pachelbel/Chris Snelling
@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 - 5️⃣ **水音世界观** — 7 次播放
 
 **🎶 热门歌曲**  
-- 🥇 怎么样..？希罗酱♡ — IceDream夢
-- 🥈 LES PARFUMS DE CELEBREZ — naotyu-
-- 🥉 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
-- 4️⃣ Bloodstream — Plum
-- 5️⃣ Megamix — Plum
+- 🥇 LES PARFUMS DE CELEBREZ — naotyu-
+- 🥈 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
+- 🥉 Bloodstream — Plum
+- 4️⃣ Megamix — Plum
+- 5️⃣ Shelter of Wind — Plum
 
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/17 16:12:13*
+*更新时间: 2026/6/17 18:41:33*
 <!-- LASTFM_END -->
