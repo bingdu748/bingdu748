@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,694 次 |
+| 🎧 播放总次数 | 82,702 次 |
 | 🎤 歌手总计 | 19,066 位 |
 | 💿 专辑总计 | 19,980 张 |
-| 🎶 歌曲总计 | 61,166 首 |
+| 🎶 歌曲总计 | 61,174 首 |
 
-
+🎧 **正在播放：** Rain Dance — Plum, 유니
 
 **🎵 最近在听**  
-- 🎵 Rainbow Chaser — Plum
-- 🎵 성지연 (星之緣) — Plum
-- 🎵 별이 보이지 않는 밤 (看不见星星的夜晚)(2021 Remake) — Plum
-- 🎵 The Lost Aria — Plum
-- 🎵 Halloween Candystore — Plum
+- 🎵 Rain Dance — Plum, 유니
+- 🎵 우주의 아이 — Plum, 유니
+- 🎵 밤하늘을 달리는 소녀 — Plum, 유니
+- 🎵 생존신고 — Plum, 유니
+- 🎵 맑은하늘로봇 — Plum, 유니
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum** — 95 次播放
 - 🥈 **a_hisa** — 30 次播放
-- 🥉 **水音世界观** — 8 次播放
-- 4️⃣ **Plum, 유니** — 7 次播放
+- 🥉 **Plum, 유니** — 15 次播放
+- 4️⃣ **水音世界观** — 8 次播放
 - 5️⃣ **璐璐ASMR小馆** — 7 次播放
 
 **🎶 热门歌曲**  
@@ -68,14 +68,14 @@ Here are some ideas to get you started:
 ### 📆 本月精选
 
 **🎤 本月艺术家**  
-- 🥇 **Relaxu**
-- 🥈 **Various Artists**
+- 🥇 **Various Artists**
+- 🥈 **Relaxu**
 - 🥉 **a_hisa**
 
 **🎶 本月歌曲**  
 - 🥇 Satie - 3 Gymnopedies No.1 Lent et douloureux — V.A.
-- 🥈 Echoes of the Past — Jason Hayes
-- 🥉 Feelings for you — Fahrenheit, 田馥甄
+- 🥈 Feelings for you — Fahrenheit, 田馥甄
+- 🥉 Echoes of the Past — Jason Hayes
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/17 02:01:39*
+*更新时间: 2026/6/17 07:33:21*
 <!-- LASTFM_END -->
