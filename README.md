@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,786 次 |
-| 🎤 歌手总计 | 19,071 位 |
-| 💿 专辑总计 | 19,995 张 |
-| 🎶 歌曲总计 | 61,232 首 |
+| 🎧 播放总次数 | 82,814 次 |
+| 🎤 歌手总计 | 19,074 位 |
+| 💿 专辑总计 | 20,007 张 |
+| 🎶 歌曲总计 | 61,251 首 |
 
-🎧 **正在播放：** Early summer — USAO
+
 
 **🎵 最近在听**  
-- 🎵 Early summer — USAO
-- 🎵 Intro — USAO
-- 🎵 you are my curse — ヰ世界情緒
-- 🎵 you are my curse (你是我的诅咒) — nyamura
-- 🎵 キセキ (奇迹) — ケラケラ
+- 🎵 Clock Paradox — WyvernP
+- 🎵 Stardust Sphere — Tsukasa
+- 🎵 Maelstrom — Plum
+- 🎵 Kenbusoran — EigHt, nanashinogothic!
+- 🎵 Wish — Hyun
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 128 次播放
+- 🥇 **Plum** — 135 次播放
 - 🥈 **a_hisa** — 30 次播放
 - 🥉 **林俊傑** — 22 次播放
 - 4️⃣ **Plum, 유니** — 15 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/18 12:52:30*
+*更新时间: 2026/6/18 16:31:53*
 <!-- LASTFM_END -->
