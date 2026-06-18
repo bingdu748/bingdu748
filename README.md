@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,773 次 |
-| 🎤 歌手总计 | 19,070 位 |
-| 💿 专辑总计 | 19,992 张 |
-| 🎶 歌曲总计 | 61,229 首 |
+| 🎧 播放总次数 | 82,786 次 |
+| 🎤 歌手总计 | 19,071 位 |
+| 💿 专辑总计 | 19,995 张 |
+| 🎶 歌曲总计 | 61,232 首 |
 
-
+🎧 **正在播放：** Early summer — USAO
 
 **🎵 最近在听**  
-- 🎵 Middletown — Plum
-- 🎵 Graveborn — Plum
-- 🎵 무채화 — Plum
-- 🎵 Life Archive — Plum
-- 🎵 Arrival — Plum
+- 🎵 Early summer — USAO
+- 🎵 Intro — USAO
+- 🎵 you are my curse — ヰ世界情緒
+- 🎵 you are my curse (你是我的诅咒) — nyamura
+- 🎵 キセキ (奇迹) — ケラケラ
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/18 09:53:55*
+*更新时间: 2026/6/18 12:52:30*
 <!-- LASTFM_END -->
