@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,734 次 |
-| 🎤 歌手总计 | 19,069 位 |
-| 💿 专辑总计 | 19,987 张 |
-| 🎶 歌曲总计 | 61,201 首 |
+| 🎧 播放总次数 | 82,758 次 |
+| 🎤 歌手总计 | 19,070 位 |
+| 💿 专辑总计 | 19,992 张 |
+| 🎶 歌曲总计 | 61,217 首 |
 
-🎧 **正在播放：** 願い~あの頃のキミへ~ (祈愿～致那时候的你～) — 云鸢浅浅
+
 
 **🎵 最近在听**  
-- 🎵 願い~あの頃のキミへ~ (祈愿～致那时候的你～) — 云鸢浅浅
-- 🎵 願い～あの頃のキミへ～ (祈愿~致那时的你~) — 當山みれい/RINZO
-- 🎵 願い～あの頃のキミへ～ (祈愿～致那个时候的你～) — 當山みれい/太一
-- 🎵 願い〜あの頃のキミへ〜 — 缪巧
-- 🎵 願い～あの頃のキミへ～ (祈愿～致那时候的你～) — 當山みれい
+- 🎵 Alive — Plum
+- 🎵 Chamagne Pop — Plum
+- 🎵 Evening Wave's Aria — Plum
+- 🎵 Old Mad Marionette — Plum
+- 🎵 Jump To The Future — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 95 次播放
+- 🥇 **Plum** — 114 次播放
 - 🥈 **a_hisa** — 30 次播放
 - 🥉 **林俊傑** — 22 次播放
 - 4️⃣ **Plum, 유니** — 15 次播放
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
 - 🥈 **Stream of Life** — Plum
-- 🥉 **Dreams Everywhere** — Plum
+- 🥉 **undefined** — Plum
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/18 00:21:08*
+*更新时间: 2026/6/18 05:17:00*
 <!-- LASTFM_END -->
