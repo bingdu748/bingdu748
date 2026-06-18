@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,758 次 |
+| 🎧 播放总次数 | 82,773 次 |
 | 🎤 歌手总计 | 19,070 位 |
 | 💿 专辑总计 | 19,992 张 |
-| 🎶 歌曲总计 | 61,217 首 |
+| 🎶 歌曲总计 | 61,229 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Alive — Plum
-- 🎵 Chamagne Pop — Plum
-- 🎵 Evening Wave's Aria — Plum
-- 🎵 Old Mad Marionette — Plum
-- 🎵 Jump To The Future — Plum
+- 🎵 Middletown — Plum
+- 🎵 Graveborn — Plum
+- 🎵 무채화 — Plum
+- 🎵 Life Archive — Plum
+- 🎵 Arrival — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 114 次播放
+- 🥇 **Plum** — 128 次播放
 - 🥈 **a_hisa** — 30 次播放
 - 🥉 **林俊傑** — 22 次播放
 - 4️⃣ **Plum, 유니** — 15 次播放
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 **🎶 热门歌曲**  
 - 🥇 LES PARFUMS DE CELEBREZ — naotyu-
 - 🥈 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
-- 🥉 Bloodstream — Plum
-- 4️⃣ Megamix — Plum
-- 5️⃣ Shelter of Wind — Plum
+- 🥉 A New Rising — Plum
+- 4️⃣ Alive — Plum
+- 5️⃣ Bloodstream — Plum
 
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **Various Artists**
-- 🥈 **Relaxu**
+- 🥈 **Plum**
 - 🥉 **a_hisa**
 
 **🎶 本月歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/18 05:17:00*
+*更新时间: 2026/6/18 09:53:55*
 <!-- LASTFM_END -->
