@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 - 5️⃣ **水音世界观** — 7 次播放
 
 **🎶 热门歌曲**  
-- 🥇 LES PARFUMS DE CELEBREZ — naotyu-
-- 🥈 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
-- 🥉 A New Rising — Plum
-- 4️⃣ Alive — Plum
-- 5️⃣ Bloodstream — Plum
+- 🥇 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
+- 🥈 A New Rising — Plum
+- 🥉 Alive — Plum
+- 4️⃣ Bloodstream — Plum
+- 5️⃣ Megamix — Plum
 
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/18 21:34:54*
+*更新时间: 2026/6/18 23:45:54*
 <!-- LASTFM_END -->
