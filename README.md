@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,814 次 |
-| 🎤 歌手总计 | 19,074 位 |
-| 💿 专辑总计 | 20,007 张 |
-| 🎶 歌曲总计 | 61,251 首 |
+| 🎧 播放总次数 | 82,862 次 |
+| 🎤 歌手总计 | 19,087 位 |
+| 💿 专辑总计 | 20,030 张 |
+| 🎶 歌曲总计 | 61,274 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Clock Paradox — WyvernP
-- 🎵 Stardust Sphere — Tsukasa
-- 🎵 Maelstrom — Plum
-- 🎵 Kenbusoran — EigHt, nanashinogothic!
-- 🎵 Wish — Hyun
+- 🎵 Golden Globe Theme — YOSHIKI
+- 🎵 Asekia — IELY、FallenDonjon
+- 🎵 Summer Boss (夏日主角) — 努那（NUNA）
+- 🎵 开心病 — 闫东炜
+- 🎵 Automaton Waltz (AhiruMochi remix) — AhiruMochi
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,18 +45,18 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 135 次播放
-- 🥈 **a_hisa** — 30 次播放
+- 🥇 **Plum** — 137 次播放
+- 🥈 **a_hisa** — 31 次播放
 - 🥉 **林俊傑** — 22 次播放
 - 4️⃣ **Plum, 유니** — 15 次播放
 - 5️⃣ **水音世界观** — 7 次播放
 
 **🎶 热门歌曲**  
-- 🥇 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
-- 🥈 A New Rising — Plum
-- 🥉 Alive — Plum
-- 4️⃣ Bloodstream — Plum
-- 5️⃣ Megamix — Plum
+- 🥇 あのね (Connect the World) — ナナツカゼ
+- 🥈 辺境国でスローライフ — Hjll
+- 🥉 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
+- 4️⃣ A New Rising — Plum
+- 5️⃣ Alive — Plum
 
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
@@ -82,8 +82,8 @@ Here are some ideas to get you started:
 ### 🏆 历史最佳
 
 **🎤 最爱的艺术家**  
-- 🥇 **上海アリス幻樂団** — 2,461 次播放
-- 🥈 **a_hisa** — 1,166 次播放
+- 🥇 **上海アリス幻樂団** — 2,462 次播放
+- 🥈 **a_hisa** — 1,167 次播放
 - 🥉 **Relaxu** — 963 次播放
 - 4️⃣ **Various Artists** — 782 次播放
 - 5️⃣ **周杰倫** — 742 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/18 23:45:54*
+*更新时间: 2026/6/19 04:17:56*
 <!-- LASTFM_END -->
