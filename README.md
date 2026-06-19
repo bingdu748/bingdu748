@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,881 次 |
+| 🎧 播放总次数 | 82,883 次 |
 | 🎤 歌手总计 | 19,094 位 |
 | 💿 专辑总计 | 20,037 张 |
-| 🎶 歌曲总计 | 61,285 首 |
+| 🎶 歌曲总计 | 61,287 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 ASMR中文 Question Book | How Do You Want to Spend Your Life? — Kaiswell ASMR
+- 🎵 ASMR Sauna Roleplay ♨️ Relaxing Steam & Heat Waves 🔥 — benio店長 / ASMR屋さん
 - 🎵 MEGAMIX 2 — Plum
 - 🎵 Terrasphere — Plum
 - 🎵 sand dream — Revo、梶浦由記
-- 🎵 時計の部屋と精神世界 — a_hisa
-- 🎵 I say yeah (纯音乐治愈版) — Brilliant Planet
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **Plum**
-- 🥈 **Various Artists**
-- 🥉 **a_hisa**
+- 🥈 **a_hisa**
+- 🥉 **Various Artists**
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/19 12:59:07*
+*更新时间: 2026/6/19 18:16:03*
 <!-- LASTFM_END -->
