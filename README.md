@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 **🎤 本月艺术家**  
 - 🥇 **Plum**
 - 🥈 **a_hisa**
-- 🥉 **Various Artists**
+- 🥉 **HimeHina**
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/20 04:51:22*
+*更新时间: 2026/6/20 08:21:38*
 <!-- LASTFM_END -->
