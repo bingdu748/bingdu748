@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,883 次 |
-| 🎤 歌手总计 | 19,094 位 |
-| 💿 专辑总计 | 20,037 张 |
-| 🎶 歌曲总计 | 61,287 首 |
+| 🎧 播放总次数 | 82,892 次 |
+| 🎤 歌手总计 | 19,099 位 |
+| 💿 专辑总计 | 20,042 张 |
+| 🎶 歌曲总计 | 61,292 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 ASMR中文 Question Book | How Do You Want to Spend Your Life? — Kaiswell ASMR
-- 🎵 ASMR Sauna Roleplay ♨️ Relaxing Steam & Heat Waves 🔥 — benio店長 / ASMR屋さん
-- 🎵 MEGAMIX 2 — Plum
-- 🎵 Terrasphere — Plum
-- 🎵 sand dream — Revo、梶浦由記
+- 🎵 Star Stealer (偷星星的月亮英文版) — 不蓝
+- 🎵 Find_Me — K-forest、Seiya komori
+- 🎵 風車の丘で — 忍
+- 🎵 通往夏天的隧道 — 鹭起Herons
+- 🎵 Beautiful in White (Instrumental) — Neena Goh
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 139 次播放
+- 🥇 **Plum** — 141 次播放
 - 🥈 **a_hisa** — 32 次播放
 - 🥉 **林俊傑** — 22 次播放
 - 4️⃣ **Plum, 유니** — 15 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/20 00:16:19*
+*更新时间: 2026/6/20 04:51:22*
 <!-- LASTFM_END -->
