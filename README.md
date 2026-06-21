@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,901 次 |
-| 🎤 歌手总计 | 19,102 位 |
-| 💿 专辑总计 | 20,045 张 |
-| 🎶 歌曲总计 | 61,295 首 |
+| 🎧 播放总次数 | 82,907 次 |
+| 🎤 歌手总计 | 19,103 位 |
+| 💿 专辑总计 | 20,046 张 |
+| 🎶 歌曲总计 | 61,297 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Give a reason (Cover) — Peaky P-key
-- 🎵 Give a reason (Cover) — Peaky P-key
-- 🎵 Give a reason (Cover) — Peaky P-key
-- 🎵 Give a reason — m.o.v.e
-- 🎵 如果的事 — 范玮琪&张韶涵
+- 🎵 Recalling the sunny world of the past — EILU Lobai
+- 🎵 虚 — Halv
+- 🎵 Storm Chaser — Tipsy Alley
+- 🎵 Over The Galaxy — Plum
+- 🎵 Blurry Memories — 鹭起Herons
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 141 次播放
-- 🥈 **a_hisa** — 32 次播放
-- 🥉 **林俊傑** — 22 次播放
-- 4️⃣ **Plum, 유니** — 15 次播放
-- 5️⃣ **水音世界观** — 7 次播放
+- 🥇 **Plum** — 142 次播放
+- 🥈 **林俊傑** — 22 次播放
+- 🥉 **Plum, 유니** — 15 次播放
+- 4️⃣ **水音世界观** — 7 次播放
+- 5️⃣ **USAO** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Give a reason (Cover) — Peaky P-key
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/21 01:58:18*
+*更新时间: 2026/6/21 06:59:01*
 <!-- LASTFM_END -->
