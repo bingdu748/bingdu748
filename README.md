@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,892 次 |
-| 🎤 歌手总计 | 19,099 位 |
-| 💿 专辑总计 | 20,042 张 |
-| 🎶 歌曲总计 | 61,292 首 |
+| 🎧 播放总次数 | 82,901 次 |
+| 🎤 歌手总计 | 19,102 位 |
+| 💿 专辑总计 | 20,045 张 |
+| 🎶 歌曲总计 | 61,295 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Star Stealer (偷星星的月亮英文版) — 不蓝
-- 🎵 Find_Me — K-forest、Seiya komori
-- 🎵 風車の丘で — 忍
-- 🎵 通往夏天的隧道 — 鹭起Herons
-- 🎵 Beautiful in White (Instrumental) — Neena Goh
+- 🎵 Give a reason (Cover) — Peaky P-key
+- 🎵 Give a reason (Cover) — Peaky P-key
+- 🎵 Give a reason (Cover) — Peaky P-key
+- 🎵 Give a reason — m.o.v.e
+- 🎵 如果的事 — 范玮琪&张韶涵
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 - 5️⃣ **水音世界观** — 7 次播放
 
 **🎶 热门歌曲**  
-- 🥇 あのね (Connect the World) — ナナツカゼ
-- 🥈 辺境国でスローライフ — Hjll
-- 🥉 オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
-- 4️⃣ A New Rising — Plum
-- 5️⃣ Alive — Plum
+- 🥇 Give a reason (Cover) — Peaky P-key
+- 🥈 あのね (Connect the World) — ナナツカゼ
+- 🥉 如果的事 — 范玮琪&张韶涵
+- 4️⃣ 辺境国でスローライフ — Hjll
+- 5️⃣ オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
 
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/20 23:08:51*
+*更新时间: 2026/6/21 01:58:18*
 <!-- LASTFM_END -->
