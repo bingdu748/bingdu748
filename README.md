@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,944 次 |
-| 🎤 歌手总计 | 19,103 位 |
+| 🎧 播放总次数 | 82,947 次 |
+| 🎤 歌手总计 | 19,104 位 |
 | 💿 专辑总计 | 20,049 张 |
-| 🎶 歌曲总计 | 61,331 首 |
+| 🎶 歌曲总计 | 61,333 首 |
 
-🎧 **正在播放：** 水音世界观--6月18日---美国首次非本土战败后向伊朗提供巨额补偿 — 水音世界观
+
 
 **🎵 最近在听**  
+- 🎵 [ASMR] “Gift” in 35 Languages | Cozy Gift Unboxing 🎁 Whispering Wrapping, Tapping & Music Box Sounds — TingleBunny ASMR
+- 🎵 ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
+- 🎵 ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
 - 🎵 水音世界观--6月18日---美国首次非本土战败后向伊朗提供巨额补偿 — 水音世界观
 - 🎵 水音世界观--6月19日--伊朗暂停与美国的谈判行程，伊朗声明60天内免除霍尔木兹海峡通行费 — 水音世界观
-- 🎵 健康歌 — 范曉萱
-- 🎵 只喝可樂的貓 — 范曉萱
-- 🎵 就是這樣的喜歡你 — 范曉萱
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - 🥇 Give a reason (Cover) — Peaky P-key
 - 🥈 あのね (Connect the World) — ナナツカゼ
 - 🥉 如果的事 — 范玮琪&张韶涵
-- 4️⃣ 辺境国でスローライフ — Hjll
+- 4️⃣ ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
 - 5️⃣ A New Rising — Plum
 
 **💿 热门专辑**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/22 10:21:32*
+*更新时间: 2026/6/22 15:35:46*
 <!-- LASTFM_END -->
