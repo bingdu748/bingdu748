@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,909 次 |
+| 🎧 播放总次数 | 82,921 次 |
 | 🎤 歌手总计 | 19,103 位 |
-| 💿 专辑总计 | 20,046 张 |
-| 🎶 歌曲总计 | 61,299 首 |
+| 💿 专辑总计 | 20,047 张 |
+| 🎶 歌曲总计 | 61,311 首 |
 
-🎧 **正在播放：** 水音世界观--6月19日--伊朗暂停与美国的谈判行程，伊朗声明60天内免除霍尔木兹海峡通行费 — 水音世界观
+
 
 **🎵 最近在听**  
-- 🎵 水音世界观--6月19日--伊朗暂停与美国的谈判行程，伊朗声明60天内免除霍尔木兹海峡通行费 — 水音世界观
-- 🎵 【00猪 ASMR】轻语助眠 | 年末Q&A合集 | 大家新年快乐呀~ |  Q&A Whispering to help you sleep — 小0觉觉猪
-- 🎵 Recalling the sunny world of the past — EILU Lobai
-- 🎵 虚 — Halv
-- 🎵 Storm Chaser — Tipsy Alley
+- 🎵 Zircon — WyvernP
+- 🎵 Topaz — WyvernP
+- 🎵 Tourmaline — WyvernP
+- 🎵 Iolite — WyvernP
+- 🎵 Peridot — WyvernP
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 - 🥇 **Plum** — 142 次播放
 - 🥈 **林俊傑** — 22 次播放
 - 🥉 **Plum, 유니** — 15 次播放
-- 4️⃣ **水音世界观** — 6 次播放
-- 5️⃣ **USAO** — 5 次播放
+- 4️⃣ **WyvernP** — 13 次播放
+- 5️⃣ **水音世界观** — 6 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Give a reason (Cover) — Peaky P-key
 - 🥈 あのね (Connect the World) — ナナツカゼ
 - 🥉 如果的事 — 范玮琪&张韶涵
 - 4️⃣ 辺境国でスローライフ — Hjll
-- 5️⃣ オモイは夜に溶けて (feat. Nqsi) (思绪在夜晚融化) — Neo/Nqsi
+- 5️⃣ A New Rising — Plum
 
 **💿 热门专辑**  
 - 🥇 **Seasons** — Plum
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/21 23:50:57*
+*更新时间: 2026/6/22 04:13:52*
 <!-- LASTFM_END -->
