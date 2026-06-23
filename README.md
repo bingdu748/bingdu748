@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,972 次 |
-| 🎤 歌手总计 | 19,105 位 |
-| 💿 专辑总计 | 20,051 张 |
-| 🎶 歌曲总计 | 61,347 首 |
+| 🎧 播放总次数 | 82,980 次 |
+| 🎤 歌手总计 | 19,109 位 |
+| 💿 专辑总计 | 20,054 张 |
+| 🎶 歌曲总计 | 61,351 首 |
 
-
+🎧 **正在播放：** 夏至 — (x²+y²-a²)³=x²y³
 
 **🎵 最近在听**  
-- 🎵 四個願望 — 尤雅
-- 🎵 潛意識 — 范曉萱
-- 🎵 暈了 — 范曉萱
-- 🎵 6月22日直播1。华尔街疯狂了。世界局势今日热点。 — 全球动态局势
-- 🎵 暈了 — 范曉萱
+- 🎵 夏至 — (x²+y²-a²)³=x²y³
+- 🎵 Won(*3*)Chu KissMe! — 長谷川育美
+- 🎵 雨の思い出 — K-Rogey
+- 🎵 雨の思い出 (雨的回忆) — K-Rogey
+- 🎵 r e f l e c t i o n s — alyzea
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 76 次播放
+- 🥇 **Plum** — 59 次播放
 - 🥈 **范曉萱** — 42 次播放
 - 🥉 **林俊傑** — 22 次播放
-- 4️⃣ **Plum, 유니** — 15 次播放
-- 5️⃣ **WyvernP** — 13 次播放
+- 4️⃣ **WyvernP** — 13 次播放
+- 5️⃣ **水音世界观** — 8 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Give a reason (Cover) — Peaky P-key
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 **💿 热门专辑**  
 - 🥇 **undefined** — Plum
 - 🥈 **CUL8ER** — Plum
-- 🥉 **The Letter #1** — Plum, 유니
+- 🥉 **The Hoard of Birthstones** — WyvernP
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/23 13:21:07*
+*更新时间: 2026/6/23 16:09:01*
 <!-- LASTFM_END -->
