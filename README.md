@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,949 次 |
+| 🎧 播放总次数 | 82,968 次 |
 | 🎤 歌手总计 | 19,104 位 |
-| 💿 专辑总计 | 20,049 张 |
-| 🎶 歌曲总计 | 61,335 首 |
+| 💿 专辑总计 | 20,050 张 |
+| 🎶 歌曲总计 | 61,344 首 |
 
-🎧 **正在播放：** 水音世界观--6月18日--美国高官宣布美伊协议已远程签署并生效，特朗普在法国凡尔赛宫私人晚宴上高调签字 — 水音世界观
+
 
 **🎵 最近在听**  
-- 🎵 水音世界观--6月18日--美国高官宣布美伊协议已远程签署并生效，特朗普在法国凡尔赛宫私人晚宴上高调签字 — 水音世界观
-- 🎵 水音世界观--6月22日--伊朗与美国经过12小时谈判达成协议，卡塔尔和巴勒斯坦将发布相关文本。 — 水音世界观
-- 🎵 [ASMR] “Gift” in 35 Languages | Cozy Gift Unboxing 🎁 Whispering Wrapping, Tapping & Music Box Sounds — TingleBunny ASMR
-- 🎵 ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
-- 🎵 ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
+- 🎵 暈了 — 范曉萱
+- 🎵 冰淇淋的祈禱 — 范曉萱
+- 🎵 聽見 — 范曉萱
+- 🎵 好想談戀愛 — 范曉萱
+- 🎵 偏心 — 范曉萱
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **Plum** — 96 次播放
-- 🥈 **林俊傑** — 22 次播放
-- 🥉 **范曉萱** — 21 次播放
+- 🥈 **范曉萱** — 40 次播放
+- 🥉 **林俊傑** — 22 次播放
 - 4️⃣ **Plum, 유니** — 15 次播放
 - 5️⃣ **WyvernP** — 13 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/23 01:30:17*
+*更新时间: 2026/6/23 06:06:51*
 <!-- LASTFM_END -->
