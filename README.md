@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,947 次 |
+| 🎧 播放总次数 | 82,949 次 |
 | 🎤 歌手总计 | 19,104 位 |
 | 💿 专辑总计 | 20,049 张 |
-| 🎶 歌曲总计 | 61,333 首 |
+| 🎶 歌曲总计 | 61,335 首 |
 
-
+🎧 **正在播放：** 水音世界观--6月18日--美国高官宣布美伊协议已远程签署并生效，特朗普在法国凡尔赛宫私人晚宴上高调签字 — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--6月18日--美国高官宣布美伊协议已远程签署并生效，特朗普在法国凡尔赛宫私人晚宴上高调签字 — 水音世界观
+- 🎵 水音世界观--6月22日--伊朗与美国经过12小时谈判达成协议，卡塔尔和巴勒斯坦将发布相关文本。 — 水音世界观
 - 🎵 [ASMR] “Gift” in 35 Languages | Cozy Gift Unboxing 🎁 Whispering Wrapping, Tapping & Music Box Sounds — TingleBunny ASMR
 - 🎵 ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
 - 🎵 ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
-- 🎵 水音世界观--6月18日---美国首次非本土战败后向伊朗提供巨额补偿 — 水音世界观
-- 🎵 水音世界观--6月19日--伊朗暂停与美国的谈判行程，伊朗声明60天内免除霍尔木兹海峡通行费 — 水音世界观
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/22 23:19:41*
+*更新时间: 2026/6/23 01:30:17*
 <!-- LASTFM_END -->
