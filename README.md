@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 96 次播放
+- 🥇 **Plum** — 78 次播放
 - 🥈 **范曉萱** — 40 次播放
 - 🥉 **林俊傑** — 22 次播放
 - 4️⃣ **Plum, 유니** — 15 次播放
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ A New Rising — Plum
 
 **💿 热门专辑**  
-- 🥇 **Stream of Life** — Plum
-- 🥈 **undefined** — Plum
-- 🥉 **CUL8ER** — Plum
+- 🥇 **undefined** — Plum
+- 🥈 **CUL8ER** — Plum
+- 🥉 **The Letter #1** — Plum, 유니
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/23 06:06:51*
+*更新时间: 2026/6/23 10:09:49*
 <!-- LASTFM_END -->
