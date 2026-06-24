@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,002 次 |
-| 🎤 歌手总计 | 19,115 位 |
-| 💿 专辑总计 | 20,066 张 |
-| 🎶 歌曲总计 | 61,367 首 |
+| 🎧 播放总次数 | 83,007 次 |
+| 🎤 歌手总计 | 19,116 位 |
+| 💿 专辑总计 | 20,067 张 |
+| 🎶 歌曲总计 | 61,372 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Teenage Dream — Katy Perry
-- 🎵 不说再见 — 好妹妹乐队
-- 🎵 搬家 — 张震岳
-- 🎵 Summertime Sadness — Lana Del Rey
-- 🎵 特别的人 (Special Person) — 方大同
+- 🎵 蓝色的姑娘 — 鄧麗君
+- 🎵 异乡人 — 鄧麗君
+- 🎵 这里只有我们俩 — 鄧麗君
+- 🎵 路边的野花不要采 — 鄧麗君
+- 🎵 少年爱姑娘 — 鄧麗君
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/24 03:34:36*
+*更新时间: 2026/6/24 07:40:51*
 <!-- LASTFM_END -->
