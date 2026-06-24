@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum** — 48 次播放
 - 🥈 **范曉萱** — 42 次播放
-- 🥉 **林俊傑** — 18 次播放
-- 4️⃣ **WyvernP** — 13 次播放
-- 5️⃣ **水音世界观** — 9 次播放
+- 🥉 **WyvernP** — 13 次播放
+- 4️⃣ **水音世界观** — 9 次播放
+- 5️⃣ **USAO** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Give a reason (Cover) — Peaky P-key
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/24 13:22:20*
+*更新时间: 2026/6/24 15:41:28*
 <!-- LASTFM_END -->
