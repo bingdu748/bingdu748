@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 82,980 次 |
-| 🎤 歌手总计 | 19,109 位 |
-| 💿 专辑总计 | 20,054 张 |
-| 🎶 歌曲总计 | 61,351 首 |
+| 🎧 播放总次数 | 83,002 次 |
+| 🎤 歌手总计 | 19,115 位 |
+| 💿 专辑总计 | 20,066 张 |
+| 🎶 歌曲总计 | 61,367 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 夏至 — (x²+y²-a²)³=x²y³
-- 🎵 Won(*3*)Chu KissMe! — 長谷川育美
-- 🎵 雨の思い出 — K-Rogey
-- 🎵 雨の思い出 (雨的回忆) — K-Rogey
-- 🎵 r e f l e c t i o n s — alyzea
+- 🎵 Teenage Dream — Katy Perry
+- 🎵 不说再见 — 好妹妹乐队
+- 🎵 搬家 — 张震岳
+- 🎵 Summertime Sadness — Lana Del Rey
+- 🎵 特别的人 (Special Person) — 方大同
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 59 次播放
+- 🥇 **Plum** — 48 次播放
 - 🥈 **范曉萱** — 42 次播放
 - 🥉 **林俊傑** — 22 次播放
 - 4️⃣ **WyvernP** — 13 次播放
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 **🎶 热门歌曲**  
 - 🥇 Give a reason (Cover) — Peaky P-key
 - 🥈 あのね (Connect the World) — ナナツカゼ
-- 🥉 如果的事 — 范玮琪&张韶涵
-- 4️⃣ ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
-- 5️⃣ A New Rising — Plum
+- 🥉 我怀念的 — 孫燕姿
+- 4️⃣ 如果的事 — 范玮琪&张韶涵
+- 5️⃣ ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
 
 **💿 热门专辑**  
 - 🥇 **undefined** — Plum
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/23 22:13:15*
+*更新时间: 2026/6/24 03:34:36*
 <!-- LASTFM_END -->
