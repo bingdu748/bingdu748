@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,020 次 |
+| 🎧 播放总次数 | 83,030 次 |
 | 🎤 歌手总计 | 19,118 位 |
 | 💿 专辑总计 | 20,071 张 |
-| 🎶 歌曲总计 | 61,377 首 |
+| 🎶 歌曲总计 | 61,387 首 |
 
-🎧 **正在播放：** 水音世界观--6月24日--伊朗无人机击落美军F15，马斯克财富缩水 — 水音世界观
+
 
 **🎵 最近在听**  
-- 🎵 水音世界观--6月24日--伊朗无人机击落美军F15，马斯克财富缩水 — 水音世界观
-- 🎵 水音世界观--6月24日--伊朗无人机击落美军F15，马斯克财富缩水 — 水音世界观
-- 🎵 星空に消えぬ願い (Feat.POPY) — シルム★P/乘号/FLAVOREALM!味之领域
-- 🎵 Sanctuary — t+pazolite
-- 🎵 Sanctuary — t+pazolite
+- 🎵 后悔爱上你 — 鄧麗君
+- 🎵 不是春雨没有来 — 鄧麗君
+- 🎵 情人山坡只有我 — 鄧麗君
+- 🎵 爱似轻风情似细雨 — 鄧麗君
+- 🎵 想你想断肠 — 鄧麗君
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 48 次播放
-- 🥈 **范曉萱** — 42 次播放
-- 🥉 **WyvernP** — 13 次播放
-- 4️⃣ **水音世界观** — 10 次播放
-- 5️⃣ **USAO** — 5 次播放
+- 🥇 **范曉萱** — 42 次播放
+- 🥈 **Plum** — 29 次播放
+- 🥉 **鄧麗君** — 15 次播放
+- 4️⃣ **WyvernP** — 13 次播放
+- 5️⃣ **水音世界观** — 10 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Give a reason (Cover) — Peaky P-key
@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 - 5️⃣ ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
 
 **💿 热门专辑**  
-- 🥇 **undefined** — Plum
-- 🥈 **CUL8ER** — Plum
+- 🥇 **CUL8ER** — Plum
+- 🥈 **谁是心上人少年爱姑娘** — 鄧麗君
 - 🥉 **The Hoard of Birthstones** — WyvernP
 
 ---
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/25 00:13:12*
+*更新时间: 2026/6/25 04:45:21*
 <!-- LASTFM_END -->
