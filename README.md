@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,016 次 |
-| 🎤 歌手总计 | 19,117 位 |
-| 💿 专辑总计 | 20,070 张 |
-| 🎶 歌曲总计 | 61,375 首 |
+| 🎧 播放总次数 | 83,020 次 |
+| 🎤 歌手总计 | 19,118 位 |
+| 💿 专辑总计 | 20,071 张 |
+| 🎶 歌曲总计 | 61,377 首 |
 
-
+🎧 **正在播放：** 水音世界观--6月24日--伊朗无人机击落美军F15，马斯克财富缩水 — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--6月24日--伊朗无人机击落美军F15，马斯克财富缩水 — 水音世界观
+- 🎵 水音世界观--6月24日--伊朗无人机击落美军F15，马斯克财富缩水 — 水音世界观
+- 🎵 星空に消えぬ願い (Feat.POPY) — シルム★P/乘号/FLAVOREALM!味之领域
 - 🎵 Sanctuary — t+pazolite
-- 🎵 妄想感傷代償連盟 (妄想感伤代偿联盟) — DECO*27/初音ミク
-- 🎵 ALL☆NIGHTER! — Turbo/Moon Jelly
-- 🎵 Lockdown (feat. NEONA) — PIKASONIC/Tatsunoshin/NEONA
-- 🎵 Event Horizon (2020 Ver.) (事件视界) — Plum - Melodic Artist
+- 🎵 Sanctuary — t+pazolite
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🥇 **Plum** — 48 次播放
 - 🥈 **范曉萱** — 42 次播放
 - 🥉 **WyvernP** — 13 次播放
-- 4️⃣ **水音世界观** — 9 次播放
+- 4️⃣ **水音世界观** — 10 次播放
 - 5️⃣ **USAO** — 5 次播放
 
 **🎶 热门歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/24 22:47:22*
+*更新时间: 2026/6/25 00:13:12*
 <!-- LASTFM_END -->
