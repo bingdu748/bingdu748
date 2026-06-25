@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,030 次 |
-| 🎤 歌手总计 | 19,118 位 |
-| 💿 专辑总计 | 20,071 张 |
-| 🎶 歌曲总计 | 61,387 首 |
+| 🎧 播放总次数 | 83,041 次 |
+| 🎤 歌手总计 | 19,119 位 |
+| 💿 专辑总计 | 20,073 张 |
+| 🎶 歌曲总计 | 61,390 首 |
 
-
+🎧 **正在播放：** All You Need Is Love (Remastered 2009) — The Beatles
 
 **🎵 最近在听**  
-- 🎵 后悔爱上你 — 鄧麗君
-- 🎵 不是春雨没有来 — 鄧麗君
-- 🎵 情人山坡只有我 — 鄧麗君
-- 🎵 爱似轻风情似细雨 — 鄧麗君
-- 🎵 想你想断肠 — 鄧麗君
+- 🎵 4월은 너의 거짓말 (4月是你的谎言) — crepe
+- 🎵 Northwind — Vexento
+- 🎵 Libera Me — Cranky
+- 🎵 Celestial Horizon (天际线) — Fractal Dreamers
+- 🎵 MemoryLocked — Plum - Melodic Artist
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 ### 📆 本月精选
 
 **🎤 本月艺术家**  
-- 🥇 **Plum**
-- 🥈 **a_hisa**
+- 🥇 **a_hisa**
+- 🥈 **Plum**
 - 🥉 **HimeHina**
 
 **🎶 本月歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/25 08:22:54*
+*更新时间: 2026/6/25 11:15:35*
 <!-- LASTFM_END -->
