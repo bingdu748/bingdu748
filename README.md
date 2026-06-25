@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
-- 🥈 Echoes of the Past — Jason Hayes
-- 🥉 Neon Pulse — v-Qtz
+- 🥈 Neon Pulse — v-Qtz
+- 🥉 江南 — 林俊傑
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/25 16:23:42*
+*更新时间: 2026/6/25 18:33:12*
 <!-- LASTFM_END -->
