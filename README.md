@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,055 次 |
-| 🎤 歌手总计 | 19,123 位 |
-| 💿 专辑总计 | 20,073 张 |
-| 🎶 歌曲总计 | 61,397 首 |
+| 🎧 播放总次数 | 83,058 次 |
+| 🎤 歌手总计 | 19,124 位 |
+| 💿 专辑总计 | 20,074 张 |
+| 🎶 歌曲总计 | 61,400 首 |
 
-🎧 **正在播放：** Afternoon Glow — v-Qtz
+
 
 **🎵 最近在听**  
+- 🎵 Empty Like the Moon — SC Shadow
+- 🎵 网易天音AI写歌-茶杯里的咖啡 — v-Qtz
+- 🎵 Afternoon Pulse — v-Qtz
 - 🎵 Afternoon Glow — v-Qtz
 - 🎵 Afternoon Glow — v-Qtz
-- 🎵 Afternoon Glow — v-Qtz
-- 🎵 Afternoon Tea — v-Qtz
-- 🎵 Neon Pulse — v-Qtz
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **范曉萱** — 42 次播放
-- 🥈 **Plum** — 15 次播放
-- 🥉 **鄧麗君** — 15 次播放
-- 4️⃣ **WyvernP** — 13 次播放
-- 5️⃣ **v-Qtz** — 10 次播放
+- 🥈 **鄧麗君** — 15 次播放
+- 🥉 **v-Qtz** — 12 次播放
+- 4️⃣ **WyvernP** — 12 次播放
+- 5️⃣ **水音世界观** — 10 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Neon Pulse — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/25 13:36:13*
+*更新时间: 2026/6/25 16:23:42*
 <!-- LASTFM_END -->
