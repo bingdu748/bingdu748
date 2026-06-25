@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **范曉萱** — 42 次播放
-- 🥈 **Plum** — 29 次播放
+- 🥈 **Plum** — 15 次播放
 - 🥉 **鄧麗君** — 15 次播放
 - 4️⃣ **WyvernP** — 13 次播放
 - 5️⃣ **水音世界观** — 10 次播放
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
 
 **💿 热门专辑**  
-- 🥇 **CUL8ER** — Plum
-- 🥈 **谁是心上人少年爱姑娘** — 鄧麗君
-- 🥉 **The Hoard of Birthstones** — WyvernP
+- 🥇 **谁是心上人少年爱姑娘** — 鄧麗君
+- 🥈 **The Hoard of Birthstones** — WyvernP
+- 🥉 **好想談戀愛** — 范曉萱
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/25 04:45:21*
+*更新时间: 2026/6/25 08:22:54*
 <!-- LASTFM_END -->
