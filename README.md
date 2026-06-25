@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,041 次 |
-| 🎤 歌手总计 | 19,119 位 |
+| 🎧 播放总次数 | 83,055 次 |
+| 🎤 歌手总计 | 19,123 位 |
 | 💿 专辑总计 | 20,073 张 |
-| 🎶 歌曲总计 | 61,390 首 |
+| 🎶 歌曲总计 | 61,397 首 |
 
-🎧 **正在播放：** All You Need Is Love (Remastered 2009) — The Beatles
+🎧 **正在播放：** Afternoon Glow — v-Qtz
 
 **🎵 最近在听**  
-- 🎵 4월은 너의 거짓말 (4月是你的谎言) — crepe
-- 🎵 Northwind — Vexento
-- 🎵 Libera Me — Cranky
-- 🎵 Celestial Horizon (天际线) — Fractal Dreamers
-- 🎵 MemoryLocked — Plum - Melodic Artist
+- 🎵 Afternoon Glow — v-Qtz
+- 🎵 Afternoon Glow — v-Qtz
+- 🎵 Afternoon Glow — v-Qtz
+- 🎵 Afternoon Tea — v-Qtz
+- 🎵 Neon Pulse — v-Qtz
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 - 🥈 **Plum** — 15 次播放
 - 🥉 **鄧麗君** — 15 次播放
 - 4️⃣ **WyvernP** — 13 次播放
-- 5️⃣ **水音世界观** — 10 次播放
+- 5️⃣ **v-Qtz** — 10 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Give a reason (Cover) — Peaky P-key
-- 🥈 あのね (Connect the World) — ナナツカゼ
-- 🥉 我怀念的 — 孫燕姿
-- 4️⃣ 如果的事 — 范玮琪&张韶涵
-- 5️⃣ ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
+- 🥇 Neon Pulse — v-Qtz
+- 🥈 Give a reason (Cover) — Peaky P-key
+- 🥉 Afternoon Glow — v-Qtz
+- 4️⃣ あのね (Connect the World) — ナナツカゼ
+- 5️⃣ 我怀念的 — 孫燕姿
 
 **💿 热门专辑**  
 - 🥇 **谁是心上人少年爱姑娘** — 鄧麗君
@@ -69,13 +69,13 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **a_hisa**
-- 🥈 **Plum**
-- 🥉 **HimeHina**
+- 🥈 **HimeHina**
+- 🥉 **Plum**
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
 - 🥈 Echoes of the Past — Jason Hayes
-- 🥉 江南 — 林俊傑
+- 🥉 Neon Pulse — v-Qtz
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/25 11:15:35*
+*更新时间: 2026/6/25 13:36:13*
 <!-- LASTFM_END -->
