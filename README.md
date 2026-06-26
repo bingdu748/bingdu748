@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,058 次 |
+| 🎧 播放总次数 | 83,050 次 |
 | 🎤 歌手总计 | 19,124 位 |
 | 💿 专辑总计 | 20,074 张 |
-| 🎶 歌曲总计 | 61,400 首 |
+| 🎶 歌曲总计 | 61,399 首 |
 
 
 
 **🎵 最近在听**  
 - 🎵 Empty Like the Moon — SC Shadow
-- 🎵 网易天音AI写歌-茶杯里的咖啡 — v-Qtz
 - 🎵 Afternoon Pulse — v-Qtz
 - 🎵 Afternoon Glow — v-Qtz
-- 🎵 Afternoon Glow — v-Qtz
+- 🎵 Once Upon A Time (House Mix) — Max Oazo/Moonessa
+- 🎵 海森堡童话 — Strictlyviolin荀博/王朝
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **范曉萱** — 42 次播放
 - 🥈 **鄧麗君** — 15 次播放
-- 🥉 **v-Qtz** — 12 次播放
-- 4️⃣ **WyvernP** — 12 次播放
-- 5️⃣ **水音世界观** — 10 次播放
+- 🥉 **WyvernP** — 12 次播放
+- 4️⃣ **水音世界观** — 10 次播放
+- 5️⃣ **Plum** — 6 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Neon Pulse — v-Qtz
-- 🥈 Give a reason (Cover) — Peaky P-key
-- 🥉 Afternoon Glow — v-Qtz
-- 4️⃣ あのね (Connect the World) — ナナツカゼ
-- 5️⃣ 我怀念的 — 孫燕姿
+- 🥇 Give a reason (Cover) — Peaky P-key
+- 🥈 我怀念的 — 孫燕姿
+- 🥉 如果的事 — 范玮琪&张韶涵
+- 4️⃣ ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
+- 5️⃣ 虚 — Halv
 
 **💿 热门专辑**  
 - 🥇 **谁是心上人少年爱姑娘** — 鄧麗君
@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
-- 🥈 Neon Pulse — v-Qtz
-- 🥉 江南 — 林俊傑
+- 🥈 江南 — 林俊傑
+- 🥉 ヒメヒナにゃんこがあいうえお順に褒めまくってたまに罵倒するニャ — HimeHina
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/25 23:52:41*
+*更新时间: 2026/6/26 03:40:29*
 <!-- LASTFM_END -->
