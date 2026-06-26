@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **鄧麗君** — 15 次播放
 - 🥉 **水音世界观** — 13 次播放
 - 4️⃣ **WyvernP** — 12 次播放
-- 5️⃣ **Plum** — 5 次播放
+- 5️⃣ **Plum** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Give a reason (Cover) — Peaky P-key
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/26 10:51:07*
+*更新时间: 2026/6/26 13:11:17*
 <!-- LASTFM_END -->
