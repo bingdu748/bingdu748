@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,054 次 |
+| 🎧 播放总次数 | 83,063 次 |
 | 🎤 歌手总计 | 19,124 位 |
-| 💿 专辑总计 | 20,074 张 |
-| 🎶 歌曲总计 | 61,401 首 |
+| 💿 专辑总计 | 20,075 张 |
+| 🎶 歌曲总计 | 61,402 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观--6月25日--巴拿馬明搶中企資產？中國啟動20億美元索賠，一招「錢凱港」直接廢掉運河壟斷！ — 水音世界观
-- 🎵 水音世界观--6月23日----下 — 水音世界观
-- 🎵 水音世界观--6月23日--台湾新竹空军基地发生爆炸，造成三人受伤。美国汽车巨头将开始生产武器，包括战斧巡航导弹和爱国者防空系统。 — 水音世界观
-- 🎵 願い～あの頃のキミへ～ (祈愿～致那时候的你～) — 當山みれい
-- 🎵 Empty Like the Moon — SC Shadow
+- 🎵 Event Horizon — Plum
+- 🎵 성지연 (星之緣) — Plum
+- 🎵 별이 보이지 않는 밤 (看不见星星的夜晚)(2021 Remake) — Plum
+- 🎵 Megamix 2.7 — Plum
+- 🎵 The Lost Aria — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **范曉萱** — 42 次播放
 - 🥈 **鄧麗君** — 15 次播放
 - 🥉 **水音世界观** — 13 次播放
-- 4️⃣ **WyvernP** — 12 次播放
-- 5️⃣ **Plum** — 4 次播放
+- 4️⃣ **Plum** — 12 次播放
+- 5️⃣ **WyvernP** — 12 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Give a reason (Cover) — Peaky P-key
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **a_hisa**
-- 🥈 **HimeHina**
-- 🥉 **Plum**
+- 🥈 **Plum**
+- 🥉 **HimeHina**
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/26 13:11:17*
+*更新时间: 2026/6/26 15:38:56*
 <!-- LASTFM_END -->
