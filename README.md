@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,050 次 |
+| 🎧 播放总次数 | 83,053 次 |
 | 🎤 歌手总计 | 19,124 位 |
 | 💿 专辑总计 | 20,074 张 |
-| 🎶 歌曲总计 | 61,399 首 |
+| 🎶 歌曲总计 | 61,400 首 |
 
-
+🎧 **正在播放：** 水音世界观--6月23日----下 — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--6月23日----下 — 水音世界观
+- 🎵 水音世界观--6月23日--台湾新竹空军基地发生爆炸，造成三人受伤。美国汽车巨头将开始生产武器，包括战斧巡航导弹和爱国者防空系统。 — 水音世界观
+- 🎵 願い～あの頃のキミへ～ (祈愿～致那时候的你～) — 當山みれい
 - 🎵 Empty Like the Moon — SC Shadow
 - 🎵 Afternoon Pulse — v-Qtz
-- 🎵 Afternoon Glow — v-Qtz
-- 🎵 Once Upon A Time (House Mix) — Max Oazo/Moonessa
-- 🎵 海森堡童话 — Strictlyviolin荀博/王朝
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 - 🥇 **范曉萱** — 42 次播放
 - 🥈 **鄧麗君** — 15 次播放
 - 🥉 **WyvernP** — 12 次播放
-- 4️⃣ **水音世界观** — 10 次播放
-- 5️⃣ **Plum** — 6 次播放
+- 4️⃣ **水音世界观** — 12 次播放
+- 5️⃣ **Plum** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Give a reason (Cover) — Peaky P-key
 - 🥈 我怀念的 — 孫燕姿
-- 🥉 如果的事 — 范玮琪&张韶涵
-- 4️⃣ ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
-- 5️⃣ 虚 — Halv
+- 🥉 水音世界观--6月23日--台湾新竹空军基地发生爆炸，造成三人受伤。美国汽车巨头将开始生产武器，包括战斧巡航导弹和爱国者防空系统。 — 水音世界观
+- 4️⃣ 如果的事 — 范玮琪&张韶涵
+- 5️⃣ ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
 
 **💿 热门专辑**  
 - 🥇 **谁是心上人少年爱姑娘** — 鄧麗君
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/26 03:40:29*
+*更新时间: 2026/6/26 07:52:48*
 <!-- LASTFM_END -->
