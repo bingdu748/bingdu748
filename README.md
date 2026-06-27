@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,094 张 |
 | 🎶 歌曲总计 | 61,428 首 |
 
-🎧 **正在播放：** 夏日第五号 — (x²+y²-a²)³=x²y³
+
 
 **🎵 最近在听**  
 - 🎵 夏日第五号 — (x²+y²-a²)³=x²y³
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/27 13:42:40*
+*更新时间: 2026/6/27 15:15:40*
 <!-- LASTFM_END -->
