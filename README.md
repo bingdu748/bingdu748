@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,075 张 |
 | 🎶 歌曲总计 | 61,402 首 |
 
-
+🎧 **正在播放：** 願い～あの頃のキミへ～ (祈愿～致那时候的你～) — 當山みれい
 
 **🎵 最近在听**  
 - 🎵 Event Horizon — Plum
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/26 22:45:00*
+*更新时间: 2026/6/27 00:06:52*
 <!-- LASTFM_END -->
