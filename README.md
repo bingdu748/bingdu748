@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,108 次 |
+| 🎧 播放总次数 | 83,111 次 |
 | 🎤 歌手总计 | 19,134 位 |
-| 💿 专辑总计 | 20,092 张 |
-| 🎶 歌曲总计 | 61,426 首 |
+| 💿 专辑总计 | 20,094 张 |
+| 🎶 歌曲总计 | 61,428 首 |
 
-🎧 **正在播放：** Bl∞dmoon — Ardolf
+🎧 **正在播放：** 夏日第五号 — (x²+y²-a²)³=x²y³
 
 **🎵 最近在听**  
+- 🎵 夏日第五号 — (x²+y²-a²)³=x²y³
+- 🎵 光 — 姜米條
+- 🎵 Bl∞dmoon — Ardolf
 - 🎵 Centennial Future — EmoCosine
 - 🎵 그믐달의 흔적 (2021 Remake) — Plum
-- 🎵 Grin — Hyun
-- 🎵 Freesia — a_hisa
-- 🎵 Sinos De Natal (Remix) — 霓秋光
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/27 11:54:05*
+*更新时间: 2026/6/27 13:42:40*
 <!-- LASTFM_END -->
