@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,063 次 |
-| 🎤 歌手总计 | 19,124 位 |
-| 💿 专辑总计 | 20,075 张 |
-| 🎶 歌曲总计 | 61,402 首 |
+| 🎧 播放总次数 | 83,084 次 |
+| 🎤 歌手总计 | 19,128 位 |
+| 💿 专辑总计 | 20,083 张 |
+| 🎶 歌曲总计 | 61,414 首 |
 
-🎧 **正在播放：** 願い～あの頃のキミへ～ (祈愿～致那时候的你～) — 當山みれい
+
 
 **🎵 最近在听**  
-- 🎵 Event Horizon — Plum
-- 🎵 성지연 (星之緣) — Plum
-- 🎵 별이 보이지 않는 밤 (看不见星星的夜晚)(2021 Remake) — Plum
-- 🎵 Megamix 2.7 — Plum
-- 🎵 The Lost Aria — Plum
+- 🎵 サヨナラは言わないでさ (Don't Say Goodbye) — Kotoha
+- 🎵 Hanten (はんてん) — ME_DD、Electrode Core
+- 🎵 Stardrop Tears — Plum
+- 🎵 Stardrop Tears — Plum
+- 🎵 Fading Star — ginkiha
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **范曉萱** — 42 次播放
 - 🥈 **鄧麗君** — 15 次播放
-- 🥉 **水音世界观** — 13 次播放
-- 4️⃣ **Plum** — 12 次播放
+- 🥉 **Plum** — 13 次播放
+- 4️⃣ **水音世界观** — 13 次播放
 - 5️⃣ **WyvernP** — 12 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Give a reason (Cover) — Peaky P-key
-- 🥈 我怀念的 — 孫燕姿
-- 🥉 水音世界观--6月23日--台湾新竹空军基地发生爆炸，造成三人受伤。美国汽车巨头将开始生产武器，包括战斧巡航导弹和爱国者防空系统。 — 水音世界观
-- 4️⃣ 如果的事 — 范玮琪&张韶涵
-- 5️⃣ ASMR(Sub✔) Teaching You Basic KoreanㅣKorean Language Lesson Part 2ㅣKorean Class teacher Role Play — Asmr venus
+- 🥈 Sanctuary — t+pazolite
+- 🥉 我怀念的 — 孫燕姿
+- 4️⃣ 水音世界观--6月23日--台湾新竹空军基地发生爆炸，造成三人受伤。美国汽车巨头将开始生产武器，包括战斧巡航导弹和爱国者防空系统。 — 水音世界观
+- 5️⃣ 如果的事 — 范玮琪&张韶涵
 
 **💿 热门专辑**  
 - 🥇 **谁是心上人少年爱姑娘** — 鄧麗君
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/27 00:06:52*
+*更新时间: 2026/6/27 04:34:31*
 <!-- LASTFM_END -->
