@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,084 次 |
-| 🎤 歌手总计 | 19,128 位 |
-| 💿 专辑总计 | 20,083 张 |
-| 🎶 歌曲总计 | 61,414 首 |
+| 🎧 播放总次数 | 83,108 次 |
+| 🎤 歌手总计 | 19,134 位 |
+| 💿 专辑总计 | 20,092 张 |
+| 🎶 歌曲总计 | 61,426 首 |
 
-
+🎧 **正在播放：** Bl∞dmoon — Ardolf
 
 **🎵 最近在听**  
-- 🎵 サヨナラは言わないでさ (Don't Say Goodbye) — Kotoha
-- 🎵 Hanten (はんてん) — ME_DD、Electrode Core
-- 🎵 Stardrop Tears — Plum
-- 🎵 Stardrop Tears — Plum
-- 🎵 Fading Star — ginkiha
+- 🎵 Centennial Future — EmoCosine
+- 🎵 그믐달의 흔적 (2021 Remake) — Plum
+- 🎵 Grin — Hyun
+- 🎵 Freesia — a_hisa
+- 🎵 Sinos De Natal (Remix) — 霓秋光
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **范曉萱** — 42 次播放
 - 🥈 **鄧麗君** — 15 次播放
-- 🥉 **Plum** — 13 次播放
+- 🥉 **Plum** — 14 次播放
 - 4️⃣ **水音世界观** — 13 次播放
 - 5️⃣ **WyvernP** — 12 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Give a reason (Cover) — Peaky P-key
-- 🥈 Sanctuary — t+pazolite
-- 🥉 我怀念的 — 孫燕姿
-- 4️⃣ 水音世界观--6月23日--台湾新竹空军基地发生爆炸，造成三人受伤。美国汽车巨头将开始生产武器，包括战斧巡航导弹和爱国者防空系统。 — 水音世界观
-- 5️⃣ 如果的事 — 范玮琪&张韶涵
+- 🥇 Hanten (はんてん) — ME_DD、Electrode Core
+- 🥈 Give a reason (Cover) — Peaky P-key
+- 🥉 Sanctuary — t+pazolite
+- 4️⃣ 我怀念的 — 孫燕姿
+- 5️⃣ 水音世界观--6月23日--台湾新竹空军基地发生爆炸，造成三人受伤。美国汽车巨头将开始生产武器，包括战斧巡航导弹和爱国者防空系统。 — 水音世界观
 
 **💿 热门专辑**  
 - 🥇 **谁是心上人少年爱姑娘** — 鄧麗君
@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
-- 🥈 江南 — 林俊傑
-- 🥉 ヒメヒナにゃんこがあいうえお順に褒めまくってたまに罵倒するニャ — HimeHina
+- 🥈 Hanten (はんてん) — ME_DD、Electrode Core
+- 🥉 江南 — 林俊傑
 
 ---
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 **🎤 最爱的艺术家**  
 - 🥇 **上海アリス幻樂団** — 2,462 次播放
-- 🥈 **a_hisa** — 1,168 次播放
+- 🥈 **a_hisa** — 1,169 次播放
 - 🥉 **Relaxu** — 963 次播放
 - 4️⃣ **Various Artists** — 782 次播放
 - 5️⃣ **周杰倫** — 742 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/27 10:08:13*
+*更新时间: 2026/6/27 11:54:05*
 <!-- LASTFM_END -->
