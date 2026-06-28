@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,096 张 |
 | 🎶 歌曲总计 | 61,431 首 |
 
-🎧 **正在播放：** New Light — Mark Petrie
+
 
 **🎵 最近在听**  
 - 🎵 Lacrimosa — 十指流玉
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/28 05:01:26*
+*更新时间: 2026/6/28 08:31:33*
 <!-- LASTFM_END -->
