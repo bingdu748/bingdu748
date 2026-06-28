@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,111 次 |
-| 🎤 歌手总计 | 19,134 位 |
-| 💿 专辑总计 | 20,094 张 |
-| 🎶 歌曲总计 | 61,428 首 |
+| 🎧 播放总次数 | 83,117 次 |
+| 🎤 歌手总计 | 19,135 位 |
+| 💿 专辑总计 | 20,096 张 |
+| 🎶 歌曲总计 | 61,431 首 |
 
-
+🎧 **正在播放：** New Light — Mark Petrie
 
 **🎵 最近在听**  
-- 🎵 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🎵 光 — 姜米條
-- 🎵 Bl∞dmoon — Ardolf
-- 🎵 Centennial Future — EmoCosine
-- 🎵 그믐달의 흔적 (2021 Remake) — Plum
+- 🎵 Lacrimosa — 十指流玉
+- 🎵 you are my curse (Explicit) — nyamura
+- 🎵 Alpenglow — Elliot Hsu
+- 🎵 Viyella's Destiny — Laur
+- 🎵 Colorful — PYKAMIA、V!C
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **范曉萱** — 42 次播放
 - 🥈 **鄧麗君** — 15 次播放
-- 🥉 **Plum** — 14 次播放
+- 🥉 **Plum** — 13 次播放
 - 4️⃣ **水音世界观** — 13 次播放
 - 5️⃣ **WyvernP** — 12 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/28 00:01:51*
+*更新时间: 2026/6/28 05:01:26*
 <!-- LASTFM_END -->
