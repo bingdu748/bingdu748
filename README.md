@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,117 次 |
+| 🎧 播放总次数 | 83,121 次 |
 | 🎤 歌手总计 | 19,135 位 |
-| 💿 专辑总计 | 20,096 张 |
-| 🎶 歌曲总计 | 61,431 首 |
+| 💿 专辑总计 | 20,097 张 |
+| 🎶 歌曲总计 | 61,432 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 To the Milky Way (去银河) — 黒魔
+- 🎵 Elfridean Stories — Elliot Hsu
+- 🎵 Qlifact -another- — Se-U-Ra
+- 🎵 参宿四~Betelgeuse~ — VILLAX/Amberry
 - 🎵 Lacrimosa — 十指流玉
-- 🎵 you are my curse (Explicit) — nyamura
-- 🎵 Alpenglow — Elliot Hsu
-- 🎵 Viyella's Destiny — Laur
-- 🎵 Colorful — PYKAMIA、V!C
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/28 12:55:03*
+*更新时间: 2026/6/28 14:48:26*
 <!-- LASTFM_END -->
