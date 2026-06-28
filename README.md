@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 
 **🎶 热门歌曲**  
 - 🥇 Hanten (はんてん) — ME_DD、Electrode Core
-- 🥈 Give a reason (Cover) — Peaky P-key
-- 🥉 Sanctuary — t+pazolite
-- 4️⃣ 我怀念的 — 孫燕姿
-- 5️⃣ 水音世界观--6月23日--台湾新竹空军基地发生爆炸，造成三人受伤。美国汽车巨头将开始生产武器，包括战斧巡航导弹和爱国者防空系统。 — 水音世界观
+- 🥈 Sanctuary — t+pazolite
+- 🥉 我怀念的 — 孫燕姿
+- 4️⃣ 水音世界观--6月23日--台湾新竹空军基地发生爆炸，造成三人受伤。美国汽车巨头将开始生产武器，包括战斧巡航导弹和爱国者防空系统。 — 水音世界观
+- 5️⃣ 夏日第五号 — (x²+y²-a²)³=x²y³
 
 **💿 热门专辑**  
 - 🥇 **谁是心上人少年爱姑娘** — 鄧麗君
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/27 22:35:44*
+*更新时间: 2026/6/28 00:01:51*
 <!-- LASTFM_END -->
