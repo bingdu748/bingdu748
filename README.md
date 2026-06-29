@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **范曉萱** — 42 次播放
+- 🥇 **范曉萱** — 21 次播放
 - 🥈 **鄧麗君** — 15 次播放
 - 🥉 **Plum** — 13 次播放
-- 4️⃣ **水音世界观** — 12 次播放
-- 5️⃣ **(x²+y²-a²)³=x²y³** — 10 次播放
+- 4️⃣ **(x²+y²-a²)³=x²y³** — 10 次播放
+- 5️⃣ **水音世界观** — 10 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Hanten (はんてん) — ME_DD、Electrode Core
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/29 03:54:43*
+*更新时间: 2026/6/29 13:13:42*
 <!-- LASTFM_END -->
