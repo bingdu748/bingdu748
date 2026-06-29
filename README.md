@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,124 次 |
+| 🎧 播放总次数 | 83,129 次 |
 | 🎤 歌手总计 | 19,135 位 |
 | 💿 专辑总计 | 20,097 张 |
-| 🎶 歌曲总计 | 61,434 首 |
+| 🎶 歌曲总计 | 61,435 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 我怀念的 — 孫燕姿
 - 🎵 Midsummer Lightrail — (x²+y²-a²)³=x²y³
 - 🎵 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🎵 茶杯里的咖啡 — (x²+y²-a²)³=x²y³
-- 🎵 To the Milky Way (去银河) — 黒魔
-- 🎵 Elfridean Stories — Elliot Hsu
+- 🎵 Sync — (x²+y²-a²)³=x²y³
+- 🎵 Sync — (x²+y²-a²)³=x²y³
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,20 +48,20 @@ Here are some ideas to get you started:
 - 🥇 **范曉萱** — 42 次播放
 - 🥈 **鄧麗君** — 15 次播放
 - 🥉 **Plum** — 13 次播放
-- 4️⃣ **WyvernP** — 12 次播放
-- 5️⃣ **水音世界观** — 12 次播放
+- 4️⃣ **水音世界观** — 12 次播放
+- 5️⃣ **(x²+y²-a²)³=x²y³** — 10 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Hanten (はんてん) — ME_DD、Electrode Core
 - 🥈 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🥉 Sanctuary — t+pazolite
-- 4️⃣ 我怀念的 — 孫燕姿
+- 🥉 我怀念的 — 孫燕姿
+- 4️⃣ Sanctuary — t+pazolite
 - 5️⃣ 水音世界观--6月23日--台湾新竹空军基地发生爆炸，造成三人受伤。美国汽车巨头将开始生产武器，包括战斧巡航导弹和爱国者防空系统。 — 水音世界观
 
 **💿 热门专辑**  
 - 🥇 **谁是心上人少年爱姑娘** — 鄧麗君
-- 🥈 **The Hoard of Birthstones** — WyvernP
-- 🥉 **好想談戀愛** — 范曉萱
+- 🥈 **好想談戀愛** — 范曉萱
+- 🥉 **小魔女的魔法書** — 范曉萱
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/28 23:38:03*
+*更新时间: 2026/6/29 03:54:43*
 <!-- LASTFM_END -->
