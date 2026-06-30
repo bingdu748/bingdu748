@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **鄧麗君** — 15 次播放
 - 🥉 **Plum** — 13 次播放
 - 4️⃣ **(x²+y²-a²)³=x²y³** — 10 次播放
-- 5️⃣ **水音世界观** — 10 次播放
+- 5️⃣ **水音世界观** — 9 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Hanten (はんてん) — ME_DD、Electrode Core
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/29 22:36:18*
+*更新时间: 2026/6/30 00:03:51*
 <!-- LASTFM_END -->
