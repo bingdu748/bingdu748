@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **范曉萱** — 21 次播放
-- 🥈 **鄧麗君** — 15 次播放
-- 🥉 **Plum** — 13 次播放
-- 4️⃣ **(x²+y²-a²)³=x²y³** — 10 次播放
-- 5️⃣ **水音世界观** — 9 次播放
+- 🥇 **鄧麗君** — 15 次播放
+- 🥈 **Plum** — 13 次播放
+- 🥉 **(x²+y²-a²)³=x²y³** — 10 次播放
+- 4️⃣ **水音世界观** — 8 次播放
+- 5️⃣ **HinoK1y** — 6 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Hanten (はんてん) — ME_DD、Electrode Core
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **谁是心上人少年爱姑娘** — 鄧麗君
-- 🥈 **好想談戀愛** — 范曉萱
-- 🥉 **小魔女的魔法書** — 范曉萱
+- 🥈 **夏日的迷惘** — (x²+y²-a²)³=x²y³
+- 🥉 **东方Project Piano ver.** — HinoK1y
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/30 00:03:51*
+*更新时间: 2026/6/30 04:44:43*
 <!-- LASTFM_END -->
