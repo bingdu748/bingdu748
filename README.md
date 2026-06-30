@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 ### 📆 本月精选
 
 **🎤 本月艺术家**  
-- 🥇 **a_hisa**
-- 🥈 **Plum**
+- 🥇 **Plum**
+- 🥈 **a_hisa**
 - 🥉 **林俊傑**
 
 **🎶 本月歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/30 16:36:14*
+*更新时间: 2026/6/30 18:56:09*
 <!-- LASTFM_END -->
