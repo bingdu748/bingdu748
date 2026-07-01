@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,145 次 |
-| 🎤 歌手总计 | 19,143 位 |
-| 💿 专辑总计 | 20,097 张 |
-| 🎶 歌曲总计 | 61,451 首 |
+| 🎧 播放总次数 | 83,148 次 |
+| 🎤 歌手总计 | 19,144 位 |
+| 💿 专辑总计 | 20,098 张 |
+| 🎶 歌曲总计 | 61,452 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 Oes — Claudio PRC
+- 🎵 夏日第五号 — (x²+y²-a²)³=x²y³
+- 🎵 Sync — (x²+y²-a²)³=x²y³
 - 🎵 水音世界观--6月30日--特朗普被當眾打臉！伊朗拒絕多哈談判，美伊「和平騙局」徹底玩火自焚！ — 水音世界观
 - 🎵 水音世界观--6月30日-老特自導自演「假和平」！多哈談判遭伊朗無情拆穿，美伊陷入極限拉扯死局！ — 水音世界观
-- 🎵 汉娜意外获得控制雪莉的娃娃 — 我很bang
-- 🎵 塔克拉玛干沙漠中出现了许多“沙漠之眼”奇观，这是生态改善的鲜活见证。 — 摄影师王汉冰
-- 🎵 塔克拉玛干“渴”了一千年，3小时喝吐了 — 随心Kan世界
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,21 +46,21 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **Plum** — 13 次播放
-- 🥈 **鄧麗君** — 10 次播放
-- 🥉 **(x²+y²-a²)³=x²y³** — 9 次播放
+- 🥈 **(x²+y²-a²)³=x²y³** — 11 次播放
+- 🥉 **鄧麗君** — 10 次播放
 - 4️⃣ **水音世界观** — 8 次播放
 - 5️⃣ **HinoK1y** — 6 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Hanten (はんてん) — ME_DD、Electrode Core
-- 🥈 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🥉 Sanctuary — t+pazolite
+- 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
+- 🥈 Hanten (はんてん) — ME_DD、Electrode Core
+- 🥉 Sync — (x²+y²-a²)³=x²y³
 - 4️⃣ Midsummer Lightrail — (x²+y²-a²)³=x²y³
-- 5️⃣ Sync — (x²+y²-a²)³=x²y³
+- 5️⃣ ラストリモート-东方地灵殿(Piano ver.) — HinoK1y
 
 **💿 热门专辑**  
-- 🥇 **谁是心上人少年爱姑娘** — 鄧麗君
-- 🥈 **夏日的迷惘** — (x²+y²-a²)³=x²y³
+- 🥇 **夏日的迷惘** — (x²+y²-a²)³=x²y³
+- 🥈 **谁是心上人少年爱姑娘** — 鄧麗君
 - 🥉 **东方Project Piano ver.** — HinoK1y
 
 ---
@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
-- 🥈 Hanten (はんてん) — ME_DD、Electrode Core
-- 🥉 江南 — 林俊傑
+- 🥈 夏日第五号 — (x²+y²-a²)³=x²y³
+- 🥉 Hanten (はんてん) — ME_DD、Electrode Core
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/1 11:38:08*
+*更新时间: 2026/7/1 14:34:55*
 <!-- LASTFM_END -->
