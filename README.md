@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,097 张 |
 | 🎶 歌曲总计 | 61,450 首 |
 
-🎧 **正在播放：** 水音世界观--6月30日-老特自導自演「假和平」！多哈談判遭伊朗無情拆穿，美伊陷入極限拉扯死局！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--6月30日-老特自導自演「假和平」！多哈談判遭伊朗無情拆穿，美伊陷入極限拉扯死局！ — 水音世界观
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **鄧麗君** — 15 次播放
-- 🥈 **Plum** — 13 次播放
+- 🥇 **Plum** — 13 次播放
+- 🥈 **鄧麗君** — 10 次播放
 - 🥉 **(x²+y²-a²)³=x²y³** — 9 次播放
 - 4️⃣ **水音世界观** — 9 次播放
 - 5️⃣ **HinoK1y** — 6 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/6/30 23:44:14*
+*更新时间: 2026/7/1 03:53:04*
 <!-- LASTFM_END -->
