@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,150 次 |
+| 🎧 播放总次数 | 83,151 次 |
 | 🎤 歌手总计 | 19,145 位 |
 | 💿 专辑总计 | 20,099 张 |
 | 🎶 歌曲总计 | 61,454 首 |
 
-🎧 **正在播放：** 水音世界观--7月1日--普京終於放權了！北極開發權移交中國，我國這把要徹底開啟全球商貿新航線！ — 水音世界观
+
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月1日--普京終於放權了！北極開發權移交中國，我國這把要徹底開啟全球商貿新航線！ — 水音世界观
 - 🎵 水音世界观--7月1日--普京終於放權了！北極開發權移交中國，我國這把要徹底開啟全球商貿新航線！ — 水音世界观
 - 🎵 The Vancori Complex — Neel
 - 🎵 Oes — Claudio PRC
 - 🎵 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🎵 Sync — (x²+y²-a²)³=x²y³
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum** — 13 次播放
 - 🥈 **(x²+y²-a²)³=x²y³** — 11 次播放
-- 🥉 **鄧麗君** — 10 次播放
-- 4️⃣ **水音世界观** — 7 次播放
-- 5️⃣ **HinoK1y** — 6 次播放
+- 🥉 **水音世界观** — 8 次播放
+- 4️⃣ **HinoK1y** — 6 次播放
+- 5️⃣ **ME_DD、Electrode Core** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **夏日的迷惘** — (x²+y²-a²)³=x²y³
-- 🥈 **谁是心上人少年爱姑娘** — 鄧麗君
-- 🥉 **东方Project Piano ver.** — HinoK1y
+- 🥈 **东方Project Piano ver.** — HinoK1y
+- 🥉 **Hanten (はんてん)** — ME_DD、Electrode Core
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/2 00:06:49*
+*更新时间: 2026/7/2 04:39:29*
 <!-- LASTFM_END -->
