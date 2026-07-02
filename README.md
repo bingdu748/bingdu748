@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,151 次 |
+| 🎧 播放总次数 | 83,152 次 |
 | 🎤 歌手总计 | 19,145 位 |
 | 💿 专辑总计 | 20,099 张 |
-| 🎶 歌曲总计 | 61,454 首 |
+| 🎶 歌曲总计 | 61,455 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月1日--歐洲地鐵熱成烤箱！法國醫院沒冷氣，為什麼只有中國地鐵能做到全覆蓋？ — 水音世界观
 - 🎵 水音世界观--7月1日--普京終於放權了！北極開發權移交中國，我國這把要徹底開啟全球商貿新航線！ — 水音世界观
 - 🎵 水音世界观--7月1日--普京終於放權了！北極開發權移交中國，我國這把要徹底開啟全球商貿新航線！ — 水音世界观
 - 🎵 The Vancori Complex — Neel
 - 🎵 Oes — Claudio PRC
-- 🎵 夏日第五号 — (x²+y²-a²)³=x²y³
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **Plum**
-- 🥈 **a_hisa**
-- 🥉 **林俊傑**
+- 🥈 **林俊傑**
+- 🥉 **a_hisa**
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/2 08:11:02*
+*更新时间: 2026/7/2 11:06:13*
 <!-- LASTFM_END -->
