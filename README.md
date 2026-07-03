@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum** — 13 次播放
-- 🥈 **(x²+y²-a²)³=x²y³** — 11 次播放
-- 🥉 **水音世界观** — 7 次播放
-- 4️⃣ **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
-- 5️⃣ **HinoK1y** — 6 次播放
+- 🥇 **(x²+y²-a²)³=x²y³** — 11 次播放
+- 🥈 **水音世界观** — 7 次播放
+- 🥉 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
+- 4️⃣ **HinoK1y** — 6 次播放
+- 5️⃣ **ME_DD、Electrode Core** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/3 12:14:40*
+*更新时间: 2026/7/3 14:41:12*
 <!-- LASTFM_END -->
