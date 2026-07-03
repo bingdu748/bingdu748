@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,172 次 |
+| 🎧 播放总次数 | 83,174 次 |
 | 🎤 歌手总计 | 19,164 位 |
 | 💿 专辑总计 | 20,118 张 |
-| 🎶 歌曲总计 | 61,480 首 |
+| 🎶 歌曲总计 | 61,481 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
+- 🎵 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
 - 🎵 虹 — Aqua Timez
 - 🎵 No More Cry — D-51
 - 🎵 Symphony No. 5: IV. Adagietto. Sehr langsam — Gustav Mahler, Berliner Philharmoniker, Claudio Abbado
-- 🎵 The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
-- 🎵 The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum** — 13 次播放
 - 🥈 **(x²+y²-a²)³=x²y³** — 11 次播放
-- 🥉 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
-- 4️⃣ **HinoK1y** — 6 次播放
-- 5️⃣ **水音世界观** — 6 次播放
+- 🥉 **水音世界观** — 7 次播放
+- 4️⃣ **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
+- 5️⃣ **HinoK1y** — 6 次播放
 
 **🎶 热门歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/3 09:58:31*
+*更新时间: 2026/7/3 12:14:40*
 <!-- LASTFM_END -->
