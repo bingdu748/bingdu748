@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,160 次 |
-| 🎤 歌手总计 | 19,147 位 |
-| 💿 专辑总计 | 20,101 张 |
-| 🎶 歌曲总计 | 61,463 首 |
+| 🎧 播放总次数 | 83,172 次 |
+| 🎤 歌手总计 | 19,164 位 |
+| 💿 专辑总计 | 20,118 张 |
+| 🎶 歌曲总计 | 61,480 首 |
 
-🎧 **正在播放：** The Planets, Op. 32: VI. Uranus, the Magician — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
+
 
 **🎵 最近在听**  
-- 🎵 The Planets, Op. 32: VI. Uranus, the Magician — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
-- 🎵 The Planets, Op. 32: V. Saturn, the Bringer of Old Age — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
-- 🎵 The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
-- 🎵 The Planets, Op. 32: III. Mercury, the Winged Messenger — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
-- 🎵 The Planets, Op. 32: II. Venus, the Bringer of Peace — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
+- 🎵 虹 — Aqua Timez
+- 🎵 No More Cry — D-51
+- 🎵 Symphony No. 5: IV. Adagietto. Sehr langsam — Gustav Mahler, Berliner Philharmoniker, Claudio Abbado
+- 🎵 The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
+- 🎵 The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum** — 13 次播放
 - 🥈 **(x²+y²-a²)³=x²y³** — 11 次播放
-- 🥉 **水音世界观** — 9 次播放
-- 4️⃣ **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
-- 5️⃣ **HinoK1y** — 6 次播放
+- 🥉 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
+- 4️⃣ **HinoK1y** — 6 次播放
+- 5️⃣ **水音世界观** — 6 次播放
 
 **🎶 热门歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
 - 🥈 Hanten (はんてん) — ME_DD、Electrode Core
 - 🥉 Sync — (x²+y²-a²)³=x²y³
 - 4️⃣ Midsummer Lightrail — (x²+y²-a²)³=x²y³
-- 5️⃣ ラストリモート-东方地灵殿(Piano ver.) — HinoK1y
+- 5️⃣ Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
 
 **💿 热门专辑**  
 - 🥇 **夏日的迷惘** — (x²+y²-a²)³=x²y³
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/3 06:36:07*
+*更新时间: 2026/7/3 09:58:31*
 <!-- LASTFM_END -->
