@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 - 🥇 **(x²+y²-a²)³=x²y³** — 10 次播放
 - 🥈 **水音世界观** — 7 次播放
 - 🥉 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
-- 4️⃣ **ME_DD、Electrode Core** — 5 次播放
-- 5️⃣ **Plum** — 4 次播放
+- 4️⃣ **ME_DD、Electrode Core** — 4 次播放
+- 5️⃣ **镜哥的世界** — 4 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Hanten (はんてん) — ME_DD、Electrode Core
-- 🥈 夏日第五号 — (x²+y²-a²)³=x²y³
+- 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
+- 🥈 Hanten (はんてん) — ME_DD、Electrode Core
 - 🥉 Sync — (x²+y²-a²)³=x²y³
 - 4️⃣ Midsummer Lightrail — (x²+y²-a²)³=x²y³
 - 5️⃣ Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/4 04:10:39*
+*更新时间: 2026/7/4 07:21:49*
 <!-- LASTFM_END -->
