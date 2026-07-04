@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,118 张 |
 | 🎶 歌曲总计 | 61,488 首 |
 
-🎧 **正在播放：** 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/4 17:33:45*
+*更新时间: 2026/7/4 19:12:21*
 <!-- LASTFM_END -->
