@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,174 次 |
-| 🎤 歌手总计 | 19,164 位 |
+| 🎧 播放总次数 | 83,180 次 |
+| 🎤 歌手总计 | 19,166 位 |
 | 💿 专辑总计 | 20,118 张 |
-| 🎶 歌曲总计 | 61,481 首 |
+| 🎶 歌曲总计 | 61,487 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
-- 🎵 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
-- 🎵 虹 — Aqua Timez
-- 🎵 No More Cry — D-51
-- 🎵 Symphony No. 5: IV. Adagietto. Sehr langsam — Gustav Mahler, Berliner Philharmoniker, Claudio Abbado
+- 🎵 别让空调毁掉欧洲的艺术 — 归零者三号
+- 🎵 “胆小”的新西兰毛利勇士独自一人夜逛广州：出门恐惧症被治愈了 — 镜哥的世界
+- 🎵 外网热议中国贫民窟：你们管这叫“贫民窟”，我想去那里生活 — 镜哥的世界
+- 🎵 中国低收入者的日常火爆外网，外国网友：这样的生活我想要！ — 镜哥的世界
+- 🎵 欧美网友被一个中国批评家伤害了：中国让我们怀疑一切 — 镜哥的世界
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,15 +45,15 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **(x²+y²-a²)³=x²y³** — 11 次播放
+- 🥇 **(x²+y²-a²)³=x²y³** — 10 次播放
 - 🥈 **水音世界观** — 7 次播放
 - 🥉 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
-- 4️⃣ **HinoK1y** — 6 次播放
-- 5️⃣ **ME_DD、Electrode Core** — 5 次播放
+- 4️⃣ **ME_DD、Electrode Core** — 5 次播放
+- 5️⃣ **Plum** — 4 次播放
 
 **🎶 热门歌曲**  
-- 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🥈 Hanten (はんてん) — ME_DD、Electrode Core
+- 🥇 Hanten (はんてん) — ME_DD、Electrode Core
+- 🥈 夏日第五号 — (x²+y²-a²)³=x²y³
 - 🥉 Sync — (x²+y²-a²)³=x²y³
 - 4️⃣ Midsummer Lightrail — (x²+y²-a²)³=x²y³
 - 5️⃣ Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 **💿 热门专辑**  
 - 🥇 **夏日的迷惘** — (x²+y²-a²)³=x²y³
 - 🥈 **Holst: The Planets** — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
-- 🥉 **东方Project Piano ver.** — HinoK1y
+- 🥉 **Hanten (はんてん)** — ME_DD、Electrode Core
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/4 00:03:36*
+*更新时间: 2026/7/4 04:10:39*
 <!-- LASTFM_END -->
