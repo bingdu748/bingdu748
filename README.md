@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,182 次 |
-| 🎤 歌手总计 | 19,166 位 |
-| 💿 专辑总计 | 20,118 张 |
-| 🎶 歌曲总计 | 61,488 首 |
+| 🎧 播放总次数 | 83,192 次 |
+| 🎤 歌手总计 | 19,171 位 |
+| 💿 专辑总计 | 20,126 张 |
+| 🎶 歌曲总计 | 61,496 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
-- 🎵 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
-- 🎵 别让空调毁掉欧洲的艺术 — 归零者三号
-- 🎵 “胆小”的新西兰毛利勇士独自一人夜逛广州：出门恐惧症被治愈了 — 镜哥的世界
-- 🎵 外网热议中国贫民窟：你们管这叫“贫民窟”，我想去那里生活 — 镜哥的世界
+- 🎵 ATRIA -With Earth's Shadow- — Rigel Theatre
+- 🎵 Echomory — ity
+- 🎵 Dawn of Asia (ginkiha mix) — ginkiha
+- 🎵 your princess (nyamura ver.) — picco、nyamura
+- 🎵 Beautiful Nightmare — bludnymph、Alan Walker
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/5 00:05:06*
+*更新时间: 2026/7/5 04:39:27*
 <!-- LASTFM_END -->
