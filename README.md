@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,192 次 |
+| 🎧 播放总次数 | 83,197 次 |
 | 🎤 歌手总计 | 19,171 位 |
-| 💿 专辑总计 | 20,126 张 |
-| 🎶 歌曲总计 | 61,496 首 |
+| 💿 专辑总计 | 20,127 张 |
+| 🎶 歌曲总计 | 61,497 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 ATRIA -With Earth's Shadow- — Rigel Theatre
-- 🎵 Echomory — ity
-- 🎵 Dawn of Asia (ginkiha mix) — ginkiha
-- 🎵 your princess (nyamura ver.) — picco、nyamura
-- 🎵 Beautiful Nightmare — bludnymph、Alan Walker
+- 🎵 Echoes — Plum
+- 🎵 Emerald — Kirara Magic
+- 🎵 Infinity Heaven — Hyun
+- 🎵 Mermaid girl (Extended RRver.) — 森永真由美
+- 🎵 Eternity — a_hisa
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 **🎤 最爱的艺术家**  
 - 🥇 **上海アリス幻樂団** — 2,462 次播放
-- 🥈 **a_hisa** — 1,169 次播放
+- 🥈 **a_hisa** — 1,170 次播放
 - 🥉 **Relaxu** — 963 次播放
 - 4️⃣ **Various Artists** — 782 次播放
 - 5️⃣ **周杰倫** — 742 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/5 04:39:27*
+*更新时间: 2026/7/5 07:55:57*
 <!-- LASTFM_END -->
