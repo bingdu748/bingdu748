@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,197 次 |
+| 🎧 播放总次数 | 83,199 次 |
 | 🎤 歌手总计 | 19,171 位 |
 | 💿 专辑总计 | 20,127 张 |
 | 🎶 歌曲总计 | 61,497 首 |
 
-
+🎧 **正在播放：** 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
+- 🎵 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
 - 🎵 Echoes — Plum
 - 🎵 Emerald — Kirara Magic
 - 🎵 Infinity Heaven — Hyun
-- 🎵 Mermaid girl (Extended RRver.) — 森永真由美
-- 🎵 Eternity — a_hisa
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **(x²+y²-a²)³=x²y³** — 9 次播放
-- 🥈 **水音世界观** — 9 次播放
+- 🥇 **水音世界观** — 11 次播放
+- 🥈 **(x²+y²-a²)³=x²y³** — 9 次播放
 - 🥉 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
 - 4️⃣ **镜哥的世界** — 4 次播放
 - 5️⃣ **Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine** — 2 次播放
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 - 🥇 Sync — (x²+y²-a²)³=x²y³
 - 🥈 夏日第五号 — (x²+y²-a²)³=x²y³
 - 🥉 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
-- 4️⃣ Midsummer Lightrail — (x²+y²-a²)³=x²y³
-- 5️⃣ Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
+- 4️⃣ 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
+- 5️⃣ Midsummer Lightrail — (x²+y²-a²)³=x²y³
 
 **💿 热门专辑**  
 - 🥇 **夏日的迷惘** — (x²+y²-a²)³=x²y³
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/5 10:15:31*
+*更新时间: 2026/7/5 11:54:02*
 <!-- LASTFM_END -->
