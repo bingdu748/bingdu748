@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,200 次 |
+| 🎧 播放总次数 | 83,202 次 |
 | 🎤 歌手总计 | 19,171 位 |
 | 💿 专辑总计 | 20,127 张 |
-| 🎶 歌曲总计 | 61,498 首 |
+| 🎶 歌曲总计 | 61,499 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 7月5日直播1。泽连斯基猛烈打反击。世界局势今日热点。 — 全球动态局势
+- 🎵 7月5日直播1。泽连斯基猛烈打反击。世界局势今日热点。 — 全球动态局势
 - 🎵 水音世界观--7月3日--翻臉比翻書快！波蘭撤銷澤連斯基勳章，歐洲最強「援烏鐵桿」徹底倒戈！ — 水音世界观
 - 🎵 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
 - 🎵 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
-- 🎵 Echoes — Plum
-- 🎵 Emerald — Kirara Magic
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,21 +46,21 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **水音世界观** — 12 次播放
-- 🥈 **(x²+y²-a²)³=x²y³** — 6 次播放
-- 🥉 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
+- 🥈 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
+- 🥉 **(x²+y²-a²)³=x²y³** — 4 次播放
 - 4️⃣ **镜哥的世界** — 4 次播放
 - 5️⃣ **Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine** — 2 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Sync — (x²+y²-a²)³=x²y³
-- 🥈 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
-- 🥉 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
-- 4️⃣ 夏日第五号 — (x²+y²-a²)³=x²y³
-- 5️⃣ Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
+- 🥇 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
+- 🥈 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
+- 🥉 夏日第五号 — (x²+y²-a²)³=x²y³
+- 4️⃣ Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
+- 5️⃣ The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
 
 **💿 热门专辑**  
-- 🥇 **夏日的迷惘** — (x²+y²-a²)³=x²y³
-- 🥈 **Holst: The Planets** — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
+- 🥇 **Holst: The Planets** — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
+- 🥈 **夏日的迷惘** — (x²+y²-a²)³=x²y³
 - 🥉 **Saint-Saëns: Symphony No.3 "Organ"** — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
 
 ---
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/5 23:35:17*
+*更新时间: 2026/7/6 03:31:05*
 <!-- LASTFM_END -->
