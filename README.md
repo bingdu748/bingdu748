@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **水音世界观** — 12 次播放
 - 🥈 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
-- 🥉 **(x²+y²-a²)³=x²y³** — 4 次播放
-- 4️⃣ **镜哥的世界** — 4 次播放
+- 🥉 **镜哥的世界** — 4 次播放
+- 4️⃣ **(x²+y²-a²)³=x²y³** — 2 次播放
 - 5️⃣ **Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine** — 2 次播放
 
 **🎶 热门歌曲**  
 - 🥇 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
 - 🥈 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
-- 🥉 夏日第五号 — (x²+y²-a²)³=x²y³
-- 4️⃣ Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
-- 5️⃣ The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
+- 🥉 Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
+- 4️⃣ The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
+- 5️⃣ 7月5日直播1。泽连斯基猛烈打反击。世界局势今日热点。 — 全球动态局势
 
 **💿 热门专辑**  
 - 🥇 **Holst: The Planets** — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/6 03:31:05*
+*更新时间: 2026/7/6 08:19:27*
 <!-- LASTFM_END -->
