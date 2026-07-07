@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,204 次 |
-| 🎤 歌手总计 | 19,171 位 |
-| 💿 专辑总计 | 20,127 张 |
-| 🎶 歌曲总计 | 61,501 首 |
+| 🎧 播放总次数 | 83,223 次 |
+| 🎤 歌手总计 | 19,188 位 |
+| 💿 专辑总计 | 20,145 张 |
+| 🎶 歌曲总计 | 61,519 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 7月4日直播1。中东伊朗这两天的最新动态。世界局势今日热点。 — 全球动态局势
-- 🎵 7月6日名妍说。美国庆祝250的时候，伊朗同时举办葬礼。世界局势今日热点。 — 全球动态局势
-- 🎵 7月5日直播1。泽连斯基猛烈打反击。世界局势今日热点。 — 全球动态局势
-- 🎵 7月5日直播1。泽连斯基猛烈打反击。世界局势今日热点。 — 全球动态局势
-- 🎵 水音世界观--7月3日--翻臉比翻書快！波蘭撤銷澤連斯基勳章，歐洲最強「援烏鐵桿」徹底倒戈！ — 水音世界观
+- 🎵 St. Paul's Suite, Op. 29 No. 2, H 118: 4. Finale (The Dargasson): Allegro — Gustav Holst, Saint Paul Chamber Orchestra, Christopher Hogwood
+- 🎵 Waltz — Aram Khachaturian, St. Petersburg State Symphony Orchestra, Andre Anichanov
+- 🎵 None but the lonely heart, Op. 6, No. 6 — Pyotr Ilyich Tchaikovsky, Isaac Stern, Milton Katims, Columbia Symphony Orchestra
+- 🎵 The Four Seasons: Concerto No. 2 in G Minor, RV 315 "L'estate" (summer): III. Presto — Antonio Vivaldi, Adrian Chandler, La Serenissima
+- 🎵 La campanella in G-Sharp Minor (From "Grandes études de Paganini", S. 141/3) — Franz Liszt, 郎朗
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 🥈 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
 - 🥉 Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
 - 4️⃣ The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
-- 5️⃣ 7月5日直播1。泽连斯基猛烈打反击。世界局势今日热点。 — 全球动态局势
+- 5️⃣ The Planets Suite, Op. 32: IV. Jupiter — Gustav Holst, Vladimir Jurowski, London Philharmonic Choir, London Philharmonic Orchestra, Neville Creed
 
 **💿 热门专辑**  
 - 🥇 **Holst: The Planets** — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/7 01:16:28*
+*更新时间: 2026/7/7 05:37:14*
 <!-- LASTFM_END -->
