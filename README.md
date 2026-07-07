@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,233 次 |
+| 🎧 播放总次数 | 83,234 次 |
 | 🎤 歌手总计 | 19,189 位 |
 | 💿 专辑总计 | 20,146 张 |
-| 🎶 歌曲总计 | 61,529 首 |
+| 🎶 歌曲总计 | 61,530 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 Modi plays Takaichi with "Sister": A lifeline or a perfect trap? — 小懒哈哈哈 | TrendPulse
 - 🎵 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 🎵 II. Habanera — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 🎵 I. Marche des contrebandiers — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 🎵 VI. Les toréadors — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 🎵 V. Les dragons d'Alcala — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **Plum**
-- 🥈 **林俊傑**
-- 🥉 **范曉萱**
+- 🥈 **范曉萱**
+- 🥉 **林俊傑**
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/7 09:40:25*
+*更新时间: 2026/7/7 12:27:01*
 <!-- LASTFM_END -->
