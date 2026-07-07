@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,223 次 |
-| 🎤 歌手总计 | 19,188 位 |
-| 💿 专辑总计 | 20,145 张 |
-| 🎶 歌曲总计 | 61,519 首 |
+| 🎧 播放总次数 | 83,233 次 |
+| 🎤 歌手总计 | 19,189 位 |
+| 💿 专辑总计 | 20,146 张 |
+| 🎶 歌曲总计 | 61,529 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 St. Paul's Suite, Op. 29 No. 2, H 118: 4. Finale (The Dargasson): Allegro — Gustav Holst, Saint Paul Chamber Orchestra, Christopher Hogwood
-- 🎵 Waltz — Aram Khachaturian, St. Petersburg State Symphony Orchestra, Andre Anichanov
-- 🎵 None but the lonely heart, Op. 6, No. 6 — Pyotr Ilyich Tchaikovsky, Isaac Stern, Milton Katims, Columbia Symphony Orchestra
-- 🎵 The Four Seasons: Concerto No. 2 in G Minor, RV 315 "L'estate" (summer): III. Presto — Antonio Vivaldi, Adrian Chandler, La Serenissima
-- 🎵 La campanella in G-Sharp Minor (From "Grandes études de Paganini", S. 141/3) — Franz Liszt, 郎朗
+- 🎵 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🎵 II. Habanera — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🎵 I. Marche des contrebandiers — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🎵 VI. Les toréadors — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🎵 V. Les dragons d'Alcala — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **水音世界观** — 12 次播放
-- 🥈 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
-- 🥉 **全球动态局势** — 4 次播放
-- 4️⃣ **镜哥的世界** — 4 次播放
-- 5️⃣ **(x²+y²-a²)³=x²y³** — 2 次播放
+- 🥈 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 10 次播放
+- 🥉 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
+- 4️⃣ **全球动态局势** — 4 次播放
+- 5️⃣ **镜哥的世界** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ The Planets Suite, Op. 32: IV. Jupiter — Gustav Holst, Vladimir Jurowski, London Philharmonic Choir, London Philharmonic Orchestra, Neville Creed
 
 **💿 热门专辑**  
-- 🥇 **Holst: The Planets** — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
-- 🥈 **夏日的迷惘** — (x²+y²-a²)³=x²y³
-- 🥉 **Saint-Saëns: Symphony No.3 "Organ"** — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
+- 🥇 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🥈 **Holst: The Planets** — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
+- 🥉 **夏日的迷惘** — (x²+y²-a²)³=x²y³
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/7 05:37:14*
+*更新时间: 2026/7/7 09:40:25*
 <!-- LASTFM_END -->
