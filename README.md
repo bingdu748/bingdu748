@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,236 次 |
+| 🎧 播放总次数 | 83,241 次 |
 | 🎤 歌手总计 | 19,189 位 |
-| 💿 专辑总计 | 20,146 张 |
-| 🎶 歌曲总计 | 61,531 首 |
+| 💿 专辑总计 | 20,148 张 |
+| 🎶 歌曲总计 | 61,536 首 |
 
-
+🎧 **正在播放：** 7月7日直播1。喜事一桩接一桩。世界局势今日热点。 — 全球动态局势
 
 **🎵 最近在听**  
-- 🎵 Modi plays Takaichi with "Sister": A lifeline or a perfect trap? — 小懒哈哈哈 | TrendPulse
-- 🎵 7月7日名妍说。哈梅内伊葬礼很热闹，白吃白喝的也不少。世界局势今日热点。 — 全球动态局势
-- 🎵 7月7日名妍说。哈梅内伊葬礼很热闹，白吃白喝的也不少。世界局势今日热点。 — 全球动态局势
-- 🎵 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 🎵 II. Habanera — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🎵 7月7日直播1。喜事一桩接一桩。世界局势今日热点。 — 全球动态局势
+- 🎵 時をかける神様 — Foxtail-Grass Studio
+- 🎵 水音世界观--7月6日--美國建國250年大慶，富蘭克林大橋在火光中灰飛煙滅，預示霸權終局！ — 水音世界观
+- 🎵 眠れる森の王子 — 葉月ゆら
+- 🎵 巴赫旧约 — 汪苏泷
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **水音世界观** — 12 次播放
 - 🥈 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 10 次播放
-- 🥉 **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
-- 4️⃣ **全球动态局势** — 6 次播放
+- 🥉 **全球动态局势** — 7 次播放
+- 4️⃣ **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
 - 5️⃣ **镜哥的世界** — 4 次播放
 
 **🎶 热门歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/7 22:37:02*
+*更新时间: 2026/7/7 23:57:21*
 <!-- LASTFM_END -->
