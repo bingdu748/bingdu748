@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,156 张 |
 | 🎶 歌曲总计 | 61,555 首 |
 
-🎧 **正在播放：** 水音世界观--7月8日--震撼亮剑！中国巨浪-3公海百发百中，普京随即开启“炼狱模式”大反击！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--7月8日--震撼亮剑！中国巨浪-3公海百发百中，普京随即开启“炼狱模式”大反击！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/8 13:03:19*
+*更新时间: 2026/7/8 15:40:58*
 <!-- LASTFM_END -->
