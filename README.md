@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,241 次 |
-| 🎤 歌手总计 | 19,189 位 |
-| 💿 专辑总计 | 20,148 张 |
-| 🎶 歌曲总计 | 61,536 首 |
+| 🎧 播放总次数 | 83,262 次 |
+| 🎤 歌手总计 | 19,197 位 |
+| 💿 专辑总计 | 20,156 张 |
+| 🎶 歌曲总计 | 61,553 首 |
 
-🎧 **正在播放：** 7月7日直播1。喜事一桩接一桩。世界局势今日热点。 — 全球动态局势
+🎧 **正在播放：** Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato (Radio Edit) — Edvard Grieg, Alexandra Dariescu, Philharmonia Orchestra, Tianyi Lu
 
 **🎵 最近在听**  
-- 🎵 7月7日直播1。喜事一桩接一桩。世界局势今日热点。 — 全球动态局势
-- 🎵 時をかける神様 — Foxtail-Grass Studio
-- 🎵 水音世界观--7月6日--美國建國250年大慶，富蘭克林大橋在火光中灰飛煙滅，預示霸權終局！ — 水音世界观
-- 🎵 眠れる森の王子 — 葉月ゆら
-- 🎵 巴赫旧约 — 汪苏泷
+- 🎵 Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato (Radio Edit) — Edvard Grieg, Alexandra Dariescu, Philharmonia Orchestra, Tianyi Lu
+- 🎵 Peer Gynt Suite No.1 op. 46 Morning (Allegro pastorale) — Academy of St. Martin in the Fields
+- 🎵 Carmen Suite No. 1: 2. Aragonaise — Georges Bizet, Orchestre de Paris, Semyon Bychkov
+- 🎵 Hungarian Dance No. 5 in G Minor, WoO 1, No. 5 — Johannes Brahms, Budapest Festival Orchestra, Iván Fischer
+- 🎵 Boccherini: String Quintet in E Major, Op. 11 No. 5, G. 275: III. Minuetto - Trio (Arr. Woodhouse for String Orchestra) — Luigi Boccherini, Sir Neville Marriner, Academy of St. Martin in the Fields
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,18 +45,18 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **水音世界观** — 12 次播放
-- 🥈 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 10 次播放
-- 🥉 **全球动态局势** — 7 次播放
+- 🥇 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
+- 🥈 **水音世界观** — 12 次播放
+- 🥉 **全球动态局势** — 8 次播放
 - 4️⃣ **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
 - 5️⃣ **镜哥的世界** — 4 次播放
 
 **🎶 热门歌曲**  
-- 🥇 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
-- 🥈 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
-- 🥉 Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
-- 4️⃣ The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
-- 5️⃣ The Planets Suite, Op. 32: IV. Jupiter — Gustav Holst, Vladimir Jurowski, London Philharmonic Choir, London Philharmonic Orchestra, Neville Creed
+- 🥇 7月7日名妍说。哈梅内伊葬礼很热闹，白吃白喝的也不少。世界局势今日热点。 — 全球动态局势
+- 🥈 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
+- 🥉 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
+- 4️⃣ Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
+- 5️⃣ I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 
 **💿 热门专辑**  
 - 🥇 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/7 23:57:21*
+*更新时间: 2026/7/8 03:22:11*
 <!-- LASTFM_END -->
