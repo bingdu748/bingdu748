@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,156 张 |
 | 🎶 歌曲总计 | 61,553 首 |
 
-🎧 **正在播放：** Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato (Radio Edit) — Edvard Grieg, Alexandra Dariescu, Philharmonia Orchestra, Tianyi Lu
+
 
 **🎵 最近在听**  
 - 🎵 Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato (Radio Edit) — Edvard Grieg, Alexandra Dariescu, Philharmonia Orchestra, Tianyi Lu
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/8 03:22:11*
+*更新时间: 2026/7/8 06:12:24*
 <!-- LASTFM_END -->
