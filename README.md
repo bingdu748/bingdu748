@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,262 次 |
+| 🎧 播放总次数 | 83,263 次 |
 | 🎤 歌手总计 | 19,197 位 |
 | 💿 专辑总计 | 20,156 张 |
-| 🎶 歌曲总计 | 61,553 首 |
+| 🎶 歌曲总计 | 61,554 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 07-06晚间直播，美国的250国庆节详细安排，250只是一个起点。 — 国际在线播报
 - 🎵 Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato (Radio Edit) — Edvard Grieg, Alexandra Dariescu, Philharmonia Orchestra, Tianyi Lu
 - 🎵 Peer Gynt Suite No.1 op. 46 Morning (Allegro pastorale) — Academy of St. Martin in the Fields
 - 🎵 Carmen Suite No. 1: 2. Aragonaise — Georges Bizet, Orchestre de Paris, Semyon Bychkov
 - 🎵 Hungarian Dance No. 5 in G Minor, WoO 1, No. 5 — Johannes Brahms, Budapest Festival Orchestra, Iván Fischer
-- 🎵 Boccherini: String Quintet in E Major, Op. 11 No. 5, G. 275: III. Minuetto - Trio (Arr. Woodhouse for String Orchestra) — Luigi Boccherini, Sir Neville Marriner, Academy of St. Martin in the Fields
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
-- 🥈 **水音世界观** — 12 次播放
+- 🥈 **水音世界观** — 11 次播放
 - 🥉 **全球动态局势** — 8 次播放
 - 4️⃣ **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
 - 5️⃣ **镜哥的世界** — 4 次播放
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 **🎤 本月艺术家**  
 - 🥇 **Plum**
 - 🥈 **范曉萱**
-- 🥉 **林俊傑**
+- 🥉 **a_hisa**
 
 **🎶 本月歌曲**  
 - 🥇 Feelings for you — Fahrenheit, 田馥甄
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/8 06:12:24*
+*更新时间: 2026/7/8 11:22:19*
 <!-- LASTFM_END -->
