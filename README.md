@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,266 次 |
-| 🎤 歌手总计 | 19,197 位 |
-| 💿 专辑总计 | 20,156 张 |
-| 🎶 歌曲总计 | 61,556 首 |
+| 🎧 播放总次数 | 83,318 次 |
+| 🎤 歌手总计 | 19,204 位 |
+| 💿 专辑总计 | 20,170 张 |
+| 🎶 歌曲总计 | 61,595 首 |
 
-🎧 **正在播放：** Archangel — Plum - Melodic Artist
+
 
 **🎵 最近在听**  
-- 🎵 Archangel — Plum - Melodic Artist
-- 🎵 星雨如注 — Anming_cat
-- 🎵 水音世界观--7月8日--震撼亮剑！中国巨浪-3公海百发百中，普京随即开启“炼狱模式”大反击！ — 水音世界观
-- 🎵 07-06晚间直播，美国的250国庆节详细安排，250只是一个起点。 — 国际在线播报
-- 🎵 Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato (Radio Edit) — Edvard Grieg, Alexandra Dariescu, Philharmonia Orchestra, Tianyi Lu
+- 🎵 Early summer — USAO
+- 🎵 Intro — USAO
+- 🎵 Ωκεανος — cosMo@Bousou-P
+- 🎵 Deemo Main Theme — Tzu Chien Wen
+- 🎵 nocturne - inst ver. — 梶浦 由記
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
-- 🥈 **水音世界观** — 11 次播放
-- 🥉 **全球动态局势** — 8 次播放
-- 4️⃣ **Gustav Holst, Berliner Philharmoniker, Herbert von Karajan** — 6 次播放
-- 5️⃣ **镜哥的世界** — 4 次播放
+- 🥈 **Lyssie ASMR** — 17 次播放
+- 🥉 **水音世界观** — 11 次播放
+- 4️⃣ **全球动态局势** — 8 次播放
+- 5️⃣ **寺田志保** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 7月7日名妍说。哈梅内伊葬礼很热闹，白吃白喝的也不少。世界局势今日热点。 — 全球动态局势
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 🥈 **Holst: The Planets** — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
-- 🥉 **Saint-Saëns: Symphony No.3 "Organ"** — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
+- 🥈 **DEEMO Memorial Keys Original Soundtrack** — 寺田志保
+- 🥉 **Holst: The Planets** — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/9 02:57:51*
+*更新时间: 2026/7/9 06:50:47*
 <!-- LASTFM_END -->
