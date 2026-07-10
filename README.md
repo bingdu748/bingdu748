@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
 - 🥈 **Lyssie ASMR** — 17 次播放
-- 🥉 **水音世界观** — 10 次播放
+- 🥉 **水音世界观** — 9 次播放
 - 4️⃣ **全球动态局势** — 8 次播放
 - 5️⃣ **寺田志保** — 7 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/9 23:16:59*
+*更新时间: 2026/7/10 01:08:31*
 <!-- LASTFM_END -->
