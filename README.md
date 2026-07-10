@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,345 次 |
-| 🎤 歌手总计 | 19,218 位 |
-| 💿 专辑总计 | 20,183 张 |
-| 🎶 歌曲总计 | 61,631 首 |
+| 🎧 播放总次数 | 83,349 次 |
+| 🎤 歌手总计 | 19,222 位 |
+| 💿 专辑总计 | 20,187 张 |
+| 🎶 歌曲总计 | 61,635 首 |
 
-🎧 **正在播放：** Liszt: 12 Études d'exécution transcendante, S. 139: No. 10, Appassionata — Franz Liszt, Yoav Levanon
+
 
 **🎵 最近在听**  
+- 🎵 Stravinsky: Le Sacre du printemps, Tableau II "Le sacrifice": Danse sacrale — Igor Stravinsky, Philadelphia Orchestra, Riccardo Muti
+- 🎵 Orff: Carmina Burana, Introduction "Fortuna Imperatrix Mundi": O Fortuna — Carl Orff, Sir Simon Rattle, Rundfunkchor Berlin, Berliner Philharmoniker
+- 🎵 Prokofiev: Romeo and Juliet, Op. 64, Act 1: Dance of the Knights — Sergei Prokofiev, André Previn, 倫敦交響樂團
+- 🎵 Gershwin: 3 Preludes: No. 1, Allegro ben ritmato e deciso — George Gershwin, Michel Legrand
 - 🎵 Liszt: 12 Études d'exécution transcendante, S. 139: No. 10, Appassionata — Franz Liszt, Yoav Levanon
-- 🎵 Chopin: 12 Études, Op. 10: No. 4 in C-Sharp Minor — Frédéric Chopin, Moura Lympany
-- 🎵 Chopin: 12 Études, Op. 10: No. 12 in C Minor "Revolutionary" — Frédéric Chopin, Rafael Orozco
-- 🎵 Beethoven: Symphony No. 7 in A Major, Op. 92: IV. Allegro con brio — Ludwig van Beethoven, Carlo Maria Giulini, Chicago Symphony Orchestra
-- 🎵 Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto — Antonio Vivaldi, Sarah Chang, Orpheus Chamber Orchestra
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -52,16 +52,16 @@ Here are some ideas to get you started:
 - 5️⃣ **寺田志保** — 7 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
-- 🥈 I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 🥉 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 4️⃣ IV. Chanson du toréador — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 5️⃣ The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
+- 🥇 I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🥈 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🥉 IV. Chanson du toréador — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 4️⃣ ASMR Helping You Fall Back Asleep FAST Pt.8 — Lyssie ASMR
+- 5️⃣ 我与蜘蛛同居的清晨 — (x²+y²-a²)³=x²y³
 
 **💿 热门专辑**  
 - 🥇 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 🥈 **DEEMO Memorial Keys Original Soundtrack** — 寺田志保
-- 🥉 **Holst: The Planets** — Gustav Holst, Berliner Philharmoniker, Herbert von Karajan
+- 🥉 **DEEMO Memorial Keys Original Soundtrack** — YOSHICHIKA KURIYAMA
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/10 05:34:32*
+*更新时间: 2026/7/10 09:34:07*
 <!-- LASTFM_END -->
