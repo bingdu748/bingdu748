@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,361 次 |
-| 🎤 歌手总计 | 19,223 位 |
+| 🎧 播放总次数 | 83,363 次 |
+| 🎤 歌手总计 | 19,224 位 |
 | 💿 专辑总计 | 20,188 张 |
-| 🎶 歌曲总计 | 61,646 首 |
+| 🎶 歌曲总计 | 61,648 首 |
 
-🎧 **正在播放：** School Rooftop — hisohkah/WMD
+
 
 **🎵 最近在听**  
+- 🎵 アヤノの幸福理論 — ゆめこ
+- 🎵 アヤノの幸福理論 — じん/IA
 - 🎵 ただ声一つ — Akuya
 - 🎵 ただ声一つ — ロクデナシ/MIMI
 - 🎵 The Amazing Digital Circus (Your New Home) (Felted Piano) — Relaxu/AVIAND
-- 🎵 The Amazing Digital Circus (Main Theme) (Felted Piano) — Relaxu/AVIAND
-- 🎵 Tori no Uta (鳥の詩) (Felted Piano) — Relaxu/AVIAND
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/10 15:11:48*
+*更新时间: 2026/7/10 17:18:01*
 <!-- LASTFM_END -->
