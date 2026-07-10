@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,349 次 |
-| 🎤 歌手总计 | 19,222 位 |
-| 💿 专辑总计 | 20,187 张 |
-| 🎶 歌曲总计 | 61,635 首 |
+| 🎧 播放总次数 | 83,361 次 |
+| 🎤 歌手总计 | 19,223 位 |
+| 💿 专辑总计 | 20,188 张 |
+| 🎶 歌曲总计 | 61,646 首 |
 
-
+🎧 **正在播放：** School Rooftop — hisohkah/WMD
 
 **🎵 最近在听**  
-- 🎵 Stravinsky: Le Sacre du printemps, Tableau II "Le sacrifice": Danse sacrale — Igor Stravinsky, Philadelphia Orchestra, Riccardo Muti
-- 🎵 Orff: Carmina Burana, Introduction "Fortuna Imperatrix Mundi": O Fortuna — Carl Orff, Sir Simon Rattle, Rundfunkchor Berlin, Berliner Philharmoniker
-- 🎵 Prokofiev: Romeo and Juliet, Op. 64, Act 1: Dance of the Knights — Sergei Prokofiev, André Previn, 倫敦交響樂團
-- 🎵 Gershwin: 3 Preludes: No. 1, Allegro ben ritmato e deciso — George Gershwin, Michel Legrand
-- 🎵 Liszt: 12 Études d'exécution transcendante, S. 139: No. 10, Appassionata — Franz Liszt, Yoav Levanon
+- 🎵 ただ声一つ — Akuya
+- 🎵 ただ声一つ — ロクデナシ/MIMI
+- 🎵 The Amazing Digital Circus (Your New Home) (Felted Piano) — Relaxu/AVIAND
+- 🎵 The Amazing Digital Circus (Main Theme) (Felted Piano) — Relaxu/AVIAND
+- 🎵 Tori no Uta (鳥の詩) (Felted Piano) — Relaxu/AVIAND
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
 - 🥈 **Lyssie ASMR** — 17 次播放
-- 🥉 **Relaxu** — 12 次播放
-- 4️⃣ **Relaxu/AVIAND** — 7 次播放
+- 🥉 **Relaxu/AVIAND** — 17 次播放
+- 4️⃣ **Relaxu** — 12 次播放
 - 5️⃣ **寺田志保** — 7 次播放
 
 **🎶 热门歌曲**  
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 🥈 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 🥉 IV. Chanson du toréador — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 4️⃣ ASMR Helping You Fall Back Asleep FAST Pt.8 — Lyssie ASMR
-- 5️⃣ 我与蜘蛛同居的清晨 — (x²+y²-a²)³=x²y³
+- 5️⃣ ただ声一つ — ロクデナシ/MIMI
 
 **💿 热门专辑**  
 - 🥇 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/10 12:24:26*
+*更新时间: 2026/7/10 15:11:48*
 <!-- LASTFM_END -->
