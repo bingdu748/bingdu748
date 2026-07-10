@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,318 次 |
-| 🎤 歌手总计 | 19,204 位 |
-| 💿 专辑总计 | 20,170 张 |
-| 🎶 歌曲总计 | 61,595 首 |
+| 🎧 播放总次数 | 83,345 次 |
+| 🎤 歌手总计 | 19,218 位 |
+| 💿 专辑总计 | 20,183 张 |
+| 🎶 歌曲总计 | 61,631 首 |
 
-
+🎧 **正在播放：** Liszt: 12 Études d'exécution transcendante, S. 139: No. 10, Appassionata — Franz Liszt, Yoav Levanon
 
 **🎵 最近在听**  
-- 🎵 Early summer — USAO
-- 🎵 Intro — USAO
-- 🎵 Ωκεανος — cosMo@Bousou-P
-- 🎵 Deemo Main Theme — Tzu Chien Wen
-- 🎵 nocturne - inst ver. — 梶浦 由記
+- 🎵 Liszt: 12 Études d'exécution transcendante, S. 139: No. 10, Appassionata — Franz Liszt, Yoav Levanon
+- 🎵 Chopin: 12 Études, Op. 10: No. 4 in C-Sharp Minor — Frédéric Chopin, Moura Lympany
+- 🎵 Chopin: 12 Études, Op. 10: No. 12 in C Minor "Revolutionary" — Frédéric Chopin, Rafael Orozco
+- 🎵 Beethoven: Symphony No. 7 in A Major, Op. 92: IV. Allegro con brio — Ludwig van Beethoven, Carlo Maria Giulini, Chicago Symphony Orchestra
+- 🎵 Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto — Antonio Vivaldi, Sarah Chang, Orpheus Chamber Orchestra
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
 - 🥈 **Lyssie ASMR** — 17 次播放
-- 🥉 **水音世界观** — 9 次播放
-- 4️⃣ **全球动态局势** — 8 次播放
+- 🥉 **Relaxu** — 12 次播放
+- 4️⃣ **Relaxu/AVIAND** — 7 次播放
 - 5️⃣ **寺田志保** — 7 次播放
 
 **🎶 热门歌曲**  
-- 🥇 7月7日名妍说。哈梅内伊葬礼很热闹，白吃白喝的也不少。世界局势今日热点。 — 全球动态局势
-- 🥈 水音世界观--7月2日--川普喜提卡塔爾4億豪禮？ — 水音世界观
-- 🥉 水音世界观--7月3日--俄軍飽和空襲毀滅基輔！美伊談判驚天黑幕曝光：美國最怕以色列幹掉「這個人」？ — 水音世界观
-- 4️⃣ Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
-- 5️⃣ I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🥇 Symphony No. 3 In C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro — Camille Saint-Saëns, Simon Preston, Berliner Philharmoniker, James Levine
+- 🥈 I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🥉 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 4️⃣ IV. Chanson du toréador — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 5️⃣ The Barber of Seville: Overture — Gioachino Rossini, Leonard Bernstein, New York Philharmonic
 
 **💿 热门专辑**  
 - 🥇 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 **🎤 最爱的艺术家**  
 - 🥇 **上海アリス幻樂団** — 2,462 次播放
 - 🥈 **a_hisa** — 1,170 次播放
-- 🥉 **Relaxu** — 963 次播放
+- 🥉 **Relaxu** — 975 次播放
 - 4️⃣ **Various Artists** — 782 次播放
 - 5️⃣ **周杰倫** — 742 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/10 01:08:31*
+*更新时间: 2026/7/10 05:34:32*
 <!-- LASTFM_END -->
