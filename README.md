@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,487 次 |
-| 🎤 歌手总计 | 19,239 位 |
-| 💿 专辑总计 | 20,210 张 |
-| 🎶 歌曲总计 | 61,770 首 |
+| 🎧 播放总次数 | 83,523 次 |
+| 🎤 歌手总计 | 19,240 位 |
+| 💿 专辑总计 | 20,211 张 |
+| 🎶 歌曲总计 | 61,784 首 |
 
-🎧 **正在播放：** 西方人突然发现，似乎中国人对世界大战的理解与他们不一样 — 小Y杂谈
+🎧 **正在播放：** 祈雨 重制 — 小飞象
 
 **🎵 最近在听**  
-- 🎵 西方人突然发现，似乎中国人对世界大战的理解与他们不一样 — 小Y杂谈
-- 🎵 来和美美一起玩吧！ — Ekkorin
-- 🎵 林坤信-起床（小飞象 remix） — 小飞象
-- 🎵 林坤信-情怨（小飞象 remix） — 小飞象
-- 🎵 林坤信-风起云涌 战意昂 心急如焚串烧（小飞象 remix） — 小飞象
+- 🎵 祈雨 重制 — 小飞象
+- 🎵 御剑伏魔 — 小飞象
+- 🎵 腥风血雨 — 小飞象
+- 🎵 腥风血雨 — 小飞象
+- 🎵 无所遁形 — 小飞象
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **林坤信** — 93 次播放
-- 🥈 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
-- 🥉 **Lyssie ASMR** — 17 次播放
-- 4️⃣ **Relaxu/AVIAND** — 17 次播放
-- 5️⃣ **Relaxu** — 12 次播放
+- 🥈 **小飞象** — 23 次播放
+- 🥉 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
+- 4️⃣ **Lyssie ASMR** — 17 次播放
+- 5️⃣ **Relaxu/AVIAND** — 17 次播放
 
 **🎶 热门歌曲**  
 - 🥇 I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 🥈 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 🥉 IV. Chanson du toréador — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 4️⃣ ASMR Helping You Fall Back Asleep FAST Pt.8 — Lyssie ASMR
-- 5️⃣ ただ声一つ — ロクデナシ/MIMI
+- 5️⃣ 你的探戈 — Sonz
 
 **💿 热门专辑**  
 - 🥇 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/12 12:02:26*
+*更新时间: 2026/7/12 14:03:08*
 <!-- LASTFM_END -->
