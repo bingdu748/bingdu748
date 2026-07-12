@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,523 次 |
-| 🎤 歌手总计 | 19,240 位 |
-| 💿 专辑总计 | 20,211 张 |
-| 🎶 歌曲总计 | 61,784 首 |
+| 🎧 播放总次数 | 83,532 次 |
+| 🎤 歌手总计 | 19,244 位 |
+| 💿 专辑总计 | 20,213 张 |
+| 🎶 歌曲总计 | 61,792 首 |
 
-🎧 **正在播放：** 祈雨 重制 — 小飞象
+
 
 **🎵 最近在听**  
-- 🎵 祈雨 重制 — 小飞象
-- 🎵 御剑伏魔 — 小飞象
-- 🎵 腥风血雨 — 小飞象
-- 🎵 腥风血雨 — 小飞象
-- 🎵 无所遁形 — 小飞象
+- 🎵 ユリイカ — ロクデナシ
+- 🎵 描いてた夢 — 柚木ちな
+- 🎵 Crazy for you☆ — 茶太
+- 🎵 Cherry My Heart — 神代あみ
+- 🎵 晴れ→恋心 — 茶太
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **林坤信** — 93 次播放
-- 🥈 **小飞象** — 23 次播放
+- 🥈 **小飞象** — 26 次播放
 - 🥉 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
 - 4️⃣ **Lyssie ASMR** — 17 次播放
 - 5️⃣ **Relaxu/AVIAND** — 17 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/12 14:03:08*
+*更新时间: 2026/7/12 15:32:54*
 <!-- LASTFM_END -->
