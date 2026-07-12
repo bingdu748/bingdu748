@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,469 次 |
-| 🎤 歌手总计 | 19,237 位 |
+| 🎧 播放总次数 | 83,487 次 |
+| 🎤 歌手总计 | 19,239 位 |
 | 💿 专辑总计 | 20,210 张 |
-| 🎶 歌曲总计 | 61,752 首 |
+| 🎶 歌曲总计 | 61,770 首 |
 
-🎧 **正在播放：** 雨-变奏 — 林坤信
+🎧 **正在播放：** 西方人突然发现，似乎中国人对世界大战的理解与他们不一样 — 小Y杂谈
 
 **🎵 最近在听**  
-- 🎵 雨-变奏 — 林坤信
-- 🎵 险境-变奏 — 林坤信
-- 🎵 险境 — 林坤信
-- 🎵 救佳人 — 林坤信
-- 🎵 灵怨 — 林坤信
+- 🎵 西方人突然发现，似乎中国人对世界大战的理解与他们不一样 — 小Y杂谈
+- 🎵 来和美美一起玩吧！ — Ekkorin
+- 🎵 林坤信-起床（小飞象 remix） — 小飞象
+- 🎵 林坤信-情怨（小飞象 remix） — 小飞象
+- 🎵 林坤信-风起云涌 战意昂 心急如焚串烧（小飞象 remix） — 小飞象
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **林坤信** — 85 次播放
+- 🥇 **林坤信** — 93 次播放
 - 🥈 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
 - 🥉 **Lyssie ASMR** — 17 次播放
 - 4️⃣ **Relaxu/AVIAND** — 17 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/12 10:56:12*
+*更新时间: 2026/7/12 12:02:26*
 <!-- LASTFM_END -->
