@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,363 次 |
-| 🎤 歌手总计 | 19,224 位 |
-| 💿 专辑总计 | 20,188 张 |
-| 🎶 歌曲总计 | 61,648 首 |
+| 🎧 播放总次数 | 83,380 次 |
+| 🎤 歌手总计 | 19,236 位 |
+| 💿 专辑总计 | 20,204 张 |
+| 🎶 歌曲总计 | 61,665 首 |
 
-
+🎧 **正在播放：** gogobebe -Japanese ver.- — MAMAMOO
 
 **🎵 最近在听**  
-- 🎵 アヤノの幸福理論 — ゆめこ
-- 🎵 アヤノの幸福理論 — じん/IA
-- 🎵 ただ声一つ — Akuya
-- 🎵 ただ声一つ — ロクデナシ/MIMI
-- 🎵 The Amazing Digital Circus (Your New Home) (Felted Piano) — Relaxu/AVIAND
+- 🎵 gogobebe -Japanese ver.- — MAMAMOO
+- 🎵 Dingga -Japanese ver.- — MAMAMOO
+- 🎵 Wind flower -Japanese ver.- (Wind flower -Japanese ver.-) — MAMAMOO
+- 🎵 你不必非要做任何 — 曹于漫
+- 🎵 Care Myself — Zancore
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/12 04:52:24*
+*更新时间: 2026/7/12 07:28:16*
 <!-- LASTFM_END -->
