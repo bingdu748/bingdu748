@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,532 次 |
-| 🎤 歌手总计 | 19,244 位 |
-| 💿 专辑总计 | 20,213 张 |
-| 🎶 歌曲总计 | 61,792 首 |
+| 🎧 播放总次数 | 83,549 次 |
+| 🎤 歌手总计 | 19,248 位 |
+| 💿 专辑总计 | 20,219 张 |
+| 🎶 歌曲总计 | 61,801 首 |
 
-
+🎧 **正在播放：** The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
 
 **🎵 最近在听**  
-- 🎵 ユリイカ — ロクデナシ
-- 🎵 描いてた夢 — 柚木ちな
-- 🎵 Crazy for you☆ — 茶太
-- 🎵 Cherry My Heart — 神代あみ
-- 🎵 晴れ→恋心 — 茶太
+- 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
+- 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
+- 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
+- 🎵 In Love — July
+- 🎵 Distance (PC游戏《恋花绽放樱飞时》OP2主题曲) — 佐咲紗花
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 - 🥇 **林坤信** — 93 次播放
 - 🥈 **小飞象** — 26 次播放
 - 🥉 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
-- 4️⃣ **Lyssie ASMR** — 17 次播放
+- 4️⃣ **Lyssie ASMR** — 20 次播放
 - 5️⃣ **Relaxu/AVIAND** — 17 次播放
 
 **🎶 热门歌曲**  
-- 🥇 I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 🥈 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 🥉 IV. Chanson du toréador — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 4️⃣ ASMR Helping You Fall Back Asleep FAST Pt.8 — Lyssie ASMR
-- 5️⃣ 你的探戈 — Sonz
+- 🥇 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
+- 🥈 I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 🥉 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 4️⃣ IV. Chanson du toréador — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 5️⃣ ASMR Helping You Fall Back Asleep FAST Pt.8 — Lyssie ASMR
 
 **💿 热门专辑**  
 - 🥇 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/12 15:32:54*
+*更新时间: 2026/7/12 16:58:14*
 <!-- LASTFM_END -->
