@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,380 次 |
+| 🎧 播放总次数 | 83,383 次 |
 | 🎤 歌手总计 | 19,236 位 |
-| 💿 专辑总计 | 20,204 张 |
-| 🎶 歌曲总计 | 61,665 首 |
+| 💿 专辑总计 | 20,206 张 |
+| 🎶 歌曲总计 | 61,668 首 |
 
-🎧 **正在播放：** gogobebe -Japanese ver.- — MAMAMOO
+
 
 **🎵 最近在听**  
+- 🎵 넌 is 뭔들 (你最完美) — MAMAMOO
+- 🎵 너나 해 (好自为之) — MAMAMOO
+- 🎵 AYA -Japanese ver.- — MAMAMOO
 - 🎵 gogobebe -Japanese ver.- — MAMAMOO
 - 🎵 Dingga -Japanese ver.- — MAMAMOO
-- 🎵 Wind flower -Japanese ver.- (Wind flower -Japanese ver.-) — MAMAMOO
-- 🎵 你不必非要做任何 — 曹于漫
-- 🎵 Care Myself — Zancore
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/12 07:28:16*
+*更新时间: 2026/7/12 09:28:27*
 <!-- LASTFM_END -->
