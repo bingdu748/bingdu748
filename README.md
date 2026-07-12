@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,549 次 |
+| 🎧 播放总次数 | 83,551 次 |
 | 🎤 歌手总计 | 19,248 位 |
 | 💿 专辑总计 | 20,219 张 |
 | 🎶 歌曲总计 | 61,801 首 |
 
-🎧 **正在播放：** The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
+
 
 **🎵 最近在听**  
 - 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
 - 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
 - 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
-- 🎵 In Love — July
-- 🎵 Distance (PC游戏《恋花绽放樱飞时》OP2主题曲) — 佐咲紗花
+- 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
+- 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🥇 **林坤信** — 93 次播放
 - 🥈 **小飞象** — 26 次播放
 - 🥉 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
-- 4️⃣ **Lyssie ASMR** — 20 次播放
+- 4️⃣ **Lyssie ASMR** — 22 次播放
 - 5️⃣ **Relaxu/AVIAND** — 17 次播放
 
 **🎶 热门歌曲**  
@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🥈 Hanten (はんてん) — ME_DD、Electrode Core
-- 🥉 我怀念的 — 孫燕姿
+- 🥈 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
+- 🥉 Hanten (はんてん) — ME_DD、Electrode Core
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/12 16:58:14*
+*更新时间: 2026/7/12 18:03:12*
 <!-- LASTFM_END -->
