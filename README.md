@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,383 次 |
-| 🎤 歌手总计 | 19,236 位 |
-| 💿 专辑总计 | 20,206 张 |
-| 🎶 歌曲总计 | 61,668 首 |
+| 🎧 播放总次数 | 83,469 次 |
+| 🎤 歌手总计 | 19,237 位 |
+| 💿 专辑总计 | 20,210 张 |
+| 🎶 歌曲总计 | 61,752 首 |
 
-
+🎧 **正在播放：** 雨-变奏 — 林坤信
 
 **🎵 最近在听**  
-- 🎵 넌 is 뭔들 (你最完美) — MAMAMOO
-- 🎵 너나 해 (好自为之) — MAMAMOO
-- 🎵 AYA -Japanese ver.- — MAMAMOO
-- 🎵 gogobebe -Japanese ver.- — MAMAMOO
-- 🎵 Dingga -Japanese ver.- — MAMAMOO
+- 🎵 雨-变奏 — 林坤信
+- 🎵 险境-变奏 — 林坤信
+- 🎵 险境 — 林坤信
+- 🎵 救佳人 — 林坤信
+- 🎵 灵怨 — 林坤信
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
-- 🥈 **Lyssie ASMR** — 17 次播放
-- 🥉 **Relaxu/AVIAND** — 17 次播放
-- 4️⃣ **Relaxu** — 12 次播放
-- 5️⃣ **寺田志保** — 7 次播放
+- 🥇 **林坤信** — 85 次播放
+- 🥈 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
+- 🥉 **Lyssie ASMR** — 17 次播放
+- 4️⃣ **Relaxu/AVIAND** — 17 次播放
+- 5️⃣ **Relaxu** — 12 次播放
 
 **🎶 热门歌曲**  
 - 🥇 I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 🥈 **DEEMO Memorial Keys Original Soundtrack** — 寺田志保
-- 🥉 **DEEMO Memorial Keys Original Soundtrack** — YOSHICHIKA KURIYAMA
+- 🥈 **新仙劍奇俠傳 (遊戲音樂原聲帶)** — 林坤信
+- 🥉 **DEEMO Memorial Keys Original Soundtrack** — 寺田志保
 
 ---
 
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **Plum**
-- 🥈 **范曉萱**
-- 🥉 **a_hisa**
+- 🥈 **林坤信**
+- 🥉 **范曉萱**
 
 **🎶 本月歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/12 09:28:27*
+*更新时间: 2026/7/12 10:56:12*
 <!-- LASTFM_END -->
