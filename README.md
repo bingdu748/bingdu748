@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,551 次 |
-| 🎤 歌手总计 | 19,248 位 |
+| 🎧 播放总次数 | 83,552 次 |
+| 🎤 歌手总计 | 19,249 位 |
 | 💿 专辑总计 | 20,219 张 |
-| 🎶 歌曲总计 | 61,801 首 |
+| 🎶 歌曲总计 | 61,802 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
+- 🎵 ASMR (Sub✔) | Gives You a Makeover | Haircut | Sewing | Ear Piercing | Curling Hair — Mi Bunny Ao ASMR
 - 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
 - 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
 - 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/12 21:50:16*
+*更新时间: 2026/7/12 22:48:44*
 <!-- LASTFM_END -->
