@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,219 张 |
 | 🎶 歌曲总计 | 61,803 首 |
 
-🎧 **正在播放：** 水音世界观--7月11日--美伊 85 个目标互轰，霍尔木兹海峡全面戒严，全球油价飙升！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--7月11日--美伊 85 个目标互轰，霍尔木兹海峡全面戒严，全球油价飙升！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/12 23:53:48*
+*更新时间: 2026/7/13 02:44:56*
 <!-- LASTFM_END -->
