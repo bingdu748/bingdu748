@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,569 次 |
+| 🎧 播放总次数 | 83,570 次 |
 | 🎤 歌手总计 | 19,262 位 |
 | 💿 专辑总计 | 20,231 张 |
-| 🎶 歌曲总计 | 61,819 首 |
+| 🎶 歌曲总计 | 61,820 首 |
 
-
+🎧 **正在播放：** 水音世界观--7月13日--伊朗大规模反击：1000枚导弹对垒，美军中东核心防御体系遭精准摧毁！ — 水音世界观
 
 **🎵 最近在听**  
 - 🎵 [ASMR] Let's Try Chatting in 5 Languages I Just Learned 💤 [Different Languages] — Runa ASMR【るな氏】
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/13 22:57:13*
+*更新时间: 2026/7/13 23:57:46*
 <!-- LASTFM_END -->
