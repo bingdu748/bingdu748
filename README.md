@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,554 次 |
-| 🎤 歌手总计 | 19,249 位 |
-| 💿 专辑总计 | 20,219 张 |
-| 🎶 歌曲总计 | 61,804 首 |
+| 🎧 播放总次数 | 83,566 次 |
+| 🎤 歌手总计 | 19,260 位 |
+| 💿 专辑总计 | 20,230 张 |
+| 🎶 歌曲总计 | 61,816 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观--7月11日--中国火箭回收震撼世界！海南文昌一箭惊天，对比日本“11米”火箭实验，差距为何如此巨大？ — 水音世界观
-- 🎵 水音世界观--7月11日--美伊 85 个目标互轰，霍尔木兹海峡全面戒严，全球油价飙升！ — 水音世界观
-- 🎵 ASMR (Sub✔) | Gives You a Makeover | Haircut | Sewing | Ear Piercing | Curling Hair — Mi Bunny Ao ASMR
-- 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
-- 🎵 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
+- 🎵 Beethoven: Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio — Ludwig van Beethoven, Wiener Philharmoniker, Sir Simon Rattle
+- 🎵 Brahms: 21 Hungarian Dances, WoO 1: No. 5 in G Minor (Arr. Parhamovsky for Violin and Ensemble) — Johannes Brahms, Maxim Vengerov, Vag Papian, Virtuosi, Mikhail Parhamovsky
+- 🎵 Glinka: Ruslan and Lyudmila: Overture — Mikhail Glinka, André Previn, 倫敦交響樂團
+- 🎵 Wagner: Lohengrin, Act 3: Prelude — Richard Wagner, Herbert von Karajan, Berliner Philharmoniker
+- 🎵 Verdi: Aida, Act 2: Triumphal march — Giuseppe Verdi, Antonio Pappano, Orchestra dell'Accademia Nazionale di Santa Cecilia
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/13 06:18:20*
+*更新时间: 2026/7/13 09:53:37*
 <!-- LASTFM_END -->
