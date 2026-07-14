@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,592 次 |
-| 🎤 歌手总计 | 19,283 位 |
+| 🎧 播放总次数 | 83,603 次 |
+| 🎤 歌手总计 | 19,287 位 |
 | 💿 专辑总计 | 20,252 张 |
-| 🎶 歌曲总计 | 61,845 首 |
+| 🎶 歌曲总计 | 61,855 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 兰兰7月14日早晨直播。乌克兰近期大规模袭击俄罗斯国内是想给俄罗斯战斗节奏打乱，成果到底怎么样呢。世界局势今日热点。 — 全球动态局势
-- 🎵 兰兰7月14日早晨直播1。英国方面声称，美国和伊朗局势升级是俄罗斯一手策划的。世界局势今日热点。 — 全球动态局势
-- 🎵 Wagner: Das Rheingold: Entry of the Gods into Valhalla — Richard Wagner, Otto Klemperer, Philharmonia Orchestra
-- 🎵 Prokofiev: Piano Sonata No. 7 in B-Flat Major, Op. 83: III. Precipitato — Sergei Prokofiev, Martin James Bartlett
-- 🎵 Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato — Ludwig van Beethoven, Nikolai Lugansky
+- 🎵 Extra Mode (DJ Noriken Remix) [feat. DJ Noriken] — Usao/Dj Noriken
+- 🎵 Extra Mode (DJ Myosuke Remix) [feat. DJ Myosuke] — USAO/DJ Myosuke
+- 🎵 Losstime (dustboxxx Remix) [feat. dustboxxx] — USAO/dustboxxx
+- 🎵 Showdown (Hommarju Remix) [feat. Hommarju] — Usao/Hommarju
+- 🎵 Aeropolis — USAO
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/14 11:53:33*
+*更新时间: 2026/7/14 13:41:53*
 <!-- LASTFM_END -->
