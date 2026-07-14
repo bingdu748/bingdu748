@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,231 张 |
 | 🎶 歌曲总计 | 61,820 首 |
 
-🎧 **正在播放：** 水音世界观--7月13日--伊朗大规模反击：1000枚导弹对垒，美军中东核心防御体系遭精准摧毁！ — 水音世界观
+
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月13日--伊朗大规模反击：1000枚导弹对垒，美军中东核心防御体系遭精准摧毁！ — 水音世界观
 - 🎵 [ASMR] Let's Try Chatting in 5 Languages I Just Learned 💤 [Different Languages] — Runa ASMR【るな氏】
 - 🎵 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
 - 🎵 兰兰7月13日早晨直播1。特朗普警告伊朗你不要还击，伊朗不听话把特朗普气坏了。世界局势今日热点。 — 全球动态局势
 - 🎵 Beethoven: Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio — Ludwig van Beethoven, Wiener Philharmoniker, Sir Simon Rattle
-- 🎵 Brahms: 21 Hungarian Dances, WoO 1: No. 5 in G Minor (Arr. Parhamovsky for Violin and Ensemble) — Johannes Brahms, Maxim Vengerov, Vag Papian, Virtuosi, Mikhail Parhamovsky
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/13 23:57:46*
+*更新时间: 2026/7/14 03:13:32*
 <!-- LASTFM_END -->
