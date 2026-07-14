@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,573 次 |
-| 🎤 歌手总计 | 19,264 位 |
-| 💿 专辑总计 | 20,233 张 |
-| 🎶 歌曲总计 | 61,822 首 |
+| 🎧 播放总次数 | 83,591 次 |
+| 🎤 歌手总计 | 19,279 位 |
+| 💿 专辑总计 | 20,248 张 |
+| 🎶 歌曲总计 | 61,839 首 |
 
-🎧 **正在播放：** Handel: Solomon, HWV 67, Act 3: Sinfonia. "The Arrival of the Queen of Sheba" — George Frideric Handel, Alison Balsom, Edward Gardner, Göteborgs Symfoniker
+
 
 **🎵 最近在听**  
-- 🎵 Handel: Solomon, HWV 67, Act 3: Sinfonia. "The Arrival of the Queen of Sheba" — George Frideric Handel, Alison Balsom, Edward Gardner, Göteborgs Symfoniker
-- 🎵 Bach, JS: Toccata and Fugue in D Minor, BWV 565: Toccata — Johann Sebastian Bach, Marie-Claire Alain
-- 🎵 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
-- 🎵 水音世界观--7月13日--伊朗大规模反击：1000枚导弹对垒，美军中东核心防御体系遭精准摧毁！ — 水音世界观
-- 🎵 [ASMR] Let's Try Chatting in 5 Languages I Just Learned 💤 [Different Languages] — Runa ASMR【るな氏】
+- 🎵 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
+- 🎵 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
+- 🎵 Holst: The Planets, Op. 32: I. Mars, the Bringer of War — Gustav Holst, Andrew Davis, BBC Symphony Orchestra
+- 🎵 Falla: El amor brujo: No. 8, Danza ritual del fuego — Manuel de Falla, Carlo Maria Giulini, Philharmonia Orchestra
+- 🎵 Tchaikovsky: 1812 Overture in E-Flat Major, Op. 49 (Excerpt) — Pyotr Ilyich Tchaikovsky, Zubin Mehta, Israel Philharmonic Orchestra
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,19 +48,19 @@ Here are some ideas to get you started:
 - 🥇 **林坤信** — 93 次播放
 - 🥈 **小飞象** — 26 次播放
 - 🥉 **Lyssie ASMR** — 22 次播放
-- 4️⃣ **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 21 次播放
-- 5️⃣ **Relaxu/AVIAND** — 17 次播放
+- 4️⃣ **Relaxu/AVIAND** — 17 次播放
+- 5️⃣ **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 12 次播放
 
 **🎶 热门歌曲**  
 - 🥇 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
-- 🥈 I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 🥉 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 4️⃣ Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
-- 5️⃣ ASMR Helping You Fall Back Asleep FAST Pt.8 — Lyssie ASMR
+- 🥈 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
+- 🥉 ASMR Helping You Fall Back Asleep FAST Pt.8 — Lyssie ASMR
+- 4️⃣ 你的探戈 — Sonz
+- 5️⃣ ただ声一つ — ロクデナシ/MIMI
 
 **💿 热门专辑**  
-- 🥇 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 🥈 **新仙劍奇俠傳 (遊戲音樂原聲帶)** — 林坤信
+- 🥇 **新仙劍奇俠傳 (遊戲音樂原聲帶)** — 林坤信
+- 🥈 **Bizet: Carmen & L'arlésienne Suites** — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 🥉 **DEEMO Memorial Keys Original Soundtrack** — 寺田志保
 
 ---
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/14 05:51:40*
+*更新时间: 2026/7/14 08:03:45*
 <!-- LASTFM_END -->
