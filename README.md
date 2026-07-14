@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,591 次 |
-| 🎤 歌手总计 | 19,279 位 |
-| 💿 专辑总计 | 20,248 张 |
-| 🎶 歌曲总计 | 61,839 首 |
+| 🎧 播放总次数 | 83,590 次 |
+| 🎤 歌手总计 | 19,283 位 |
+| 💿 专辑总计 | 20,252 张 |
+| 🎶 歌曲总计 | 61,843 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 Wagner: Das Rheingold: Entry of the Gods into Valhalla — Richard Wagner, Otto Klemperer, Philharmonia Orchestra
+- 🎵 Prokofiev: Piano Sonata No. 7 in B-Flat Major, Op. 83: III. Precipitato — Sergei Prokofiev, Martin James Bartlett
+- 🎵 Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato — Ludwig van Beethoven, Nikolai Lugansky
+- 🎵 Mozart: Symphony No. 25 in G Minor, K. 183: I. Allegro con brio — Wolfgang Amadeus Mozart, Nikolaus Harnoncourt, Royal Concertgebouw Orchestra
 - 🎵 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
-- 🎵 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
-- 🎵 Holst: The Planets, Op. 32: I. Mars, the Bringer of War — Gustav Holst, Andrew Davis, BBC Symphony Orchestra
-- 🎵 Falla: El amor brujo: No. 8, Danza ritual del fuego — Manuel de Falla, Carlo Maria Giulini, Philharmonia Orchestra
-- 🎵 Tchaikovsky: 1812 Overture in E-Flat Major, Op. 49 (Excerpt) — Pyotr Ilyich Tchaikovsky, Zubin Mehta, Israel Philharmonic Orchestra
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **林坤信** — 93 次播放
 - 🥈 **小飞象** — 26 次播放
-- 🥉 **Lyssie ASMR** — 22 次播放
+- 🥉 **Lyssie ASMR** — 17 次播放
 - 4️⃣ **Relaxu/AVIAND** — 17 次播放
 - 5️⃣ **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 12 次播放
 
 **🎶 热门歌曲**  
-- 🥇 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
-- 🥈 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
-- 🥉 ASMR Helping You Fall Back Asleep FAST Pt.8 — Lyssie ASMR
-- 4️⃣ 你的探戈 — Sonz
-- 5️⃣ ただ声一つ — ロクデナシ/MIMI
+- 🥇 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
+- 🥈 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
+- 🥉 你的探戈 — Sonz
+- 4️⃣ ただ声一つ — ロクデナシ/MIMI
+- 5️⃣ 林坤信-逆天而行超燃完整版（小飞象 remix） — 小飞象
 
 **💿 热门专辑**  
 - 🥇 **新仙劍奇俠傳 (遊戲音樂原聲帶)** — 林坤信
@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🥈 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
-- 🥉 Hanten (はんてん) — ME_DD、Electrode Core
+- 🥈 Hanten (はんてん) — ME_DD、Electrode Core
+- 🥉 我怀念的 — 孫燕姿
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/14 08:03:45*
+*更新时间: 2026/7/14 10:16:02*
 <!-- LASTFM_END -->
