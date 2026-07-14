@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,570 次 |
-| 🎤 歌手总计 | 19,262 位 |
-| 💿 专辑总计 | 20,231 张 |
-| 🎶 歌曲总计 | 61,820 首 |
+| 🎧 播放总次数 | 83,573 次 |
+| 🎤 歌手总计 | 19,264 位 |
+| 💿 专辑总计 | 20,233 张 |
+| 🎶 歌曲总计 | 61,822 首 |
 
-
+🎧 **正在播放：** Handel: Solomon, HWV 67, Act 3: Sinfonia. "The Arrival of the Queen of Sheba" — George Frideric Handel, Alison Balsom, Edward Gardner, Göteborgs Symfoniker
 
 **🎵 最近在听**  
+- 🎵 Handel: Solomon, HWV 67, Act 3: Sinfonia. "The Arrival of the Queen of Sheba" — George Frideric Handel, Alison Balsom, Edward Gardner, Göteborgs Symfoniker
+- 🎵 Bach, JS: Toccata and Fugue in D Minor, BWV 565: Toccata — Johann Sebastian Bach, Marie-Claire Alain
+- 🎵 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
 - 🎵 水音世界观--7月13日--伊朗大规模反击：1000枚导弹对垒，美军中东核心防御体系遭精准摧毁！ — 水音世界观
 - 🎵 [ASMR] Let's Try Chatting in 5 Languages I Just Learned 💤 [Different Languages] — Runa ASMR【るな氏】
-- 🎵 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
-- 🎵 兰兰7月13日早晨直播1。特朗普警告伊朗你不要还击，伊朗不听话把特朗普气坏了。世界局势今日热点。 — 全球动态局势
-- 🎵 Beethoven: Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio — Ludwig van Beethoven, Wiener Philharmoniker, Sir Simon Rattle
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,15 +47,15 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **林坤信** — 93 次播放
 - 🥈 **小飞象** — 26 次播放
-- 🥉 **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 22 次播放
-- 4️⃣ **Lyssie ASMR** — 22 次播放
+- 🥉 **Lyssie ASMR** — 22 次播放
+- 4️⃣ **Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González** — 21 次播放
 - 5️⃣ **Relaxu/AVIAND** — 17 次播放
 
 **🎶 热门歌曲**  
 - 🥇 The MOST 'Professional' Wooden Spa 🪵 ASMR Roleplay — Lyssie ASMR
 - 🥈 I. Prélude — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
 - 🥉 III. Nocturne — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
-- 4️⃣ IV. Chanson du toréador — Georges Bizet, Orquestra Simfònica de Barcelona i Nacional de Catalunya, Pablo González
+- 4️⃣ Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
 - 5️⃣ ASMR Helping You Fall Back Asleep FAST Pt.8 — Lyssie ASMR
 
 **💿 热门专辑**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/14 03:13:32*
+*更新时间: 2026/7/14 05:51:40*
 <!-- LASTFM_END -->
