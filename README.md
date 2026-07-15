@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,252 张 |
 | 🎶 歌曲总计 | 61,857 首 |
 
-🎧 **正在播放：** 兰兰7月15日早晨直播1。沙特和胡塞干起来的原因是什么。世界局势今日热点。 — 全球动态局势
+
 
 **🎵 最近在听**  
 - 🎵 兰兰7月15日早晨直播1。沙特和胡塞干起来的原因是什么。世界局势今日热点。 — 全球动态局势
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/15 10:49:06*
+*更新时间: 2026/7/15 12:14:02*
 <!-- LASTFM_END -->
