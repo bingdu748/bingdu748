@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,603 次 |
+| 🎧 播放总次数 | 83,604 次 |
 | 🎤 歌手总计 | 19,287 位 |
 | 💿 专辑总计 | 20,252 张 |
-| 🎶 歌曲总计 | 61,855 首 |
+| 🎶 歌曲总计 | 61,856 首 |
 
-
+🎧 **正在播放：** 水音世界观--7月14日--特朗普通知国会：伊朗战事再爆发！中东巨变，看当年“硬汉”内贾德如何布下死局硬刚西方？ — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月14日--特朗普通知国会：伊朗战事再爆发！中东巨变，看当年“硬汉”内贾德如何布下死局硬刚西方？ — 水音世界观
 - 🎵 Extra Mode (DJ Noriken Remix) [feat. DJ Noriken] — Usao/Dj Noriken
 - 🎵 Extra Mode (DJ Myosuke Remix) [feat. DJ Myosuke] — USAO/DJ Myosuke
 - 🎵 Losstime (dustboxxx Remix) [feat. dustboxxx] — USAO/dustboxxx
 - 🎵 Showdown (Hommarju Remix) [feat. Hommarju] — Usao/Hommarju
-- 🎵 Aeropolis — USAO
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/14 23:24:40*
+*更新时间: 2026/7/15 00:13:10*
 <!-- LASTFM_END -->
