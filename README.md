@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,621 次 |
-| 🎤 歌手总计 | 19,294 位 |
+| 🎧 播放总次数 | 83,623 次 |
+| 🎤 歌手总计 | 19,295 位 |
 | 💿 专辑总计 | 20,259 张 |
-| 🎶 歌曲总计 | 61,866 首 |
+| 🎶 歌曲总计 | 61,868 首 |
 
-🎧 **正在播放：** Mussorgsky: Night on Bald Mountain (Orch. Rimsky-Korsakov) — Modest Mussorgsky, Oslo Philharmonic Orchestra, Mariss Jansons
+🎧 **正在播放：** 🇨🇳 50个日常中文短语 | 中文书写 & 耳语ASMR ✏️🐰 — TingleBunny ASMR
 
 **🎵 最近在听**  
+- 🎵 🇨🇳 50个日常中文短语 | 中文书写 & 耳语ASMR ✏️🐰 — TingleBunny ASMR
+- 🎵 ASMR Teaching You MORE Basic Chinese! 📚💤(Part 2) — baitu asmr
 - 🎵 Tchaikovsky: Symphony No. 6 in B Minor, Op. 74 "Pathétique": III. Allegro molto vivace — Pyotr Ilyich Tchaikovsky, Herbert von Karajan, Berliner Philharmoniker
 - 🎵 Brahms: Academic Festival Overture, Op. 80 — Johannes Brahms, Kurt Masur, New York Philharmonic
 - 🎵 Verdi: Nabucco: Overture — Giuseppe Verdi, Riccardo Muti, Philharmonia Orchestra
-- 🎵 Ravel: Miroirs, M. 43: IV. Alborada del gracioso — Maurice Ravel, Herbert von Karajan, Orchestre de Paris
-- 🎵 Shostakovich: String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto — Dmitri Shostakovich, Borodin Quartet
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/16 04:08:53*
+*更新时间: 2026/7/16 06:42:39*
 <!-- LASTFM_END -->
