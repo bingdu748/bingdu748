@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,666 次 |
+| 🎧 播放总次数 | 83,671 次 |
 | 🎤 歌手总计 | 19,305 位 |
 | 💿 专辑总计 | 20,270 张 |
-| 🎶 歌曲总计 | 61,901 首 |
+| 🎶 歌曲总计 | 61,904 首 |
 
-🎧 **正在播放：** ASMR Let Me Do Your Makeup 🥺🤍 (Direct Camera Touching, Personal Attention) — ASMR Myuhee 뮤희
+
 
 **🎵 最近在听**  
-- 🎵 ASMR Let Me Do Your Makeup 🥺🤍 (Direct Camera Touching, Personal Attention) — ASMR Myuhee 뮤희
-- 🎵 [ASMR] Teaching You Chinese Calligraphy ~ Relaxing Teacher — Tingting ASMR
-- 🎵 Carmen (Remastered):Ouverture — Herbert von Karajan/Wiener Philharmoniker
-- 🎵 Carmen, Act I:No.10 Séguidille et Duo : Près des ramparts de Séville (Carmen/Don José) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
-- 🎵 Carmen, Act I:No.9 Chanson et Mèlodrame: Mon officier c'était une querelle Tra la, la, la, coupe-moi (Don José/Zuniga/Carmen/Cigarières) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+- 🎵 *ASMR*リコリコたきな使用の銃！東京マルイS&W M&P 9の音 S&W M&P 9 Sound*囁き声* — ゆまりあ
+- 🎵 ASMR Ancient Chinese Pharmacy — Tingting ASMR
+- 🎵 ASMR Ancient Chinese Pharmacy — Tingting ASMR
+- 🎵 ASMR Ancient Chinese Pharmacy — Tingting ASMR
+- 🎵 [ASMR] Ancient Chinese Library Roleplay — Tingting ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
-- 🥈 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
-- 🥉 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
-- 4️⃣ Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato — Ludwig van Beethoven, Nikolai Lugansky
-- 5️⃣ 환상충돌 — Plum - Melodic Artist
+- 🥈 ASMR Ancient Chinese Pharmacy — Tingting ASMR
+- 🥉 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
+- 4️⃣ 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
+- 5️⃣ Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato — Ludwig van Beethoven, Nikolai Lugansky
 
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/16 12:59:21*
+*更新时间: 2026/7/16 15:09:26*
 <!-- LASTFM_END -->
