@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,650 次 |
-| 🎤 歌手总计 | 19,304 位 |
-| 💿 专辑总计 | 20,269 张 |
-| 🎶 歌曲总计 | 61,885 首 |
+| 🎧 播放总次数 | 83,666 次 |
+| 🎤 歌手总计 | 19,305 位 |
+| 💿 专辑总计 | 20,270 张 |
+| 🎶 歌曲总计 | 61,901 首 |
 
-🎧 **正在播放：** Carmen, Act I:No.3 bis Récit: C'est bien là, n'est-ce pas? (Zuniga/Don José) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+🎧 **正在播放：** ASMR Let Me Do Your Makeup 🥺🤍 (Direct Camera Touching, Personal Attention) — ASMR Myuhee 뮤희
 
 **🎵 最近在听**  
-- 🎵 Carmen, Act I:No.3 Choeur des Gamins: Rècit: Une jeune fille charmante (Moralès/Don José)Et la garde descendante rentre chez elle et s'en va (Enfants) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
-- 🎵 Carmen, Act I:No.3 Choeur des Gamins: Avec la garde montante, nous arrivons, nous voilà! (Enfants) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
-- 🎵 Carmen, Act I:No.2a Scène et Pantomime : Attention! Chut! Attention! Taisons-nous! (Moralès/Dragons) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
-- 🎵 Carmen, Act I:No.2 : Scène et Choeur: Regardez donc cette petite qui semble vouloir nous parler (Moralès/Micaëla/Dragons) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
-- 🎵 Carmen, Act I:No.2 : Scène et Choeur: Sur la place, chacun passe, chacun vient, chacun va (Moralès/Dragons) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+- 🎵 ASMR Let Me Do Your Makeup 🥺🤍 (Direct Camera Touching, Personal Attention) — ASMR Myuhee 뮤희
+- 🎵 [ASMR] Teaching You Chinese Calligraphy ~ Relaxing Teacher — Tingting ASMR
+- 🎵 Carmen (Remastered):Ouverture — Herbert von Karajan/Wiener Philharmoniker
+- 🎵 Carmen, Act I:No.10 Séguidille et Duo : Près des ramparts de Séville (Carmen/Don José) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+- 🎵 Carmen, Act I:No.9 Chanson et Mèlodrame: Mon officier c'était une querelle Tra la, la, la, coupe-moi (Don José/Zuniga/Carmen/Cigarières) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **林坤信** — 93 次播放
 - 🥈 **小飞象** — 26 次播放
-- 🥉 **Relaxu/AVIAND** — 17 次播放
-- 4️⃣ **Relaxu** — 12 次播放
-- 5️⃣ **水音世界观** — 8 次播放
+- 🥉 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
+- 4️⃣ **Relaxu/AVIAND** — 17 次播放
+- 5️⃣ **Relaxu** — 12 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ 환상충돌 — Plum - Melodic Artist
 
 **💿 热门专辑**  
-- 🥇 **新仙劍奇俠傳 (遊戲音樂原聲帶)** — 林坤信
-- 🥈 **Kick's For Liberation 5** — USAO
-- 🥉 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+- 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+- 🥈 **新仙劍奇俠傳 (遊戲音樂原聲帶)** — 林坤信
+- 🥉 **Kick's For Liberation 5** — USAO
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/16 11:16:59*
+*更新时间: 2026/7/16 12:59:21*
 <!-- LASTFM_END -->
