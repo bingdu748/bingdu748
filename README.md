@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,638 次 |
-| 🎤 歌手总计 | 19,303 位 |
-| 💿 专辑总计 | 20,268 张 |
-| 🎶 歌曲总计 | 61,879 首 |
+| 🎧 播放总次数 | 83,650 次 |
+| 🎤 歌手总计 | 19,304 位 |
+| 💿 专辑总计 | 20,269 张 |
+| 🎶 歌曲总计 | 61,885 首 |
 
-🎧 **正在播放：** 환상충돌 — Plum - Melodic Artist
+🎧 **正在播放：** Carmen, Act I:No.3 bis Récit: C'est bien là, n'est-ce pas? (Zuniga/Don José) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
 
 **🎵 最近在听**  
-- 🎵 환상충돌 — Plum - Melodic Artist
-- 🎵 ただ声一つ — ロクデナシ/MIMI
-- 🎵 환상충돌 — Plum - Melodic Artist
-- 🎵 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
-- 🎵 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
+- 🎵 Carmen, Act I:No.3 Choeur des Gamins: Rècit: Une jeune fille charmante (Moralès/Don José)Et la garde descendante rentre chez elle et s'en va (Enfants) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+- 🎵 Carmen, Act I:No.3 Choeur des Gamins: Avec la garde montante, nous arrivons, nous voilà! (Enfants) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+- 🎵 Carmen, Act I:No.2a Scène et Pantomime : Attention! Chut! Attention! Taisons-nous! (Moralès/Dragons) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+- 🎵 Carmen, Act I:No.2 : Scène et Choeur: Regardez donc cette petite qui semble vouloir nous parler (Moralès/Micaëla/Dragons) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
+- 🎵 Carmen, Act I:No.2 : Scène et Choeur: Sur la place, chacun passe, chacun vient, chacun va (Moralès/Dragons) — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **小飞象** — 26 次播放
 - 🥉 **Relaxu/AVIAND** — 17 次播放
 - 4️⃣ **Relaxu** — 12 次播放
-- 5️⃣ **USAO** — 7 次播放
+- 5️⃣ **水音世界观** — 8 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
@@ -61,15 +61,15 @@ Here are some ideas to get you started:
 **💿 热门专辑**  
 - 🥇 **新仙劍奇俠傳 (遊戲音樂原聲帶)** — 林坤信
 - 🥈 **Kick's For Liberation 5** — USAO
-- 🥉 **バンドリ！ガールズバンドパーティ！** — BanG Dream!
+- 🥉 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
 
 ---
 
 ### 📆 本月精选
 
 **🎤 本月艺术家**  
-- 🥇 **Plum**
-- 🥈 **林坤信**
+- 🥇 **林坤信**
+- 🥈 **Plum**
 - 🥉 **范曉萱**
 
 **🎶 本月歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/16 09:12:50*
+*更新时间: 2026/7/16 11:16:59*
 <!-- LASTFM_END -->
