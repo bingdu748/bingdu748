@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,671 次 |
+| 🎧 播放总次数 | 83,672 次 |
 | 🎤 歌手总计 | 19,305 位 |
 | 💿 专辑总计 | 20,270 张 |
-| 🎶 歌曲总计 | 61,904 首 |
+| 🎶 歌曲总计 | 61,905 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 Can YOU Pass This Fast ASMR Focus Test? 🤔 For When You Can't Stop Thinking — Lyssie ASMR
 - 🎵 *ASMR*リコリコたきな使用の銃！東京マルイS&W M&P 9の音 S&W M&P 9 Sound*囁き声* — ゆまりあ
 - 🎵 ASMR Ancient Chinese Pharmacy — Tingting ASMR
 - 🎵 ASMR Ancient Chinese Pharmacy — Tingting ASMR
 - 🎵 ASMR Ancient Chinese Pharmacy — Tingting ASMR
-- 🎵 [ASMR] Ancient Chinese Library Roleplay — Tingting ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/16 15:09:26*
+*更新时间: 2026/7/16 16:48:47*
 <!-- LASTFM_END -->
