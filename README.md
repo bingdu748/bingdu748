@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,608 次 |
-| 🎤 歌手总计 | 19,287 位 |
-| 💿 专辑总计 | 20,252 张 |
-| 🎶 歌曲总计 | 61,858 首 |
+| 🎧 播放总次数 | 83,621 次 |
+| 🎤 歌手总计 | 19,294 位 |
+| 💿 专辑总计 | 20,259 张 |
+| 🎶 歌曲总计 | 61,866 首 |
 
-
+🎧 **正在播放：** Mussorgsky: Night on Bald Mountain (Orch. Rimsky-Korsakov) — Modest Mussorgsky, Oslo Philharmonic Orchestra, Mariss Jansons
 
 **🎵 最近在听**  
-- 🎵 水音世界观--7月15日---特朗普欲收霍尔木兹海峡“保护费”？ — 水音世界观
-- 🎵 兰兰7月15日早晨直播1。沙特和胡塞干起来的原因是什么。世界局势今日热点。 — 全球动态局势
-- 🎵 水音世界观--7月14日--特朗普通知国会：伊朗战事再爆发！中东巨变，看当年“硬汉”内贾德如何布下死局硬刚西方？ — 水音世界观
-- 🎵 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
-- 🎵 水音世界观--7月14日--特朗普通知国会：伊朗战事再爆发！中东巨变，看当年“硬汉”内贾德如何布下死局硬刚西方？ — 水音世界观
+- 🎵 Tchaikovsky: Symphony No. 6 in B Minor, Op. 74 "Pathétique": III. Allegro molto vivace — Pyotr Ilyich Tchaikovsky, Herbert von Karajan, Berliner Philharmoniker
+- 🎵 Brahms: Academic Festival Overture, Op. 80 — Johannes Brahms, Kurt Masur, New York Philharmonic
+- 🎵 Verdi: Nabucco: Overture — Giuseppe Verdi, Riccardo Muti, Philharmonia Orchestra
+- 🎵 Ravel: Miroirs, M. 43: IV. Alborada del gracioso — Maurice Ravel, Herbert von Karajan, Orchestre de Paris
+- 🎵 Shostakovich: String Quartet No. 8 in C Minor, Op. 110: II. Allegro molto — Dmitri Shostakovich, Borodin Quartet
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,21 +47,21 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **林坤信** — 93 次播放
 - 🥈 **小飞象** — 26 次播放
-- 🥉 **Lyssie ASMR** — 17 次播放
-- 4️⃣ **Relaxu/AVIAND** — 17 次播放
-- 5️⃣ **Relaxu** — 12 次播放
+- 🥉 **Relaxu/AVIAND** — 17 次播放
+- 4️⃣ **Relaxu** — 12 次播放
+- 5️⃣ **USAO** — 9 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
 - 🥈 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
-- 🥉 你的探戈 — Sonz
-- 4️⃣ ただ声一つ — ロクデナシ/MIMI
-- 5️⃣ 林坤信-逆天而行超燃完整版（小飞象 remix） — 小飞象
+- 🥉 Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato — Ludwig van Beethoven, Nikolai Lugansky
+- 4️⃣ Wagner: Das Rheingold: Entry of the Gods into Valhalla — Richard Wagner, Otto Klemperer, Philharmonia Orchestra
+- 5️⃣ Prokofiev: Piano Sonata No. 7 in B-Flat Major, Op. 83: III. Precipitato — Sergei Prokofiev, Martin James Bartlett
 
 **💿 热门专辑**  
 - 🥇 **新仙劍奇俠傳 (遊戲音樂原聲帶)** — 林坤信
-- 🥈 **DEEMO Memorial Keys Original Soundtrack** — 寺田志保
-- 🥉 **Kick's For Liberation 5** — USAO
+- 🥈 **Kick's For Liberation 5** — USAO
+- 🥉 **バンドリ！ガールズバンドパーティ！** — BanG Dream!
 
 ---
 
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 **🎶 本月歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
 - 🥈 Hanten (はんてん) — ME_DD、Electrode Core
-- 🥉 我怀念的 — 孫燕姿
+- 🥉 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/16 00:55:42*
+*更新时间: 2026/7/16 04:08:53*
 <!-- LASTFM_END -->
