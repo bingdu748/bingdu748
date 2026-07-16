@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,623 次 |
-| 🎤 歌手总计 | 19,295 位 |
-| 💿 专辑总计 | 20,259 张 |
-| 🎶 歌曲总计 | 61,868 首 |
+| 🎧 播放总次数 | 83,638 次 |
+| 🎤 歌手总计 | 19,303 位 |
+| 💿 专辑总计 | 20,268 张 |
+| 🎶 歌曲总计 | 61,879 首 |
 
-🎧 **正在播放：** 🇨🇳 50个日常中文短语 | 中文书写 & 耳语ASMR ✏️🐰 — TingleBunny ASMR
+🎧 **正在播放：** 환상충돌 — Plum - Melodic Artist
 
 **🎵 最近在听**  
-- 🎵 🇨🇳 50个日常中文短语 | 中文书写 & 耳语ASMR ✏️🐰 — TingleBunny ASMR
-- 🎵 ASMR Teaching You MORE Basic Chinese! 📚💤(Part 2) — baitu asmr
-- 🎵 Tchaikovsky: Symphony No. 6 in B Minor, Op. 74 "Pathétique": III. Allegro molto vivace — Pyotr Ilyich Tchaikovsky, Herbert von Karajan, Berliner Philharmoniker
-- 🎵 Brahms: Academic Festival Overture, Op. 80 — Johannes Brahms, Kurt Masur, New York Philharmonic
-- 🎵 Verdi: Nabucco: Overture — Giuseppe Verdi, Riccardo Muti, Philharmonia Orchestra
+- 🎵 환상충돌 — Plum - Melodic Artist
+- 🎵 ただ声一つ — ロクデナシ/MIMI
+- 🎵 환상충돌 — Plum - Melodic Artist
+- 🎵 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
+- 🎵 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 - 🥈 **小飞象** — 26 次播放
 - 🥉 **Relaxu/AVIAND** — 17 次播放
 - 4️⃣ **Relaxu** — 12 次播放
-- 5️⃣ **USAO** — 9 次播放
+- 5️⃣ **USAO** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
 - 🥈 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
-- 🥉 Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato — Ludwig van Beethoven, Nikolai Lugansky
-- 4️⃣ Wagner: Das Rheingold: Entry of the Gods into Valhalla — Richard Wagner, Otto Klemperer, Philharmonia Orchestra
-- 5️⃣ Prokofiev: Piano Sonata No. 7 in B-Flat Major, Op. 83: III. Precipitato — Sergei Prokofiev, Martin James Bartlett
+- 🥉 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
+- 4️⃣ Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato — Ludwig van Beethoven, Nikolai Lugansky
+- 5️⃣ 환상충돌 — Plum - Melodic Artist
 
 **💿 热门专辑**  
 - 🥇 **新仙劍奇俠傳 (遊戲音樂原聲帶)** — 林坤信
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/16 06:42:39*
+*更新时间: 2026/7/16 09:12:50*
 <!-- LASTFM_END -->
