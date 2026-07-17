@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,689 次 |
-| 🎤 歌手总计 | 19,307 位 |
-| 💿 专辑总计 | 20,273 张 |
-| 🎶 歌曲总计 | 61,912 首 |
+| 🎧 播放总次数 | 83,695 次 |
+| 🎤 歌手总计 | 19,308 位 |
+| 💿 专辑总计 | 20,274 张 |
+| 🎶 歌曲总计 | 61,914 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 兰兰7月17日早晨直播1。今天事很多，伊朗的原油在海上飘着都运不过来了。世界局势今日热点。 — 全球动态局势
-- 🎵 いつもの風景から始まる物語 (从平常的风景开始的故事) — 神前暁/髙田龍一（MONACA)
-- 🎵 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
-- 🎵 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
-- 🎵 水音世界观--7月16日--伊开战第6天：美军千亿砸入却陷入泥潭，伊朗这一招让五角大楼彻底破防！ — 水音世界观
+- 🎵 EleMenT OveRDrivE — Ciforance
+- 🎵 Gypsy Tronic — M2U
+- 🎵 PRAGMATISM -RESURRECTION- (游戏《Arcaea》独占曲) — Laur
+- 🎵 Without Words (无话可说) — Josh Vietti
+- 🎵 Fantasia Sonata Arcadia — PYKAMIA
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **小飞象** — 26 次播放
 - 🥉 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
 - 4️⃣ **水音世界观** — 12 次播放
-- 5️⃣ **Relaxu/AVIAND** — 9 次播放
+- 5️⃣ **Plum - Melodic Artist** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/17 12:42:33*
+*更新时间: 2026/7/17 14:43:08*
 <!-- LASTFM_END -->
