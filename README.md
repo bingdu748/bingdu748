@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,684 次 |
+| 🎧 播放总次数 | 83,687 次 |
 | 🎤 歌手总计 | 19,306 位 |
 | 💿 专辑总计 | 20,272 张 |
-| 🎶 歌曲总计 | 61,909 首 |
+| 🎶 歌曲总计 | 61,910 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
+- 🎵 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
+- 🎵 水音世界观--7月16日--伊开战第6天：美军千亿砸入却陷入泥潭，伊朗这一招让五角大楼彻底破防！ — 水音世界观
 - 🎵 IF = Infinity — Remnlar/プシ/Particulate/Nanchou/艾苏凛/Jiuwenzi
 - 🎵 Renatus (重生纪元) — Soleily
-- 🎵 Tiny Heart，Tiny Love — DJ Soviet
-- 🎵 爱丫爱丫 — 鬼面P/洛天依/乐正绫
-- 🎵 爱丫爱丫 — 鬼面P/洛天依/乐正绫
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **林坤信** — 93 次播放
 - 🥈 **小飞象** — 26 次播放
 - 🥉 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
-- 4️⃣ **Relaxu/AVIAND** — 17 次播放
-- 5️⃣ **Relaxu** — 12 次播放
+- 4️⃣ **水音世界观** — 12 次播放
+- 5️⃣ **Relaxu/AVIAND** — 9 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/17 01:00:51*
+*更新时间: 2026/7/17 04:40:21*
 <!-- LASTFM_END -->
