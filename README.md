@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,273 张 |
 | 🎶 歌曲总计 | 61,912 首 |
 
-🎧 **正在播放：** 兰兰7月17日早晨直播1。今天事很多，伊朗的原油在海上飘着都运不过来了。世界局势今日热点。 — 全球动态局势
+
 
 **🎵 最近在听**  
 - 🎵 兰兰7月17日早晨直播1。今天事很多，伊朗的原油在海上飘着都运不过来了。世界局势今日热点。 — 全球动态局势
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/17 11:05:40*
+*更新时间: 2026/7/17 12:42:33*
 <!-- LASTFM_END -->
