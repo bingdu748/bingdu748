@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **林坤信**
-- 🥈 **Plum**
-- 🥉 **范曉萱**
+- 🥈 **范曉萱**
+- 🥉 **Plum**
 
 **🎶 本月歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/18 03:54:31*
+*更新时间: 2026/7/18 06:04:18*
 <!-- LASTFM_END -->
