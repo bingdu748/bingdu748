@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,701 次 |
-| 🎤 歌手总计 | 19,308 位 |
-| 💿 专辑总计 | 20,274 张 |
-| 🎶 歌曲总计 | 61,915 首 |
+| 🎧 播放总次数 | 83,712 次 |
+| 🎤 歌手总计 | 19,309 位 |
+| 💿 专辑总计 | 20,277 张 |
+| 🎶 歌曲总计 | 61,918 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Paradigm Shift (范式转移) — Fractal Dreamers
-- 🎵 Midsummer Lightrail — (x²+y²-a²)³=x²y³
-- 🎵 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🎵 茶杯里的咖啡 — (x²+y²-a²)³=x²y³
-- 🎵 Sync — (x²+y²-a²)³=x²y³
+- 🎵 Neurotoxin — 削除
+- 🎵 Axium Divergence. — ak+q
+- 🎵 歌に形はないけれど (即使歌声无形) — まらしぃ
+- 🎵 星相运轨-Echo of the Universe- — AiSS/EndCat-终猫
+- 🎵 春日 — 四季音色
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **小飞象** — 26 次播放
 - 🥉 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
 - 4️⃣ **水音世界观** — 12 次播放
-- 5️⃣ **Plum - Melodic Artist** — 7 次播放
+- 5️⃣ **Plum - Melodic Artist** — 8 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/18 12:12:09*
+*更新时间: 2026/7/18 13:56:32*
 <!-- LASTFM_END -->
