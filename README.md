@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,695 次 |
+| 🎧 播放总次数 | 83,701 次 |
 | 🎤 歌手总计 | 19,308 位 |
 | 💿 专辑总计 | 20,274 张 |
-| 🎶 歌曲总计 | 61,914 首 |
+| 🎶 歌曲总计 | 61,915 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 EleMenT OveRDrivE — Ciforance
-- 🎵 Gypsy Tronic — M2U
-- 🎵 PRAGMATISM -RESURRECTION- (游戏《Arcaea》独占曲) — Laur
-- 🎵 Without Words (无话可说) — Josh Vietti
-- 🎵 Fantasia Sonata Arcadia — PYKAMIA
+- 🎵 Paradigm Shift (范式转移) — Fractal Dreamers
+- 🎵 Midsummer Lightrail — (x²+y²-a²)³=x²y³
+- 🎵 夏日第五号 — (x²+y²-a²)³=x²y³
+- 🎵 茶杯里的咖啡 — (x²+y²-a²)³=x²y³
+- 🎵 Sync — (x²+y²-a²)³=x²y³
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -70,12 +70,12 @@ Here are some ideas to get you started:
 **🎤 本月艺术家**  
 - 🥇 **林坤信**
 - 🥈 **范曉萱**
-- 🥉 **Plum**
+- 🥉 **水音世界观**
 
 **🎶 本月歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
 - 🥈 Hanten (はんてん) — ME_DD、Electrode Core
-- 🥉 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
+- 🥉 Sync — (x²+y²-a²)³=x²y³
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/18 06:04:18*
+*更新时间: 2026/7/18 08:19:31*
 <!-- LASTFM_END -->
