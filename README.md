@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,725 次 |
+| 🎧 播放总次数 | 83,729 次 |
 | 🎤 歌手总计 | 19,311 位 |
-| 💿 专辑总计 | 20,281 张 |
-| 🎶 歌曲总计 | 61,930 首 |
+| 💿 专辑总计 | 20,282 张 |
+| 🎶 歌曲总计 | 61,934 首 |
 
-
+🎧 **正在播放：** 雨のち感情論 — 和楽器バンド
 
 **🎵 最近在听**  
+- 🎵 雨のち感情論 — 和楽器バンド
+- 🎵 雪よ舞い散れ其方に向けて — 和楽器バンド
+- 🎵 オキノタユウ — 和楽器バンド
+- 🎵 起死回生 — 和楽器バンド
 - 🎵 Strong Fate — 和楽器バンド
-- 🎵 Valkyrie-戦乙女- — 和楽器バンド
-- 🎵 反撃の刃 — 和楽器バンド
-- 🎵 暁ノ糸 — 和楽器バンド
-- 🎵 なでしこ桜 — 和楽器バンド
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **小飞象** — 26 次播放
-- 🥈 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
-- 🥉 **水音世界观** — 13 次播放
-- 4️⃣ **和楽器バンド** — 10 次播放
-- 5️⃣ **林坤信** — 9 次播放
+- 🥇 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
+- 🥈 **小飞象** — 17 次播放
+- 🥉 **和楽器バンド** — 14 次播放
+- 4️⃣ **水音世界观** — 13 次播放
+- 5️⃣ **Plum - Melodic Artist** — 8 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/19 10:54:34*
+*更新时间: 2026/7/19 11:57:21*
 <!-- LASTFM_END -->
