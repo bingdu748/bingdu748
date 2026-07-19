@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **林坤信** — 93 次播放
-- 🥈 **小飞象** — 26 次播放
-- 🥉 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
-- 4️⃣ **水音世界观** — 13 次播放
-- 5️⃣ **和楽器バンド** — 10 次播放
+- 🥇 **小飞象** — 26 次播放
+- 🥈 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
+- 🥉 **水音世界观** — 13 次播放
+- 4️⃣ **和楽器バンド** — 10 次播放
+- 5️⃣ **林坤信** — 9 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
-- 🥈 **新仙劍奇俠傳 (遊戲音樂原聲帶)** — 林坤信
-- 🥉 **Kick's For Liberation 5** — USAO
+- 🥈 **Kick's For Liberation 5** — USAO
+- 🥉 **夏日的迷惘** — (x²+y²-a²)³=x²y³
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/19 09:27:16*
+*更新时间: 2026/7/19 10:54:34*
 <!-- LASTFM_END -->
