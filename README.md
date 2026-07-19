@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
 - 🥈 **和楽器バンド** — 17 次播放
-- 🥉 **小飞象** — 13 次播放
-- 4️⃣ **水音世界观** — 13 次播放
-- 5️⃣ **Plum - Melodic Artist** — 8 次播放
+- 🥉 **水音世界观** — 13 次播放
+- 4️⃣ **Plum - Melodic Artist** — 8 次播放
+- 5️⃣ **USAO** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/19 13:36:28*
+*更新时间: 2026/7/19 14:54:58*
 <!-- LASTFM_END -->
