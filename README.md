@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,729 次 |
+| 🎧 播放总次数 | 83,732 次 |
 | 🎤 歌手总计 | 19,311 位 |
 | 💿 专辑总计 | 20,282 张 |
-| 🎶 歌曲总计 | 61,934 首 |
+| 🎶 歌曲总计 | 61,937 首 |
 
-🎧 **正在播放：** 雨のち感情論 — 和楽器バンド
+
 
 **🎵 最近在听**  
+- 🎵 シンクロニシティ — 和楽器バンド
+- 🎵 拍手喝采 — 和楽器バンド
+- 🎵 花一匁 — 和楽器バンド
 - 🎵 雨のち感情論 — 和楽器バンド
 - 🎵 雪よ舞い散れ其方に向けて — 和楽器バンド
-- 🎵 オキノタユウ — 和楽器バンド
-- 🎵 起死回生 — 和楽器バンド
-- 🎵 Strong Fate — 和楽器バンド
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
-- 🥈 **小飞象** — 17 次播放
-- 🥉 **和楽器バンド** — 14 次播放
+- 🥈 **和楽器バンド** — 17 次播放
+- 🥉 **小飞象** — 13 次播放
 - 4️⃣ **水音世界观** — 13 次播放
 - 5️⃣ **Plum - Melodic Artist** — 8 次播放
 
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
-- 🥈 **Kick's For Liberation 5** — USAO
-- 🥉 **夏日的迷惘** — (x²+y²-a²)³=x²y³
+- 🥈 **軌跡 BEST COLLECTION+** — 和楽器バンド
+- 🥉 **Kick's For Liberation 5** — USAO
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/19 11:57:21*
+*更新时间: 2026/7/19 13:36:28*
 <!-- LASTFM_END -->
