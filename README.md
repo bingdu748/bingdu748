@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,712 次 |
-| 🎤 歌手总计 | 19,309 位 |
+| 🎧 播放总次数 | 83,715 次 |
+| 🎤 歌手总计 | 19,310 位 |
 | 💿 专辑总计 | 20,277 张 |
-| 🎶 歌曲总计 | 61,918 首 |
+| 🎶 歌曲总计 | 61,920 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
+- 🎵 勇者没意见（伴奏） — 小旭音乐
+- 🎵 勇者没意见 — 子蘇
 - 🎵 Neurotoxin — 削除
 - 🎵 Axium Divergence. — ak+q
-- 🎵 歌に形はないけれど (即使歌声无形) — まらしぃ
-- 🎵 星相运轨-Echo of the Universe- — AiSS/EndCat-终猫
-- 🎵 春日 — 四季音色
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 - 🥇 **林坤信** — 93 次播放
 - 🥈 **小飞象** — 26 次播放
 - 🥉 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
-- 4️⃣ **水音世界观** — 12 次播放
+- 4️⃣ **水音世界观** — 13 次播放
 - 5️⃣ **Plum - Melodic Artist** — 8 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
 - 🥈 ASMR Ancient Chinese Pharmacy — Tingting ASMR
-- 🥉 Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
-- 4️⃣ 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
-- 5️⃣ Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato — Ludwig van Beethoven, Nikolai Lugansky
+- 🥉 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
+- 4️⃣ Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
+- 5️⃣ 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
 
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/19 01:01:35*
+*更新时间: 2026/7/19 04:47:09*
 <!-- LASTFM_END -->
