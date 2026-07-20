@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,282 张 |
 | 🎶 歌曲总计 | 61,938 首 |
 
-🎧 **正在播放：** 水音世界观--7月18日--美军海外资产遭锁定？伊朗7处“绝密名单”曝光，白宫为何不敢动！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--7月18日--美军海外资产遭锁定？伊朗7处“绝密名单”曝光，白宫为何不敢动！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/19 23:56:44*
+*更新时间: 2026/7/20 03:30:50*
 <!-- LASTFM_END -->
