@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,282 张 |
 | 🎶 歌曲总计 | 61,941 首 |
 
-🎧 **正在播放：** 兰兰7月20日早晨直播2。日本正在积极备战。世界局势今日热点。 — 全球动态局势
+
 
 **🎵 最近在听**  
 - 🎵 兰兰7月20日早晨直播2。日本正在积极备战。世界局势今日热点。 — 全球动态局势
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/20 12:31:09*
+*更新时间: 2026/7/20 15:11:04*
 <!-- LASTFM_END -->
