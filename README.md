@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
 - 🥈 **和楽器バンド** — 17 次播放
-- 🥉 **水音世界观** — 13 次播放
+- 🥉 **水音世界观** — 12 次播放
 - 4️⃣ **Plum - Melodic Artist** — 8 次播放
 - 5️⃣ **USAO** — 7 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/20 03:30:50*
+*更新时间: 2026/7/20 06:45:14*
 <!-- LASTFM_END -->
