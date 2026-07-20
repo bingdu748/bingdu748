@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 - 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
 - 🥈 ASMR Ancient Chinese Pharmacy — Tingting ASMR
 - 🥉 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
-- 4️⃣ Bach, JS: Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie — Johann Sebastian Bach, Emmanuel Pahud, Berliner Barock Solisten, Rainer Kussmaul
-- 5️⃣ 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
+- 4️⃣ 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
+- 5️⃣ Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato — Ludwig van Beethoven, Nikolai Lugansky
 
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/20 15:11:04*
+*更新时间: 2026/7/20 16:54:56*
 <!-- LASTFM_END -->
