@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **和楽器バンド** — 17 次播放
 - 🥉 **水音世界观** — 15 次播放
 - 4️⃣ **Plum - Melodic Artist** — 8 次播放
-- 5️⃣ **USAO** — 7 次播放
+- 5️⃣ **全球动态局势** — 6 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Ancient Chinese Pharmacy — Tingting ASMR
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
 - 🥈 **軌跡 BEST COLLECTION+** — 和楽器バンド
-- 🥉 **Kick's For Liberation 5** — USAO
+- 🥉 **夏日的迷惘** — (x²+y²-a²)³=x²y³
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/21 11:22:51*
+*更新时间: 2026/7/21 12:53:00*
 <!-- LASTFM_END -->
