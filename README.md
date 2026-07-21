@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,282 张 |
 | 🎶 歌曲总计 | 61,942 首 |
 
-🎧 **正在播放：** 水音世界观--7月20日--伊朗导弹击穿100亿萨德神话，美军核心据点遭对等绝杀，霸权遮羞布被撕碎？ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--7月20日--伊朗导弹击穿100亿萨德神话，美军核心据点遭对等绝杀，霸权遮羞布被撕碎？ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/21 00:05:01*
+*更新时间: 2026/7/21 03:55:41*
 <!-- LASTFM_END -->
