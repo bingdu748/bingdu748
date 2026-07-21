@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,737 次 |
+| 🎧 播放总次数 | 83,740 次 |
 | 🎤 歌手总计 | 19,311 位 |
 | 💿 专辑总计 | 20,282 张 |
-| 🎶 歌曲总计 | 61,942 首 |
+| 🎶 歌曲总计 | 61,944 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 娜娜说7月21日直播。菲律宾这样的挑衅还会持续，我们也要持续严厉打击。世界局势今日热点。 — 全球动态局势
+- 🎵 水音世界观--7月20日--0枚锆石平推基辅！普京深夜克宫高调道谢，朝俄正式深度绑定：乌克兰底牌全漏了？ — 水音世界观
+- 🎵 水音世界观--7月20日--0枚锆石平推基辅！普京深夜克宫高调道谢，朝俄正式深度绑定：乌克兰底牌全漏了？ — 水音世界观
 - 🎵 水音世界观--7月20日--伊朗导弹击穿100亿萨德神话，美军核心据点遭对等绝杀，霸权遮羞布被撕碎？ — 水音世界观
 - 🎵 兰兰7月20日早晨直播2。日本正在积极备战。世界局势今日热点。 — 全球动态局势
-- 🎵 兰兰7月20日早晨直播1。世界上最希望中国跟美国打仗的国家是俄罗斯吗。世界局势今日热点。 — 全球动态局势
-- 🎵 水音世界观--7月18日--吃着中国的救命粮，砸着中国的饭碗！菲律宾政客底线刷新人类认知。 — 水音世界观
-- 🎵 水音世界观--7月18日--美军海外资产遭锁定？伊朗7处“绝密名单”曝光，白宫为何不敢动！ — 水音世界观
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
 - 🥈 **和楽器バンド** — 17 次播放
-- 🥉 **水音世界观** — 13 次播放
+- 🥉 **水音世界观** — 15 次播放
 - 4️⃣ **Plum - Melodic Artist** — 8 次播放
 - 5️⃣ **USAO** — 7 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
-- 🥈 ASMR Ancient Chinese Pharmacy — Tingting ASMR
-- 🥉 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
-- 4️⃣ 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
-- 5️⃣ Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato — Ludwig van Beethoven, Nikolai Lugansky
+- 🥇 ASMR Ancient Chinese Pharmacy — Tingting ASMR
+- 🥈 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
+- 🥉 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
+- 4️⃣ Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
+- 5️⃣ 환상충돌 — Plum - Melodic Artist
 
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/21 06:28:33*
+*更新时间: 2026/7/21 09:12:19*
 <!-- LASTFM_END -->
