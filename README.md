@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,743 次 |
-| 🎤 歌手总计 | 19,311 位 |
-| 💿 专辑总计 | 20,283 张 |
-| 🎶 歌曲总计 | 61,947 首 |
+| 🎧 播放总次数 | 83,749 次 |
+| 🎤 歌手总计 | 19,312 位 |
+| 💿 专辑总计 | 20,284 张 |
+| 🎶 歌曲总计 | 61,948 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 兰兰7月20日晚上直播1。伊美国要给伊朗致命一击了，伊朗就是不投降，特朗普生气了。世界局势今日热点。 — 全球动态局势
-- 🎵 SEISHUN://NO_HACKING — takehirotei
-- 🎵 Skity Rain — ity
-- 🎵 娜娜说7月21日直播。菲律宾这样的挑衅还会持续，我们也要持续严厉打击。世界局势今日热点。 — 全球动态局势
-- 🎵 水音世界观--7月20日--0枚锆石平推基辅！普京深夜克宫高调道谢，朝俄正式深度绑定：乌克兰底牌全漏了？ — 水音世界观
+- 🎵 Sphalerite — CS4W、RYOQUCHA
+- 🎵 天狗舞踏会 — Foxtail-Grass Studio
+- 🎵 天狗舞踏会 — Foxtail-Grass Studio
+- 🎵 时梦 — zuayean
+- 🎵 Event Horizon — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 **🎶 热门歌曲**  
 - 🥇 ASMR Ancient Chinese Pharmacy — Tingting ASMR
 - 🥈 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
-- 🥉 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
-- 4️⃣ Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
-- 5️⃣ 환상충돌 — Plum - Melodic Artist
+- 🥉 天狗舞踏会 — Foxtail-Grass Studio
+- 4️⃣ 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
+- 5️⃣ Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
 
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/21 12:53:00*
+*更新时间: 2026/7/21 15:03:11*
 <!-- LASTFM_END -->
