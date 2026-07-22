@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,749 次 |
+| 🎧 播放总次数 | 83,750 次 |
 | 🎤 歌手总计 | 19,312 位 |
 | 💿 专辑总计 | 20,284 张 |
-| 🎶 歌曲总计 | 61,948 首 |
+| 🎶 歌曲总计 | 61,949 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月21日--巴林美军第五舰队司令部惊天大爆炸！伊朗激活绝密110预案，特朗普暴怒威胁数倍报复！ — 水音世界观
 - 🎵 Sphalerite — CS4W、RYOQUCHA
 - 🎵 天狗舞踏会 — Foxtail-Grass Studio
 - 🎵 天狗舞踏会 — Foxtail-Grass Studio
 - 🎵 时梦 — zuayean
-- 🎵 Event Horizon — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/21 23:30:27*
+*更新时间: 2026/7/22 02:36:05*
 <!-- LASTFM_END -->
