@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,341 张 |
 | 🎶 歌曲总计 | 62,006 首 |
 
-🎧 **正在播放：** 水音世界观--7月21日--乌军突袭野莓仓库大火连烧3天！3名中国同胞受伤百亿货物清零，平台竟拒赔？ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--7月21日--乌军突袭野莓仓库大火连烧3天！3名中国同胞受伤百亿货物清零，平台竟拒赔？ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/22 10:39:30*
+*更新时间: 2026/7/22 12:24:48*
 <!-- LASTFM_END -->
