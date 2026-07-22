@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,797 次 |
-| 🎤 歌手总计 | 19,362 位 |
-| 💿 专辑总计 | 20,336 张 |
-| 🎶 歌曲总计 | 62,000 首 |
+| 🎧 播放总次数 | 83,803 次 |
+| 🎤 歌手总计 | 19,367 位 |
+| 💿 专辑总计 | 20,341 张 |
+| 🎶 歌曲总计 | 62,006 首 |
 
-🎧 **正在播放：** Chopin: 12 Études, Op. 10: No. 12 in C Minor "Revolutionary" — Frédéric Chopin, Rafael Orozco
+🎧 **正在播放：** 水音世界观--7月21日--乌军突袭野莓仓库大火连烧3天！3名中国同胞受伤百亿货物清零，平台竟拒赔？ — 水音世界观
 
 **🎵 最近在听**  
-- 🎵 Chopin: 12 Études, Op. 10: No. 12 in C Minor "Revolutionary" — Frédéric Chopin, Rafael Orozco
-- 🎵 Stanford: Bible Songs and Six Hymns, Op. 113: No. 4b, Hymn, "Pray that Jerusalem" — Charles Villiers Stanford, Choir of King's College, Cambridge, James Vivian, Stephen Cleobury
-- 🎵 Giroust: Psaume CXXXVII "Super flumina Babylonis": VII. Filia Babylonis — François Giroust, Louis Devos, Chœur De Chambre De Namur, Musica Polyphonica
-- 🎵 Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
-- 🎵 Beecham & Handel: Love in Bath: I. The Pump Room — George Frideric Handel, Sir Thomas Beecham, Royal Philharmonic Orchestra
+- 🎵 水音世界观--7月21日--乌军突袭野莓仓库大火连烧3天！3名中国同胞受伤百亿货物清零，平台竟拒赔？ — 水音世界观
+- 🎵 Vivaldi: Violin Sonata in D Minor, RV 12 "Manchester Sonata No. 2": III. Gavotta — Antonio Vivaldi, Nigel Kennedy, Mitzi Meyerson, Olaf Maninger, Taro Takeuchi
+- 🎵 Barbieri: El barberillo de Lavapiés: Canción. "Como nací en la calle" (Paloma) — Francisco Asenjo Barbieri, Victoria de los Ángeles, Rafael Frühbeck de Burgos, Orquesta Nacional De España
+- 🎵 Tchaikovsky: Souvenir de Hapsal, Op. 2: No. 2, Scherzo — Pyotr Ilyich Tchaikovsky, Viktoria Postnikova
+- 🎵 Lehár: Schön ist die Welt, Act 1: "Rio de Janeiro" (Mercedes, Chor) — Franz Lehár, Ping-Pongs, Der Günther-Arndt-Chor, Renate Holm, Frank Fox, FFB-Orchester
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
 - 🥈 **和楽器バンド** — 17 次播放
-- 🥉 **水音世界观** — 9 次播放
+- 🥉 **水音世界观** — 10 次播放
 - 4️⃣ **Plum - Melodic Artist** — 8 次播放
-- 5️⃣ **全球动态局势** — 6 次播放
+- 5️⃣ **(x²+y²-a²)³=x²y³** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/22 08:28:28*
+*更新时间: 2026/7/22 10:39:30*
 <!-- LASTFM_END -->
