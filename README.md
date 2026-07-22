@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,750 次 |
-| 🎤 歌手总计 | 19,312 位 |
-| 💿 专辑总计 | 20,284 张 |
-| 🎶 歌曲总计 | 61,949 首 |
+| 🎧 播放总次数 | 83,774 次 |
+| 🎤 歌手总计 | 19,340 位 |
+| 💿 专辑总计 | 20,313 张 |
+| 🎶 歌曲总计 | 61,978 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观--7月21日--巴林美军第五舰队司令部惊天大爆炸！伊朗激活绝密110预案，特朗普暴怒威胁数倍报复！ — 水音世界观
-- 🎵 Sphalerite — CS4W、RYOQUCHA
-- 🎵 天狗舞踏会 — Foxtail-Grass Studio
-- 🎵 天狗舞踏会 — Foxtail-Grass Studio
-- 🎵 时梦 — zuayean
+- 🎵 Schrammel: Wien bleibt Wien — Johann Schrammel, Berliner Philharmoniker
+- 🎵 Madetoja: Songs for Male Voice Choir, Op. 39: No. 3, Flag Anthem of the Tallinn Male Voice Choral Society — Leevi Madetoja, YL Male Voice Choir, Matti Hyokki
+- 🎵 Offenbach: La vie parisienne, Act 2: Couplets. "Dans cette ville pleine de plaisirs" (Le Baron) — Jacques Offenbach, Jules Gressier, Michel Roux, Orchestre Lamoureux
+- 🎵 Stravinsky: 4 Études pour orchestre: No. 4, Madrid. Allegro con moto — Igor Stravinsky, Eliahu Inbal, Philharmonia Orchestra
+- 🎵 Falla: Atlàntida, Pt. 1: No. 5, Càntic a Barcelona (Cor) — Manuel de Falla, Rafael Frühbeck de Burgos, Coro Nacional de España, Escolanía de Nuestra Señora del Recuerdo, Orquesta Nacional De España
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
 - 🥈 **和楽器バンド** — 17 次播放
-- 🥉 **水音世界观** — 15 次播放
+- 🥉 **水音世界观** — 9 次播放
 - 4️⃣ **Plum - Melodic Artist** — 8 次播放
 - 5️⃣ **全球动态局势** — 6 次播放
 
 **🎶 热门歌曲**  
-- 🥇 ASMR Ancient Chinese Pharmacy — Tingting ASMR
-- 🥈 水音世界观--7月16日 --趁台风搞“碰瓷”？日本舰船企图蚕食台海，结果撞上中国海警“雷霆手段”：彻底破防了！ — 水音世界观
+- 🥇 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
+- 🥈 ASMR Ancient Chinese Pharmacy — Tingting ASMR
 - 🥉 天狗舞踏会 — Foxtail-Grass Studio
-- 4️⃣ 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
-- 5️⃣ Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
+- 4️⃣ Event Horizon — Plum
+- 5️⃣ 환상충돌 — Plum - Melodic Artist
 
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/22 02:36:05*
+*更新时间: 2026/7/22 05:50:21*
 <!-- LASTFM_END -->
