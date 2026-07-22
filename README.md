@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,774 次 |
-| 🎤 歌手总计 | 19,340 位 |
-| 💿 专辑总计 | 20,313 张 |
-| 🎶 歌曲总计 | 61,978 首 |
+| 🎧 播放总次数 | 83,797 次 |
+| 🎤 歌手总计 | 19,362 位 |
+| 💿 专辑总计 | 20,336 张 |
+| 🎶 歌曲总计 | 62,000 首 |
 
-
+🎧 **正在播放：** Chopin: 12 Études, Op. 10: No. 12 in C Minor "Revolutionary" — Frédéric Chopin, Rafael Orozco
 
 **🎵 最近在听**  
-- 🎵 Schrammel: Wien bleibt Wien — Johann Schrammel, Berliner Philharmoniker
-- 🎵 Madetoja: Songs for Male Voice Choir, Op. 39: No. 3, Flag Anthem of the Tallinn Male Voice Choral Society — Leevi Madetoja, YL Male Voice Choir, Matti Hyokki
-- 🎵 Offenbach: La vie parisienne, Act 2: Couplets. "Dans cette ville pleine de plaisirs" (Le Baron) — Jacques Offenbach, Jules Gressier, Michel Roux, Orchestre Lamoureux
-- 🎵 Stravinsky: 4 Études pour orchestre: No. 4, Madrid. Allegro con moto — Igor Stravinsky, Eliahu Inbal, Philharmonia Orchestra
-- 🎵 Falla: Atlàntida, Pt. 1: No. 5, Càntic a Barcelona (Cor) — Manuel de Falla, Rafael Frühbeck de Burgos, Coro Nacional de España, Escolanía de Nuestra Señora del Recuerdo, Orquesta Nacional De España
+- 🎵 Chopin: 12 Études, Op. 10: No. 12 in C Minor "Revolutionary" — Frédéric Chopin, Rafael Orozco
+- 🎵 Stanford: Bible Songs and Six Hymns, Op. 113: No. 4b, Hymn, "Pray that Jerusalem" — Charles Villiers Stanford, Choir of King's College, Cambridge, James Vivian, Stephen Cleobury
+- 🎵 Giroust: Psaume CXXXVII "Super flumina Babylonis": VII. Filia Babylonis — François Giroust, Louis Devos, Chœur De Chambre De Namur, Musica Polyphonica
+- 🎵 Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
+- 🎵 Beecham & Handel: Love in Bath: I. The Pump Room — George Frideric Handel, Sir Thomas Beecham, Royal Philharmonic Orchestra
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **林坤信**
-- 🥈 **范曉萱**
-- 🥉 **水音世界观**
+- 🥈 **水音世界观**
+- 🥉 **小飞象**
 
 **🎶 本月歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/22 05:50:21*
+*更新时间: 2026/7/22 08:28:28*
 <!-- LASTFM_END -->
