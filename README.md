@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,803 次 |
+| 🎧 播放总次数 | 83,807 次 |
 | 🎤 歌手总计 | 19,367 位 |
-| 💿 专辑总计 | 20,341 张 |
+| 💿 专辑总计 | 20,344 张 |
 | 🎶 歌曲总计 | 62,006 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 No-name Requiem — 打打だいず
+- 🎵 piasolute — onoken
+- 🎵 TAPIOCA — USAO
+- 🎵 Rap God — Eminem
 - 🎵 水音世界观--7月21日--乌军突袭野莓仓库大火连烧3天！3名中国同胞受伤百亿货物清零，平台竟拒赔？ — 水音世界观
-- 🎵 Vivaldi: Violin Sonata in D Minor, RV 12 "Manchester Sonata No. 2": III. Gavotta — Antonio Vivaldi, Nigel Kennedy, Mitzi Meyerson, Olaf Maninger, Taro Takeuchi
-- 🎵 Barbieri: El barberillo de Lavapiés: Canción. "Como nací en la calle" (Paloma) — Francisco Asenjo Barbieri, Victoria de los Ángeles, Rafael Frühbeck de Burgos, Orquesta Nacional De España
-- 🎵 Tchaikovsky: Souvenir de Hapsal, Op. 2: No. 2, Scherzo — Pyotr Ilyich Tchaikovsky, Viktoria Postnikova
-- 🎵 Lehár: Schön ist die Welt, Act 1: "Rio de Janeiro" (Mercedes, Chor) — Franz Lehár, Ping-Pongs, Der Günther-Arndt-Chor, Renate Holm, Frank Fox, FFB-Orchester
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/22 12:24:48*
+*更新时间: 2026/7/22 14:33:45*
 <!-- LASTFM_END -->
