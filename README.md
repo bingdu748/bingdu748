@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,807 次 |
+| 🎧 播放总次数 | 83,808 次 |
 | 🎤 歌手总计 | 19,367 位 |
 | 💿 专辑总计 | 20,344 张 |
-| 🎶 歌曲总计 | 62,006 首 |
+| 🎶 歌曲总计 | 62,007 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月22日--英国强抢英钢遭致命反杀！商务部四连招断供源代码，开封舰与俄舰联手破防日本“专属区”！ — 水音世界观
 - 🎵 No-name Requiem — 打打だいず
 - 🎵 piasolute — onoken
 - 🎵 TAPIOCA — USAO
 - 🎵 Rap God — Eminem
-- 🎵 水音世界观--7月21日--乌军突袭野莓仓库大火连烧3天！3名中国同胞受伤百亿货物清零，平台竟拒赔？ — 水音世界观
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/22 23:29:28*
+*更新时间: 2026/7/23 01:04:56*
 <!-- LASTFM_END -->
