@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,808 次 |
-| 🎤 歌手总计 | 19,367 位 |
-| 💿 专辑总计 | 20,344 张 |
-| 🎶 歌曲总计 | 62,007 首 |
+| 🎧 播放总次数 | 83,812 次 |
+| 🎤 歌手总计 | 19,370 位 |
+| 💿 专辑总计 | 20,347 张 |
+| 🎶 歌曲总计 | 62,010 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 Schönberg: Sun and Moon (From "Miss Saigon") — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
+- 🎵 Ligeti: Hamburg Concerto: I. Praeludium — György Ligeti, Marie Luise Neunecker, Ozan Çazar, Simon Breyer, Sybille Mahni, Thomas Bernstein, Reinbert de Leeuw
+- 🎵 Sarde: La petite Apocalypse: Sur les toits de Paris — Philippe Sarde
+- 🎵 Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
 - 🎵 水音世界观--7月22日--英国强抢英钢遭致命反杀！商务部四连招断供源代码，开封舰与俄舰联手破防日本“专属区”！ — 水音世界观
-- 🎵 No-name Requiem — 打打だいず
-- 🎵 piasolute — onoken
-- 🎵 TAPIOCA — USAO
-- 🎵 Rap God — Eminem
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 - 🥇 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
 - 🥈 ASMR Ancient Chinese Pharmacy — Tingting ASMR
 - 🥉 天狗舞踏会 — Foxtail-Grass Studio
-- 4️⃣ Event Horizon — Plum
-- 5️⃣ 환상충돌 — Plum - Melodic Artist
+- 4️⃣ Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
+- 5️⃣ Event Horizon — Plum
 
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/23 01:04:56*
+*更新时间: 2026/7/23 04:50:21*
 <!-- LASTFM_END -->
