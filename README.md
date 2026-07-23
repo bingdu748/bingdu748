@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 - 🥈 **水音世界观** — 10 次播放
 - 🥉 **(x²+y²-a²)³=x²y³** — 5 次播放
 - 4️⃣ **全球动态局势** — 5 次播放
-- 5️⃣ **Tingting ASMR** — 4 次播放
+- 5️⃣ **v-Qtz** — 4 次播放
 
 **🎶 热门歌曲**  
-- 🥇 ASMR Ancient Chinese Pharmacy — Tingting ASMR
-- 🥈 天狗舞踏会 — Foxtail-Grass Studio
-- 🥉 Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
-- 4️⃣ Event Horizon — Plum
-- 5️⃣ Autumnal Euphoria — v-Qtz
+- 🥇 天狗舞踏会 — Foxtail-Grass Studio
+- 🥈 Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
+- 🥉 Event Horizon — Plum
+- 4️⃣ Autumnal Euphoria — v-Qtz
+- 5️⃣ 爱丫爱丫 — 鬼面P/洛天依/乐正绫
 
 **💿 热门专辑**  
 - 🥇 **軌跡 BEST COLLECTION+** — 和楽器バンド
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/23 12:09:42*
+*更新时间: 2026/7/23 14:40:39*
 <!-- LASTFM_END -->
