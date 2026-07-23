@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,347 张 |
 | 🎶 歌曲总计 | 62,014 首 |
 
-🎧 **正在播放：** 水音世界观--7月22日--太平岛被硬说成岩礁？用魔法打败魔法，冲之鸟礁根本没资格划专属经济区 — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--7月22日--太平岛被硬说成岩礁？用魔法打败魔法，冲之鸟礁根本没资格划专属经济区 — 水音世界观
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
-- 🥈 **和楽器バンド** — 17 次播放
-- 🥉 **水音世界观** — 10 次播放
-- 4️⃣ **(x²+y²-a²)³=x²y³** — 5 次播放
-- 5️⃣ **Tingting ASMR** — 5 次播放
+- 🥇 **和楽器バンド** — 17 次播放
+- 🥈 **水音世界观** — 10 次播放
+- 🥉 **(x²+y²-a²)³=x²y³** — 5 次播放
+- 4️⃣ **全球动态局势** — 5 次播放
+- 5️⃣ **Tingting ASMR** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Ancient Chinese Pharmacy — Tingting ASMR
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ Autumnal Euphoria — v-Qtz
 
 **💿 热门专辑**  
-- 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
-- 🥈 **軌跡 BEST COLLECTION+** — 和楽器バンド
-- 🥉 **夏日的迷惘** — (x²+y²-a²)³=x²y³
+- 🥇 **軌跡 BEST COLLECTION+** — 和楽器バンド
+- 🥈 **夏日的迷惘** — (x²+y²-a²)³=x²y³
+- 🥉 **八奏絵巻** — 和楽器バンド
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/23 10:22:05*
+*更新时间: 2026/7/23 12:09:42*
 <!-- LASTFM_END -->
