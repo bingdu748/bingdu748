@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,816 次 |
+| 🎧 播放总次数 | 83,817 次 |
 | 🎤 歌手总计 | 19,370 位 |
 | 💿 专辑总计 | 20,347 张 |
-| 🎶 歌曲总计 | 62,013 首 |
+| 🎶 歌曲总计 | 62,014 首 |
 
-
+🎧 **正在播放：** 水音世界观--7月22日--太平岛被硬说成岩礁？用魔法打败魔法，冲之鸟礁根本没资格划专属经济区 — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月22日--太平岛被硬说成岩礁？用魔法打败魔法，冲之鸟礁根本没资格划专属经济区 — 水音世界观
 - 🎵 Autumnal Euphoria (Reversed) — v-Qtz
 - 🎵 Autumnal Euphoria — v-Qtz
 - 🎵 Autumnal Euphoria — v-Qtz
 - 🎵 夏日第五号 — v-Qtz
-- 🎵 Schönberg: Sun and Moon (From "Miss Saigon") — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 - 🥇 **Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson** — 18 次播放
 - 🥈 **和楽器バンド** — 17 次播放
 - 🥉 **水音世界观** — 10 次播放
-- 4️⃣ **Plum - Melodic Artist** — 8 次播放
-- 5️⃣ **(x²+y²-a²)³=x²y³** — 5 次播放
+- 4️⃣ **(x²+y²-a²)³=x²y³** — 5 次播放
+- 5️⃣ **Tingting ASMR** — 5 次播放
 
 **🎶 热门歌曲**  
-- 🥇 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
-- 🥈 ASMR Ancient Chinese Pharmacy — Tingting ASMR
-- 🥉 天狗舞踏会 — Foxtail-Grass Studio
-- 4️⃣ Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
-- 5️⃣ Event Horizon — Plum
+- 🥇 ASMR Ancient Chinese Pharmacy — Tingting ASMR
+- 🥈 天狗舞踏会 — Foxtail-Grass Studio
+- 🥉 Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
+- 4️⃣ Event Horizon — Plum
+- 5️⃣ Autumnal Euphoria — v-Qtz
 
 **💿 热门专辑**  
 - 🥇 **Bizet : Carmen** — Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/23 07:32:15*
+*更新时间: 2026/7/23 10:22:05*
 <!-- LASTFM_END -->
