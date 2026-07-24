@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,856 次 |
+| 🎧 播放总次数 | 83,857 次 |
 | 🎤 歌手总计 | 19,390 位 |
 | 💿 专辑总计 | 20,368 张 |
-| 🎶 歌曲总计 | 62,038 首 |
+| 🎶 歌曲总计 | 62,039 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月23日--萨德与爱国者同遭摧毁！伊朗导弹精准洗地约旦美军基地，科威特机库惨遭端窝 — 水音世界观
 - 🎵 Loewe: My Fair Lady, Act 1: "On the Street Where You Live" (Freddy) — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
 - 🎵 Stuck: Cantates françaises et italiennes, Livre IV: No. 5, Les festes bolonnoises: Prélude — Jean-Baptiste Stuck, Il Seminario Musicale
 - 🎵 Parry: Jerusalem — Hubert Parry, Choir of King's College, Cambridge, Stephen Cleobury, Oliver Brett
 - 🎵 Shostakovich: 7 Romances on Verses by Alexander Blok, Op. 127: No. 4, The City Sleeps — Dmitri Shostakovich, Mstislav Rostropovich, Galina Vishnevskaya, Ulf Hoelscher, Vasso Devetzi
-- 🎵 Castelnuovo-Tedesco: Alt-Wien, Op. 30 (Arr. Heifetz for Violin and Piano) — Mario Castelnuovo-Tedesco, Jascha Heifetz, Arpád Sándor
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **和楽器バンド** — 17 次播放
 - 🥈 **v-Qtz** — 10 次播放
-- 🥉 **水音世界观** — 8 次播放
+- 🥉 **水音世界观** — 9 次播放
 - 4️⃣ **(x²+y²-a²)³=x²y³** — 5 次播放
-- 5️⃣ **全球动态局势** — 5 次播放
+- 5️⃣ **全球动态局势** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/24 09:54:06*
+*更新时间: 2026/7/24 11:41:33*
 <!-- LASTFM_END -->
