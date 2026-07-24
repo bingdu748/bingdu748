@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,831 次 |
-| 🎤 歌手总计 | 19,373 位 |
+| 🎧 播放总次数 | 83,839 次 |
+| 🎤 歌手总计 | 19,374 位 |
 | 💿 专辑总计 | 20,352 张 |
-| 🎶 歌曲总计 | 62,019 首 |
+| 🎶 歌曲总计 | 62,022 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Caliburne ~Story of the Legendary sword~ (Caliburne~圣剑传说~) — Project Grimoire
-- 🎵 君往何处 (Quo Vadis) — M2U
-- 🎵 DRAGON RISES — 澤野弘之
-- 🎵 Temptation — M2U
-- 🎵 アルメリアの鳥籠 (阿尔梅里亚的鸟笼) — a_hisa
+- 🎵 솜털 마이크 쓰다듬기, 긁기, 입으로 내는 소리들 ( 소음버전 ) — DANA ꯁꯧ
+- 🎵 落叶终章 — v-Qtz
+- 🎵 落叶终章 — v-Qtz
+- 🎵 落叶终章 — v-Qtz
+- 🎵 落叶终章 — v-Qtz
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **和楽器バンド** — 17 次播放
-- 🥈 **水音世界观** — 9 次播放
-- 🥉 **(x²+y²-a²)³=x²y³** — 5 次播放
-- 4️⃣ **全球动态局势** — 5 次播放
-- 5️⃣ **v-Qtz** — 4 次播放
+- 🥈 **v-Qtz** — 10 次播放
+- 🥉 **水音世界观** — 8 次播放
+- 4️⃣ **(x²+y²-a²)³=x²y³** — 5 次播放
+- 5️⃣ **全球动态局势** — 5 次播放
 
 **🎶 热门歌曲**  
-- 🥇 天狗舞踏会 — Foxtail-Grass Studio
-- 🥈 Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
-- 🥉 Event Horizon — Plum
-- 4️⃣ Autumnal Euphoria — v-Qtz
-- 5️⃣ Digital Ascension — (x²+y²-a²)³=x²y³
+- 🥇 落叶终章 — v-Qtz
+- 🥈 天狗舞踏会 — Foxtail-Grass Studio
+- 🥉 Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
+- 4️⃣ Event Horizon — Plum
+- 5️⃣ Autumnal Euphoria — v-Qtz
 
 **💿 热门专辑**  
 - 🥇 **軌跡 BEST COLLECTION+** — 和楽器バンド
@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🥈 Hanten (はんてん) — ME_DD、Electrode Core
-- 🥉 Sync — (x²+y²-a²)³=x²y³
+- 🥈 落叶终章 — v-Qtz
+- 🥉 Hanten (はんてん) — ME_DD、Electrode Core
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/24 00:56:53*
+*更新时间: 2026/7/24 04:18:46*
 <!-- LASTFM_END -->
