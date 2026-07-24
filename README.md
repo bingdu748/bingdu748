@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,817 次 |
-| 🎤 歌手总计 | 19,370 位 |
-| 💿 专辑总计 | 20,347 张 |
-| 🎶 歌曲总计 | 62,014 首 |
+| 🎧 播放总次数 | 83,831 次 |
+| 🎤 歌手总计 | 19,373 位 |
+| 💿 专辑总计 | 20,352 张 |
+| 🎶 歌曲总计 | 62,019 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观--7月22日--太平岛被硬说成岩礁？用魔法打败魔法，冲之鸟礁根本没资格划专属经济区 — 水音世界观
-- 🎵 Autumnal Euphoria (Reversed) — v-Qtz
-- 🎵 Autumnal Euphoria — v-Qtz
-- 🎵 Autumnal Euphoria — v-Qtz
-- 🎵 夏日第五号 — v-Qtz
+- 🎵 Caliburne ~Story of the Legendary sword~ (Caliburne~圣剑传说~) — Project Grimoire
+- 🎵 君往何处 (Quo Vadis) — M2U
+- 🎵 DRAGON RISES — 澤野弘之
+- 🎵 Temptation — M2U
+- 🎵 アルメリアの鳥籠 (阿尔梅里亚的鸟笼) — a_hisa
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **和楽器バンド** — 17 次播放
-- 🥈 **水音世界观** — 10 次播放
+- 🥈 **水音世界观** — 9 次播放
 - 🥉 **(x²+y²-a²)³=x²y³** — 5 次播放
 - 4️⃣ **全球动态局势** — 5 次播放
 - 5️⃣ **v-Qtz** — 4 次播放
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 🥈 Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
 - 🥉 Event Horizon — Plum
 - 4️⃣ Autumnal Euphoria — v-Qtz
-- 5️⃣ 爱丫爱丫 — 鬼面P/洛天依/乐正绫
+- 5️⃣ Digital Ascension — (x²+y²-a²)³=x²y³
 
 **💿 热门专辑**  
 - 🥇 **軌跡 BEST COLLECTION+** — 和楽器バンド
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 **🎤 最爱的艺术家**  
 - 🥇 **上海アリス幻樂団** — 2,462 次播放
-- 🥈 **a_hisa** — 1,170 次播放
+- 🥈 **a_hisa** — 1,171 次播放
 - 🥉 **Relaxu** — 975 次播放
 - 4️⃣ **Various Artists** — 782 次播放
 - 5️⃣ **周杰倫** — 742 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/23 23:28:00*
+*更新时间: 2026/7/24 00:56:53*
 <!-- LASTFM_END -->
