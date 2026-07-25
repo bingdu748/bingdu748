@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,870 次 |
-| 🎤 歌手总计 | 19,393 位 |
+| 🎧 播放总次数 | 83,874 次 |
+| 🎤 歌手总计 | 19,395 位 |
 | 💿 专辑总计 | 20,370 张 |
-| 🎶 歌曲总计 | 62,045 首 |
+| 🎶 歌曲总计 | 62,049 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 跑最慢的人是姛哦～ — 老皮艾尔君
+- 🎵 这才是鸡的真实食谱 — Deweare说
+- 🎵 台湾网民提出换岛方案：去外国买岛迁移，把台湾留给大陆，可行吗 — 科普兔探长
+- 🎵 家里牛身上都是牛虻，养了群鸡整治它们 — Deweare说
 - 🎵 春之行 — 灰澈
-- 🎵 Midnight Rain — Ray Snow Ja
-- 🎵 nightfall (full ver) (夜幕之时) — ginkiha
-- 🎵 Ashen Journey（烬途） — 日出为昼Risunday/狐尾虾/星夜/lingyi01
-- 🎵 The truth that you leave (你离开的事实) — Pianoboy高至豪
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **和楽器バンド** — 17 次播放
 - 🥈 **v-Qtz** — 10 次播放
 - 🥉 **水音世界观** — 9 次播放
-- 4️⃣ **(x²+y²-a²)³=x²y³** — 5 次播放
-- 5️⃣ **全球动态局势** — 4 次播放
+- 4️⃣ **全球动态局势** — 4 次播放
+- 5️⃣ **Foxtail-Grass Studio** — 3 次播放
 
 **🎶 热门歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **軌跡 BEST COLLECTION+** — 和楽器バンド
-- 🥈 **夏日的迷惘** — (x²+y²-a²)³=x²y³
-- 🥉 **八奏絵巻** — 和楽器バンド
+- 🥈 **八奏絵巻** — 和楽器バンド
+- 🥉 **ときかけエオリア** — Foxtail-Grass Studio
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/25 04:42:30*
+*更新时间: 2026/7/25 07:16:06*
 <!-- LASTFM_END -->
