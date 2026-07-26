@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,878 次 |
-| 🎤 歌手总计 | 19,398 位 |
-| 💿 专辑总计 | 20,373 张 |
-| 🎶 歌曲总计 | 62,053 首 |
+| 🎧 播放总次数 | 83,890 次 |
+| 🎤 歌手总计 | 19,409 位 |
+| 💿 专辑总计 | 20,384 张 |
+| 🎶 歌曲总计 | 62,064 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Just Right — Unikara
-- 🎵 巴西 Funk — 卍先森-Rimex
-- 🎵 OMG,TYPHOON IS COMING! — Snake-J
-- 🎵 水音世界观--7月23日--马杜罗囚服出庭瘦成纸片人！美检方证据链崩盘强行延期2027，海牙入侵法案撕下终极伪装！ — 水音世界观
-- 🎵 跑最慢的人是姛哦～ — 老皮艾尔君
+- 🎵 Anonymous: The Coventry Carol — Anonymous, Andrew Parrott
+- 🎵 Ulmer: Pigalle — George Ulmer, Die 12 Cellisten der Berliner Philharmoniker
+- 🎵 Mendelssohn: Paulus, Op. 36, MWV A14, Pt. 1: No. 6, Arie. "Jerusalem, die du tötest die Propheten" — Felix Mendelssohn, Michel Corboz, Rachel Yakar, Orquestra Gulbenkian
+- 🎵 Cavalli: L'Ormindo, Act 2: "Che città" (Nerillo) — Francesco Cavalli, Philippe Jaroussky
+- 🎵 Kreisler: Marche miniature viennoise (Orch. Lehn) — Fritz Kreisler, Lucienne Renaudin Vary, Sascha Goetzel, Orchestre de chambre de Paris
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 - 🥇 落叶终章 — v-Qtz
 - 🥈 Schönberg: Sun and Moon (From "Miss Saigon") — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
 - 🥉 天狗舞踏会 — Foxtail-Grass Studio
-- 4️⃣ Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
-- 5️⃣ Event Horizon — Plum
+- 4️⃣ Loewe: My Fair Lady, Act 1: "On the Street Where You Live" (Freddy) — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
+- 5️⃣ Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
 
 **💿 热门专辑**  
 - 🥇 **軌跡 BEST COLLECTION+** — 和楽器バンド
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/25 23:32:21*
+*更新时间: 2026/7/26 02:44:29*
 <!-- LASTFM_END -->
