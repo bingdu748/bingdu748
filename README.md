@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,890 次 |
-| 🎤 歌手总计 | 19,409 位 |
+| 🎧 播放总次数 | 83,896 次 |
+| 🎤 歌手总计 | 19,412 位 |
 | 💿 专辑总计 | 20,384 张 |
-| 🎶 歌曲总计 | 62,064 首 |
+| 🎶 歌曲总计 | 62,070 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Anonymous: The Coventry Carol — Anonymous, Andrew Parrott
-- 🎵 Ulmer: Pigalle — George Ulmer, Die 12 Cellisten der Berliner Philharmoniker
-- 🎵 Mendelssohn: Paulus, Op. 36, MWV A14, Pt. 1: No. 6, Arie. "Jerusalem, die du tötest die Propheten" — Felix Mendelssohn, Michel Corboz, Rachel Yakar, Orquestra Gulbenkian
-- 🎵 Cavalli: L'Ormindo, Act 2: "Che città" (Nerillo) — Francesco Cavalli, Philippe Jaroussky
-- 🎵 Kreisler: Marche miniature viennoise (Orch. Lehn) — Fritz Kreisler, Lucienne Renaudin Vary, Sascha Goetzel, Orchestre de chambre de Paris
+- 🎵 对美贸易谈判吃亏怎么办？美国专家建议欧洲，想出气不妨去找中国 — 孤烟暮蝉
+- 🎵 不让插手？那我插嘴吧 — 梅露怜雪月
+- 🎵 冷知识，我从没说过我不是同 — 梅露怜雪月
+- 🎵 【终将/心予報】描改手书（大概是最终版） — Meteora_kk
+- 🎵 谱为君嗥手书 优晴 — 你没lj
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/26 02:44:29*
+*更新时间: 2026/7/26 06:05:33*
 <!-- LASTFM_END -->
