@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,384 张 |
 | 🎶 歌曲总计 | 62,070 首 |
 
-
+🎧 **正在播放：** [ADOFAI/Irin/MM1]Irin的超级特效！Megamix 无轨版 — _Achry_
 
 **🎵 最近在听**  
 - 🎵 对美贸易谈判吃亏怎么办？美国专家建议欧洲，想出气不妨去找中国 — 孤烟暮蝉
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/26 12:02:19*
+*更新时间: 2026/7/26 14:08:33*
 <!-- LASTFM_END -->
