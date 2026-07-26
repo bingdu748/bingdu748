@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **和楽器バンド** — 17 次播放
-- 🥈 **v-Qtz** — 10 次播放
-- 🥉 **水音世界观** — 10 次播放
+- 🥇 **v-Qtz** — 10 次播放
+- 🥈 **水音世界观** — 10 次播放
+- 🥉 **和楽器バンド** — 7 次播放
 - 4️⃣ **全球动态局势** — 4 次播放
 - 5️⃣ **Foxtail-Grass Studio** — 3 次播放
 
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **軌跡 BEST COLLECTION+** — 和楽器バンド
-- 🥈 **八奏絵巻** — 和楽器バンド
-- 🥉 **ときかけエオリア** — Foxtail-Grass Studio
+- 🥈 **ときかけエオリア** — Foxtail-Grass Studio
+- 🥉 **Urban Pulse** — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/26 06:05:33*
+*更新时间: 2026/7/26 08:56:15*
 <!-- LASTFM_END -->
