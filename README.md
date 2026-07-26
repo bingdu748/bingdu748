@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **v-Qtz** — 10 次播放
 - 🥈 **水音世界观** — 10 次播放
-- 🥉 **和楽器バンド** — 7 次播放
-- 4️⃣ **全球动态局势** — 4 次播放
-- 5️⃣ **Foxtail-Grass Studio** — 3 次播放
+- 🥉 **全球动态局势** — 4 次播放
+- 4️⃣ **Foxtail-Grass Studio** — 3 次播放
+- 5️⃣ **Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra** — 2 次播放
 
 **🎶 热门歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ Puccini: Gianni Schicchi: "Firenze è come un albero fiorito" (Rinuccio) — Giacomo Puccini, Roberto Alagna, Antonio Pappano, 倫敦交響樂團
 
 **💿 热门专辑**  
-- 🥇 **軌跡 BEST COLLECTION+** — 和楽器バンド
-- 🥈 **ときかけエオリア** — Foxtail-Grass Studio
-- 🥉 **Urban Pulse** — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
+- 🥇 **ときかけエオリア** — Foxtail-Grass Studio
+- 🥈 **Urban Pulse** — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
+- 🥉 **Urban Pulse** — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/26 10:45:42*
+*更新时间: 2026/7/26 12:02:19*
 <!-- LASTFM_END -->
