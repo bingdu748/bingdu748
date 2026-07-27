@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,897 次 |
+| 🎧 播放总次数 | 83,898 次 |
 | 🎤 歌手总计 | 19,412 位 |
 | 💿 专辑总计 | 20,384 张 |
-| 🎶 歌曲总计 | 62,071 首 |
+| 🎶 歌曲总计 | 62,072 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月25日--乌克兰向中东输出反无人机技术！伊朗国家安全委员会警告：具备远程导弹打击基辅法理 — 水音世界观
 - 🎵 水音世界观--7月25日---巴林科威特秘派战机空袭伊朗！“胜利2”行动反手摧毁AWS数据大脑，第五舰队老巢全趴窝！ — 水音世界观
 - 🎵 对美贸易谈判吃亏怎么办？美国专家建议欧洲，想出气不妨去找中国 — 孤烟暮蝉
 - 🎵 不让插手？那我插嘴吧 — 梅露怜雪月
 - 🎵 冷知识，我从没说过我不是同 — 梅露怜雪月
-- 🎵 【终将/心予報】描改手书（大概是最终版） — Meteora_kk
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **v-Qtz** — 10 次播放
 - 🥈 **水音世界观** — 10 次播放
-- 🥉 **全球动态局势** — 4 次播放
-- 4️⃣ **Foxtail-Grass Studio** — 3 次播放
+- 🥉 **Foxtail-Grass Studio** — 3 次播放
+- 4️⃣ **全球动态局势** — 3 次播放
 - 5️⃣ **Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra** — 2 次播放
 
 **🎶 热门歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/27 07:30:34*
+*更新时间: 2026/7/27 11:20:04*
 <!-- LASTFM_END -->
