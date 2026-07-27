@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
 - 🥈 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🥉 Hanten (はんてん) — ME_DD、Electrode Core
+- 🥉 Sync — (x²+y²-a²)³=x²y³
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/27 03:54:02*
+*更新时间: 2026/7/27 07:30:34*
 <!-- LASTFM_END -->
