@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,384 张 |
 | 🎶 歌曲总计 | 62,071 首 |
 
-🎧 **正在播放：** 水音世界观--7月25日---巴林科威特秘派战机空袭伊朗！“胜利2”行动反手摧毁AWS数据大脑，第五舰队老巢全趴窝！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--7月25日---巴林科威特秘派战机空袭伊朗！“胜利2”行动反手摧毁AWS数据大脑，第五舰队老巢全趴窝！ — 水音世界观
@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 - 🥉 **小飞象**
 
 **🎶 本月歌曲**  
-- 🥇 夏日第五号 — (x²+y²-a²)³=x²y³
-- 🥈 落叶终章 — v-Qtz
+- 🥇 落叶终章 — v-Qtz
+- 🥈 夏日第五号 — (x²+y²-a²)³=x²y³
 - 🥉 Hanten (はんてん) — ME_DD、Electrode Core
 
 ---
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/26 23:58:33*
+*更新时间: 2026/7/27 03:54:02*
 <!-- LASTFM_END -->
