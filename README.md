@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,906 次 |
+| 🎧 播放总次数 | 83,909 次 |
 | 🎤 歌手总计 | 19,414 位 |
 | 💿 专辑总计 | 20,387 张 |
-| 🎶 歌曲总计 | 62,078 首 |
+| 🎶 歌曲总计 | 62,081 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 Kimi K3震撼发布：中美AI骷髅交叉 — 内部看美国
+- 🎵 DeepSeek的道：怀着对世界的善意 — 内部看美国
+- 🎵 不想起名了，总之是魔裁橘远的糖 — 粉白小笨竹
 - 🎵 No-name Requiem — 打打だいず
 - 🎵 你看著貓，我看著你 — seenmeasme/Adko
-- 🎵 你看著貓，我看著你 — seenmeasme/Adko
-- 🎵 Hear my voice — Zancore
-- 🎵 鱼是鱼桥是桥 — 萬威福
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/27 16:18:59*
+*更新时间: 2026/7/27 18:04:55*
 <!-- LASTFM_END -->
