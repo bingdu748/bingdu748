@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,924 次 |
-| 🎤 歌手总计 | 19,426 位 |
-| 💿 专辑总计 | 20,387 张 |
-| 🎶 歌曲总计 | 62,095 首 |
+| 🎧 播放总次数 | 83,986 次 |
+| 🎤 歌手总计 | 19,486 位 |
+| 💿 专辑总计 | 20,389 张 |
+| 🎶 歌曲总计 | 62,156 首 |
 
-🎧 **正在播放：** Continuation du mellange:No. 43, Dessus le marché d'Arras — Klaus L Neumann/The King's Singers
+🎧 **正在播放：** 7 Romances on Verses by Alexander Blok, Op. 127:No. 4, The City Sleeps — Mstislav Rostropovich/Galina Vishnevskaya/Ulf Hoelscher/Vasso Devetzi
 
 **🎵 最近在听**  
-- 🎵 Continuation du mellange:No. 43, Dessus le marché d'Arras — Klaus L Neumann/The King's Singers
-- 🎵 26 Welsh Songs, WoO 155:No. 8, Farewell, Thou Noisy Town — Jean-François Rouchon/Alessandro Fagiuoli/Andrea Musto/Jean-Pierre Armengaud
-- 🎵 Instrucción de música, Libro II:Clarines y trompetas con canciones muy curiosas: No. 2, La cavallería de Nápoles (Transc. Pujol for Guitar) — Turibio Santos
-- 🎵 Le carnaval de Venise, Acte 1:La Conty — Hugo Reyne/Jean Chatauret/Jean-Pierre Loisil/La Simphonie du Marais
-- 🎵 3 Mélodies sans paroles:No. 1, Rambouillet — Aldo Ciccolini/Nicolai Gedda
+- 🎵 7 Romances on Verses by Alexander Blok, Op. 127:No. 4, The City Sleeps — Mstislav Rostropovich/Galina Vishnevskaya/Ulf Hoelscher/Vasso Devetzi
+- 🎵 Alt-Wien, Op. 30 (Arr. Heifetz for Violin and Piano) — Arpád Sándor/Jascha Heifetz
+- 🎵 Psalm CXXXVII "By the Waters of Babylon" — Choir of King's College, Cambridge/Christopher Bishop/Sir David Willcocks
+- 🎵 Boccaccio, Act 1:Finale. "Ehrsame Bürger dieser Stadt" (Chor, Lotteringhi, Lambertuccio) — Adolf Dallapozza/Chor der Bayerischen Staatsoper/Christfried Bickenbach/Friedrich Lenz/Helmut Storjohann/Symphonieorchester des Bayerischen Rundfunks/Willi Boskovsky/Wolfgang Gülich
+- 🎵 15 Pièces, Op. 3:No. 15, Tarantelle "Souvenir de Naples" — Diane Andersen
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **水音世界观** — 9 次播放
 - 🥉 **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
 - 4️⃣ **Foxtail-Grass Studio** — 3 次播放
-- 5️⃣ **全球动态局势** — 3 次播放
+- 5️⃣ **打打だいず** — 3 次播放
 
 **🎶 热门歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/28 07:12:42*
+*更新时间: 2026/7/28 10:05:13*
 <!-- LASTFM_END -->
