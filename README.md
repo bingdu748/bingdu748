@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,918 次 |
-| 🎤 歌手总计 | 19,421 位 |
+| 🎧 播放总次数 | 83,924 次 |
+| 🎤 歌手总计 | 19,426 位 |
 | 💿 专辑总计 | 20,387 张 |
-| 🎶 歌曲总计 | 62,090 首 |
+| 🎶 歌曲总计 | 62,095 首 |
 
-
+🎧 **正在播放：** Continuation du mellange:No. 43, Dessus le marché d'Arras — Klaus L Neumann/The King's Singers
 
 **🎵 最近在听**  
-- 🎵 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
-- 🎵 Lincolnshire Posy:I. Lisbon. Sailor's Song — City of Birmingham Symphony Orchestra/David R. Murray/Mike Clements/Sir Simon Rattle
-- 🎵 Viipurin Laulu-Veikkojen kunniamarssi (1929 Version) — Matti Hyökki/YL Male Voice Choir
-- 🎵 Les plaisirs de Versailles, H. 480:Ouverture — Les Arts Florissants/William Christie
-- 🎵 The Boston March — Boston Camerata/Joel Cohen
+- 🎵 Continuation du mellange:No. 43, Dessus le marché d'Arras — Klaus L Neumann/The King's Singers
+- 🎵 26 Welsh Songs, WoO 155:No. 8, Farewell, Thou Noisy Town — Jean-François Rouchon/Alessandro Fagiuoli/Andrea Musto/Jean-Pierre Armengaud
+- 🎵 Instrucción de música, Libro II:Clarines y trompetas con canciones muy curiosas: No. 2, La cavallería de Nápoles (Transc. Pujol for Guitar) — Turibio Santos
+- 🎵 Le carnaval de Venise, Acte 1:La Conty — Hugo Reyne/Jean Chatauret/Jean-Pierre Loisil/La Simphonie du Marais
+- 🎵 3 Mélodies sans paroles:No. 1, Rambouillet — Aldo Ciccolini/Nicolai Gedda
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **v-Qtz** — 10 次播放
-- 🥈 **水音世界观** — 10 次播放
-- 🥉 **Foxtail-Grass Studio** — 3 次播放
-- 4️⃣ **全球动态局势** — 3 次播放
-- 5️⃣ **打打だいず** — 3 次播放
+- 🥈 **水音世界观** — 9 次播放
+- 🥉 **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
+- 4️⃣ **Foxtail-Grass Studio** — 3 次播放
+- 5️⃣ **全球动态局势** — 3 次播放
 
 **🎶 热门歌曲**  
 - 🥇 落叶终章 — v-Qtz
 - 🥈 No-name Requiem — 打打だいず
 - 🥉 Schönberg: Sun and Moon (From "Miss Saigon") — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
-- 4️⃣ 天狗舞踏会 — Foxtail-Grass Studio
-- 5️⃣ Loewe: My Fair Lady, Act 1: "On the Street Where You Live" (Freddy) — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
+- 4️⃣ 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
+- 5️⃣ 天狗舞踏会 — Foxtail-Grass Studio
 
 **💿 热门专辑**  
 - 🥇 **ときかけエオリア** — Foxtail-Grass Studio
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/28 04:08:43*
+*更新时间: 2026/7/28 07:12:42*
 <!-- LASTFM_END -->
