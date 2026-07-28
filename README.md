@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,910 次 |
-| 🎤 歌手总计 | 19,414 位 |
+| 🎧 播放总次数 | 83,918 次 |
+| 🎤 歌手总计 | 19,421 位 |
 | 💿 专辑总计 | 20,387 张 |
-| 🎶 歌曲总计 | 62,082 首 |
+| 🎶 歌曲总计 | 62,090 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观--7月27日--美军弹药库打空连续3晚停火！伊朗15天端掉288处基地斩首200美军，美中央司令官建议认怂！ — 水音世界观
-- 🎵 Kimi K3震撼发布：中美AI骷髅交叉 — 内部看美国
-- 🎵 DeepSeek的道：怀着对世界的善意 — 内部看美国
-- 🎵 不想起名了，总之是魔裁橘远的糖 — 粉白小笨竹
-- 🎵 No-name Requiem — 打打だいず
+- 🎵 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
+- 🎵 Lincolnshire Posy:I. Lisbon. Sailor's Song — City of Birmingham Symphony Orchestra/David R. Murray/Mike Clements/Sir Simon Rattle
+- 🎵 Viipurin Laulu-Veikkojen kunniamarssi (1929 Version) — Matti Hyökki/YL Male Voice Choir
+- 🎵 Les plaisirs de Versailles, H. 480:Ouverture — Les Arts Florissants/William Christie
+- 🎵 The Boston March — Boston Camerata/Joel Cohen
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/28 00:54:50*
+*更新时间: 2026/7/28 04:08:43*
 <!-- LASTFM_END -->
