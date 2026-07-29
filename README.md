@@ -53,15 +53,15 @@ Here are some ideas to get you started:
 
 **🎶 热门歌曲**  
 - 🥇 落叶终章 — v-Qtz
-- 🥈 No-name Requiem — 打打だいず
-- 🥉 Schönberg: Sun and Moon (From "Miss Saigon") — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
-- 4️⃣ 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
-- 5️⃣ Loewe: My Fair Lady, Act 1: "On the Street Where You Live" (Freddy) — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
+- 🥈 Schönberg: Sun and Moon (From "Miss Saigon") — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
+- 🥉 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
+- 4️⃣ Loewe: My Fair Lady, Act 1: "On the Street Where You Live" (Freddy) — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
+- 5️⃣ Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
 
 **💿 热门专辑**  
-- 🥇 **No-name Requiem** — 打打だいず
-- 🥈 **Completeness** — Ave Mujica
-- 🥉 **Urban Pulse** — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
+- 🥇 **Completeness** — Ave Mujica
+- 🥈 **Urban Pulse** — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
+- 🥉 **Urban Pulse** — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/29 11:39:27*
+*更新时间: 2026/7/29 14:08:46*
 <!-- LASTFM_END -->
