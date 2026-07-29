@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
-- 🥈 Sync — (x²+y²-a²)³=x²y³
-- 🥉 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
+- 🥈 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
+- 🥉 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/29 00:03:13*
+*更新时间: 2026/7/29 03:49:03*
 <!-- LASTFM_END -->
