@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **v-Qtz** — 10 次播放
+- 🥇 **v-Qtz** — 6 次播放
 - 🥈 **水音世界观** — 6 次播放
 - 🥉 **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
 - 4️⃣ **全球动态局势** — 3 次播放
@@ -53,15 +53,15 @@ Here are some ideas to get you started:
 
 **🎶 热门歌曲**  
 - 🥇 落叶终章 — v-Qtz
-- 🥈 Schönberg: Sun and Moon (From "Miss Saigon") — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
-- 🥉 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
-- 4️⃣ Loewe: My Fair Lady, Act 1: "On the Street Where You Live" (Freddy) — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
-- 5️⃣ Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
+- 🥈 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
+- 🥉 Loewe: My Fair Lady, Act 1: "On the Street Where You Live" (Freddy) — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
+- 4️⃣ Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
+- 5️⃣ 你看著貓，我看著你 — seenmeasme/Adko
 
 **💿 热门专辑**  
 - 🥇 **Completeness** — Ave Mujica
-- 🥈 **Urban Pulse** — Claude-Michel Schönberg, Gareth Valentine, Matthew Goodgame, Caroline Graham, Air Studios Orchestra
-- 🥉 **Urban Pulse** — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
+- 🥈 **Urban Pulse** — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
+- 🥉 **你看著貓，我看著你** — seenmeasme/Adko
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/30 03:14:55*
+*更新时间: 2026/7/30 06:05:56*
 <!-- LASTFM_END -->
