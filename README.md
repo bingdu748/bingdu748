@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,006 次 |
-| 🎤 歌手总计 | 19,501 位 |
-| 💿 专辑总计 | 20,389 张 |
-| 🎶 歌曲总计 | 62,176 首 |
+| 🎧 播放总次数 | 84,012 次 |
+| 🎤 歌手总计 | 19,507 位 |
+| 💿 专辑总计 | 20,390 张 |
+| 🎶 歌曲总计 | 62,182 首 |
 
-
+🎧 **正在播放：** 4 Mélodies, Op. 39:No. 4, Les roses d'Ispahan — Claude Lavoix/Michel Bernard/Rachel Yakar
 
 **🎵 最近在听**  
-- 🎵 Pigalle — CHRISTOPH FRANKE/DIE 12 CELLISTEN DER BERLINER PHILHARMONIKER
-- 🎵 Paulus, Op. 36, MWV A14, Pt. 1:No. 6, Arie. "Jerusalem, die du tötest die Propheten" — Michel Corboz/Orquestra Gulbenkian/Rachel Yakar
-- 🎵 L'Ormindo, Act 2:"Che città" (Nerillo) — Philippe Jaroussky/Artaserse
-- 🎵 Marche miniature viennoise (Orch. Lehn) — Lucienne Renaudin Vary/Orchestre de chambre de Paris/Sascha Goetzel
-- 🎵 Wien, du Stadt meiner Träume, Op. 1 — Elisabeth Schwarzkopf/Douglas Larter/Otto Ackermann/Philharmonia Orchestra/Walter Legge
+- 🎵 4 Mélodies, Op. 39:No. 4, Les roses d'Ispahan — Claude Lavoix/Michel Bernard/Rachel Yakar
+- 🎵 Chelsea Bridge — Cliff Colnot/Cliff Colnot Orchestra/Daniel Barenboim/Dianne Reeves/Renate Kupfer
+- 🎵 Lauda Jerusalem:I. Lauda Jerusalem — Laurent Slaars/Les Arts Florissants/William Christie
+- 🎵 Addio, mia bella Napoli! — Franco Corelli/Franco Ferraris/Franco Ferraris Orchestra
+- 🎵 Sevilla — Wolfgang Lendle
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/30 11:28:47*
+*更新时间: 2026/7/30 13:09:29*
 <!-- LASTFM_END -->
