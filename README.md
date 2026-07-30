@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 83,996 次 |
-| 🎤 歌手总计 | 19,491 位 |
+| 🎧 播放总次数 | 84,006 次 |
+| 🎤 歌手总计 | 19,501 位 |
 | 💿 专辑总计 | 20,389 张 |
-| 🎶 歌曲总计 | 62,166 首 |
+| 🎶 歌曲总计 | 62,176 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 小东西还挺护食 — 汐汐弗斯雀
-- 🎵 假如把一株猪笼草扔进白垩纪，它会从吃虫子的植物，进化成一种连恐龙都不敢靠近的远古猎手吗？ — 地球online封存档案0
-- 🎵 为什么人们普遍认为清朝服饰是“僵尸服”_ — 我捞捞捞
-- 🎵 为什么古生物都长的比较吓人？ — 我捞捞捞
-- 🎵 阴暗前辈偷走学妹的结绳，竟被学妹夺走初吻！❤️ — 夏亚想妈妈
+- 🎵 Pigalle — CHRISTOPH FRANKE/DIE 12 CELLISTEN DER BERLINER PHILHARMONIKER
+- 🎵 Paulus, Op. 36, MWV A14, Pt. 1:No. 6, Arie. "Jerusalem, die du tötest die Propheten" — Michel Corboz/Orquestra Gulbenkian/Rachel Yakar
+- 🎵 L'Ormindo, Act 2:"Che città" (Nerillo) — Philippe Jaroussky/Artaserse
+- 🎵 Marche miniature viennoise (Orch. Lehn) — Lucienne Renaudin Vary/Orchestre de chambre de Paris/Sascha Goetzel
+- 🎵 Wien, du Stadt meiner Träume, Op. 1 — Elisabeth Schwarzkopf/Douglas Larter/Otto Ackermann/Philharmonia Orchestra/Walter Legge
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/30 06:05:56*
+*更新时间: 2026/7/30 09:13:10*
 <!-- LASTFM_END -->
