@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **v-Qtz** — 6 次播放
-- 🥈 **水音世界观** — 6 次播放
+- 🥈 **水音世界观** — 5 次播放
 - 🥉 **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
 - 4️⃣ **全球动态局势** — 3 次播放
 - 5️⃣ **太阳星sunstar** — 3 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/30 09:13:10*
+*更新时间: 2026/7/30 11:28:47*
 <!-- LASTFM_END -->
