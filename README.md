@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,012 次 |
-| 🎤 歌手总计 | 19,507 位 |
-| 💿 专辑总计 | 20,390 张 |
-| 🎶 歌曲总计 | 62,182 首 |
+| 🎧 播放总次数 | 84,036 次 |
+| 🎤 歌手总计 | 19,531 位 |
+| 💿 专辑总计 | 20,391 张 |
+| 🎶 歌曲总计 | 62,206 首 |
 
-🎧 **正在播放：** 4 Mélodies, Op. 39:No. 4, Les roses d'Ispahan — Claude Lavoix/Michel Bernard/Rachel Yakar
+
 
 **🎵 最近在听**  
-- 🎵 4 Mélodies, Op. 39:No. 4, Les roses d'Ispahan — Claude Lavoix/Michel Bernard/Rachel Yakar
-- 🎵 Chelsea Bridge — Cliff Colnot/Cliff Colnot Orchestra/Daniel Barenboim/Dianne Reeves/Renate Kupfer
-- 🎵 Lauda Jerusalem:I. Lauda Jerusalem — Laurent Slaars/Les Arts Florissants/William Christie
-- 🎵 Addio, mia bella Napoli! — Franco Corelli/Franco Ferraris/Franco Ferraris Orchestra
-- 🎵 Sevilla — Wolfgang Lendle
+- 🎵 Mors et vita, Pars tertia "Vita":Jerusalem Cœlestis. "Et ego Joannes vidi sanctum civitatem" — Christoph Kuhlmann/José van Dam/Michel Plasson/Orchestre du Capitole de Toulouse
+- 🎵 Symphonies for Baron van Swieten, Wq. 182 "Hamburger":No. 1 in G Major: III. Presto — Franz Liszt Chamber Orchestra/János Rolla
+- 🎵 Canto a Sevilla, Op. 37:No. 3, Las fuentecitas del parque — Alexis Weissenberg/Michel Glotz/Montserrat Caballé/Paul Vavasseur
+- 🎵 On the Sunny Side of the Street — John Fraser/Max Harris/Stéphane Grappelli/Yehudi Menuhin
+- 🎵 Mi Buenos Aires querido — Daniel Barenboim/Héctor Console/Rodolfo Mederos
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/30 13:09:29*
+*更新时间: 2026/7/30 15:30:41*
 <!-- LASTFM_END -->
