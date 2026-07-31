@@ -45,18 +45,18 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **v-Qtz** — 6 次播放
-- 🥈 **水音世界观** — 5 次播放
-- 🥉 **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
-- 4️⃣ **全球动态局势** — 3 次播放
-- 5️⃣ **太阳星sunstar** — 3 次播放
+- 🥇 **水音世界观** — 5 次播放
+- 🥈 **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
+- 🥉 **全球动态局势** — 3 次播放
+- 4️⃣ **太阳星sunstar** — 3 次播放
+- 5️⃣ **Ave Mujica** — 2 次播放
 
 **🎶 热门歌曲**  
-- 🥇 落叶终章 — v-Qtz
-- 🥈 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
-- 🥉 Loewe: My Fair Lady, Act 1: "On the Street Where You Live" (Freddy) — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
-- 4️⃣ Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
-- 5️⃣ 你看著貓，我看著你 — seenmeasme/Adko
+- 🥇 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
+- 🥈 Loewe: My Fair Lady, Act 1: "On the Street Where You Live" (Freddy) — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
+- 🥉 Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
+- 4️⃣ 你看著貓，我看著你 — seenmeasme/Adko
+- 5️⃣ 唯有女同事心旷神怡 — Singing丝颖
 
 **💿 热门专辑**  
 - 🥇 **Completeness** — Ave Mujica
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/31 01:04:34*
+*更新时间: 2026/7/31 04:58:51*
 <!-- LASTFM_END -->
