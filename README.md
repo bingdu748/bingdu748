@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 - 🥇 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
 - 🥈 Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
 - 🥉 你看著貓，我看著你 — seenmeasme/Adko
-- 4️⃣ 唯有女同事心旷神怡 — Singing丝颖
-- 5️⃣ No-name Requiem — 打打だいず
+- 4️⃣ 波喜多꒰⑅ᵕ༚ᵕ꒱˖♡ — -潔--
+- 5️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
 
 **💿 热门专辑**  
 - 🥇 **Completeness** — Ave Mujica
 - 🥈 **你看著貓，我看著你** — seenmeasme/Adko
-- 🥉 **No-name Requiem** — 打打だいず
+- 🥉 **Urban Pulse** — Alexey Shor, David Aaron Carpenter, David Parry, London Philharmonic Orchestra
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/31 15:37:00*
+*更新时间: 2026/7/31 18:54:51*
 <!-- LASTFM_END -->
