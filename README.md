@@ -53,15 +53,15 @@ Here are some ideas to get you started:
 
 **🎶 热门歌曲**  
 - 🥇 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
-- 🥈 Loewe: My Fair Lady, Act 1: "On the Street Where You Live" (Freddy) — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
-- 🥉 Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
-- 4️⃣ 你看著貓，我看著你 — seenmeasme/Adko
-- 5️⃣ 唯有女同事心旷神怡 — Singing丝颖
+- 🥈 Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
+- 🥉 你看著貓，我看著你 — seenmeasme/Adko
+- 4️⃣ 唯有女同事心旷神怡 — Singing丝颖
+- 5️⃣ 美国20000个，中国300个，中国机场为什么那么少？ — 太阳星sunstar
 
 **💿 热门专辑**  
 - 🥇 **Completeness** — Ave Mujica
-- 🥈 **Urban Pulse** — Frederick Loewe, Hermann Prey, Symphonie-Orchester Graunke, Carl Michalski
-- 🥉 **你看著貓，我看著你** — seenmeasme/Adko
+- 🥈 **你看著貓，我看著你** — seenmeasme/Adko
+- 🥉 **No-name Requiem** — 打打だいず
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/31 04:58:51*
+*更新时间: 2026/7/31 08:03:48*
 <!-- LASTFM_END -->
