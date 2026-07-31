@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,039 次 |
+| 🎧 播放总次数 | 84,041 次 |
 | 🎤 歌手总计 | 19,531 位 |
 | 💿 专辑总计 | 20,391 张 |
-| 🎶 歌曲总计 | 62,209 首 |
+| 🎶 歌曲总计 | 62,211 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 [ASMR] Ancient Chinese Pharmacy ~ Welcome Back — Tingting ASMR
+- 🎵 [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
 - 🎵 水音世界观--7月30日--绝密行动曝光！CIA与摩萨德追踪穆杰塔巴信使，穆杰塔巴弃用电子设备开启“影子共治” — 水音世界观
 - 🎵 水音世界观--7月30日--撕碎美军不败神话！伊朗导弹重创约旦基地打爆3架F-35，泽连斯基曝光俄伊双向赋能！ — 水音世界观
 - 🎵 [ASMR] Teacher Roleplay - Learn Chinese Phrases — Tingting ASMR
-- 🎵 Mors et vita, Pars tertia "Vita":Jerusalem Cœlestis. "Et ego Joannes vidi sanctum civitatem" — Christoph Kuhlmann/José van Dam/Michel Plasson/Orchestre du Capitole de Toulouse
-- 🎵 Symphonies for Baron van Swieten, Wq. 182 "Hamburger":No. 1 in G Major: III. Presto — Franz Liszt Chamber Orchestra/János Rolla
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **水音世界观** — 6 次播放
 - 🥈 **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
-- 🥉 **全球动态局势** — 3 次播放
-- 4️⃣ **太阳星sunstar** — 3 次播放
+- 🥉 **Tingting ASMR** — 3 次播放
+- 4️⃣ **全球动态局势** — 3 次播放
 - 5️⃣ **Ave Mujica** — 2 次播放
 
 **🎶 热门歌曲**  
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 🥈 Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
 - 🥉 你看著貓，我看著你 — seenmeasme/Adko
 - 4️⃣ 唯有女同事心旷神怡 — Singing丝颖
-- 5️⃣ 美国20000个，中国300个，中国机场为什么那么少？ — 太阳星sunstar
+- 5️⃣ No-name Requiem — 打打だいず
 
 **💿 热门专辑**  
 - 🥇 **Completeness** — Ave Mujica
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/31 13:14:14*
+*更新时间: 2026/7/31 15:37:00*
 <!-- LASTFM_END -->
