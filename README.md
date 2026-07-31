@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,036 次 |
+| 🎧 播放总次数 | 84,039 次 |
 | 🎤 歌手总计 | 19,531 位 |
 | 💿 专辑总计 | 20,391 张 |
-| 🎶 歌曲总计 | 62,206 首 |
+| 🎶 歌曲总计 | 62,209 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月30日--绝密行动曝光！CIA与摩萨德追踪穆杰塔巴信使，穆杰塔巴弃用电子设备开启“影子共治” — 水音世界观
+- 🎵 水音世界观--7月30日--撕碎美军不败神话！伊朗导弹重创约旦基地打爆3架F-35，泽连斯基曝光俄伊双向赋能！ — 水音世界观
+- 🎵 [ASMR] Teacher Roleplay - Learn Chinese Phrases — Tingting ASMR
 - 🎵 Mors et vita, Pars tertia "Vita":Jerusalem Cœlestis. "Et ego Joannes vidi sanctum civitatem" — Christoph Kuhlmann/José van Dam/Michel Plasson/Orchestre du Capitole de Toulouse
 - 🎵 Symphonies for Baron van Swieten, Wq. 182 "Hamburger":No. 1 in G Major: III. Presto — Franz Liszt Chamber Orchestra/János Rolla
-- 🎵 Canto a Sevilla, Op. 37:No. 3, Las fuentecitas del parque — Alexis Weissenberg/Michel Glotz/Montserrat Caballé/Paul Vavasseur
-- 🎵 On the Sunny Side of the Street — John Fraser/Max Harris/Stéphane Grappelli/Yehudi Menuhin
-- 🎵 Mi Buenos Aires querido — Daniel Barenboim/Héctor Console/Rodolfo Mederos
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **水音世界观** — 4 次播放
+- 🥇 **水音世界观** — 6 次播放
 - 🥈 **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
 - 🥉 **全球动态局势** — 3 次播放
 - 4️⃣ **太阳星sunstar** — 3 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/7/31 11:05:36*
+*更新时间: 2026/7/31 13:14:14*
 <!-- LASTFM_END -->
