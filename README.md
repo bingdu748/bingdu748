@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,391 张 |
 | 🎶 歌曲总计 | 62,212 首 |
 
-🎧 **正在播放：** 水音世界观--7月31日--第2127阶段闪电行动！伊朗无人机血洗科威特美军，约旦基地3架F-35当场轰爆！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--7月31日--第2127阶段闪电行动！伊朗无人机血洗科威特美军，约旦基地3架F-35当场轰爆！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/1 07:01:59*
+*更新时间: 2026/8/1 09:31:05*
 <!-- LASTFM_END -->
