@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,041 次 |
+| 🎧 播放总次数 | 84,042 次 |
 | 🎤 歌手总计 | 19,531 位 |
 | 💿 专辑总计 | 20,391 张 |
-| 🎶 歌曲总计 | 62,211 首 |
+| 🎶 歌曲总计 | 62,212 首 |
 
-
+🎧 **正在播放：** 水音世界观--7月31日--第2127阶段闪电行动！伊朗无人机血洗科威特美军，约旦基地3架F-35当场轰爆！ — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--7月31日--第2127阶段闪电行动！伊朗无人机血洗科威特美军，约旦基地3架F-35当场轰爆！ — 水音世界观
 - 🎵 [ASMR] Ancient Chinese Pharmacy ~ Welcome Back — Tingting ASMR
 - 🎵 [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
 - 🎵 水音世界观--7月30日--绝密行动曝光！CIA与摩萨德追踪穆杰塔巴信使，穆杰塔巴弃用电子设备开启“影子共治” — 水音世界观
 - 🎵 水音世界观--7月30日--撕碎美军不败神话！伊朗导弹重创约旦基地打爆3架F-35，泽连斯基曝光俄伊双向赋能！ — 水音世界观
-- 🎵 [ASMR] Teacher Roleplay - Learn Chinese Phrases — Tingting ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **水音世界观** — 6 次播放
+- 🥇 **水音世界观** — 7 次播放
 - 🥈 **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
 - 🥉 **Tingting ASMR** — 3 次播放
 - 4️⃣ **全球动态局势** — 3 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/1 04:00:43*
+*更新时间: 2026/8/1 07:01:59*
 <!-- LASTFM_END -->
