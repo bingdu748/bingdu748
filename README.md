@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,049 次 |
-| 🎤 歌手总计 | 19,533 位 |
+| 🎧 播放总次数 | 84,078 次 |
+| 🎤 歌手总计 | 19,535 位 |
 | 💿 专辑总计 | 20,391 张 |
-| 🎶 歌曲总计 | 62,219 首 |
+| 🎶 歌曲总计 | 62,241 首 |
 
-🎧 **正在播放：** 外蒙古年轻人快被“比”疯了！他们最恨的不是贫穷，而是打开手机就看到内蒙古…… — 福泽悠长
+🎧 **正在播放：** Skyscape (澄空之景) — Plum - Melodic Artist
 
 **🎵 最近在听**  
-- 🎵 外蒙古年轻人快被“比”疯了！他们最恨的不是贫穷，而是打开手机就看到内蒙古…… — 福泽悠长
-- 🎵 中美AI博弈，进入下半场！面对美国的围追堵截，我们如何应对？ — 柏年说
-- 🎵 LES DÉCLENCHEURS LES PLUS CÉLÈBRES DANS L’ASMR 🤍🌙 — LunASMR_Luz
-- 🎵 【00猪】轻语助眠 | 助眠博主的Q&A第三期 | 你敢问我敢答系列 | Whispering for Sleep | Sleep Aid Blogger's Q&A 3 — 小0觉觉猪
-- 🎵 Gum Chewing ASMR Tingly Mouth Sounds — MiyaBear ASMR
+- 🎵 Skyscape (澄空之景) — Plum - Melodic Artist
+- 🎵 Archangel — Plum - Melodic Artist
+- 🎵 MemoryLocked — Plum - Melodic Artist
+- 🎵 R — Plum - Melodic Artist
+- 🎵 Sinkhole (天坑) — Plum - Melodic Artist
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **水音世界观** — 6 次播放
-- 🥈 **Tingting ASMR** — 4 次播放
-- 🥉 **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
-- 4️⃣ **全球动态局势** — 3 次播放
-- 5️⃣ **Ave Mujica** — 2 次播放
+- 🥇 **宇夜_Uvernight** — 17 次播放
+- 🥈 **Plum - Melodic Artist** — 7 次播放
+- 🥉 **水音世界观** — 6 次播放
+- 4️⃣ **Tingting ASMR** — 4 次播放
+- 5️⃣ **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
 
 **🎶 热门歌曲**  
 - 🥇 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
 
 **💿 热门专辑**  
-- 🥇 **Completeness** — Ave Mujica
-- 🥈 **你看著貓，我看著你** — seenmeasme/Adko
-- 🥉 **Eine kleine Biermusik. Populäre Biergarten- und Caféhaus-Musik** — Berliner Philharmoniker
+- 🥇 **Melody From Sky** — Plum - Melodic Artist
+- 🥈 **Completeness** — Ave Mujica
+- 🥉 **Fragment of Eden** — Plum - Melodic Artist
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/2 12:02:05*
+*更新时间: 2026/8/2 14:07:49*
 <!-- LASTFM_END -->
