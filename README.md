@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 **💿 热门专辑**  
 - 🥇 **Completeness** — Ave Mujica
 - 🥈 **你看著貓，我看著你** — seenmeasme/Adko
-- 🥉 **Urban Pulse** — Alexey Shor, David Aaron Carpenter, David Parry, London Philharmonic Orchestra
+- 🥉 **Eine kleine Biermusik. Populäre Biergarten- und Caféhaus-Musik** — Berliner Philharmoniker
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/1 23:57:07*
+*更新时间: 2026/8/2 03:26:09*
 <!-- LASTFM_END -->
