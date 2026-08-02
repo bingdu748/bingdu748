@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,047 次 |
-| 🎤 歌手总计 | 19,532 位 |
+| 🎧 播放总次数 | 84,049 次 |
+| 🎤 歌手总计 | 19,533 位 |
 | 💿 专辑总计 | 20,391 张 |
-| 🎶 歌曲总计 | 62,217 首 |
+| 🎶 歌曲总计 | 62,219 首 |
 
-🎧 **正在播放：** LES DÉCLENCHEURS LES PLUS CÉLÈBRES DANS L’ASMR 🤍🌙 — LunASMR_Luz
+🎧 **正在播放：** 外蒙古年轻人快被“比”疯了！他们最恨的不是贫穷，而是打开手机就看到内蒙古…… — 福泽悠长
 
 **🎵 最近在听**  
+- 🎵 外蒙古年轻人快被“比”疯了！他们最恨的不是贫穷，而是打开手机就看到内蒙古…… — 福泽悠长
+- 🎵 中美AI博弈，进入下半场！面对美国的围追堵截，我们如何应对？ — 柏年说
 - 🎵 LES DÉCLENCHEURS LES PLUS CÉLÈBRES DANS L’ASMR 🤍🌙 — LunASMR_Luz
 - 🎵 【00猪】轻语助眠 | 助眠博主的Q&A第三期 | 你敢问我敢答系列 | Whispering for Sleep | Sleep Aid Blogger's Q&A 3 — 小0觉觉猪
 - 🎵 Gum Chewing ASMR Tingly Mouth Sounds — MiyaBear ASMR
-- 🎵 [ASMR] A to Z Sleep Triggers ~ Over 1.5 Hours of Relaxation — Tingting ASMR
-- 🎵 08-02早晨直播1，美国的军事威慑力正在下降，北非国家摩洛哥因为太热，大举闯入西班牙避暑，整个欧洲进入戒备状态。 — 国际在线播报
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/2 10:40:37*
+*更新时间: 2026/8/2 12:02:05*
 <!-- LASTFM_END -->
