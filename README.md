@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,078 次 |
+| 🎧 播放总次数 | 84,088 次 |
 | 🎤 歌手总计 | 19,535 位 |
-| 💿 专辑总计 | 20,391 张 |
-| 🎶 歌曲总计 | 62,241 首 |
+| 💿 专辑总计 | 20,393 张 |
+| 🎶 歌曲总计 | 62,246 首 |
 
-🎧 **正在播放：** Skyscape (澄空之景) — Plum - Melodic Artist
+
 
 **🎵 最近在听**  
-- 🎵 Skyscape (澄空之景) — Plum - Melodic Artist
-- 🎵 Archangel — Plum - Melodic Artist
-- 🎵 MemoryLocked — Plum - Melodic Artist
-- 🎵 R — Plum - Melodic Artist
-- 🎵 Sinkhole (天坑) — Plum - Melodic Artist
+- 🎵 Dustwind (沙風) — Plum - Melodic Artist
+- 🎵 FallenEra (坠落时代) — Plum - Melodic Artist
+- 🎵 Nightingale — Plum - Melodic Artist
+- 🎵 Event Horizon (2020 Ver.) (事件视界) — Plum - Melodic Artist
+- 🎵 Timeline — Plum - Melodic Artist
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **宇夜_Uvernight** — 17 次播放
-- 🥈 **Plum - Melodic Artist** — 7 次播放
+- 🥇 **Plum - Melodic Artist** — 17 次播放
+- 🥈 **宇夜_Uvernight** — 17 次播放
 - 🥉 **水音世界观** — 6 次播放
 - 4️⃣ **Tingting ASMR** — 4 次播放
 - 5️⃣ **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
 
 **💿 热门专辑**  
-- 🥇 **Melody From Sky** — Plum - Melodic Artist
-- 🥈 **Completeness** — Ave Mujica
-- 🥉 **Fragment of Eden** — Plum - Melodic Artist
+- 🥇 **Fragment of Eden** — Plum - Melodic Artist
+- 🥈 **Melody From Sky** — Plum - Melodic Artist
+- 🥉 **Musicbox 24/7 (Side PM)** — Plum - Melodic Artist
 
 ---
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 **🎤 本月艺术家**  
 - 🥇 **林坤信**
 - 🥈 **水音世界观**
-- 🥉 **小飞象**
+- 🥉 **Plum - Melodic Artist**
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/2 14:07:49*
+*更新时间: 2026/8/2 15:37:26*
 <!-- LASTFM_END -->
