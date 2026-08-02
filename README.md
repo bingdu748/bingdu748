@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,046 次 |
-| 🎤 歌手总计 | 19,531 位 |
+| 🎧 播放总次数 | 84,047 次 |
+| 🎤 歌手总计 | 19,532 位 |
 | 💿 专辑总计 | 20,391 张 |
-| 🎶 歌曲总计 | 62,216 首 |
+| 🎶 歌曲总计 | 62,217 首 |
 
-
+🎧 **正在播放：** LES DÉCLENCHEURS LES PLUS CÉLÈBRES DANS L’ASMR 🤍🌙 — LunASMR_Luz
 
 **🎵 最近在听**  
+- 🎵 LES DÉCLENCHEURS LES PLUS CÉLÈBRES DANS L’ASMR 🤍🌙 — LunASMR_Luz
 - 🎵 【00猪】轻语助眠 | 助眠博主的Q&A第三期 | 你敢问我敢答系列 | Whispering for Sleep | Sleep Aid Blogger's Q&A 3 — 小0觉觉猪
 - 🎵 Gum Chewing ASMR Tingly Mouth Sounds — MiyaBear ASMR
 - 🎵 [ASMR] A to Z Sleep Triggers ~ Over 1.5 Hours of Relaxation — Tingting ASMR
 - 🎵 08-02早晨直播1，美国的军事威慑力正在下降，北非国家摩洛哥因为太热，大举闯入西班牙避暑，整个欧洲进入戒备状态。 — 国际在线播报
-- 🎵 水音世界观--7月31日--第2127阶段闪电行动！伊朗无人机血洗科威特美军，约旦基地3架F-35当场轰爆！ — 水音世界观
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/2 08:54:42*
+*更新时间: 2026/8/2 10:40:37*
 <!-- LASTFM_END -->
