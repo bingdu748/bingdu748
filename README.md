@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum - Melodic Artist** — 17 次播放
 - 🥈 **宇夜_Uvernight** — 17 次播放
-- 🥉 **水音世界观** — 6 次播放
+- 🥉 **水音世界观** — 5 次播放
 - 4️⃣ **Tingting ASMR** — 4 次播放
 - 5️⃣ **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/2 22:56:51*
+*更新时间: 2026/8/3 00:01:19*
 <!-- LASTFM_END -->
