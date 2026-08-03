@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,088 次 |
+| 🎧 播放总次数 | 84,090 次 |
 | 🎤 歌手总计 | 19,535 位 |
 | 💿 专辑总计 | 20,393 张 |
-| 🎶 歌曲总计 | 62,246 首 |
+| 🎶 歌曲总计 | 62,248 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 英国新首相拯救英国的计划 — 燕三嘤嘤嘤
+- 🎵 欧盟打算同时对抗中美 — 燕三嘤嘤嘤
 - 🎵 Dustwind (沙風) — Plum - Melodic Artist
 - 🎵 FallenEra (坠落时代) — Plum - Melodic Artist
 - 🎵 Nightingale — Plum - Melodic Artist
-- 🎵 Event Horizon (2020 Ver.) (事件视界) — Plum - Melodic Artist
-- 🎵 Timeline — Plum - Melodic Artist
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/3 04:05:22*
+*更新时间: 2026/8/3 07:56:02*
 <!-- LASTFM_END -->
