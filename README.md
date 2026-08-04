@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 - 🥇 Timeline — Plum - Melodic Artist
 - 🥈 [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
 - 🥉 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
-- 4️⃣ 波喜多꒰⑅ᵕ༚ᵕ꒱˖♡ — -潔--
-- 5️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
+- 4️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
+- 5️⃣ Rain of Conflict in a Radiant Abyss — ak+q
 
 **💿 热门专辑**  
 - 🥇 **Fragment of Eden** — Plum - Melodic Artist
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 **🎤 本月艺术家**  
 - 🥇 **林坤信**
 - 🥈 **Plum - Melodic Artist**
-- 🥉 **水音世界观**
+- 🥉 **小飞象**
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/4 11:39:10*
+*更新时间: 2026/8/4 14:09:53*
 <!-- LASTFM_END -->
