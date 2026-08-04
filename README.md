@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,090 次 |
-| 🎤 歌手总计 | 19,535 位 |
-| 💿 专辑总计 | 20,393 张 |
-| 🎶 歌曲总计 | 62,248 首 |
+| 🎧 播放总次数 | 84,096 次 |
+| 🎤 歌手总计 | 19,538 位 |
+| 💿 专辑总计 | 20,396 张 |
+| 🎶 歌曲总计 | 62,252 首 |
 
-
+🎧 **正在播放：** towards the dawn(与你奔向黎明 — 日出为昼Risunday/Melody_Fall
 
 **🎵 最近在听**  
-- 🎵 英国新首相拯救英国的计划 — 燕三嘤嘤嘤
-- 🎵 欧盟打算同时对抗中美 — 燕三嘤嘤嘤
-- 🎵 Dustwind (沙風) — Plum - Melodic Artist
-- 🎵 FallenEra (坠落时代) — Plum - Melodic Artist
-- 🎵 Nightingale — Plum - Melodic Artist
+- 🎵 Million Mind (思绪万千) — Pax Japonica Groove
+- 🎵 Pagoda (宝塔) — Xomu/Amidst
+- 🎵 MAMA 2026 — Refkat/钉子Mihbaby
+- 🎵 搞钱歌 (Got That￥) — 舒灏Orenda/蔡燏Blazo
+- 🎵 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum - Melodic Artist** — 17 次播放
 - 🥈 **宇夜_Uvernight** — 17 次播放
-- 🥉 **Tingting ASMR** — 4 次播放
-- 4️⃣ **水音世界观** — 4 次播放
-- 5️⃣ **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
+- 🥉 **Tingting ASMR** — 5 次播放
+- 4️⃣ **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
+- 5️⃣ **水音世界观** — 3 次播放
 
 **🎶 热门歌曲**  
 - 🥇 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
 - 🥈 Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
-- 🥉 波喜多꒰⑅ᵕ༚ᵕ꒱˖♡ — -潔--
-- 4️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
-- 5️⃣ Boccaccio, Act 1:Finale. "Ehrsame Bürger dieser Stadt" (Chor, Lotteringhi, Lambertuccio) — Adolf Dallapozza/Chor der Bayerischen Staatsoper/Christfried Bickenbach/Friedrich Lenz/Helmut Storjohann/Symphonieorchester des Bayerischen Rundfunks/Willi Boskovsky/Wolfgang Gülich
+- 🥉 [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
+- 4️⃣ 波喜多꒰⑅ᵕ༚ᵕ꒱˖♡ — -潔--
+- 5️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
 
 **💿 热门专辑**  
 - 🥇 **Fragment of Eden** — Plum - Melodic Artist
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/3 22:59:16*
+*更新时间: 2026/8/4 00:13:44*
 <!-- LASTFM_END -->
