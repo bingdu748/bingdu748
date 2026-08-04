@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,096 次 |
-| 🎤 歌手总计 | 19,538 位 |
-| 💿 专辑总计 | 20,396 张 |
-| 🎶 歌曲总计 | 62,252 首 |
+| 🎧 播放总次数 | 84,113 次 |
+| 🎤 歌手总计 | 19,542 位 |
+| 💿 专辑总计 | 20,402 张 |
+| 🎶 歌曲总计 | 62,260 首 |
 
-🎧 **正在播放：** towards the dawn(与你奔向黎明 — 日出为昼Risunday/Melody_Fall
+
 
 **🎵 最近在听**  
-- 🎵 Million Mind (思绪万千) — Pax Japonica Groove
-- 🎵 Pagoda (宝塔) — Xomu/Amidst
-- 🎵 MAMA 2026 — Refkat/钉子Mihbaby
-- 🎵 搞钱歌 (Got That￥) — 舒灏Orenda/蔡燏Blazo
-- 🎵 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
+- 🎵 解构Deconstruct（纯音乐） — 特污兔-Dirtyrabbit2
+- 🎵 Flora — Kirara Magic/PIKASONIC
+- 🎵 Originally — SNKS/mimitsu
+- 🎵 命运的齿轮从此刻开始转动 — AniFace
+- 🎵 Realms (领域) — Hinkik/A Himitsu
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,18 +45,18 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum - Melodic Artist** — 17 次播放
+- 🥇 **Plum - Melodic Artist** — 18 次播放
 - 🥈 **宇夜_Uvernight** — 17 次播放
 - 🥉 **Tingting ASMR** — 5 次播放
-- 4️⃣ **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 3 次播放
-- 5️⃣ **水音世界观** — 3 次播放
+- 4️⃣ **水音世界观** — 3 次播放
+- 5️⃣ **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 2 次播放
 
 **🎶 热门歌曲**  
 - 🥇 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
 - 🥈 Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
-- 🥉 [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
-- 4️⃣ 波喜多꒰⑅ᵕ༚ᵕ꒱˖♡ — -潔--
-- 5️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
+- 🥉 Timeline — Plum - Melodic Artist
+- 4️⃣ [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
+- 5️⃣ 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
 
 **💿 热门专辑**  
 - 🥇 **Fragment of Eden** — Plum - Melodic Artist
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **林坤信**
-- 🥈 **水音世界观**
-- 🥉 **Plum - Melodic Artist**
+- 🥈 **Plum - Melodic Artist**
+- 🥉 **水音世界观**
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/4 00:13:44*
+*更新时间: 2026/8/4 03:48:17*
 <!-- LASTFM_END -->
