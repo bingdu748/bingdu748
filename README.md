@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 - 🥈 **宇夜_Uvernight** — 17 次播放
 - 🥉 **Tingting ASMR** — 5 次播放
 - 4️⃣ **水音世界观** — 3 次播放
-- 5️⃣ **Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot** — 2 次播放
+- 5️⃣ **Jean-François Paillard/Orchestre de Chambre Jean-François Paillard** — 2 次播放
 
 **🎶 热门歌曲**  
-- 🥇 7 Piano Pieces, Op. 11:No. 3, Il pleut sur la ville. Allegretto malinconico — Didier Jean/Georges Pludermacher/Ysabelle Van Wersch-Cot
-- 🥈 Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
-- 🥉 Timeline — Plum - Melodic Artist
-- 4️⃣ [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
-- 5️⃣ 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
+- 🥇 Symphonies pour les soupers du roi, Suite No. 6 "Premier caprice dit de Villers-Cotterêts":II. Premier air neuf. Gracieusement sans lenteur (Arr. Paillard) — Jean-François Paillard/Orchestre de Chambre Jean-François Paillard
+- 🥈 Timeline — Plum - Melodic Artist
+- 🥉 [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
+- 4️⃣ 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
+- 5️⃣ 波喜多꒰⑅ᵕ༚ᵕ꒱˖♡ — -潔--
 
 **💿 热门专辑**  
 - 🥇 **Fragment of Eden** — Plum - Melodic Artist
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/4 03:48:17*
+*更新时间: 2026/8/4 06:27:00*
 <!-- LASTFM_END -->
