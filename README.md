@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,114 次 |
+| 🎧 播放总次数 | 84,115 次 |
 | 🎤 歌手总计 | 19,542 位 |
 | 💿 专辑总计 | 20,402 张 |
-| 🎶 歌曲总计 | 62,261 首 |
+| 🎶 歌曲总计 | 62,262 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--8月4日--收到乌克兰致歉！伊朗取消3处导弹打击，特朗普硬核下达“达成协议或彻底投降”！ — 水音世界观
 - 🎵 国际观察8月4日直播。特朗普说跟伊朗谈判，被伊朗否认。世界局势今日热点。 — 全球动态局势
 - 🎵 解构Deconstruct（纯音乐） — 特污兔-Dirtyrabbit2
 - 🎵 Flora — Kirara Magic/PIKASONIC
 - 🎵 Originally — SNKS/mimitsu
-- 🎵 命运的齿轮从此刻开始转动 — AniFace
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🥇 **Plum - Melodic Artist** — 18 次播放
 - 🥈 **宇夜_Uvernight** — 17 次播放
 - 🥉 **Tingting ASMR** — 5 次播放
-- 4️⃣ **水音世界观** — 3 次播放
+- 4️⃣ **水音世界观** — 4 次播放
 - 5️⃣ **国际在线** — 2 次播放
 
 **🎶 热门歌曲**  
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 **🎤 本月艺术家**  
 - 🥇 **林坤信**
 - 🥈 **Plum - Melodic Artist**
-- 🥉 **小飞象**
+- 🥉 **水音世界观**
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/4 23:02:28*
+*更新时间: 2026/8/5 00:54:03*
 <!-- LASTFM_END -->
