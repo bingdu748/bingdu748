@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,115 次 |
-| 🎤 歌手总计 | 19,542 位 |
+| 🎧 播放总次数 | 84,129 次 |
+| 🎤 歌手总计 | 19,554 位 |
 | 💿 专辑总计 | 20,402 张 |
-| 🎶 歌曲总计 | 62,262 首 |
+| 🎶 歌曲总计 | 62,276 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月4日--收到乌克兰致歉！伊朗取消3处导弹打击，特朗普硬核下达“达成协议或彻底投降”！ — 水音世界观
-- 🎵 国际观察8月4日直播。特朗普说跟伊朗谈判，被伊朗否认。世界局势今日热点。 — 全球动态局势
-- 🎵 解构Deconstruct（纯音乐） — 特污兔-Dirtyrabbit2
-- 🎵 Flora — Kirara Magic/PIKASONIC
-- 🎵 Originally — SNKS/mimitsu
+- 🎵 Something for the Boys:When My Baby Goes to Town — Ambrosian Chorus/John McGlinn/London Symphony Orchestra/Simon Woods/Thomas Hampson
+- 🎵 Symphony No. 36 in C Major, K. 425 "Linz":II. Andante — Berliner Philharmoniker/Herbert von Karajan
+- 🎵 Suite from "From Meadow to Mayfair":III. Evening in Town — Brian Culverhouse/Royal Liverpool Philharmonic Orchestra/Sir Charles Groves
+- 🎵 Die tote Stadt, Op. 12, Act 2:Tanzlied des Pierrot. "Mein Sehnen, mein Wähnen" (Fritz) — Ben Glassberg/Huw Montague Rendall/Olivier Rosset/Opéra Orchestre Normandie Rouen
+- 🎵 Toulouse - Buenos Aires — Etienne Collard/José Alberto Giaimo/Julio Oscar Pane/Michel Plasson/Orchestre du Capitole de Toulouse/Raúl Garello
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **宇夜_Uvernight** — 17 次播放
 - 🥉 **Tingting ASMR** — 5 次播放
 - 4️⃣ **水音世界观** — 4 次播放
-- 5️⃣ **国际在线** — 2 次播放
+- 5️⃣ **Stéphane Grappelli/Yehudi Menuhin** — 2 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Timeline — Plum - Melodic Artist
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/5 00:54:03*
+*更新时间: 2026/8/5 04:08:13*
 <!-- LASTFM_END -->
