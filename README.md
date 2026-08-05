@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,145 次 |
-| 🎤 歌手总计 | 19,568 位 |
-| 💿 专辑总计 | 20,402 张 |
-| 🎶 歌曲总计 | 62,291 首 |
+| 🎧 播放总次数 | 84,165 次 |
+| 🎤 歌手总计 | 19,586 位 |
+| 💿 专辑总计 | 20,403 张 |
+| 🎶 歌曲总计 | 62,310 首 |
 
-🎧 **正在播放：** A Nightingale Sang in Berkeley Square — John Fraser/Stéphane Grappelli/Yehudi Menuhin
+🎧 **正在播放：** Goyescas "Los majos enamorados", Cuaderno I:El fandango del candil — Jean-François Heisser
 
 **🎵 最近在听**  
-- 🎵 A Nightingale Sang in Berkeley Square — John Fraser/Stéphane Grappelli/Yehudi Menuhin
-- 🎵 Fantasía para un gentilhombre:III. Fanfare de la caballeria de Nápoles — Lawrence Foster/Mike Hatch/Orchestre de Chambre de Lausanne/Sharon Isbin/Steve Barnett
-- 🎵 The Firebrand of Florence, Act 1:Civic Song. "Come to Florence" (Chorus) — John McGlinn/London Sinfonietta/London Sinfonietta Chorus/Simon Woods/Thomas Hampson
-- 🎵 Wiener Praterleben, Op. 12 — Berliner Philharmoniker
-- 🎵 All That Jazz (From "Chicago") — Donna Hazelton/Matthew Goodgame/Warren Sollars/Rebecca Dent/Caroline Graham/Air Studios Orchestra/Gareth Valentine/Jonathan Allen
+- 🎵 Goyescas "Los majos enamorados", Cuaderno I:El fandango del candil — Jean-François Heisser
+- 🎵 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
+- 🎵 Piano Sonata "1. X. 1905, From the Street":I. Foreboding — Mikhail Rudy
+- 🎵 The Bells — Andreas Staier/Tobias Lehmann/Uwe Walter
+- 🎵 L'enfance du Christ, Op. 25, H 130, Pt. 3 "L'arrivée à Saïs":Duo. "Dans cette ville immense" (Marie, Joseph, Chœur) — Ann Murray/Choir of King's College, Cambridge/Royal Philharmonic Orchestra/Stephen Cleobury/Thomas Allen
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 - 🥈 **宇夜_Uvernight** — 17 次播放
 - 🥉 **Tingting ASMR** — 5 次播放
 - 4️⃣ **水音世界观** — 4 次播放
-- 5️⃣ **Edo De Waart/Minnesota Orchestra** — 2 次播放
+- 5️⃣ **Daniel Barenboim/Orchestre de Paris** — 2 次播放
 
 **🎶 热门歌曲**  
-- 🥇 3 Dance Episodes from On the Town:No. 3, Times Square, 1944 — Edo De Waart/Minnesota Orchestra
-- 🥈 Timeline — Plum - Melodic Artist
-- 🥉 [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
-- 4️⃣ 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
-- 5️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
+- 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
+- 🥈 3 Dance Episodes from On the Town:No. 3, Times Square, 1944 — Edo De Waart/Minnesota Orchestra
+- 🥉 Timeline — Plum - Melodic Artist
+- 4️⃣ [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
+- 5️⃣ 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
 
 **💿 热门专辑**  
 - 🥇 **Fragment of Eden** — Plum - Melodic Artist
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/5 07:13:53*
+*更新时间: 2026/8/5 10:06:54*
 <!-- LASTFM_END -->
