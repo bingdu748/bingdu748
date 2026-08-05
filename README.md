@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,129 次 |
-| 🎤 歌手总计 | 19,554 位 |
+| 🎧 播放总次数 | 84,145 次 |
+| 🎤 歌手总计 | 19,568 位 |
 | 💿 专辑总计 | 20,402 张 |
-| 🎶 歌曲总计 | 62,276 首 |
+| 🎶 歌曲总计 | 62,291 首 |
 
-
+🎧 **正在播放：** A Nightingale Sang in Berkeley Square — John Fraser/Stéphane Grappelli/Yehudi Menuhin
 
 **🎵 最近在听**  
-- 🎵 Something for the Boys:When My Baby Goes to Town — Ambrosian Chorus/John McGlinn/London Symphony Orchestra/Simon Woods/Thomas Hampson
-- 🎵 Symphony No. 36 in C Major, K. 425 "Linz":II. Andante — Berliner Philharmoniker/Herbert von Karajan
-- 🎵 Suite from "From Meadow to Mayfair":III. Evening in Town — Brian Culverhouse/Royal Liverpool Philharmonic Orchestra/Sir Charles Groves
-- 🎵 Die tote Stadt, Op. 12, Act 2:Tanzlied des Pierrot. "Mein Sehnen, mein Wähnen" (Fritz) — Ben Glassberg/Huw Montague Rendall/Olivier Rosset/Opéra Orchestre Normandie Rouen
-- 🎵 Toulouse - Buenos Aires — Etienne Collard/José Alberto Giaimo/Julio Oscar Pane/Michel Plasson/Orchestre du Capitole de Toulouse/Raúl Garello
+- 🎵 A Nightingale Sang in Berkeley Square — John Fraser/Stéphane Grappelli/Yehudi Menuhin
+- 🎵 Fantasía para un gentilhombre:III. Fanfare de la caballeria de Nápoles — Lawrence Foster/Mike Hatch/Orchestre de Chambre de Lausanne/Sharon Isbin/Steve Barnett
+- 🎵 The Firebrand of Florence, Act 1:Civic Song. "Come to Florence" (Chorus) — John McGlinn/London Sinfonietta/London Sinfonietta Chorus/Simon Woods/Thomas Hampson
+- 🎵 Wiener Praterleben, Op. 12 — Berliner Philharmoniker
+- 🎵 All That Jazz (From "Chicago") — Donna Hazelton/Matthew Goodgame/Warren Sollars/Rebecca Dent/Caroline Graham/Air Studios Orchestra/Gareth Valentine/Jonathan Allen
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 - 🥈 **宇夜_Uvernight** — 17 次播放
 - 🥉 **Tingting ASMR** — 5 次播放
 - 4️⃣ **水音世界观** — 4 次播放
-- 5️⃣ **Stéphane Grappelli/Yehudi Menuhin** — 2 次播放
+- 5️⃣ **Edo De Waart/Minnesota Orchestra** — 2 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Timeline — Plum - Melodic Artist
-- 🥈 [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
-- 🥉 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
-- 4️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
-- 5️⃣ Rain of Conflict in a Radiant Abyss — ak+q
+- 🥇 3 Dance Episodes from On the Town:No. 3, Times Square, 1944 — Edo De Waart/Minnesota Orchestra
+- 🥈 Timeline — Plum - Melodic Artist
+- 🥉 [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
+- 4️⃣ 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
+- 5️⃣ Responsoria, Sabbato Sancto:II. Jerusalem, surge — A Sei Voci
 
 **💿 热门专辑**  
 - 🥇 **Fragment of Eden** — Plum - Melodic Artist
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/5 04:08:13*
+*更新时间: 2026/8/5 07:13:53*
 <!-- LASTFM_END -->
