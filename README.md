@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,184 次 |
+| 🎧 播放总次数 | 84,186 次 |
 | 🎤 歌手总计 | 19,587 位 |
 | 💿 专辑总计 | 20,403 张 |
-| 🎶 歌曲总计 | 62,315 首 |
+| 🎶 歌曲总计 | 62,317 首 |
 
-
+🎧 **正在播放：** 08-06早晨直播1，伊朗没跟美国谈，胡塞和伊朗一起动手了。 — 国际在线播报
 
 **🎵 最近在听**  
+- 🎵 08-06早晨直播1，伊朗没跟美国谈，胡塞和伊朗一起动手了。 — 国际在线播报
+- 🎵 名妍说8月6日直播。主播这几天没来，万万没想到就这几天出大事了。世界局势今日热点。 — 全球动态局势
 - 🎵 Les cent vierges, Act 2:"Je soupire et maudis le destin" - Grande valse. "Ô Paris, gai séjour de plaisir" (Gabrielle) — Mady Mesplé/Orchestre Philharmonique de Monte-Carlo/Pierre Dervaux
 - 🎵 Goyescas "Los majos enamorados", Cuaderno I:El fandango del candil — Jean-François Heisser
 - 🎵 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
-- 🎵 Piano Sonata "1. X. 1905, From the Street":I. Foreboding — Mikhail Rudy
-- 🎵 The Bells — Andreas Staier/Tobias Lehmann/Uwe Walter
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/6 09:24:52*
+*更新时间: 2026/8/6 11:39:51*
 <!-- LASTFM_END -->
