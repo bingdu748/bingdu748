@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,168 次 |
-| 🎤 歌手总计 | 19,586 位 |
+| 🎧 播放总次数 | 84,184 次 |
+| 🎤 歌手总计 | 19,587 位 |
 | 💿 专辑总计 | 20,403 张 |
-| 🎶 歌曲总计 | 62,313 首 |
+| 🎶 歌曲总计 | 62,315 首 |
 
-🎧 **正在播放：** 水音世界观--8月5日---丢人丢大了！美军无招可用向全军“众筹”打伊朗方案，中方8月5日重磅断供对美无人机！ — 水音世界观
+
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月5日---丢人丢大了！美军无招可用向全军“众筹”打伊朗方案，中方8月5日重磅断供对美无人机！ — 水音世界观
-- 🎵 水音世界观--8月5日--中方封杀6家美企兼管制无人机出口对美，朝鲜3万大军携重武器轰入乌东！ — 水音世界观
-- 🎵 水音世界观--8月4日--现场滑跪！乌克兰公开向伊朗致歉，伊朗撤销3处导弹打击，特朗普发绝杀通牒！ — 水音世界观
+- 🎵 Les cent vierges, Act 2:"Je soupire et maudis le destin" - Grande valse. "Ô Paris, gai séjour de plaisir" (Gabrielle) — Mady Mesplé/Orchestre Philharmonique de Monte-Carlo/Pierre Dervaux
 - 🎵 Goyescas "Los majos enamorados", Cuaderno I:El fandango del candil — Jean-François Heisser
 - 🎵 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
+- 🎵 Piano Sonata "1. X. 1905, From the Street":I. Foreboding — Mikhail Rudy
+- 🎵 The Bells — Andreas Staier/Tobias Lehmann/Uwe Walter
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 - 🥈 **宇夜_Uvernight** — 17 次播放
 - 🥉 **水音世界观** — 7 次播放
 - 4️⃣ **Tingting ASMR** — 5 次播放
-- 5️⃣ **Daniel Barenboim/Orchestre de Paris** — 2 次播放
+- 5️⃣ **Daniel Barenboim/Orchestre de Paris** — 3 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
-- 🥈 3 Dance Episodes from On the Town:No. 3, Times Square, 1944 — Edo De Waart/Minnesota Orchestra
-- 🥉 Timeline — Plum - Melodic Artist
-- 4️⃣ [ASMR] Chinese Tea Shop (Crafting Teas For You) — Tingting ASMR
-- 5️⃣ 08-03夜间场，特朗普出手了，救日元于水火之中。 — 国际在线
+- 🥈 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
+- 🥉 À Paris, dans chaque faubourg — Alain Lanceron/Bruno Fontaine/Lambert Wilson/Philippe Laffont
+- 4️⃣ Portsmouth Point — André Previn/Christopher Bishop/Christopher Parker/London Symphony Orchestra
+- 5️⃣ The Bells — Andreas Staier/Tobias Lehmann/Uwe Walter
 
 **💿 热门专辑**  
 - 🥇 **Fragment of Eden** — Plum - Melodic Artist
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
 - 🥈 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
-- 🥉 1st Movement: Adaggio / Allegro Molto — London Philharmonic Orchestra
+- 🥉 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/6 06:29:50*
+*更新时间: 2026/8/6 09:24:52*
 <!-- LASTFM_END -->
