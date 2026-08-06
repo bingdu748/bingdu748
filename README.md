@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,403 张 |
 | 🎶 歌曲总计 | 62,312 首 |
 
-🎧 **正在播放：** 水音世界观--8月5日--中方封杀6家美企兼管制无人机出口对美，朝鲜3万大军携重武器轰入乌东！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--8月5日--中方封杀6家美企兼管制无人机出口对美，朝鲜3万大军携重武器轰入乌东！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/6 00:04:04*
+*更新时间: 2026/8/6 03:48:54*
 <!-- LASTFM_END -->
