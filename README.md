@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,167 次 |
+| 🎧 播放总次数 | 84,168 次 |
 | 🎤 歌手总计 | 19,586 位 |
 | 💿 专辑总计 | 20,403 张 |
-| 🎶 歌曲总计 | 62,312 首 |
+| 🎶 歌曲总计 | 62,313 首 |
 
-
+🎧 **正在播放：** 水音世界观--8月5日---丢人丢大了！美军无招可用向全军“众筹”打伊朗方案，中方8月5日重磅断供对美无人机！ — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--8月5日---丢人丢大了！美军无招可用向全军“众筹”打伊朗方案，中方8月5日重磅断供对美无人机！ — 水音世界观
 - 🎵 水音世界观--8月5日--中方封杀6家美企兼管制无人机出口对美，朝鲜3万大军携重武器轰入乌东！ — 水音世界观
 - 🎵 水音世界观--8月4日--现场滑跪！乌克兰公开向伊朗致歉，伊朗撤销3处导弹打击，特朗普发绝杀通牒！ — 水音世界观
 - 🎵 Goyescas "Los majos enamorados", Cuaderno I:El fandango del candil — Jean-François Heisser
 - 🎵 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
-- 🎵 Piano Sonata "1. X. 1905, From the Street":I. Foreboding — Mikhail Rudy
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum - Melodic Artist** — 18 次播放
 - 🥈 **宇夜_Uvernight** — 17 次播放
-- 🥉 **水音世界观** — 6 次播放
+- 🥉 **水音世界观** — 7 次播放
 - 4️⃣ **Tingting ASMR** — 5 次播放
 - 5️⃣ **Daniel Barenboim/Orchestre de Paris** — 2 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/6 03:48:54*
+*更新时间: 2026/8/6 06:29:50*
 <!-- LASTFM_END -->
