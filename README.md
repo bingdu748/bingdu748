@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,198 次 |
+| 🎧 播放总次数 | 84,190 次 |
 | 🎤 歌手总计 | 19,588 位 |
 | 💿 专辑总计 | 20,403 张 |
 | 🎶 歌曲总计 | 62,325 首 |
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 **🎵 最近在听**  
 - 🎵 ASMR｜场景模拟｜模拟中医药铺把脉抓药 — 林一睡着辽
 - 🎵 ASMR Cooking Up Your Negative Energy Into Something Swee — GuluLand ASMR
-- 🎵 ASMR Cooking Up Your Negative Energy Into Something Swee — GuluLand ASMR
 - 🎵 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
-- 🎵 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
+- 🎵 ASMR 中文 | Emojis I Hate the Most in Chats💧 — GuluLand ASMR
+- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum - Melodic Artist** — 18 次播放
 - 🥈 **宇夜_Uvernight** — 17 次播放
-- 🥉 **GuluLand ASMR** — 9 次播放
-- 4️⃣ **水音世界观** — 7 次播放
-- 5️⃣ **Tingting ASMR** — 5 次播放
+- 🥉 **水音世界观** — 7 次播放
+- 4️⃣ **GuluLand ASMR** — 5 次播放
+- 5️⃣ **Tingting ASMR** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
-- 🥈 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
-- 🥉 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
-- 4️⃣ À Paris, dans chaque faubourg — Alain Lanceron/Bruno Fontaine/Lambert Wilson/Philippe Laffont
-- 5️⃣ Portsmouth Point — André Previn/Christopher Bishop/Christopher Parker/London Symphony Orchestra
+- 🥈 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
+- 🥉 À Paris, dans chaque faubourg — Alain Lanceron/Bruno Fontaine/Lambert Wilson/Philippe Laffont
+- 4️⃣ Portsmouth Point — André Previn/Christopher Bishop/Christopher Parker/London Symphony Orchestra
+- 5️⃣ The Bells — Andreas Staier/Tobias Lehmann/Uwe Walter
 
 **💿 热门专辑**  
 - 🥇 **Fragment of Eden** — Plum - Melodic Artist
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/7 00:23:39*
+*更新时间: 2026/8/7 03:27:38*
 <!-- LASTFM_END -->
