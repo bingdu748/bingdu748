@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,192 次 |
-| 🎤 歌手总计 | 19,588 位 |
-| 💿 专辑总计 | 20,403 张 |
-| 🎶 歌曲总计 | 62,326 首 |
+| 🎧 播放总次数 | 84,203 次 |
+| 🎤 歌手总计 | 19,596 位 |
+| 💿 专辑总计 | 20,409 张 |
+| 🎶 歌曲总计 | 62,336 首 |
 
-
+🎧 **正在播放：** 逃逸速度(Escape Velocity) — 墨绛
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月6日--金与正震撼警告日本先发制人打击，朝鲜枪口全面调头锁死日本！ — 水音世界观
-- 🎵 茶杯里的咖啡 — (x²+y²-a²)³=x²y³
-- 🎵 ASMR｜场景模拟｜模拟中医药铺把脉抓药 — 林一睡着辽
-- 🎵 ASMR Cooking Up Your Negative Energy Into Something Swee — GuluLand ASMR
-- 🎵 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
+- 🎵 逃逸速度(Escape Velocity) — 墨绛
+- 🎵 A Web of Lies（错乱迷宫） — 洛天依Official
+- 🎵 Unforgiven (不可饶恕) — Life Awaits
+- 🎵 Moth To A Flame (飞蛾扑火) — FUNK!Z钟于恒
+- 🎵 问风 — 木子润
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum - Melodic Artist** — 18 次播放
 - 🥈 **宇夜_Uvernight** — 17 次播放
-- 🥉 **水音世界观** — 8 次播放
+- 🥉 **水音世界观** — 6 次播放
 - 4️⃣ **GuluLand ASMR** — 5 次播放
-- 5️⃣ **Tingting ASMR** — 4 次播放
+- 5️⃣ **Daniel Barenboim/Orchestre de Paris** — 3 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/7 11:44:04*
+*更新时间: 2026/8/7 13:01:16*
 <!-- LASTFM_END -->
