@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,203 次 |
-| 🎤 歌手总计 | 19,596 位 |
-| 💿 专辑总计 | 20,409 张 |
-| 🎶 歌曲总计 | 62,336 首 |
+| 🎧 播放总次数 | 84,217 次 |
+| 🎤 歌手总计 | 19,599 位 |
+| 💿 专辑总计 | 20,412 张 |
+| 🎶 歌曲总计 | 62,343 首 |
 
-🎧 **正在播放：** 逃逸速度(Escape Velocity) — 墨绛
+🎧 **正在播放：** [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
 
 **🎵 最近在听**  
-- 🎵 逃逸速度(Escape Velocity) — 墨绛
-- 🎵 A Web of Lies（错乱迷宫） — 洛天依Official
-- 🎵 Unforgiven (不可饶恕) — Life Awaits
-- 🎵 Moth To A Flame (飞蛾扑火) — FUNK!Z钟于恒
-- 🎵 问风 — 木子润
+- 🎵 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
+- 🎵 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
+- 🎵 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
+- 🎵 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
+- 🎵 ZOOM ZOOM — Treasure
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,21 +47,21 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Plum - Melodic Artist** — 18 次播放
 - 🥈 **宇夜_Uvernight** — 17 次播放
-- 🥉 **水音世界观** — 6 次播放
-- 4️⃣ **GuluLand ASMR** — 5 次播放
-- 5️⃣ **Daniel Barenboim/Orchestre de Paris** — 3 次播放
+- 🥉 **Treasure** — 6 次播放
+- 4️⃣ **水音世界观** — 6 次播放
+- 5️⃣ **GuluLand ASMR** — 5 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
-- 🥈 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
-- 🥉 À Paris, dans chaque faubourg — Alain Lanceron/Bruno Fontaine/Lambert Wilson/Philippe Laffont
-- 4️⃣ Portsmouth Point — André Previn/Christopher Bishop/Christopher Parker/London Symphony Orchestra
-- 5️⃣ The Bells — Andreas Staier/Tobias Lehmann/Uwe Walter
+- 🥇 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
+- 🥈 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
+- 🥉 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
+- 4️⃣ À Paris, dans chaque faubourg — Alain Lanceron/Bruno Fontaine/Lambert Wilson/Philippe Laffont
+- 5️⃣ Portsmouth Point — André Previn/Christopher Bishop/Christopher Parker/London Symphony Orchestra
 
 **💿 热门专辑**  
-- 🥇 **Fragment of Eden** — Plum - Melodic Artist
-- 🥈 **Melody From Sky** — Plum - Melodic Artist
-- 🥉 **Musicbox 24/7 (Side PM)** — Plum - Melodic Artist
+- 🥇 **4th MINI ALBUM [NEW WAV]** — Treasure
+- 🥈 **Fragment of Eden** — Plum - Melodic Artist
+- 🥉 **Melody From Sky** — Plum - Melodic Artist
 
 ---
 
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
 - 🥈 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
-- 🥉 茶杯里的咖啡 — (x²+y²-a²)³=x²y³
+- 🥉 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/7 13:01:16*
+*更新时间: 2026/8/7 14:31:33*
 <!-- LASTFM_END -->
