@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,217 次 |
-| 🎤 歌手总计 | 19,599 位 |
-| 💿 专辑总计 | 20,412 张 |
-| 🎶 歌曲总计 | 62,343 首 |
+| 🎧 播放总次数 | 84,219 次 |
+| 🎤 歌手总计 | 19,600 位 |
+| 💿 专辑总计 | 20,413 张 |
+| 🎶 歌曲总计 | 62,345 首 |
 
-🎧 **正在播放：** [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
+
 
 **🎵 最近在听**  
+- 🎵 家书 — 未名
+- 🎵 你呀 — 未名
 - 🎵 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
 - 🎵 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
 - 🎵 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
-- 🎵 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
-- 🎵 ZOOM ZOOM — Treasure
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/7 14:31:33*
+*更新时间: 2026/8/7 15:54:58*
 <!-- LASTFM_END -->
