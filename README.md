@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,403 张 |
 | 🎶 歌曲总计 | 62,326 首 |
 
-🎧 **正在播放：** 水音世界观--8月6日--金与正震撼警告日本先发制人打击，朝鲜枪口全面调头锁死日本！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--8月6日--金与正震撼警告日本先发制人打击，朝鲜枪口全面调头锁死日本！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/7 10:51:34*
+*更新时间: 2026/8/7 11:44:04*
 <!-- LASTFM_END -->
