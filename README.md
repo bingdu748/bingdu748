@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,190 次 |
+| 🎧 播放总次数 | 84,191 次 |
 | 🎤 歌手总计 | 19,588 位 |
 | 💿 专辑总计 | 20,403 张 |
 | 🎶 歌曲总计 | 62,325 首 |
@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 
 **🎵 最近在听**  
+- 🎵 茶杯里的咖啡 — (x²+y²-a²)³=x²y³
 - 🎵 ASMR｜场景模拟｜模拟中医药铺把脉抓药 — 林一睡着辽
 - 🎵 ASMR Cooking Up Your Negative Energy Into Something Swee — GuluLand ASMR
 - 🎵 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
 - 🎵 ASMR 中文 | Emojis I Hate the Most in Chats💧 — GuluLand ASMR
-- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
 - 🥈 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
-- 🥉 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
+- 🥉 茶杯里的咖啡 — (x²+y²-a²)³=x²y³
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/7 05:15:47*
+*更新时间: 2026/8/7 06:45:31*
 <!-- LASTFM_END -->
