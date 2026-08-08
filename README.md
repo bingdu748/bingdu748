@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,239 次 |
+| 🎧 播放总次数 | 84,242 次 |
 | 🎤 歌手总计 | 19,602 位 |
 | 💿 专辑总计 | 20,415 张 |
-| 🎶 歌曲总计 | 62,364 首 |
+| 🎶 歌曲总计 | 62,367 首 |
 
-
+🎧 **正在播放：** 水音世界观--8月7日--格什姆岛深夜两声巨响！伊朗对敌对目标果断出击，美军弹药库耗尽被逼重启“超级大炮”！ — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--8月7日--格什姆岛深夜两声巨响！伊朗对敌对目标果断出击，美军弹药库耗尽被逼重启“超级大炮”！ — 水音世界观
+- 🎵 Bond Girl — The Pocket Gods
+- 🎵 Billy Preston (Was the 5th Beatle) — The Pocket Gods
 - 🎵 Bight the Apple That Feeds — The Pocket Gods
 - 🎵 It's Just a ****ing Zebra Crossing — The Pocket Gods
-- 🎵 The Travelling Wilburys — The Pocket Gods
-- 🎵 When I'm Pissed I'll Shout — The Pocket Gods
-- 🎵 The People That Don't Get the Beatles — The Pocket Gods
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **Plum - Melodic Artist** — 18 次播放
-- 🥈 **宇夜_Uvernight** — 17 次播放
-- 🥉 **The Pocket Gods** — 15 次播放
+- 🥈 **The Pocket Gods** — 17 次播放
+- 🥉 **宇夜_Uvernight** — 17 次播放
 - 4️⃣ **Treasure** — 6 次播放
-- 5️⃣ **GuluLand ASMR** — 5 次播放
+- 5️⃣ **水音世界观** — 6 次播放
 
 **🎶 热门歌曲**  
 - 🥇 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/8 22:34:49*
+*更新时间: 2026/8/8 23:27:49*
 <!-- LASTFM_END -->
