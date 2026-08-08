@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,414 张 |
 | 🎶 歌曲总计 | 62,349 首 |
 
-🎧 **正在播放：** Little Lake — a_hisa
+
 
 **🎵 最近在听**  
 - 🎵 你两个儿子都是给 — 炫风-xf
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/8 15:28:41*
+*更新时间: 2026/8/8 15:57:39*
 <!-- LASTFM_END -->
