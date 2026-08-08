@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **Plum - Melodic Artist** — 18 次播放
 - 🥈 **宇夜_Uvernight** — 17 次播放
 - 🥉 **Treasure** — 6 次播放
-- 4️⃣ **水音世界观** — 6 次播放
-- 5️⃣ **GuluLand ASMR** — 5 次播放
+- 4️⃣ **GuluLand ASMR** — 5 次播放
+- 5️⃣ **水音世界观** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 [English ASMR] Let's learn the Korean alphabet (HanGul) in 1 hour | Learn Hangul in an hour✏️ — Soy ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/8 05:42:07*
+*更新时间: 2026/8/8 06:51:20*
 <!-- LASTFM_END -->
