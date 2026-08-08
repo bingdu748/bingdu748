@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,222 次 |
-| 🎤 歌手总计 | 19,600 位 |
+| 🎧 播放总次数 | 84,224 次 |
+| 🎤 歌手总计 | 19,601 位 |
 | 💿 专辑总计 | 20,414 张 |
-| 🎶 歌曲总计 | 62,347 首 |
+| 🎶 歌曲总计 | 62,349 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 你两个儿子都是给 — 炫风-xf
+- 🎵 含糖量1000%！史上最伟大的续作！速速前来品鉴超时空辉夜姬官方新漫画！ — 璃少QVQ
 - 🎵 星屑物語 (星尘往事) — 打打だいず
 - 🎵 Record one's Dream — uma/モリモリあつし
 - 🎵 We Gonna Party — SEGA Sound Team
-- 🎵 家书 — 未名
-- 🎵 你呀 — 未名
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/8 04:34:54*
+*更新时间: 2026/8/8 05:42:07*
 <!-- LASTFM_END -->
