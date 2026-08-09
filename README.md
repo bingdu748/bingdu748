@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,428 次 |
-| 🎤 歌手总计 | 19,663 位 |
-| 💿 专辑总计 | 20,513 张 |
-| 🎶 歌曲总计 | 62,551 首 |
+| 🎧 播放总次数 | 84,494 次 |
+| 🎤 歌手总计 | 19,681 位 |
+| 💿 专辑总计 | 20,549 张 |
+| 🎶 歌曲总计 | 62,618 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 japan — The Pocket Gods
-- 🎵 japan — The Pocket Gods
-- 🎵 Northern Song — The Pocket Gods
-- 🎵 Sand Bar Stradbroke Island Australia — Lawrence English
-- 🎵 Old Motor Shropshire UK — Lawrence English
+- 🎵 I'm Famous Too — Heitor Pereira
+- 🎵 Evil Bratt Action Figure — Heitor Pereira
+- 🎵 Inception: The Bleeding Skies — Trivium
+- 🎵 I Feel Dislike — Contrastic
+- 🎵 Bricklayer — Hüsker Dü
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **The Pocket Gods** — 71 次播放
+- 🥇 **The Pocket Gods** — 99 次播放
 - 🥈 **Plum - Melodic Artist** — 18 次播放
 - 🥉 **宇夜_Uvernight** — 17 次播放
 - 4️⃣ **John F. Kennedy** — 13 次播放
@@ -60,16 +60,16 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **100BeatlesX30** — The Pocket Gods
-- 🥈 **The Wit of John F. Kennedy** — John F. Kennedy
-- 🥉 **4th MINI ALBUM [NEW WAV]** — Treasure
+- 🥈 **300X30 - My Life as a Playlist** — The Pocket Gods
+- 🥉 **The Wit of John F. Kennedy** — John F. Kennedy
 
 ---
 
 ### 📆 本月精选
 
 **🎤 本月艺术家**  
-- 🥇 **林坤信**
-- 🥈 **The Pocket Gods**
+- 🥇 **The Pocket Gods**
+- 🥈 **林坤信**
 - 🥉 **水音世界观**
 
 **🎶 本月歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/9 03:41:40*
+*更新时间: 2026/8/9 05:03:40*
 <!-- LASTFM_END -->
