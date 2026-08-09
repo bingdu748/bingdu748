@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 99 次播放
-- 🥈 **Plum - Melodic Artist** — 15 次播放
-- 🥉 **The Hirs Collective** — 14 次播放
-- 4️⃣ **John F. Kennedy** — 13 次播放
-- 5️⃣ **Guided by Voices** — 11 次播放
+- 🥈 **The Hirs Collective** — 14 次播放
+- 🥉 **John F. Kennedy** — 13 次播放
+- 4️⃣ **Guided by Voices** — 11 次播放
+- 5️⃣ **Heitor Pereira** — 10 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/9 13:54:22*
+*更新时间: 2026/8/9 14:33:14*
 <!-- LASTFM_END -->
