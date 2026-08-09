@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,546 次 |
+| 🎧 播放总次数 | 84,545 次 |
 | 🎤 歌手总计 | 19,701 位 |
 | 💿 专辑总计 | 20,582 张 |
 | 🎶 歌曲总计 | 62,668 首 |
 
-🎧 **正在播放：** Blue — MILLENNIUM PARADE/Saya Gray/Daniel Caesar/常田大希
+
 
 **🎵 最近在听**  
 - 🎵 Blue — MILLENNIUM PARADE/Saya Gray/Daniel Caesar/常田大希
-- 🎵 水音世界观--8月7日--格什姆岛深夜两声巨响！伊朗对敌对目标果断出击，美军弹药库耗尽被逼重启“超级大炮”！ — 水音世界观
 - 🎵 Wer ist Faust? — Unlucky Morpheus
 - 🎵 Evening Announcements — Will Wood
 - 🎵 The Tungara Detergent — Phyllomedusa
+- 🎵 Marjin Of The Jowl — Phyllomedusa
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 99 次播放
-- 🥈 **Plum - Melodic Artist** — 18 次播放
+- 🥈 **Plum - Melodic Artist** — 15 次播放
 - 🥉 **The Hirs Collective** — 14 次播放
-- 4️⃣ **宇夜_Uvernight** — 14 次播放
-- 5️⃣ **John F. Kennedy** — 13 次播放
+- 4️⃣ **John F. Kennedy** — 13 次播放
+- 5️⃣ **Guided by Voices** — 11 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/9 13:00:09*
+*更新时间: 2026/8/9 13:54:22*
 <!-- LASTFM_END -->
