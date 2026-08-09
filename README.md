@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,494 次 |
-| 🎤 歌手总计 | 19,681 位 |
-| 💿 专辑总计 | 20,549 张 |
-| 🎶 歌曲总计 | 62,618 首 |
+| 🎧 播放总次数 | 84,544 次 |
+| 🎤 歌手总计 | 19,700 位 |
+| 💿 专辑总计 | 20,581 张 |
+| 🎶 歌曲总计 | 62,667 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 I'm Famous Too — Heitor Pereira
-- 🎵 Evil Bratt Action Figure — Heitor Pereira
-- 🎵 Inception: The Bleeding Skies — Trivium
-- 🎵 I Feel Dislike — Contrastic
-- 🎵 Bricklayer — Hüsker Dü
+- 🎵 Wer ist Faust? — Unlucky Morpheus
+- 🎵 Evening Announcements — Will Wood
+- 🎵 The Tungara Detergent — Phyllomedusa
+- 🎵 Marjin Of The Jowl — Phyllomedusa
+- 🎵 "I" as a Way of Putting it Into the Collective Being — Valyri
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **The Pocket Gods** — 99 次播放
 - 🥈 **Plum - Melodic Artist** — 18 次播放
 - 🥉 **宇夜_Uvernight** — 17 次播放
-- 4️⃣ **John F. Kennedy** — 13 次播放
-- 5️⃣ **Guided by Voices** — 11 次播放
+- 4️⃣ **The Hirs Collective** — 14 次播放
+- 5️⃣ **John F. Kennedy** — 13 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/9 05:03:40*
+*更新时间: 2026/8/9 06:07:22*
 <!-- LASTFM_END -->
