@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,242 次 |
-| 🎤 歌手总计 | 19,602 位 |
-| 💿 专辑总计 | 20,415 张 |
-| 🎶 歌曲总计 | 62,367 首 |
+| 🎧 播放总次数 | 84,311 次 |
+| 🎤 歌手总计 | 19,612 位 |
+| 💿 专辑总计 | 20,425 张 |
+| 🎶 歌曲总计 | 62,434 首 |
 
-🎧 **正在播放：** 水音世界观--8月7日--格什姆岛深夜两声巨响！伊朗对敌对目标果断出击，美军弹药库耗尽被逼重启“超级大炮”！ — 水音世界观
+
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月7日--格什姆岛深夜两声巨响！伊朗对敌对目标果断出击，美军弹药库耗尽被逼重启“超级大炮”！ — 水音世界观
-- 🎵 Bond Girl — The Pocket Gods
-- 🎵 Billy Preston (Was the 5th Beatle) — The Pocket Gods
-- 🎵 Bight the Apple That Feeds — The Pocket Gods
-- 🎵 It's Just a ****ing Zebra Crossing — The Pocket Gods
+- 🎵 Together — Konichi
+- 🎵 Slaughtered — Annix/Ragga Twins
+- 🎵 Run from the Gun — Decimal Bass
+- 🎵 Closed In — TYKE/PRESTIGE
+- 🎵 I Haven't Been Sleeping Well — Tyke
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Plum - Melodic Artist** — 18 次播放
-- 🥈 **The Pocket Gods** — 17 次播放
+- 🥇 **The Pocket Gods** — 68 次播放
+- 🥈 **Plum - Melodic Artist** — 18 次播放
 - 🥉 **宇夜_Uvernight** — 17 次播放
 - 4️⃣ **Treasure** — 6 次播放
 - 5️⃣ **水音世界观** — 6 次播放
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **林坤信**
-- 🥈 **水音世界观**
-- 🥉 **Plum - Melodic Artist**
+- 🥈 **The Pocket Gods**
+- 🥉 **水音世界观**
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/8 23:56:10*
+*更新时间: 2026/8/9 01:53:24*
 <!-- LASTFM_END -->
