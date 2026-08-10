@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,718 次 |
+| 🎧 播放总次数 | 84,681 次 |
 | 🎤 歌手总计 | 19,704 位 |
 | 💿 专辑总计 | 20,584 张 |
-| 🎶 歌曲总计 | 62,802 首 |
+| 🎶 歌曲总计 | 62,803 首 |
 
-
+🎧 **正在播放：** 中文ASMR | Unboxing Travel Souvenirs + Trip Recap Rambles 🪨🎁 — GuluLand ASMR
 
 **🎵 最近在听**  
+- 🎵 中文ASMR | Unboxing Travel Souvenirs + Trip Recap Rambles 🪨🎁 — GuluLand ASMR
 - 🎵 Cantata No.147: Jesu, Joy of Man's Desiring (第147号康塔塔:耶稣，人类渴望的喜悦) — Johann Sebastian Bach/Geraint Jones Singers and Orchestra/Geraint Jones/Helen Watts/Dame Joan Sutherland
 - 🎵 ASMR Extremely Detailed Scalp Exam — Tingting ASMR
 - 🎵 ASMR Extremely Detailed Scalp Exam — Tingting ASMR
 - 🎵 名妍说8月10日直播。中东版三国志上演了。 — 全球动态局势
-- 🎵 Sr — The Pocket Gods
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **The Pocket Gods** — 255 次播放
+- 🥇 **The Pocket Gods** — 217 次播放
 - 🥈 **The Hirs Collective** — 14 次播放
 - 🥉 **John F. Kennedy** — 13 次播放
 - 4️⃣ **Guided by Voices** — 11 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/10 13:54:50*
+*更新时间: 2026/8/10 14:57:34*
 <!-- LASTFM_END -->
