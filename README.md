@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,714 次 |
+| 🎧 播放总次数 | 84,716 次 |
 | 🎤 歌手总计 | 19,703 位 |
 | 💿 专辑总计 | 20,583 张 |
-| 🎶 歌曲总计 | 62,799 首 |
+| 🎶 歌曲总计 | 62,801 首 |
 
-
+🎧 **正在播放：** ASMR Extremely Detailed Scalp Exam — Tingting ASMR
 
 **🎵 最近在听**  
+- 🎵 ASMR Extremely Detailed Scalp Exam — Tingting ASMR
+- 🎵 名妍说8月10日直播。中东版三国志上演了。 — 全球动态局势
 - 🎵 Sr — The Pocket Gods
 - 🎵 Rb — The Pocket Gods
 - 🎵 Kr — The Pocket Gods
-- 🎵 Br — The Pocket Gods
-- 🎵 Se — The Pocket Gods
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/10 09:57:39*
+*更新时间: 2026/8/10 11:13:00*
 <!-- LASTFM_END -->
