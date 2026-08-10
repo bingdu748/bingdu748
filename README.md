@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,546 次 |
-| 🎤 歌手总计 | 19,701 位 |
+| 🎧 播放总次数 | 84,547 次 |
+| 🎤 歌手总计 | 19,702 位 |
 | 💿 专辑总计 | 20,582 张 |
-| 🎶 歌曲总计 | 62,669 首 |
+| 🎶 歌曲总计 | 62,670 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 Cello Sonata, Op. 41 "Four Cities":I. Sivas — Anastasia Rizikov/Lisa Strauss
 - 🎵 水音世界观--8月7日--重磅立法！伊朗宣布永久禁止美以船只通航，违规闯关直接没收20%货物巨额罚款！ — 水音世界观
 - 🎵 Blue — MILLENNIUM PARADE/Saya Gray/Daniel Caesar/常田大希
 - 🎵 Wer ist Faust? — Unlucky Morpheus
 - 🎵 Evening Announcements — Will Wood
-- 🎵 The Tungara Detergent — Phyllomedusa
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/10 01:44:39*
+*更新时间: 2026/8/10 03:53:46*
 <!-- LASTFM_END -->
