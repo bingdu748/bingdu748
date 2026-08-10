@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,681 次 |
-| 🎤 歌手总计 | 19,704 位 |
-| 💿 专辑总计 | 20,584 张 |
-| 🎶 歌曲总计 | 62,803 首 |
+| 🎧 播放总次数 | 84,684 次 |
+| 🎤 歌手总计 | 19,706 位 |
+| 💿 专辑总计 | 20,586 张 |
+| 🎶 歌曲总计 | 62,806 首 |
 
-🎧 **正在播放：** 中文ASMR | Unboxing Travel Souvenirs + Trip Recap Rambles 🪨🎁 — GuluLand ASMR
+
 
 **🎵 最近在听**  
+- 🎵 街角的晚风 (烟嗓R&B版) — 落日微醺
+- 🎵 MY DESTINY HARTEKK — CONQR
+- 🎵 ASMR Chinese Roleplay | Your Classmate Comes to Take Care of You While You're Sick|CN / EN subtitles — GuluLand ASMR
 - 🎵 中文ASMR | Unboxing Travel Souvenirs + Trip Recap Rambles 🪨🎁 — GuluLand ASMR
 - 🎵 Cantata No.147: Jesu, Joy of Man's Desiring (第147号康塔塔:耶稣，人类渴望的喜悦) — Johann Sebastian Bach/Geraint Jones Singers and Orchestra/Geraint Jones/Helen Watts/Dame Joan Sutherland
-- 🎵 ASMR Extremely Detailed Scalp Exam — Tingting ASMR
-- 🎵 ASMR Extremely Detailed Scalp Exam — Tingting ASMR
-- 🎵 名妍说8月10日直播。中东版三国志上演了。 — 全球动态局势
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/10 14:57:34*
+*更新时间: 2026/8/10 16:03:12*
 <!-- LASTFM_END -->
