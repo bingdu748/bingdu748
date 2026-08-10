@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,684 次 |
+| 🎧 播放总次数 | 84,685 次 |
 | 🎤 歌手总计 | 19,706 位 |
 | 💿 专辑总计 | 20,586 张 |
-| 🎶 歌曲总计 | 62,806 首 |
+| 🎶 歌曲总计 | 62,807 首 |
 
-
+🎧 **正在播放：** 【二两解说版】波奇梦里话！喜多想结婚！婚后名得取！就叫XXX！【孤独摇滚#222】【波喜多、虹凉、波奇、喜多、虹夏、山田凉、孤独摇滚、某二两】 — 某二两
 
 **🎵 最近在听**  
+- 🎵 【二两解说版】波奇梦里话！喜多想结婚！婚后名得取！就叫XXX！【孤独摇滚#222】【波喜多、虹凉、波奇、喜多、虹夏、山田凉、孤独摇滚、某二两】 — 某二两
 - 🎵 街角的晚风 (烟嗓R&B版) — 落日微醺
 - 🎵 MY DESTINY HARTEKK — CONQR
 - 🎵 ASMR Chinese Roleplay | Your Classmate Comes to Take Care of You While You're Sick|CN / EN subtitles — GuluLand ASMR
 - 🎵 中文ASMR | Unboxing Travel Souvenirs + Trip Recap Rambles 🪨🎁 — GuluLand ASMR
-- 🎵 Cantata No.147: Jesu, Joy of Man's Desiring (第147号康塔塔:耶稣，人类渴望的喜悦) — Johann Sebastian Bach/Geraint Jones Singers and Orchestra/Geraint Jones/Helen Watts/Dame Joan Sutherland
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/10 21:40:07*
+*更新时间: 2026/8/10 22:36:01*
 <!-- LASTFM_END -->
