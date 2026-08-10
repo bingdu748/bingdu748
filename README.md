@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,555 次 |
-| 🎤 歌手总计 | 19,702 位 |
+| 🎧 播放总次数 | 84,714 次 |
+| 🎤 歌手总计 | 19,703 位 |
 | 💿 专辑总计 | 20,583 张 |
-| 🎶 歌曲总计 | 62,678 首 |
+| 🎶 歌曲总计 | 62,799 首 |
 
-🎧 **正在播放：** F — The Pocket Gods
+🎧 **正在播放：** 秋日初章 — (x²+y²-a²)³=x²y³
 
 **🎵 最近在听**  
-- 🎵 0 — The Pocket Gods
-- 🎵 N — The Pocket Gods
-- 🎵 C — The Pocket Gods
-- 🎵 B — The Pocket Gods
-- 🎵 Be — The Pocket Gods
+- 🎵 Sr — The Pocket Gods
+- 🎵 Rb — The Pocket Gods
+- 🎵 Kr — The Pocket Gods
+- 🎵 Br — The Pocket Gods
+- 🎵 Se — The Pocket Gods
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **The Pocket Gods** — 107 次播放
+- 🥇 **The Pocket Gods** — 255 次播放
 - 🥈 **The Hirs Collective** — 14 次播放
 - 🥉 **John F. Kennedy** — 13 次播放
 - 4️⃣ **Guided by Voices** — 11 次播放
-- 5️⃣ **Heitor Pereira** — 10 次播放
+- 5️⃣ **小梵** — 11 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ The Bells — Andreas Staier/Tobias Lehmann/Uwe Walter
 
 **💿 热门专辑**  
-- 🥇 **100BeatlesX30** — The Pocket Gods
-- 🥈 **300X30 - My Life as a Playlist** — The Pocket Gods
-- 🥉 **The Wit of John F. Kennedy** — John F. Kennedy
+- 🥇 **The Periodic Table** — The Pocket Gods
+- 🥈 **100BeatlesX30** — The Pocket Gods
+- 🥉 **300X30 - My Life as a Playlist** — The Pocket Gods
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/10 05:25:56*
+*更新时间: 2026/8/10 06:51:42*
 <!-- LASTFM_END -->
