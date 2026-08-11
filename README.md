@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,734 次 |
-| 🎤 歌手总计 | 19,720 位 |
-| 💿 专辑总计 | 20,615 张 |
-| 🎶 歌曲总计 | 62,854 首 |
+| 🎧 播放总次数 | 84,853 次 |
+| 🎤 歌手总计 | 19,758 位 |
+| 💿 专辑总计 | 20,705 张 |
+| 🎶 歌曲总计 | 62,969 首 |
 
-🎧 **正在播放：** Crimebuster's Shadow — John Williams
+🎧 **正在播放：** Condemnation - 2007 Demo — Wormrot
 
 **🎵 最近在听**  
-- 🎵 Sneaking Out — John Williams
-- 🎵 Village Theme (From "Gekido Advance, Kintaro's Revenge") — Arcade Player
-- 🎵 Ga-Wahi (From "Bionicle, The Game") — Arcade Player
-- 🎵 Attack of the Currawong (From "Ty the Tasmanian Tiger 2, Bush Rescue") — Arcade Player
-- 🎵 Courtship Fall To Winter — Phyllomedusa
+- 🎵 Condemnation - 2007 Demo — Wormrot
+- 🎵 It's Me Glassboy! — Adventure Time, Amanda Jones
+- 🎵 4 Better Or 4 Worse (Interlude) — The Pharcyde
+- 🎵 The New Anthem — Ornette Coleman, 倫敦交響樂團
+- 🎵 Quiet Water — Toby Fox
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 217 次播放
 - 🥈 **The Hirs Collective** — 21 次播放
-- 🥉 **John F. Kennedy** — 13 次播放
-- 4️⃣ **Phyllomedusa** — 13 次播放
-- 5️⃣ **Guided by Voices** — 11 次播放
+- 🥉 **Kevin Macleod** — 17 次播放
+- 4️⃣ **Joseph Bishara** — 14 次播放
+- 5️⃣ **John F. Kennedy** — 13 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 05:06:48*
+*更新时间: 2026/8/11 06:27:21*
 <!-- LASTFM_END -->
