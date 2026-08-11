@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,853 次 |
-| 🎤 歌手总计 | 19,758 位 |
-| 💿 专辑总计 | 20,705 张 |
-| 🎶 歌曲总计 | 62,969 首 |
+| 🎧 播放总次数 | 84,889 次 |
+| 🎤 歌手总计 | 19,775 位 |
+| 💿 专辑总计 | 20,724 张 |
+| 🎶 歌曲总计 | 63,005 首 |
 
-🎧 **正在播放：** Condemnation - 2007 Demo — Wormrot
+🎧 **正在播放：** Wiener Bürger, Op. 419 — Armin Jordan/Michel Garcin/Pierre Lavoix/Sinfonieorchester Basel
 
 **🎵 最近在听**  
-- 🎵 Condemnation - 2007 Demo — Wormrot
-- 🎵 It's Me Glassboy! — Adventure Time, Amanda Jones
-- 🎵 4 Better Or 4 Worse (Interlude) — The Pharcyde
-- 🎵 The New Anthem — Ornette Coleman, 倫敦交響樂團
-- 🎵 Quiet Water — Toby Fox
+- 🎵 Années de pèlerinage, Première année "La Suisse", S. 160:No. 9, Les cloches de Genève — Aldo Ciccolini
+- 🎵 Slaughter on 10th Avenue — BBC Big Band/Andy Redfern/Barry Forgie/Bob Mcdowall/Wayne Marshall/ウェイン・マーシャル
+- 🎵 Variations on the Carnival of Venice — Alexander Markovich/Sergei Nakariakov
+- 🎵 Iron Foundry, Op. 19 — Philharmonisches Staatsorchester Hamburg/Andreas von Imhoff/Ingo Metzmacher/Marcus Herzog/Markus Karl Stratmann
+- 🎵 Symphony in F Major "Urbs Roma":III. Moderato assai serioso — Jean Martinon/Orchestre National De L'ORTF
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 06:27:21*
+*更新时间: 2026/8/11 07:46:33*
 <!-- LASTFM_END -->
