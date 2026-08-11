@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,948 次 |
+| 🎧 播放总次数 | 84,949 次 |
 | 🎤 歌手总计 | 19,800 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,058 首 |
+| 🎶 歌曲总计 | 63,059 首 |
 
-
+🎧 **正在播放：** 水音世界观--8月11日--老特放弃军事打击改用经济制裁，伊朗回怼“已被制裁47年 — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--8月11日--老特放弃军事打击改用经济制裁，伊朗回怼“已被制裁47年 — 水音世界观
 - 🎵 Aus Italien, Op. 16:IV. Neapolitanisches Volksleben — Staatskapelle Dresden/Rudolf Kempe/David Mottley
 - 🎵 Warsaw Concerto — Gabriel Tacchino/Orchestre National de l'Opéra de Monte-Carlo/Armin Jordan
 - 🎵 Symphony No. 4 in A Major "Deliciae Basilienses":II. Larghetto — Charles Dutoit/Symphonieorchester des Bayerischen Rundfunks
 - 🎵 Ricordo di Napoli for Oboe and Strings (Orch. Renz) — Christoph Hartmann/Ensemble Berlin/Jens Schünemann/Stephanie Haase
-- 🎵 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 22:40:36*
+*更新时间: 2026/8/11 23:39:02*
 <!-- LASTFM_END -->
