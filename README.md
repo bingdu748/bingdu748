@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,893 次 |
+| 🎧 播放总次数 | 84,894 次 |
 | 🎤 歌手总计 | 19,779 位 |
 | 💿 专辑总计 | 20,724 张 |
-| 🎶 歌曲总计 | 63,009 首 |
+| 🎶 歌曲总计 | 63,010 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 名妍说8月11日直播。伊朗真的陷入信任危机了吗。 — 全球动态局势
 - 🎵 Der Barbier von Bagdad:Ouvertüre — Erich Leinsdorf/Philharmonia Orchestra
 - 🎵 Roma, WD 37:III. Une procession — Orchestre de Paris/Paavo Järvi
 - 🎵 Wiener Gemüths, Op. 116 (Perf. by String Quartet) — Alban Berg Quartett/Johann-Nikolaus Matthes
 - 🎵 Wiener Bürger, Op. 419 — Armin Jordan/Michel Garcin/Pierre Lavoix/Sinfonieorchester Basel
-- 🎵 Années de pèlerinage, Première année "La Suisse", S. 160:No. 9, Les cloches de Genève — Aldo Ciccolini
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 **🎤 本月艺术家**  
 - 🥇 **The Pocket Gods**
-- 🥈 **林坤信**
-- 🥉 **水音世界观**
+- 🥈 **水音世界观**
+- 🥉 **Plum - Melodic Artist**
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 09:59:57*
+*更新时间: 2026/8/11 10:58:34*
 <!-- LASTFM_END -->
