@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,733 次 |
+| 🎧 播放总次数 | 84,734 次 |
 | 🎤 歌手总计 | 19,720 位 |
-| 💿 专辑总计 | 20,614 张 |
-| 🎶 歌曲总计 | 62,853 首 |
+| 💿 专辑总计 | 20,615 张 |
+| 🎶 歌曲总计 | 62,854 首 |
 
-
+🎧 **正在播放：** Crimebuster's Shadow — John Williams
 
 **🎵 最近在听**  
+- 🎵 Sneaking Out — John Williams
 - 🎵 Village Theme (From "Gekido Advance, Kintaro's Revenge") — Arcade Player
 - 🎵 Ga-Wahi (From "Bionicle, The Game") — Arcade Player
 - 🎵 Attack of the Currawong (From "Ty the Tasmanian Tiger 2, Bush Rescue") — Arcade Player
 - 🎵 Courtship Fall To Winter — Phyllomedusa
-- 🎵 Glands And Empties — Phyllomedusa
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 03:43:16*
+*更新时间: 2026/8/11 05:06:48*
 <!-- LASTFM_END -->
