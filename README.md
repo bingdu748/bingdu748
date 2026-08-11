@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,894 次 |
+| 🎧 播放总次数 | 84,896 次 |
 | 🎤 歌手总计 | 19,779 位 |
 | 💿 专辑总计 | 20,724 张 |
-| 🎶 歌曲总计 | 63,010 首 |
+| 🎶 歌曲总计 | 63,011 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 欧盟峰会爆美国制造SARS和COVID-19病毒，并故意在武汉释放 — 浩浩爸来了
+- 🎵 特朗普最近为什么特别反常 — 高志凯频道
 - 🎵 名妍说8月11日直播。伊朗真的陷入信任危机了吗。 — 全球动态局势
 - 🎵 Der Barbier von Bagdad:Ouvertüre — Erich Leinsdorf/Philharmonia Orchestra
 - 🎵 Roma, WD 37:III. Une procession — Orchestre de Paris/Paavo Järvi
-- 🎵 Wiener Gemüths, Op. 116 (Perf. by String Quartet) — Alban Berg Quartett/Johann-Nikolaus Matthes
-- 🎵 Wiener Bürger, Op. 419 — Armin Jordan/Michel Garcin/Pierre Lavoix/Sinfonieorchester Basel
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 10:58:34*
+*更新时间: 2026/8/11 11:50:15*
 <!-- LASTFM_END -->
