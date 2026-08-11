@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,688 次 |
-| 🎤 歌手总计 | 19,706 位 |
-| 💿 专辑总计 | 20,586 张 |
-| 🎶 歌曲总计 | 62,809 首 |
+| 🎧 播放总次数 | 84,733 次 |
+| 🎤 歌手总计 | 19,720 位 |
+| 💿 专辑总计 | 20,614 张 |
+| 🎶 歌曲总计 | 62,853 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观-8月10日--喊出“让采矿再次伟大”！老特砸30亿强推脱钩，美媒爆料：美军78%命门在中国！ — 水音世界观
-- 🎵 女勇者战败的代价，是要和美少女魔王结婚哟？！ — 璃少QVQ
-- 🎵 【白河短篇】小时候你粘习惯了，长大后你也休想离开我！ — 璃少QVQ
-- 🎵 【二两解说版】波奇梦里话！喜多想结婚！婚后名得取！就叫XXX！【孤独摇滚#222】【波喜多、虹凉、波奇、喜多、虹夏、山田凉、孤独摇滚、某二两】 — 某二两
-- 🎵 街角的晚风 (烟嗓R&B版) — 落日微醺
+- 🎵 Village Theme (From "Gekido Advance, Kintaro's Revenge") — Arcade Player
+- 🎵 Ga-Wahi (From "Bionicle, The Game") — Arcade Player
+- 🎵 Attack of the Currawong (From "Ty the Tasmanian Tiger 2, Bush Rescue") — Arcade Player
+- 🎵 Courtship Fall To Winter — Phyllomedusa
+- 🎵 Glands And Empties — Phyllomedusa
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 217 次播放
-- 🥈 **The Hirs Collective** — 14 次播放
+- 🥈 **The Hirs Collective** — 21 次播放
 - 🥉 **John F. Kennedy** — 13 次播放
-- 4️⃣ **Guided by Voices** — 11 次播放
-- 5️⃣ **小梵** — 11 次播放
+- 4️⃣ **Phyllomedusa** — 13 次播放
+- 5️⃣ **Guided by Voices** — 11 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 01:41:44*
+*更新时间: 2026/8/11 03:43:16*
 <!-- LASTFM_END -->
