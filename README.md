@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,921 次 |
-| 🎤 歌手总计 | 19,782 位 |
+| 🎧 播放总次数 | 84,937 次 |
+| 🎤 歌手总计 | 19,790 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,033 首 |
+| 🎶 歌曲总计 | 63,048 首 |
 
-🎧 **正在播放：** Sky Island Town (feat. Triodust) — CreSpirit/Triodust
+🎧 **正在播放：** La septième cible:Le concerto de Berlin — Brussels Philharmonic/Renaud Capuçon/Stéphane Denève
 
 **🎵 最近在听**  
-- 🎵 Sky Island Town (feat. Triodust) — CreSpirit/Triodust
-- 🎵 Evernight Peak (feat. Laozi) — CreSpirit/laozi
-- 🎵 Golden Riverbank (feat. Triodust) — CreSpirit/Triodust
-- 🎵 Aurora Palace (feat. Triodust) — CreSpirit/Triodust
-- 🎵 Azure Snow Land (feat. 3R2) — CreSpirit/3R2
+- 🎵 Souvenir de Moscou, Op. 6 "Two Russian Airs" — Yehudi Menuhin/Marcel Gazelle
+- 🎵 Concerto No. 3 in C Minor, "Concerto de Québec", Op. 25:I. Allegro moderato (Arr. Wastor for 2 Pianos) — Alain Lefèvre/Hélène Mercier
+- 🎵 Il viaggio a Reims:Overture — Philharmonia Orchestra/Riccardo Muti
+- 🎵 Promenades, Op. 7:VII. Rambouillet — Jean Doyen
+- 🎵 Die Braut von Messina, Op. 100 — John Mordler/Philharmonia Orchestra/Riccardo Muti
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **The Pocket Gods** — 217 次播放
 - 🥈 **The Hirs Collective** — 21 次播放
 - 🥉 **Kevin Macleod** — 17 次播放
-- 4️⃣ **Joseph Bishara** — 14 次播放
-- 5️⃣ **John F. Kennedy** — 13 次播放
+- 4️⃣ **CreSpirit/Triodust** — 16 次播放
+- 5️⃣ **Joseph Bishara** — 14 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 13:02:45*
+*更新时间: 2026/8/11 14:35:24*
 <!-- LASTFM_END -->
