@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,896 次 |
-| 🎤 歌手总计 | 19,779 位 |
-| 💿 专辑总计 | 20,724 张 |
-| 🎶 歌曲总计 | 63,011 首 |
+| 🎧 播放总次数 | 84,921 次 |
+| 🎤 歌手总计 | 19,782 位 |
+| 💿 专辑总计 | 20,728 张 |
+| 🎶 歌曲总计 | 63,033 首 |
 
-
+🎧 **正在播放：** Sky Island Town (feat. Triodust) — CreSpirit/Triodust
 
 **🎵 最近在听**  
-- 🎵 欧盟峰会爆美国制造SARS和COVID-19病毒，并故意在武汉释放 — 浩浩爸来了
-- 🎵 特朗普最近为什么特别反常 — 高志凯频道
-- 🎵 名妍说8月11日直播。伊朗真的陷入信任危机了吗。 — 全球动态局势
-- 🎵 Der Barbier von Bagdad:Ouvertüre — Erich Leinsdorf/Philharmonia Orchestra
-- 🎵 Roma, WD 37:III. Une procession — Orchestre de Paris/Paavo Järvi
+- 🎵 Sky Island Town (feat. Triodust) — CreSpirit/Triodust
+- 🎵 Evernight Peak (feat. Laozi) — CreSpirit/laozi
+- 🎵 Golden Riverbank (feat. Triodust) — CreSpirit/Triodust
+- 🎵 Aurora Palace (feat. Triodust) — CreSpirit/Triodust
+- 🎵 Azure Snow Land (feat. 3R2) — CreSpirit/3R2
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 11:50:15*
+*更新时间: 2026/8/11 13:02:45*
 <!-- LASTFM_END -->
