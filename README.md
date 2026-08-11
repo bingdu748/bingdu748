@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,937 次 |
-| 🎤 歌手总计 | 19,790 位 |
+| 🎧 播放总次数 | 84,948 次 |
+| 🎤 歌手总计 | 19,800 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,048 首 |
+| 🎶 歌曲总计 | 63,058 首 |
 
-🎧 **正在播放：** La septième cible:Le concerto de Berlin — Brussels Philharmonic/Renaud Capuçon/Stéphane Denève
+
 
 **🎵 最近在听**  
-- 🎵 Souvenir de Moscou, Op. 6 "Two Russian Airs" — Yehudi Menuhin/Marcel Gazelle
-- 🎵 Concerto No. 3 in C Minor, "Concerto de Québec", Op. 25:I. Allegro moderato (Arr. Wastor for 2 Pianos) — Alain Lefèvre/Hélène Mercier
-- 🎵 Il viaggio a Reims:Overture — Philharmonia Orchestra/Riccardo Muti
-- 🎵 Promenades, Op. 7:VII. Rambouillet — Jean Doyen
-- 🎵 Die Braut von Messina, Op. 100 — John Mordler/Philharmonia Orchestra/Riccardo Muti
+- 🎵 Aus Italien, Op. 16:IV. Neapolitanisches Volksleben — Staatskapelle Dresden/Rudolf Kempe/David Mottley
+- 🎵 Warsaw Concerto — Gabriel Tacchino/Orchestre National de l'Opéra de Monte-Carlo/Armin Jordan
+- 🎵 Symphony No. 4 in A Major "Deliciae Basilienses":II. Larghetto — Charles Dutoit/Symphonieorchester des Bayerischen Rundfunks
+- 🎵 Ricordo di Napoli for Oboe and Strings (Orch. Renz) — Christoph Hartmann/Ensemble Berlin/Jens Schünemann/Stephanie Haase
+- 🎵 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 14:35:24*
+*更新时间: 2026/8/11 16:00:17*
 <!-- LASTFM_END -->
