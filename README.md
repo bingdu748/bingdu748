@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,962 次 |
+| 🎧 播放总次数 | 84,964 次 |
 | 🎤 歌手总计 | 19,806 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,072 首 |
+| 🎶 歌曲总计 | 63,074 首 |
 
-🎧 **正在播放：** 水音世界观--8月11日--老特喊出“让采矿再次伟大”！报告实锤美军78%核心零部件依赖中国稀土 — 水音世界观
+🎧 **正在播放：** 名妍说8月12日直播。乌克兰被伊朗警告了，上次泽连斯基找事看来伊朗并没有怂。 — 全球动态局势
 
 **🎵 最近在听**  
+- 🎵 名妍说8月12日直播。乌克兰被伊朗警告了，上次泽连斯基找事看来伊朗并没有怂。 — 全球动态局势
+- 🎵 水音世界观--8月11日--老特喊出“让采矿再次伟大”！报告实锤美军78%核心零部件依赖中国稀土 — 水音世界观
 - 🎵 ASMR Rambling + Unboxing Triggers for Sleep | Chinese Whisper — GuluLand ASMR
 - 🎵 ASMR Chinese Sleep Aid | Whispering, Tapping & Rambling Until You Fall Asleep | CN/EN Subtitles — GuluLand ASMR
 - 🎵 中文ASMR | 1-Month Probation Report for the Sleep Aid — GuluLand ASMR
-- 🎵 中文ASMR | Baby, You're Born! + Pure Mic Scratching — GuluLand ASMR
-- 🎵 ASMR in Chinese Library — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/12 10:03:23*
+*更新时间: 2026/8/12 11:21:35*
 <!-- LASTFM_END -->
