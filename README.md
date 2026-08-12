@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,959 次 |
+| 🎧 播放总次数 | 84,963 次 |
 | 🎤 歌手总计 | 19,806 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,068 首 |
+| 🎶 歌曲总计 | 63,071 首 |
 
-
+🎧 **正在播放：** ASMR Chinese Sleep Aid | Whispering, Tapping & Rambling Until You Fall Asleep | CN/EN Subtitles — GuluLand ASMR
 
 **🎵 最近在听**  
+- 🎵 ASMR Chinese Sleep Aid | Whispering, Tapping & Rambling Until You Fall Asleep | CN/EN Subtitles — GuluLand ASMR
+- 🎵 中文ASMR | 1-Month Probation Report for the Sleep Aid — GuluLand ASMR
+- 🎵 中文ASMR | 1-Month Probation Report for the Sleep Aid — GuluLand ASMR
+- 🎵 中文ASMR | Baby, You're Born! + Pure Mic Scratching — GuluLand ASMR
 - 🎵 ASMR in Chinese Library — GuluLand ASMR
-- 🎵 ASMR in Chinese Library — GuluLand ASMR
-- 🎵 中文ASMR Mandarin｜Slow Focus Test for Good Little Ones — GuluLand ASMR
-- 🎵 ASMR ✿ Teaching you basic Korean phrases while you fall asleep 🇰🇷 ᶻ 𝗓 𐰁 — Forest Flora ASMR
-- 🎵 ASMR Mouth Sounds | Energy Rain 🌧️ & Negative Energy Extraction（10K Sub Special） — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **The Hirs Collective** — 21 次播放
 - 🥉 **Kevin Macleod** — 17 次播放
 - 4️⃣ **CreSpirit/Triodust** — 16 次播放
-- 5️⃣ **Joseph Bishara** — 14 次播放
+- 5️⃣ **GuluLand ASMR** — 15 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/12 05:54:54*
+*更新时间: 2026/8/12 07:23:23*
 <!-- LASTFM_END -->
