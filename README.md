@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,728 张 |
 | 🎶 歌曲总计 | 63,059 首 |
 
-🎧 **正在播放：** 水音世界观--8月11日--老特放弃军事打击改用经济制裁，伊朗回怼“已被制裁47年 — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--8月11日--老特放弃军事打击改用经济制裁，伊朗回怼“已被制裁47年 — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/11 23:39:02*
+*更新时间: 2026/8/12 01:53:21*
 <!-- LASTFM_END -->
