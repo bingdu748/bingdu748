@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,728 张 |
 | 🎶 歌曲总计 | 63,074 首 |
 
-🎧 **正在播放：** 名妍说8月12日直播。乌克兰被伊朗警告了，上次泽连斯基找事看来伊朗并没有怂。 — 全球动态局势
+
 
 **🎵 最近在听**  
 - 🎵 名妍说8月12日直播。乌克兰被伊朗警告了，上次泽连斯基找事看来伊朗并没有怂。 — 全球动态局势
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/12 11:21:35*
+*更新时间: 2026/8/12 12:09:34*
 <!-- LASTFM_END -->
