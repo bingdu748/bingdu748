@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,949 次 |
-| 🎤 歌手总计 | 19,800 位 |
+| 🎧 播放总次数 | 84,954 次 |
+| 🎤 歌手总计 | 19,805 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,059 首 |
+| 🎶 歌曲总计 | 63,064 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月11日--老特放弃军事打击改用经济制裁，伊朗回怼“已被制裁47年 — 水音世界观
-- 🎵 Aus Italien, Op. 16:IV. Neapolitanisches Volksleben — Staatskapelle Dresden/Rudolf Kempe/David Mottley
-- 🎵 Warsaw Concerto — Gabriel Tacchino/Orchestre National de l'Opéra de Monte-Carlo/Armin Jordan
-- 🎵 Symphony No. 4 in A Major "Deliciae Basilienses":II. Larghetto — Charles Dutoit/Symphonieorchester des Bayerischen Rundfunks
-- 🎵 Ricordo di Napoli for Oboe and Strings (Orch. Renz) — Christoph Hartmann/Ensemble Berlin/Jens Schünemann/Stephanie Haase
+- 🎵 Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
+- 🎵 Symphony No. 1 in C Minor, B. 9 "The Bells of Zlonice":I. Allegro — Libor Pešek/Royal Liverpool Philharmonic Orchestra
+- 🎵 George Dandin ou Le grand divertissement royal de Versailles, LWV 38 (Excerpt) — Agnès Mellon/Gilles Ragon/Isabelle Poulenard/Les Musiciens du Louvre/Marc Minkowski/Michel Verschaeve
+- 🎵 Évocations, Op. 15:II. La ville rose — Orchestre du Capitole de Toulouse/Michel Plasson
+- 🎵 Iberia, Cuaderno IV:No. 10, Málaga — Michel Block
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/12 01:53:21*
+*更新时间: 2026/8/12 04:07:00*
 <!-- LASTFM_END -->
