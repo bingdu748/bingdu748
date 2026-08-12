@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,970 次 |
+| 🎧 播放总次数 | 84,975 次 |
 | 🎤 歌手总计 | 19,808 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,080 首 |
+| 🎶 歌曲总计 | 63,081 首 |
 
-🎧 **正在播放：** Soft Tapping ASMR — DANA ꯁꯧ
+
 
 **🎵 最近在听**  
-- 🎵 Soft Tapping ASMR — DANA ꯁꯧ
-- 🎵 ASMR ✩₊˚࿐୨୧ late night energy recharge 🌙 fluffy mic ASMR — DANA ꯁꯧ
-- 🎵 ASMR Instructions You Can CLOSE Your Eyes To! 😵‍💫 — Lyssie ASMR
-- 🎵 [ASMR] Collection of My Favorite Healing Sounds ☆⋆｡𖦹°‧★ — Naru
-- 🎵 ASMR｜Doing Your BLUE Makeup🩵🦋｜クールなブルーメイク｜No Talking｜Layered Sounds — LAPI ASMR
+- 🎵 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
+- 🎵 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
+- 🎵 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
+- 🎵 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
+- 🎵 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 217 次播放
 - 🥈 **The Hirs Collective** — 21 次播放
-- 🥉 **Kevin Macleod** — 17 次播放
-- 4️⃣ **CreSpirit/Triodust** — 16 次播放
-- 5️⃣ **GuluLand ASMR** — 15 次播放
+- 🥉 **GuluLand ASMR** — 20 次播放
+- 4️⃣ **Kevin Macleod** — 17 次播放
+- 5️⃣ **CreSpirit/Triodust** — 16 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
-- 🥈 Bricklayer — Hüsker Dü
-- 🥉 E.G.T. — The Hirs Collective
-- 4️⃣ it's all your fault. — The Hirs Collective
-- 5️⃣ My Dad Drove the Beatles from the De Montfort Hall (True Story) — The Pocket Gods/David Gwynne Jones
+- 🥇 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
+- 🥈 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
+- 🥉 Bricklayer — Hüsker Dü
+- 4️⃣ E.G.T. — The Hirs Collective
+- 5️⃣ it's all your fault. — The Hirs Collective
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
-- 🥈 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
-- 🥉 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
+- 🥈 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
+- 🥉 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/12 16:04:21*
+*更新时间: 2026/8/12 17:28:06*
 <!-- LASTFM_END -->
