@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,954 次 |
-| 🎤 歌手总计 | 19,805 位 |
+| 🎧 播放总次数 | 84,959 次 |
+| 🎤 歌手总计 | 19,806 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,064 首 |
+| 🎶 歌曲总计 | 63,068 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
-- 🎵 Symphony No. 1 in C Minor, B. 9 "The Bells of Zlonice":I. Allegro — Libor Pešek/Royal Liverpool Philharmonic Orchestra
-- 🎵 George Dandin ou Le grand divertissement royal de Versailles, LWV 38 (Excerpt) — Agnès Mellon/Gilles Ragon/Isabelle Poulenard/Les Musiciens du Louvre/Marc Minkowski/Michel Verschaeve
-- 🎵 Évocations, Op. 15:II. La ville rose — Orchestre du Capitole de Toulouse/Michel Plasson
-- 🎵 Iberia, Cuaderno IV:No. 10, Málaga — Michel Block
+- 🎵 ASMR in Chinese Library — GuluLand ASMR
+- 🎵 ASMR in Chinese Library — GuluLand ASMR
+- 🎵 中文ASMR Mandarin｜Slow Focus Test for Good Little Ones — GuluLand ASMR
+- 🎵 ASMR ✿ Teaching you basic Korean phrases while you fall asleep 🇰🇷 ᶻ 𝗓 𐰁 — Forest Flora ASMR
+- 🎵 ASMR Mouth Sounds | Energy Rain 🌧️ & Negative Energy Extraction（10K Sub Special） — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/12 04:07:00*
+*更新时间: 2026/8/12 05:54:54*
 <!-- LASTFM_END -->
