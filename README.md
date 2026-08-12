@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,968 次 |
+| 🎧 播放总次数 | 84,970 次 |
 | 🎤 歌手总计 | 19,808 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,078 首 |
+| 🎶 歌曲总计 | 63,080 首 |
 
-🎧 **正在播放：** ASMR Instructions You Can CLOSE Your Eyes To! 😵‍💫 — Lyssie ASMR
+🎧 **正在播放：** Soft Tapping ASMR — DANA ꯁꯧ
 
 **🎵 最近在听**  
+- 🎵 Soft Tapping ASMR — DANA ꯁꯧ
+- 🎵 ASMR ✩₊˚࿐୨୧ late night energy recharge 🌙 fluffy mic ASMR — DANA ꯁꯧ
 - 🎵 ASMR Instructions You Can CLOSE Your Eyes To! 😵‍💫 — Lyssie ASMR
 - 🎵 [ASMR] Collection of My Favorite Healing Sounds ☆⋆｡𖦹°‧★ — Naru
 - 🎵 ASMR｜Doing Your BLUE Makeup🩵🦋｜クールなブルーメイク｜No Talking｜Layered Sounds — LAPI ASMR
-- 🎵 ASMR Outdoor Vlog | A Sunny Day in Shanghai |  Park Picnic & Nature Sounds | CN/EN Subtitles — GuluLand ASMR
-- 🎵 名妍说8月12日直播。乌克兰被伊朗警告了，上次泽连斯基找事看来伊朗并没有怂。 — 全球动态局势
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/12 14:59:31*
+*更新时间: 2026/8/12 16:04:21*
 <!-- LASTFM_END -->
