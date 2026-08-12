@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,728 张 |
 | 🎶 歌曲总计 | 63,072 首 |
 
-
+🎧 **正在播放：** 水音世界观--8月11日--老特喊出“让采矿再次伟大”！报告实锤美军78%核心零部件依赖中国稀土 — 水音世界观
 
 **🎵 最近在听**  
 - 🎵 ASMR Rambling + Unboxing Triggers for Sleep | Chinese Whisper — GuluLand ASMR
@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 - 5️⃣ **GuluLand ASMR** — 14 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
-- 🥈 The Bells — Andreas Staier/Tobias Lehmann/Uwe Walter
-- 🥉 L'enfance du Christ, Op. 25, H 130, Pt. 3 "L'arrivée à Saïs":Duo. "Dans cette ville immense" (Marie, Joseph, Chœur) — Ann Murray/Choir of King's College, Cambridge/Royal Philharmonic Orchestra/Stephen Cleobury/Thomas Allen
-- 4️⃣ I Lombardi alla prima crociata, Act 3:"Gerusalem!" (Coro) — Carlo Rizzi/Coro dell'Accademia Nazionale di Santa Cecilia/Orchestra dell'Accademia Nazionale di Santa Cecilia
-- 5️⃣ Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
+- 🥇 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
+- 🥈 Bricklayer — Hüsker Dü
+- 🥉 E.G.T. — The Hirs Collective
+- 4️⃣ it's all your fault. — The Hirs Collective
+- 5️⃣ My Dad Drove the Beatles from the De Montfort Hall (True Story) — The Pocket Gods/David Gwynne Jones
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/12 08:47:07*
+*更新时间: 2026/8/12 10:03:23*
 <!-- LASTFM_END -->
