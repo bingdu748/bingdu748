@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,963 次 |
+| 🎧 播放总次数 | 84,962 次 |
 | 🎤 歌手总计 | 19,806 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,071 首 |
+| 🎶 歌曲总计 | 63,072 首 |
 
-🎧 **正在播放：** ASMR Chinese Sleep Aid | Whispering, Tapping & Rambling Until You Fall Asleep | CN/EN Subtitles — GuluLand ASMR
+
 
 **🎵 最近在听**  
+- 🎵 ASMR Rambling + Unboxing Triggers for Sleep | Chinese Whisper — GuluLand ASMR
 - 🎵 ASMR Chinese Sleep Aid | Whispering, Tapping & Rambling Until You Fall Asleep | CN/EN Subtitles — GuluLand ASMR
-- 🎵 中文ASMR | 1-Month Probation Report for the Sleep Aid — GuluLand ASMR
 - 🎵 中文ASMR | 1-Month Probation Report for the Sleep Aid — GuluLand ASMR
 - 🎵 中文ASMR | Baby, You're Born! + Pure Mic Scratching — GuluLand ASMR
 - 🎵 ASMR in Chinese Library — GuluLand ASMR
@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 - 🥈 **The Hirs Collective** — 21 次播放
 - 🥉 **Kevin Macleod** — 17 次播放
 - 4️⃣ **CreSpirit/Triodust** — 16 次播放
-- 5️⃣ **GuluLand ASMR** — 15 次播放
+- 5️⃣ **GuluLand ASMR** — 14 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
-- 🥈 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
-- 🥉 À Paris, dans chaque faubourg — Alain Lanceron/Bruno Fontaine/Lambert Wilson/Philippe Laffont
-- 4️⃣ Portsmouth Point — André Previn/Christopher Bishop/Christopher Parker/London Symphony Orchestra
-- 5️⃣ The Bells — Andreas Staier/Tobias Lehmann/Uwe Walter
+- 🥇 Praise the Lord, O Jerusalem, Z. 46 — Academy of Ancient Music/Choir of King's College, Cambridge/Stephen Cleobury
+- 🥈 The Bells — Andreas Staier/Tobias Lehmann/Uwe Walter
+- 🥉 L'enfance du Christ, Op. 25, H 130, Pt. 3 "L'arrivée à Saïs":Duo. "Dans cette ville immense" (Marie, Joseph, Chœur) — Ann Murray/Choir of King's College, Cambridge/Royal Philharmonic Orchestra/Stephen Cleobury/Thomas Allen
+- 4️⃣ I Lombardi alla prima crociata, Act 3:"Gerusalem!" (Coro) — Carlo Rizzi/Coro dell'Accademia Nazionale di Santa Cecilia/Orchestra dell'Accademia Nazionale di Santa Cecilia
+- 5️⃣ Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/12 07:23:23*
+*更新时间: 2026/8/12 08:47:07*
 <!-- LASTFM_END -->
