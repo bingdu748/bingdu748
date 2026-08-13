@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,984 次 |
+| 🎧 播放总次数 | 84,987 次 |
 | 🎤 歌手总计 | 19,816 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,089 首 |
+| 🎶 歌曲总计 | 63,091 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 India’s Rare Earth "Leap" Flops! 72.8B Rupees & No Takers. Copying China Failed! — 小懒哈哈哈 | TrendPulse
+- 🎵 India’s Rare Earth "Leap" Flops! 72.8B Rupees & No Takers. Copying China Failed! — 小懒哈哈哈 | TrendPulse
+- 🎵 国际观察8月12日直播。美国变的是真快啊。世界局势今日热点。 — 全球动态局势
 - 🎵 Medea in Corinto — Gérard Lesne/Vincent Charbonnier/Eric Bellocq/Pascal Monteilhet/Pierre Hantaï/Patrick Mouyren/François Eckert/Il Seminario Musicale/Michel Bernard
 - 🎵 Le fou:Troisième tableau "La ville" — Alain Lombard/Christine Barbaux/Chœurs de l'Opéra du Rhin/Claudine Carlson/Eva Saurova/Michel Garcin/Orchestre philharmonique de Strasbourg/Paul Guigue/Peter Willemoës/Philippe Huttenlocher/Simone Codinas
-- 🎵 Scheherazade, Op. 35:IV. Festival at Baghdad - The Sea - Shipwreck - Conclusion — Antonio Pappano/Orchestra dell'Accademia Nazionale Di Santa Cecilia
-- 🎵 Má Vlast:No. 5, Tábor — Paavo Berglund/Staatskapelle Dresden/Suvi Raj Grubb
-- 🎵 Moscow - Petushki — Verbier Festival Chamber Orchestra/Gábor Takács-Nagy
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/13 07:39:04*
+*更新时间: 2026/8/13 09:11:05*
 <!-- LASTFM_END -->
