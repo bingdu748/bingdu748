@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,988 次 |
-| 🎤 歌手总计 | 19,816 位 |
-| 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,092 首 |
+| 🎧 播放总次数 | 84,994 次 |
+| 🎤 歌手总计 | 19,818 位 |
+| 💿 专辑总计 | 20,730 张 |
+| 🎶 歌曲总计 | 63,095 首 |
 
-
+🎧 **正在播放：** Believe In...Myself — 大野柚布子&遠藤ゆりか&古賀葵
 
 **🎵 最近在听**  
-- 🎵 08-13早晨直播1，能上本子去作的基本都是有俩钱的人，30岁中国男子本子潜水出事故。 — 国际在线播报
-- 🎵 India’s Rare Earth "Leap" Flops! 72.8B Rupees & No Takers. Copying China Failed! — 小懒哈哈哈 | TrendPulse
-- 🎵 India’s Rare Earth "Leap" Flops! 72.8B Rupees & No Takers. Copying China Failed! — 小懒哈哈哈 | TrendPulse
-- 🎵 国际观察8月12日直播。美国变的是真快啊。世界局势今日热点。 — 全球动态局势
-- 🎵 Medea in Corinto — Gérard Lesne/Vincent Charbonnier/Eric Bellocq/Pascal Monteilhet/Pierre Hantaï/Patrick Mouyren/François Eckert/Il Seminario Musicale/Michel Bernard
+- 🎵 Believe In...Myself — 大野柚布子&遠藤ゆりか&古賀葵
+- 🎵 雪琥珀 -snow amber- (Remix) — みぃ&yukina
+- 🎵 Silver Waves — Plum
+- 🎵 Silver Waves — Plum
+- 🎵 Kaleidoscope (2024 Remake) (2024 Remake) — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 217 次播放
 - 🥈 **The Hirs Collective** — 21 次播放
-- 🥉 **GuluLand ASMR** — 19 次播放
-- 4️⃣ **Kevin Macleod** — 17 次播放
-- 5️⃣ **CreSpirit/Triodust** — 16 次播放
+- 🥉 **Kevin Macleod** — 17 次播放
+- 4️⃣ **CreSpirit/Triodust** — 16 次播放
+- 5️⃣ **GuluLand ASMR** — 16 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
 - 🥈 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
 - 🥉 Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
 - 4️⃣ Bricklayer — Hüsker Dü
-- 5️⃣ E.G.T. — The Hirs Collective
+- 5️⃣ Silver Waves — Plum
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/13 13:08:08*
+*更新时间: 2026/8/13 14:36:32*
 <!-- LASTFM_END -->
