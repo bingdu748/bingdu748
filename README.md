@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,975 次 |
-| 🎤 歌手总计 | 19,808 位 |
+| 🎧 播放总次数 | 84,984 次 |
+| 🎤 歌手总计 | 19,816 位 |
 | 💿 专辑总计 | 20,728 张 |
-| 🎶 歌曲总计 | 63,081 首 |
+| 🎶 歌曲总计 | 63,089 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
-- 🎵 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
-- 🎵 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
-- 🎵 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
-- 🎵 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
+- 🎵 Medea in Corinto — Gérard Lesne/Vincent Charbonnier/Eric Bellocq/Pascal Monteilhet/Pierre Hantaï/Patrick Mouyren/François Eckert/Il Seminario Musicale/Michel Bernard
+- 🎵 Le fou:Troisième tableau "La ville" — Alain Lombard/Christine Barbaux/Chœurs de l'Opéra du Rhin/Claudine Carlson/Eva Saurova/Michel Garcin/Orchestre philharmonique de Strasbourg/Paul Guigue/Peter Willemoës/Philippe Huttenlocher/Simone Codinas
+- 🎵 Scheherazade, Op. 35:IV. Festival at Baghdad - The Sea - Shipwreck - Conclusion — Antonio Pappano/Orchestra dell'Accademia Nazionale Di Santa Cecilia
+- 🎵 Má Vlast:No. 5, Tábor — Paavo Berglund/Staatskapelle Dresden/Suvi Raj Grubb
+- 🎵 Moscow - Petushki — Verbier Festival Chamber Orchestra/Gábor Takács-Nagy
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 **🎶 热门歌曲**  
 - 🥇 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
 - 🥈 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
-- 🥉 Bricklayer — Hüsker Dü
-- 4️⃣ E.G.T. — The Hirs Collective
-- 5️⃣ it's all your fault. — The Hirs Collective
+- 🥉 Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
+- 4️⃣ Bricklayer — Hüsker Dü
+- 5️⃣ E.G.T. — The Hirs Collective
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/13 01:55:17*
+*更新时间: 2026/8/13 04:12:16*
 <!-- LASTFM_END -->
