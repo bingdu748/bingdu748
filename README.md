@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,995 次 |
+| 🎧 播放总次数 | 84,996 次 |
 | 🎤 歌手总计 | 19,818 位 |
 | 💿 专辑总计 | 20,730 张 |
-| 🎶 歌曲总计 | 63,096 首 |
+| 🎶 歌曲总计 | 63,097 首 |
 
-
+🎧 **正在播放：** 水音世界观--8月13日--伊朗宣布美两大战略彻底失败：将延长战争直接消耗拖垮美军！ — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--8月13日--伊朗宣布美两大战略彻底失败：将延长战争直接消耗拖垮美军！ — 水音世界观
 - 🎵 ASMR 中文 | A New Friend Picks Gifts for You (Children‘s Day Special)🎀🧸 — GuluLand ASMR
 - 🎵 Believe In...Myself — 大野柚布子&遠藤ゆりか&古賀葵
 - 🎵 雪琥珀 -snow amber- (Remix) — みぃ&yukina
-- 🎵 Silver Waves — Plum
 - 🎵 Silver Waves — Plum
 
 **📈 播放趋势**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/13 22:40:09*
+*更新时间: 2026/8/13 23:39:55*
 <!-- LASTFM_END -->
