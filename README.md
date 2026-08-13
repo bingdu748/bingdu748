@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,730 张 |
 | 🎶 歌曲总计 | 63,095 首 |
 
-🎧 **正在播放：** Believe In...Myself — 大野柚布子&遠藤ゆりか&古賀葵
+
 
 **🎵 最近在听**  
 - 🎵 Believe In...Myself — 大野柚布子&遠藤ゆりか&古賀葵
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **The Hirs Collective** — 21 次播放
 - 🥉 **Kevin Macleod** — 17 次播放
 - 4️⃣ **CreSpirit/Triodust** — 16 次播放
-- 5️⃣ **GuluLand ASMR** — 16 次播放
+- 5️⃣ **GuluLand ASMR** — 15 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/13 14:36:32*
+*更新时间: 2026/8/13 15:58:19*
 <!-- LASTFM_END -->
