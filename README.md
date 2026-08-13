@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,728 张 |
 | 🎶 歌曲总计 | 63,092 首 |
 
-🎧 **正在播放：** 08-13早晨直播1，能上本子去作的基本都是有俩钱的人，30岁中国男子本子潜水出事故。 — 国际在线播报
+
 
 **🎵 最近在听**  
 - 🎵 08-13早晨直播1，能上本子去作的基本都是有俩钱的人，30岁中国男子本子潜水出事故。 — 国际在线播报
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/13 10:35:35*
+*更新时间: 2026/8/13 11:44:41*
 <!-- LASTFM_END -->
