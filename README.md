@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 217 次播放
 - 🥈 **The Hirs Collective** — 21 次播放
-- 🥉 **GuluLand ASMR** — 20 次播放
+- 🥉 **GuluLand ASMR** — 19 次播放
 - 4️⃣ **Kevin Macleod** — 17 次播放
 - 5️⃣ **CreSpirit/Triodust** — 16 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/13 11:44:41*
+*更新时间: 2026/8/13 13:08:08*
 <!-- LASTFM_END -->
