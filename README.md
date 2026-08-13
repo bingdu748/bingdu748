@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
 - 🥈 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
-- 🥉 Charpentier: Te Deum, H. 146: I. Prélude — Marc-Antoine Charpentier, Les Arts Florissants, William Christie
+- 🥉 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/13 05:56:41*
+*更新时间: 2026/8/13 07:39:04*
 <!-- LASTFM_END -->
