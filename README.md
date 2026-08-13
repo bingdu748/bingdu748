@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,994 次 |
+| 🎧 播放总次数 | 84,995 次 |
 | 🎤 歌手总计 | 19,818 位 |
 | 💿 专辑总计 | 20,730 张 |
-| 🎶 歌曲总计 | 63,095 首 |
+| 🎶 歌曲总计 | 63,096 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 ASMR 中文 | A New Friend Picks Gifts for You (Children‘s Day Special)🎀🧸 — GuluLand ASMR
 - 🎵 Believe In...Myself — 大野柚布子&遠藤ゆりか&古賀葵
 - 🎵 雪琥珀 -snow amber- (Remix) — みぃ&yukina
 - 🎵 Silver Waves — Plum
 - 🎵 Silver Waves — Plum
-- 🎵 Kaleidoscope (2024 Remake) (2024 Remake) — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **The Hirs Collective** — 21 次播放
 - 🥉 **Kevin Macleod** — 17 次播放
 - 4️⃣ **CreSpirit/Triodust** — 16 次播放
-- 5️⃣ **GuluLand ASMR** — 15 次播放
+- 5️⃣ **GuluLand ASMR** — 16 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/13 15:58:19*
+*更新时间: 2026/8/13 17:03:54*
 <!-- LASTFM_END -->
