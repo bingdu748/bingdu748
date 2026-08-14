@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 84,996 次 |
-| 🎤 歌手总计 | 19,818 位 |
+| 🎧 播放总次数 | 85,000 次 |
+| 🎤 歌手总计 | 19,820 位 |
 | 💿 专辑总计 | 20,730 张 |
-| 🎶 歌曲总计 | 63,097 首 |
+| 🎶 歌曲总计 | 63,100 首 |
 
-
+🎧 **正在播放：** 当兔子宇航员被困空间站 — 猫meme映像
 
 **🎵 最近在听**  
+- 🎵 国际空间站和中国空间站的区别 — cheems小电影
+- 🎵 中国航天70年：从被美苏封锁，到全球唯一空间站 — 赛雷三分钟
+- 🎵 【摇曳露营△】这期拉了😋 — 包子大王258
+- 🎵 【摇曳露营△】这期拉了😋 — 包子大王258
 - 🎵 水音世界观--8月13日--伊朗宣布美两大战略彻底失败：将延长战争直接消耗拖垮美军！ — 水音世界观
-- 🎵 ASMR 中文 | A New Friend Picks Gifts for You (Children‘s Day Special)🎀🧸 — GuluLand ASMR
-- 🎵 Believe In...Myself — 大野柚布子&遠藤ゆりか&古賀葵
-- 🎵 雪琥珀 -snow amber- (Remix) — みぃ&yukina
-- 🎵 Silver Waves — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/14 04:08:15*
+*更新时间: 2026/8/14 05:55:07*
 <!-- LASTFM_END -->
