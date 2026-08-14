@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,003 次 |
+| 🎧 播放总次数 | 85,016 次 |
 | 🎤 歌手总计 | 19,821 位 |
-| 💿 专辑总计 | 20,730 张 |
-| 🎶 歌曲总计 | 63,103 首 |
+| 💿 专辑总计 | 20,731 张 |
+| 🎶 歌曲总计 | 63,105 首 |
 
-🎧 **正在播放：** SPÏKA — Rigel Theatre
+
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月13日--白宫新闻团队连环离职瘫痪，老特反向索赔被伊朗19项罪证绝杀！ — 水音世界观
-- 🎵 搞数学摇滚的人，数学好吗？ — HEMRecords
-- 🎵 当兔子宇航员被困空间站 — 猫meme映像
-- 🎵 国际空间站和中国空间站的区别 — cheems小电影
-- 🎵 中国航天70年：从被美苏封锁，到全球唯一空间站 — 赛雷三分钟
+- 🎵 A Forgotten Piece — Plum
+- 🎵 Beyond The Timeline — Plum
+- 🎵 Beyond The Timeline — Plum
+- 🎵 환상충돌 — Plum
+- 🎵 환상충돌 — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 🥈 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
 - 🥉 Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
 - 4️⃣ Bricklayer — Hüsker Dü
-- 5️⃣ Silver Waves — Plum
+- 5️⃣ Beyond The Timeline — Plum
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/14 11:13:43*
+*更新时间: 2026/8/14 12:07:36*
 <!-- LASTFM_END -->
