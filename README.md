@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,731 张 |
 | 🎶 歌曲总计 | 63,105 首 |
 
-🎧 **正在播放：** Sad Legend Story — Plum
+
 
 **🎵 最近在听**  
 - 🎵 Maelstrom — Plum
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/14 15:50:49*
+*更新时间: 2026/8/14 16:51:36*
 <!-- LASTFM_END -->
