@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,016 次 |
+| 🎧 播放总次数 | 85,024 次 |
 | 🎤 歌手总计 | 19,821 位 |
 | 💿 专辑总计 | 20,731 张 |
 | 🎶 歌曲总计 | 63,105 首 |
 
-
+🎧 **正在播放：** Sad Legend Story — Plum
 
 **🎵 最近在听**  
-- 🎵 A Forgotten Piece — Plum
-- 🎵 Beyond The Timeline — Plum
-- 🎵 Beyond The Timeline — Plum
-- 🎵 환상충돌 — Plum
-- 🎵 환상충돌 — Plum
+- 🎵 Maelstrom — Plum
+- 🎵 Light Drop — Plum
+- 🎵 Selfmade Disaster — Plum
+- 🎵 Stardrop Tears — Plum
+- 🎵 MemoryLocked — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 217 次播放
-- 🥈 **The Hirs Collective** — 21 次播放
-- 🥉 **Kevin Macleod** — 17 次播放
-- 4️⃣ **CreSpirit/Triodust** — 16 次播放
-- 5️⃣ **GuluLand ASMR** — 16 次播放
+- 🥈 **Plum** — 23 次播放
+- 🥉 **The Hirs Collective** — 21 次播放
+- 4️⃣ **Kevin Macleod** — 17 次播放
+- 5️⃣ **CreSpirit/Triodust** — 16 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
-- 🥈 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
-- 🥉 Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
-- 4️⃣ Bricklayer — Hüsker Dü
-- 5️⃣ Beyond The Timeline — Plum
+- 🥈 MemoryLocked — Plum
+- 🥉 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
+- 4️⃣ Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
+- 5️⃣ Bricklayer — Hüsker Dü
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 - 🥈 **a_hisa** — 1,171 次播放
 - 🥉 **Relaxu** — 975 次播放
 - 4️⃣ **Various Artists** — 782 次播放
-- 5️⃣ **周杰倫** — 742 次播放
+- 5️⃣ **Plum** — 743 次播放
 
 **🎶 最爱的歌曲**  
 - 🥇 Anhedonia — a_hisa
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/14 14:50:26*
+*更新时间: 2026/8/14 15:50:49*
 <!-- LASTFM_END -->
