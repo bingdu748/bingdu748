@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,730 张 |
 | 🎶 歌曲总计 | 63,097 首 |
 
-🎧 **正在播放：** 水音世界观--8月13日--伊朗宣布美两大战略彻底失败：将延长战争直接消耗拖垮美军！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--8月13日--伊朗宣布美两大战略彻底失败：将延长战争直接消耗拖垮美军！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/13 23:39:55*
+*更新时间: 2026/8/14 01:53:06*
 <!-- LASTFM_END -->
