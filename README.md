@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 **🎤 本月艺术家**  
 - 🥇 **The Pocket Gods**
 - 🥈 **水音世界观**
-- 🥉 **Plum - Melodic Artist**
+- 🥉 **Plum**
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 08:56:27*
+*更新时间: 2026/8/15 09:28:23*
 <!-- LASTFM_END -->
