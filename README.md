@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,025 次 |
-| 🎤 歌手总计 | 19,829 位 |
-| 💿 专辑总计 | 20,732 张 |
-| 🎶 歌曲总计 | 63,113 首 |
+| 🎧 播放总次数 | 85,053 次 |
+| 🎤 歌手总计 | 19,839 位 |
+| 💿 专辑总计 | 20,750 张 |
+| 🎶 歌曲总计 | 63,140 首 |
 
-
+🎧 **正在播放：** Family Matters — Michael Giacchino
 
 **🎵 最近在听**  
-- 🎵 For Children, Sz. 42, Book II "Hungarian Folk Songs":No. 37, The Lovely Girls of Budapest — Dezső Ránki
-- 🎵 Canti di vita e d'amore:No. 1, Sul ponto di Hiroshima — Bamberger Symphoniker/Ingo Metzmacher/Sarah Leonard/Thomas Randle
-- 🎵 Polytope de Montréal — Ensemble Ars Nova/Marius Constant
-- 🎵 Praga, Op. 26 — John West/Libor Pešek/Royal Liverpool Philharmonic Orchestra
-- 🎵 Paris - The Song of a Great City — Andrew Davis/BBC Symphony Orchestra
+- 🎵 Untitled 3 — Torturing Nurse
+- 🎵 It's Perfect - from "Spider-Man: Far From Home" Soundtrack — Michael Giacchino
+- 🎵 Esophageal Voice - 2 — Harm A. Drost
+- 🎵 Don't Drive Wearing Handcuffs — Riz Ortolani
+- 🎵 Butterfly Kiss — Maldoror
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 - 🥇 MemoryLocked — Plum
 - 🥈 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
 - 🥉 Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
-- 4️⃣ Bricklayer — Hüsker Dü
-- 5️⃣ Beyond The Timeline — Plum
+- 4️⃣ Name Hold Weight — Future
+- 5️⃣ Bricklayer — Hüsker Dü
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 09:28:23*
+*更新时间: 2026/8/15 09:50:47*
 <!-- LASTFM_END -->
