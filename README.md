@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,080 次 |
-| 🎤 歌手总计 | 19,840 位 |
-| 💿 专辑总计 | 20,751 张 |
-| 🎶 歌曲总计 | 63,149 首 |
+| 🎧 播放总次数 | 85,110 次 |
+| 🎤 歌手总计 | 19,845 位 |
+| 💿 专辑总计 | 20,759 张 |
+| 🎶 歌曲总计 | 63,168 首 |
 
-🎧 **正在播放：** 中文ASMR | Almost Touching in the Dark 🤏✨ — GuluLand ASMR
+🎧 **正在播放：** 中文ASMR | Let Me Share My 书法 Calligraphy  Hobby With You — GuluLand ASMR
 
 **🎵 最近在听**  
-- 🎵 中文ASMR | Almost Touching in the Dark 🤏✨ — GuluLand ASMR
-- 🎵 中文ASMR| Shooing Away Mosquitoes🦟 & Stopping the Itch for you🧚 — GuluLand ASMR
-- 🎵 Public Welfare ASMR | About Tactile Paving & Guide Dogs 中文 — GuluLand ASMR
-- 🎵 Public Welfare ASMR | About Tactile Paving & Guide Dogs 中文 — GuluLand ASMR
-- 🎵 ASMR Chinese whispers | What's in my bag & endless rambling until you drift off...🎒👜 — GuluLand ASMR
+- 🎵 中文ASMR | Let Me Share My 书法 Calligraphy  Hobby With You — GuluLand ASMR
+- 🎵 中文ASMR Almost Scratching in Dim Light — GuluLand ASMR
+- 🎵 gaming ASMR🎮When an ASMRtist Climbs ASMR Tower🍯 — GuluLand ASMR
+- 🎵 The Accomplice — Disasterpeace
+- 🎵 中文ASMR | My Secret Hideout Revealed! (Random Triggers & Mouth Sounds) — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 217 次播放
-- 🥈 **Plum** — 23 次播放
-- 🥉 **The Hirs Collective** — 21 次播放
-- 4️⃣ **GuluLand ASMR** — 18 次播放
+- 🥈 **GuluLand ASMR** — 23 次播放
+- 🥉 **Plum** — 23 次播放
+- 4️⃣ **The Hirs Collective** — 21 次播放
 - 5️⃣ **Kevin Macleod** — 17 次播放
 
 **🎶 热门歌曲**  
 - 🥇 MemoryLocked — Plum
 - 🥈 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
 - 🥉 Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
-- 4️⃣ Name Hold Weight — Future
-- 5️⃣ Public Welfare ASMR | About Tactile Paving & Guide Dogs 中文 — GuluLand ASMR
+- 4️⃣ The Accomplice — Disasterpeace
+- 5️⃣ Name Hold Weight — Future
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 **🎤 本月艺术家**  
 - 🥇 **The Pocket Gods**
 - 🥈 **水音世界观**
-- 🥉 **Plum**
+- 🥉 **GuluLand ASMR**
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 11:45:01*
+*更新时间: 2026/8/15 12:35:13*
 <!-- LASTFM_END -->
