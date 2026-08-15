@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,031 次 |
-| 🎤 歌手总计 | 19,828 位 |
-| 💿 专辑总计 | 20,731 张 |
-| 🎶 歌曲总计 | 63,112 首 |
+| 🎧 播放总次数 | 85,025 次 |
+| 🎤 歌手总计 | 19,829 位 |
+| 💿 专辑总计 | 20,732 张 |
+| 🎶 歌曲总计 | 63,113 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 For Children, Sz. 42, Book II "Hungarian Folk Songs":No. 37, The Lovely Girls of Budapest — Dezső Ránki
 - 🎵 Canti di vita e d'amore:No. 1, Sul ponto di Hiroshima — Bamberger Symphoniker/Ingo Metzmacher/Sarah Leonard/Thomas Randle
 - 🎵 Polytope de Montréal — Ensemble Ars Nova/Marius Constant
 - 🎵 Praga, Op. 26 — John West/Libor Pešek/Royal Liverpool Philharmonic Orchestra
 - 🎵 Paris - The Song of a Great City — Andrew Davis/BBC Symphony Orchestra
-- 🎵 Couleurs de la cité céleste — Bernard Leroux/Geneviève Nguyen/Guy Chesnais/Guy Laporte/Les Percussions de Strasbourg/Orchestre du Domaine Musical/Pierre Boulez/Yvonne Loriod
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 - 5️⃣ **CreSpirit/Triodust** — 16 次播放
 
 **🎶 热门歌曲**  
-- 🥇 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
-- 🥈 MemoryLocked — Plum
-- 🥉 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
-- 4️⃣ Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
-- 5️⃣ Bricklayer — Hüsker Dü
+- 🥇 MemoryLocked — Plum
+- 🥈 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
+- 🥉 Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
+- 4️⃣ Bricklayer — Hüsker Dü
+- 5️⃣ Beyond The Timeline — Plum
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
-- 🥈 ASMR Whisper | Reading NMIXX Lyrics 🐳& Thanking Our Supporters🩵 — GuluLand ASMR
-- 🥉 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
+- 🥈 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
+- 🥉 MemoryLocked — Plum
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 08:27:38*
+*更新时间: 2026/8/15 08:56:27*
 <!-- LASTFM_END -->
