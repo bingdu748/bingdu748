@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,119 次 |
-| 🎤 歌手总计 | 19,845 位 |
+| 🎧 播放总次数 | 85,122 次 |
+| 🎤 歌手总计 | 19,846 位 |
 | 💿 专辑总计 | 20,759 张 |
-| 🎶 歌曲总计 | 63,172 首 |
+| 🎶 歌曲总计 | 63,173 首 |
 
-🎧 **正在播放：** ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
+🎧 **正在播放：** ida助眠专注力测试灯光互动式助眠专注力测试助眠 — Ida助眠解压版
 
 **🎵 最近在听**  
+- 🎵 ida助眠专注力测试灯光互动式助眠专注力测试助眠 — Ida助眠解压版
+- 🎵 ASMR 中文 | A New Friend Picks Gifts for You (Children‘s Day Special)🎀🧸 — GuluLand ASMR
 - 🎵 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
 - 🎵 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
-- 🎵 中文ASMR | Almost Touching in the Dark 🤏✨ — GuluLand ASMR
-- 🎵 中文Emperor Roleplay ASMR | All subjects, heed my command: go to sleep now — GuluLand ASMR
-- 🎵 中文Emperor Roleplay ASMR | All subjects, heed my command: go to sleep now — GuluLand ASMR
+- 🎵 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 217 次播放
-- 🥈 **GuluLand ASMR** — 32 次播放
+- 🥈 **GuluLand ASMR** — 34 次播放
 - 🥉 **Plum** — 23 次播放
 - 4️⃣ **The Hirs Collective** — 21 次播放
 - 5️⃣ **Kevin Macleod** — 17 次播放
 
 **🎶 热门歌曲**  
-- 🥇 MemoryLocked — Plum
-- 🥈 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
-- 🥉 Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
-- 4️⃣ The Accomplice — Disasterpeace
-- 5️⃣ Name Hold Weight — Future
+- 🥇 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
+- 🥈 MemoryLocked — Plum
+- 🥉 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
+- 4️⃣ Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
+- 5️⃣ The Accomplice — Disasterpeace
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 **🎶 本月歌曲**  
 - 🥇 落叶终章 — v-Qtz
-- 🥈 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
-- 🥉 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
+- 🥈 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
+- 🥉 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 14:20:52*
+*更新时间: 2026/8/15 14:48:17*
 <!-- LASTFM_END -->
