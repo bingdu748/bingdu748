@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,076 次 |
+| 🎧 播放总次数 | 85,077 次 |
 | 🎤 歌手总计 | 19,840 位 |
 | 💿 专辑总计 | 20,751 张 |
-| 🎶 歌曲总计 | 63,146 首 |
+| 🎶 歌曲总计 | 63,147 首 |
 
-🎧 **正在播放：** ASMR Chinese whispers | What's in my bag & endless rambling until you drift off...🎒👜 — GuluLand ASMR
+🎧 **正在播放：** Public Welfare ASMR | About Tactile Paving & Guide Dogs 中文 — GuluLand ASMR
 
 **🎵 最近在听**  
+- 🎵 Public Welfare ASMR | About Tactile Paving & Guide Dogs 中文 — GuluLand ASMR
 - 🎵 ASMR Chinese whispers | What's in my bag & endless rambling until you drift off...🎒👜 — GuluLand ASMR
 - 🎵 ASMR Close-Up Whisper | Thanking Every Super Thanks by Name — GuluLand ASMR
 - 🎵 Interlude (Q&a) — Petrol Girls
 - 🎵 (Something) - 2 — Mount Eerie
-- 🎵 Big Pat's Warehouse (Skit) — Three 6 Mafia
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 10:47:42*
+*更新时间: 2026/8/15 11:19:19*
 <!-- LASTFM_END -->
