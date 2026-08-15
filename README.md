@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **The Pocket Gods** — 205 次播放
+- 🥇 **The Pocket Gods** — 204 次播放
 - 🥈 **GuluLand ASMR** — 34 次播放
 - 🥉 **Plum** — 23 次播放
 - 4️⃣ **The Hirs Collective** — 21 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 21:44:49*
+*更新时间: 2026/8/15 22:19:57*
 <!-- LASTFM_END -->
