@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,026 次 |
-| 🎤 歌手总计 | 19,823 位 |
+| 🎧 播放总次数 | 85,029 次 |
+| 🎤 歌手总计 | 19,826 位 |
 | 💿 专辑总计 | 20,731 张 |
-| 🎶 歌曲总计 | 63,107 首 |
+| 🎶 歌曲总计 | 63,110 首 |
 
-🎧 **正在播放：** Couleurs de la cité céleste — Bernard Leroux/Geneviève Nguyen/Guy Chesnais/Guy Laporte/Les Percussions de Strasbourg/Orchestre du Domaine Musical/Pierre Boulez/Yvonne Loriod
+🎧 **正在播放：** Praga, Op. 26 — John West/Libor Pešek/Royal Liverpool Philharmonic Orchestra
 
 **🎵 最近在听**  
+- 🎵 Praga, Op. 26 — John West/Libor Pešek/Royal Liverpool Philharmonic Orchestra
+- 🎵 Paris - The Song of a Great City — Andrew Davis/BBC Symphony Orchestra
+- 🎵 Couleurs de la cité céleste — Bernard Leroux/Geneviève Nguyen/Guy Chesnais/Guy Laporte/Les Percussions de Strasbourg/Orchestre du Domaine Musical/Pierre Boulez/Yvonne Loriod
 - 🎵 Summer of 1915, Op. 24 — Barbara Hendricks/David Groves/London Symphony Orchestra/Michael Tilson Thomas
 - 🎵 Cockaigne Overture, Op. 40 "In London Town" — Philharmonia Orchestra/Sir John Barbirolli
-- 🎵 Maelstrom — Plum
-- 🎵 Light Drop — Plum
-- 🎵 Selfmade Disaster — Plum
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 06:35:59*
+*更新时间: 2026/8/15 07:29:50*
 <!-- LASTFM_END -->
