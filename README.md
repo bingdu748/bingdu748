@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,113 次 |
+| 🎧 播放总次数 | 85,115 次 |
 | 🎤 歌手总计 | 19,845 位 |
 | 💿 专辑总计 | 20,759 张 |
-| 🎶 歌曲总计 | 63,171 首 |
+| 🎶 歌曲总计 | 63,172 首 |
 
-🎧 **正在播放：** 中文ASMR | Getting You a Super Authentic Chinese Name 中文名字 — GuluLand ASMR
+🎧 **正在播放：** 中文Emperor Roleplay ASMR | All subjects, heed my command: go to sleep now — GuluLand ASMR
 
 **🎵 最近在听**  
+- 🎵 中文Emperor Roleplay ASMR | All subjects, heed my command: go to sleep now — GuluLand ASMR
+- 🎵 中文ASMR | Getting You a Super Authentic Chinese Name 中文名字 — GuluLand ASMR
 - 🎵 中文ASMR | Getting You a Super Authentic Chinese Name 中文名字 — GuluLand ASMR
 - 🎵 ASMR Nature Ambience | Giving our tree sis a full diva makeover 💅🌳 — GuluLand ASMR
 - 🎵 Exam Season ASMR Energy Boost 中文📄🌳 — GuluLand ASMR
-- 🎵 中文ASMR | Let Me Share My 书法 Calligraphy  Hobby With You — GuluLand ASMR
-- 🎵 中文ASMR Almost Scratching in Dim Light — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 217 次播放
-- 🥈 **GuluLand ASMR** — 26 次播放
+- 🥈 **GuluLand ASMR** — 28 次播放
 - 🥉 **Plum** — 23 次播放
 - 4️⃣ **The Hirs Collective** — 21 次播放
 - 5️⃣ **Kevin Macleod** — 17 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 13:29:17*
+*更新时间: 2026/8/15 13:53:51*
 <!-- LASTFM_END -->
