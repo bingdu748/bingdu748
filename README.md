@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,122 次 |
+| 🎧 播放总次数 | 85,124 次 |
 | 🎤 歌手总计 | 19,846 位 |
 | 💿 专辑总计 | 20,759 张 |
-| 🎶 歌曲总计 | 63,173 首 |
+| 🎶 歌曲总计 | 63,174 首 |
 
-🎧 **正在播放：** ida助眠专注力测试灯光互动式助眠专注力测试助眠 — Ida助眠解压版
+
 
 **🎵 最近在听**  
+- 🎵 你有多久，不接陌生电话了？ — 赛雷三分钟
+- 🎵 你有多久，不接陌生电话了？ — 赛雷三分钟
 - 🎵 ida助眠专注力测试灯光互动式助眠专注力测试助眠 — Ida助眠解压版
 - 🎵 ASMR 中文 | A New Friend Picks Gifts for You (Children‘s Day Special)🎀🧸 — GuluLand ASMR
-- 🎵 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
-- 🎵 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
 - 🎵 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
 
 **📈 播放趋势**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 14:48:17*
+*更新时间: 2026/8/15 15:18:56*
 <!-- LASTFM_END -->
