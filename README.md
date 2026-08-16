@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,189 次 |
-| 🎤 歌手总计 | 19,871 位 |
-| 💿 专辑总计 | 20,788 张 |
-| 🎶 歌曲总计 | 63,216 首 |
+| 🎧 播放总次数 | 85,199 次 |
+| 🎤 歌手总计 | 19,875 位 |
+| 💿 专辑总计 | 20,793 张 |
+| 🎶 歌曲总计 | 63,222 首 |
 
-🎧 **正在播放：** Innocence — Guido Negraszus
+
 
 **🎵 最近在听**  
-- 🎵 Innocence — Guido Negraszus
-- 🎵 ミュージック (feat. 可不) — MIMI&可不
-- 🎵 ミュージック (feat. 可不) — MIMI&可不
-- 🎵 ひらり — GRe4N BOYZ (GReeeeN)
-- 🎵 ひらり — GRe4N BOYZ (GReeeeN)
+- 🎵 Midnight Trip — Nor&蔚蓝档案
+- 🎵 嘆きの華 — 水樹奈々
+- 🎵 嘆きの華 — 水樹奈々
+- 🎵 センチメンタル☆ラッキーガール — shallm
+- 🎵 Last Mistake — Advent&Akacia
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 **🎶 热门歌曲**  
 - 🥇 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
 - 🥈 MemoryLocked — Plum
-- 🥉 Cool In My Disaster — Arctic Moon&Shuba
-- 4️⃣ Way Of Life — Brennan Heart
-- 5️⃣ Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
+- 🥉 Give Myself To You — THEFATRAT&LAURA BREHM
+- 4️⃣ Cool In My Disaster — Arctic Moon&Shuba
+- 5️⃣ Way Of Life — Brennan Heart
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 05:26:55*
+*更新时间: 2026/8/16 05:54:35*
 <!-- LASTFM_END -->
