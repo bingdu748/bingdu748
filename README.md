@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,227 次 |
+| 🎧 播放总次数 | 85,238 次 |
 | 🎤 歌手总计 | 19,882 位 |
-| 💿 专辑总计 | 20,802 张 |
-| 🎶 歌曲总计 | 63,236 首 |
+| 💿 专辑总计 | 20,804 张 |
+| 🎶 歌曲总计 | 63,237 首 |
 
-🎧 **正在播放：** 夜夜·Night After Night — 奥菲斯回响Orpheus Echo
+🎧 **正在播放：** ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 
 **🎵 最近在听**  
-- 🎵 夜夜·Night After Night — 奥菲斯回响Orpheus Echo
-- 🎵 Merry Christmas Mr. Lawrence (圣诞快乐，劳伦斯先生) — 坂本龍一
-- 🎵 Merry Christmas Mr. Lawrence (圣诞快乐，劳伦斯先生) — 坂本龍一
-- 🎵 Sanctity — Rabpit
-- 🎵 解脱pt.2 — 浦栗子SpuChestnut
+- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
+- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
+- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
+- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
+- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 118 次播放
-- 🥈 **GuluLand ASMR** — 34 次播放
+- 🥈 **GuluLand ASMR** — 42 次播放
 - 🥉 **Plum** — 23 次播放
 - 4️⃣ **Kevin Macleod** — 17 次播放
 - 5️⃣ **CreSpirit/Triodust** — 16 次播放
 
 **🎶 热门歌曲**  
-- 🥇 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
-- 🥈 MemoryLocked — Plum
-- 🥉 Give Myself To You — THEFATRAT&LAURA BREHM
-- 4️⃣ Cool In My Disaster — Arctic Moon&Shuba
-- 5️⃣ Way Of Life — Brennan Heart
+- 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
+- 🥈 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
+- 🥉 MemoryLocked — Plum
+- 4️⃣ Give Myself To You — THEFATRAT&LAURA BREHM
+- 5️⃣ Cool In My Disaster — Arctic Moon&Shuba
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 - 🥉 **水音世界观**
 
 **🎶 本月歌曲**  
-- 🥇 落叶终章 — v-Qtz
-- 🥈 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
-- 🥉 Penthesilea:I. Aufbruch der Amazonen nach Troja — Daniel Barenboim/Orchestre de Paris
+- 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
+- 🥈 落叶终章 — v-Qtz
+- 🥉 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 15:45:58*
+*更新时间: 2026/8/16 16:23:29*
 <!-- LASTFM_END -->
