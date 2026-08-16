@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,207 次 |
-| 🎤 歌手总计 | 19,877 位 |
-| 💿 专辑总计 | 20,793 张 |
-| 🎶 歌曲总计 | 63,228 首 |
+| 🎧 播放总次数 | 85,212 次 |
+| 🎤 歌手总计 | 19,878 位 |
+| 💿 专辑总计 | 20,796 张 |
+| 🎶 歌曲总计 | 63,230 首 |
 
-🎧 **正在播放：** Selentia — 削除
+
 
 **🎵 最近在听**  
-- 🎵 Selentia — 削除
-- 🎵 ❤️作为你拒绝我接吻的处罚，艾米你要帮我一起绑架彼得！❤️《我爱艾米》第十四话 — 致幻品
-- 🎵 我爱艾米 邻家女孩 — 冰块与风油精
-- 🎵 德国小伙挑战印度街头美食：我已经很小心了，为什么还是进了医院？ — Cloud--Walker
-- 🎵 逃离印度！德国博主实测中国路边摊：这才是人类该吃的食物！ — Cloud--Walker
+- 🎵 Our Wish (我们的愿望) — 凤凰院零零
+- 🎵 Dysthymia — a_hisa
+- 🎵 Chasing — AGERA
+- 🎵 红楼 ~ Eastern Dream... & さくらさくら ~ Japanize Dream... — Re：Volte
+- 🎵 Kronos — 削除
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 **🎤 最爱的艺术家**  
 - 🥇 **上海アリス幻樂団** — 2,462 次播放
-- 🥈 **a_hisa** — 1,171 次播放
+- 🥈 **a_hisa** — 1,172 次播放
 - 🥉 **Relaxu** — 975 次播放
 - 4️⃣ **Various Artists** — 782 次播放
 - 5️⃣ **Plum** — 743 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 14:21:20*
+*更新时间: 2026/8/16 14:48:52*
 <!-- LASTFM_END -->
