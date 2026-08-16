@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,804 张 |
 | 🎶 歌曲总计 | 63,237 首 |
 
-🎧 **正在播放：** ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
+
 
 **🎵 最近在听**  
 - 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 17:44:49*
+*更新时间: 2026/8/16 18:27:07*
 <!-- LASTFM_END -->
