@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,135 次 |
-| 🎤 歌手总计 | 19,852 位 |
-| 💿 专辑总计 | 20,759 张 |
-| 🎶 歌曲总计 | 63,185 首 |
+| 🎧 播放总次数 | 85,142 次 |
+| 🎤 歌手总计 | 19,853 位 |
+| 💿 专辑总计 | 20,761 张 |
+| 🎶 歌曲总计 | 63,188 首 |
 
-
+🎧 **正在播放：** 綿雪の夢 — Crest
 
 **🎵 最近在听**  
-- 🎵 美国这波衰退，比我们想的离得更近 — 陌上-夜京辰
-- 🎵 连续生产100天的美少女画师不来看看吗😋 — 芸草冰
-- 🎵 为什么提到光刻机，总说中国造不出来？ — 太阳星sunstar
-- 🎵 曾经全民追欧美风，现在年轻人为啥看都懒得看？ — 魏武挥鞭否
-- 🎵 得知波奇酱有了外遇的病娇喜多 — 114今天吃什么呢
+- 🎵 綿雪の夢 — Crest
+- 🎵 Purity (feat. 藍月なくる) — 花鋏キョウ&藍月なくる
+- 🎵 Flowers — Iris
+- 🎵 Flowers — Iris
+- 🎵 Against, Perfect Cherry Blossom. — Nachi
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **The Pocket Gods** — 154 次播放
+- 🥇 **The Pocket Gods** — 153 次播放
 - 🥈 **GuluLand ASMR** — 34 次播放
 - 🥉 **Plum** — 23 次播放
 - 4️⃣ **The Hirs Collective** — 21 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 02:41:35*
+*更新时间: 2026/8/16 03:47:04*
 <!-- LASTFM_END -->
