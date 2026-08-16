@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,160 次 |
-| 🎤 歌手总计 | 19,861 位 |
-| 💿 专辑总计 | 20,771 张 |
-| 🎶 歌曲总计 | 63,199 首 |
+| 🎧 播放总次数 | 85,189 次 |
+| 🎤 歌手总计 | 19,871 位 |
+| 💿 专辑总计 | 20,788 张 |
+| 🎶 歌曲总计 | 63,216 首 |
 
-🎧 **正在播放：** 声の軌跡 — Soala
+🎧 **正在播放：** Innocence — Guido Negraszus
 
 **🎵 最近在听**  
-- 🎵 声の軌跡 — Soala
-- 🎵 声の軌跡 — Soala
-- 🎵 ハナビラ — shizuku&可不&音楽的同位体 星界
-- 🎵 Superstar — しゃろう
-- 🎵 starlight — Tsuyoshi A.&ねんね&Tsuyoshi Azuma
+- 🎵 Innocence — Guido Negraszus
+- 🎵 ミュージック (feat. 可不) — MIMI&可不
+- 🎵 ミュージック (feat. 可不) — MIMI&可不
+- 🎵 ひらり — GRe4N BOYZ (GReeeeN)
+- 🎵 ひらり — GRe4N BOYZ (GReeeeN)
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,18 +45,18 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **The Pocket Gods** — 129 次播放
+- 🥇 **The Pocket Gods** — 118 次播放
 - 🥈 **GuluLand ASMR** — 34 次播放
 - 🥉 **Plum** — 23 次播放
-- 4️⃣ **The Hirs Collective** — 21 次播放
-- 5️⃣ **Kevin Macleod** — 17 次播放
+- 4️⃣ **Kevin Macleod** — 17 次播放
+- 5️⃣ **CreSpirit/Triodust** — 16 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
 - 🥈 MemoryLocked — Plum
 - 🥉 Cool In My Disaster — Arctic Moon&Shuba
-- 4️⃣ Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
-- 5️⃣ Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
+- 4️⃣ Way Of Life — Brennan Heart
+- 5️⃣ Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 04:34:12*
+*更新时间: 2026/8/16 05:26:55*
 <!-- LASTFM_END -->
