@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,212 次 |
-| 🎤 歌手总计 | 19,878 位 |
-| 💿 专辑总计 | 20,796 张 |
-| 🎶 歌曲总计 | 63,230 首 |
+| 🎧 播放总次数 | 85,216 次 |
+| 🎤 歌手总计 | 19,879 位 |
+| 💿 专辑总计 | 20,797 张 |
+| 🎶 歌曲总计 | 63,231 首 |
 
-
+🎧 **正在播放：** Silent Echochamber (feat. blaxervant & Kobaryo) — Srezcat/blaxervant/Kobaryo
 
 **🎵 最近在听**  
+- 🎵 Silent Echochamber (feat. blaxervant & Kobaryo) — Srezcat/blaxervant/Kobaryo
+- 🎵 Silent Echochamber (feat. blaxervant & Kobaryo) — Srezcat/blaxervant/Kobaryo
+- 🎵 Cold Winter — July
+- 🎵 Find Myself — NORTHLEY
 - 🎵 Our Wish (我们的愿望) — 凤凰院零零
-- 🎵 Dysthymia — a_hisa
-- 🎵 Chasing — AGERA
-- 🎵 红楼 ~ Eastern Dream... & さくらさくら ~ Japanize Dream... — Re：Volte
-- 🎵 Kronos — 削除
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 14:48:52*
+*更新时间: 2026/8/16 15:20:33*
 <!-- LASTFM_END -->
