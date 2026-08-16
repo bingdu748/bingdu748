@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,241 次 |
+| 🎧 播放总次数 | 85,242 次 |
 | 🎤 歌手总计 | 19,882 位 |
 | 💿 专辑总计 | 20,804 张 |
 | 🎶 歌曲总计 | 63,237 首 |
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **The Pocket Gods** — 118 次播放
-- 🥈 **GuluLand ASMR** — 45 次播放
+- 🥈 **GuluLand ASMR** — 46 次播放
 - 🥉 **Plum** — 23 次播放
 - 4️⃣ **Kevin Macleod** — 17 次播放
 - 5️⃣ **CreSpirit/Triodust** — 16 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 17:18:26*
+*更新时间: 2026/8/16 17:44:49*
 <!-- LASTFM_END -->
