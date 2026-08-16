@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,142 次 |
-| 🎤 歌手总计 | 19,853 位 |
-| 💿 专辑总计 | 20,761 张 |
-| 🎶 歌曲总计 | 63,188 首 |
+| 🎧 播放总次数 | 85,160 次 |
+| 🎤 歌手总计 | 19,861 位 |
+| 💿 专辑总计 | 20,771 张 |
+| 🎶 歌曲总计 | 63,199 首 |
 
-🎧 **正在播放：** 綿雪の夢 — Crest
+🎧 **正在播放：** 声の軌跡 — Soala
 
 **🎵 最近在听**  
-- 🎵 綿雪の夢 — Crest
-- 🎵 Purity (feat. 藍月なくる) — 花鋏キョウ&藍月なくる
-- 🎵 Flowers — Iris
-- 🎵 Flowers — Iris
-- 🎵 Against, Perfect Cherry Blossom. — Nachi
+- 🎵 声の軌跡 — Soala
+- 🎵 声の軌跡 — Soala
+- 🎵 ハナビラ — shizuku&可不&音楽的同位体 星界
+- 🎵 Superstar — しゃろう
+- 🎵 starlight — Tsuyoshi A.&ねんね&Tsuyoshi Azuma
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **The Pocket Gods** — 153 次播放
+- 🥇 **The Pocket Gods** — 129 次播放
 - 🥈 **GuluLand ASMR** — 34 次播放
 - 🥉 **Plum** — 23 次播放
 - 4️⃣ **The Hirs Collective** — 21 次播放
@@ -54,14 +54,14 @@ Here are some ideas to get you started:
 **🎶 热门歌曲**  
 - 🥇 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
 - 🥈 MemoryLocked — Plum
-- 🥉 Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
-- 4️⃣ Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
-- 5️⃣ The Accomplice — Disasterpeace
+- 🥉 Cool In My Disaster — Arctic Moon&Shuba
+- 4️⃣ Ein Morgen, ein Mittag, ein Abend in Wien:Overture — Christfried Bickenbach/Ernst Rothe/Wiener Johann Strauss Orchester/Willi Boskovsky/Wolfgang Gülich
+- 5️⃣ Threnody to the Victims of Hiroshima — David Mottley/Krzysztof Penderecki/Polish National Radio Symphony Orchestra/Wolfgang Gülich
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
-- 🥈 **300X30 - My Life as a Playlist** — The Pocket Gods
-- 🥉 **Rabi-Ribi Original Soundtrack** — CreSpirit/Triodust
+- 🥈 **Rabi-Ribi Original Soundtrack** — CreSpirit/Triodust
+- 🥉 **Rabi-Ribi Original Soundtrack** — CreSpirit/3R2
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 03:47:04*
+*更新时间: 2026/8/16 04:34:12*
 <!-- LASTFM_END -->
