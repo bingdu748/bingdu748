@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,242 次 |
+| 🎧 播放总次数 | 85,243 次 |
 | 🎤 歌手总计 | 19,882 位 |
 | 💿 专辑总计 | 20,804 张 |
-| 🎶 歌曲总计 | 63,237 首 |
+| 🎶 歌曲总计 | 63,238 首 |
 
-
+🎧 **正在播放：** 水音世界观--8月14日--老特下令福特级弃用电磁弹射改回蒸汽，伊朗下达终极升级通牒！ — 水音世界观
 
 **🎵 最近在听**  
-- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
+- 🎵 水音世界观--8月14日--老特下令福特级弃用电磁弹射改回蒸汽，伊朗下达终极升级通牒！ — 水音世界观
 - 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 - 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 - 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 23:18:17*
+*更新时间: 2026/8/16 23:44:22*
 <!-- LASTFM_END -->
