@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,132 次 |
-| 🎤 歌手总计 | 19,851 位 |
+| 🎧 播放总次数 | 85,135 次 |
+| 🎤 歌手总计 | 19,852 位 |
 | 💿 专辑总计 | 20,759 张 |
-| 🎶 歌曲总计 | 63,182 首 |
+| 🎶 歌曲总计 | 63,185 首 |
 
-🎧 **正在播放：** 曾经全民追欧美风，现在年轻人为啥看都懒得看？ — 魏武挥鞭否
+
 
 **🎵 最近在听**  
+- 🎵 美国这波衰退，比我们想的离得更近 — 陌上-夜京辰
+- 🎵 连续生产100天的美少女画师不来看看吗😋 — 芸草冰
+- 🎵 为什么提到光刻机，总说中国造不出来？ — 太阳星sunstar
 - 🎵 曾经全民追欧美风，现在年轻人为啥看都懒得看？ — 魏武挥鞭否
 - 🎵 得知波奇酱有了外遇的病娇喜多 — 114今天吃什么呢
-- 🎵 百合短篇：初次约会的女友意外失忆，两位少女是否还能重新交往 — 星杫酱
-- 🎵 【MAD】名侦探光之美少女 x 神无月的巫女 OP Re-sublimity【kotoko】 — Psycho78
-- 🎵 国外灾难发生前几秒拍摄的瞬间😱‼️ — 枫桥驿站
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **The Pocket Gods** — 202 次播放
+- 🥇 **The Pocket Gods** — 154 次播放
 - 🥈 **GuluLand ASMR** — 34 次播放
 - 🥉 **Plum** — 23 次播放
 - 4️⃣ **The Hirs Collective** — 21 次播放
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **The Periodic Table** — The Pocket Gods
-- 🥈 **100BeatlesX30** — The Pocket Gods
-- 🥉 **300X30 - My Life as a Playlist** — The Pocket Gods
+- 🥈 **300X30 - My Life as a Playlist** — The Pocket Gods
+- 🥉 **Rabi-Ribi Original Soundtrack** — CreSpirit/Triodust
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/15 23:45:03*
+*更新时间: 2026/8/16 01:15:02*
 <!-- LASTFM_END -->
