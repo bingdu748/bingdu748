@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,793 张 |
 | 🎶 歌曲总计 | 63,226 首 |
 
-🎧 **正在播放：** 德国小伙挑战印度街头美食：我已经很小心了，为什么还是进了医院？ — Cloud--Walker
+
 
 **🎵 最近在听**  
 - 🎵 德国小伙挑战印度街头美食：我已经很小心了，为什么还是进了医院？ — Cloud--Walker
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 08:30:39*
+*更新时间: 2026/8/16 09:26:00*
 <!-- LASTFM_END -->
