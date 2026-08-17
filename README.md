@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **GuluLand ASMR** — 46 次播放
+- 🥇 **GuluLand ASMR** — 45 次播放
 - 🥈 **Plum** — 23 次播放
 - 🥉 **Kevin Macleod** — 17 次播放
 - 4️⃣ **CreSpirit/Triodust** — 16 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/17 14:54:29*
+*更新时间: 2026/8/17 15:24:03*
 <!-- LASTFM_END -->
