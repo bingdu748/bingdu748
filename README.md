@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,243 次 |
+| 🎧 播放总次数 | 85,244 次 |
 | 🎤 歌手总计 | 19,882 位 |
 | 💿 专辑总计 | 20,804 张 |
-| 🎶 歌曲总计 | 63,238 首 |
+| 🎶 歌曲总计 | 63,239 首 |
 
-
+🎧 **正在播放：** 【00猪】粤语助眠 | 化妆品触发 | 劣质妆教2.0 | Cantonese Sleep Aid | Makeup-Themed Triggers — 小0觉觉猪
 
 **🎵 最近在听**  
+- 🎵 【00猪】粤语助眠 | 化妆品触发 | 劣质妆教2.0 | Cantonese Sleep Aid | Makeup-Themed Triggers — 小0觉觉猪
 - 🎵 水音世界观--8月14日--老特下令福特级弃用电磁弹射改回蒸汽，伊朗下达终极升级通牒！ — 水音世界观
-- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 - 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 - 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 - 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **The Pocket Gods** — 118 次播放
+- 🥇 **The Pocket Gods** — 94 次播放
 - 🥈 **GuluLand ASMR** — 46 次播放
 - 🥉 **Plum** — 23 次播放
 - 4️⃣ **Kevin Macleod** — 17 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/17 04:40:33*
+*更新时间: 2026/8/17 05:33:51*
 <!-- LASTFM_END -->
