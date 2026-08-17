@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,804 张 |
 | 🎶 歌曲总计 | 63,246 首 |
 
-🎧 **正在播放：** 水音世界观--8月15日--糧食出口暴跌76%急求和？俄軍看穿黑海停火陷阱，拉夫羅夫手握美軍衛星偷襲鐵證！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--8月15日--糧食出口暴跌76%急求和？俄軍看穿黑海停火陷阱，拉夫羅夫手握美軍衛星偷襲鐵證！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/17 11:50:13*
+*更新时间: 2026/8/17 12:41:16*
 <!-- LASTFM_END -->
