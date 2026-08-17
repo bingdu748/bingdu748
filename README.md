@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,247 次 |
-| 🎤 歌手总计 | 19,883 位 |
+| 🎧 播放总次数 | 85,249 次 |
+| 🎤 歌手总计 | 19,885 位 |
 | 💿 专辑总计 | 20,804 张 |
-| 🎶 歌曲总计 | 63,242 首 |
+| 🎶 歌曲总计 | 63,244 首 |
 
-🎧 **正在播放：** ASMR 🌟 Relaxed Unboxing For Sleep | Tapping, Lipgloss Application...(Chinese) — LaurasPillow ASMR
+
 
 **🎵 最近在听**  
+- 🎵 reinou feat. 可不 — のぞみ、ほころび
+- 🎵 ハナビラ／可不・星界 — Shizuku
 - 🎵 ASMR 🌟 Relaxed Unboxing For Sleep | Tapping, Lipgloss Application...(Chinese) — LaurasPillow ASMR
 - 🎵 【00猪 ASMR】轻语沉浸式化妆 | Whispering Immersive Makeup — 小0觉觉猪
 - 🎵 ASMR | One of China's Four Major Traditional Festivals: Qingming – Can You Say "Happy"? — GuluLand ASMR
-- 🎵 【00猪】粤语助眠 | 化妆品触发 | 劣质妆教2.0 | Cantonese Sleep Aid | Makeup-Themed Triggers — 小0觉觉猪
-- 🎵 水音世界观--8月14日--老特下令福特级弃用电磁弹射改回蒸汽，伊朗下达终极升级通牒！ — 水音世界观
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/17 06:53:43*
+*更新时间: 2026/8/17 07:52:20*
 <!-- LASTFM_END -->
