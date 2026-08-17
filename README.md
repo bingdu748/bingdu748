@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,244 次 |
-| 🎤 歌手总计 | 19,882 位 |
+| 🎧 播放总次数 | 85,247 次 |
+| 🎤 歌手总计 | 19,883 位 |
 | 💿 专辑总计 | 20,804 张 |
-| 🎶 歌曲总计 | 63,239 首 |
+| 🎶 歌曲总计 | 63,242 首 |
 
-🎧 **正在播放：** 【00猪】粤语助眠 | 化妆品触发 | 劣质妆教2.0 | Cantonese Sleep Aid | Makeup-Themed Triggers — 小0觉觉猪
+🎧 **正在播放：** ASMR 🌟 Relaxed Unboxing For Sleep | Tapping, Lipgloss Application...(Chinese) — LaurasPillow ASMR
 
 **🎵 最近在听**  
+- 🎵 ASMR 🌟 Relaxed Unboxing For Sleep | Tapping, Lipgloss Application...(Chinese) — LaurasPillow ASMR
+- 🎵 【00猪 ASMR】轻语沉浸式化妆 | Whispering Immersive Makeup — 小0觉觉猪
+- 🎵 ASMR | One of China's Four Major Traditional Festivals: Qingming – Can You Say "Happy"? — GuluLand ASMR
 - 🎵 【00猪】粤语助眠 | 化妆品触发 | 劣质妆教2.0 | Cantonese Sleep Aid | Makeup-Themed Triggers — 小0觉觉猪
 - 🎵 水音世界观--8月14日--老特下令福特级弃用电磁弹射改回蒸汽，伊朗下达终极升级通牒！ — 水音世界观
-- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
-- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
-- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **The Pocket Gods** — 94 次播放
-- 🥈 **GuluLand ASMR** — 46 次播放
-- 🥉 **Plum** — 23 次播放
-- 4️⃣ **Kevin Macleod** — 17 次播放
-- 5️⃣ **CreSpirit/Triodust** — 16 次播放
+- 🥇 **GuluLand ASMR** — 47 次播放
+- 🥈 **Plum** — 23 次播放
+- 🥉 **Kevin Macleod** — 17 次播放
+- 4️⃣ **CreSpirit/Triodust** — 16 次播放
+- 5️⃣ **Joseph Bishara** — 14 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ Cool In My Disaster — Arctic Moon&Shuba
 
 **💿 热门专辑**  
-- 🥇 **The Periodic Table** — The Pocket Gods
-- 🥈 **Rabi-Ribi Original Soundtrack** — CreSpirit/Triodust
-- 🥉 **Rabi-Ribi Original Soundtrack** — CreSpirit/3R2
+- 🥇 **Rabi-Ribi Original Soundtrack** — CreSpirit/Triodust
+- 🥈 **Rabi-Ribi Original Soundtrack** — CreSpirit/3R2
+- 🥉 **Bullys wit Fullys - Hardball** — Killa Tay, Guce
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/17 05:33:51*
+*更新时间: 2026/8/17 06:53:43*
 <!-- LASTFM_END -->
