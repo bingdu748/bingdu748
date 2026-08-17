@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,804 张 |
 | 🎶 歌曲总计 | 63,238 首 |
 
-🎧 **正在播放：** 水音世界观--8月14日--老特下令福特级弃用电磁弹射改回蒸汽，伊朗下达终极升级通牒！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--8月14日--老特下令福特级弃用电磁弹射改回蒸汽，伊朗下达终极升级通牒！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/16 23:44:22*
+*更新时间: 2026/8/17 01:12:42*
 <!-- LASTFM_END -->
