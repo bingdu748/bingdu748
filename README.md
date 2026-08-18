@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,318 次 |
+| 🎧 播放总次数 | 85,319 次 |
 | 🎤 歌手总计 | 19,905 位 |
 | 💿 专辑总计 | 20,826 张 |
-| 🎶 歌曲总计 | 63,300 首 |
+| 🎶 歌曲总计 | 63,301 首 |
 
-
+🎧 **正在播放：** 水音世界观--8月18日--伊朗阿曼繞開美軍劃定海峽！老特氣急威脅動用核武，中東盟友集體反水！ — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--8月18日--伊朗阿曼繞開美軍劃定海峽！老特氣急威脅動用核武，中東盟友集體反水！ — 水音世界观
 - 🎵 扭结 — 映射者天儿/洛天依
 - 🎵 Semiconscious Godsize Dumbass — Wormrot
 - 🎵 Mary Shaw — Charlie Clouser
 - 🎵 Cow and Chicken Theme (From "Cow and Chicken") — Anime Kei
-- 🎵 "A REAL COMPLICATED ENDING..." — The Residents
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/18 23:20:25*
+*更新时间: 2026/8/18 23:46:49*
 <!-- LASTFM_END -->
