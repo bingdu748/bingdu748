@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,288 次 |
-| 🎤 歌手总计 | 19,897 位 |
-| 💿 专辑总计 | 20,808 张 |
-| 🎶 歌曲总计 | 63,271 首 |
+| 🎧 播放总次数 | 85,317 次 |
+| 🎤 歌手总计 | 19,905 位 |
+| 💿 专辑总计 | 20,825 张 |
+| 🎶 歌曲总计 | 63,299 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月17日--神盾艦南海全艦斷電漂流4天！美軍「本福德號」舉白旗求救，林肯號再遭導彈覆蓋！ — 水音世界观
-- 🎵 Tempestissimo — t pazolite
-- 🎵 Salt — Ava Max
-- 🎵 Carol of the Bells — Lindsey Stirling
-- 🎵 Grafiore — M2U
+- 🎵 Semiconscious Godsize Dumbass — Wormrot
+- 🎵 Mary Shaw — Charlie Clouser
+- 🎵 Cow and Chicken Theme (From "Cow and Chicken") — Anime Kei
+- 🎵 "A REAL COMPLICATED ENDING..." — The Residents
+- 🎵 Kane And Susan — Bernard Herrmann
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,22 +46,22 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **GuluLand ASMR** — 45 次播放
-- 🥈 **Plum** — 23 次播放
-- 🥉 **CreSpirit/Triodust** — 11 次播放
-- 4️⃣ **水音世界观** — 9 次播放
-- 5️⃣ **Parry Gripp** — 6 次播放
+- 🥈 **Plum** — 22 次播放
+- 🥉 **水音世界观** — 9 次播放
+- 4️⃣ **Parry Gripp** — 6 次播放
+- 5️⃣ **Disasterpeace** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
-- 🥈 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
-- 🥉 MemoryLocked — Plum
-- 4️⃣ Give Myself To You — THEFATRAT&LAURA BREHM
-- 5️⃣ Cool In My Disaster — Arctic Moon&Shuba
+- 🥈 The Accomplice — Disasterpeace
+- 🥉 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
+- 4️⃣ MemoryLocked — Plum
+- 5️⃣ Give Myself To You — THEFATRAT&LAURA BREHM
 
 **💿 热门专辑**  
-- 🥇 **Rabi-Ribi Original Soundtrack** — CreSpirit/Triodust
-- 🥈 **Title - Track by Track Commentary** — Meghan Trainor
-- 🥉 **Fragment of Eden** — Plum
+- 🥇 **Title - Track by Track Commentary** — Meghan Trainor
+- 🥈 **Fragment of Eden** — Plum
+- 🥉 **Under the Silver Lake (Original Motion Picture Soundtrack)** — Disasterpeace
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/18 12:43:22*
+*更新时间: 2026/8/18 13:41:07*
 <!-- LASTFM_END -->
