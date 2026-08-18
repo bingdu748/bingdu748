@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🥈 **Plum** — 23 次播放
 - 🥉 **Kevin Macleod** — 17 次播放
 - 4️⃣ **CreSpirit/Triodust** — 16 次播放
-- 5️⃣ **Joseph Bishara** — 14 次播放
+- 5️⃣ **Bernard Herrmann** — 8 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/18 04:34:16*
+*更新时间: 2026/8/18 05:28:12*
 <!-- LASTFM_END -->
