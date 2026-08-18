@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,808 张 |
 | 🎶 歌曲总计 | 63,271 首 |
 
-🎧 **正在播放：** 水音世界观--8月17日--神盾艦南海全艦斷電漂流4天！美軍「本福德號」舉白旗求救，林肯號再遭導彈覆蓋！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--8月17日--神盾艦南海全艦斷電漂流4天！美軍「本福德號」舉白旗求救，林肯號再遭導彈覆蓋！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/18 10:26:38*
+*更新时间: 2026/8/18 10:56:27*
 <!-- LASTFM_END -->
