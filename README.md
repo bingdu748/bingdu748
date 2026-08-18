@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,287 次 |
+| 🎧 播放总次数 | 85,288 次 |
 | 🎤 歌手总计 | 19,897 位 |
 | 💿 专辑总计 | 20,808 张 |
-| 🎶 歌曲总计 | 63,270 首 |
+| 🎶 歌曲总计 | 63,271 首 |
 
-
+🎧 **正在播放：** 水音世界观--8月17日--神盾艦南海全艦斷電漂流4天！美軍「本福德號」舉白旗求救，林肯號再遭導彈覆蓋！ — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--8月17日--神盾艦南海全艦斷電漂流4天！美軍「本福德號」舉白旗求救，林肯號再遭導彈覆蓋！ — 水音世界观
 - 🎵 Tempestissimo — t pazolite
 - 🎵 Salt — Ava Max
 - 🎵 Carol of the Bells — Lindsey Stirling
 - 🎵 Grafiore — M2U
-- 🎵 Know You (Phonk) — Wehti/BLACK EGG/YaKio/Trispect
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🥇 **GuluLand ASMR** — 45 次播放
 - 🥈 **Plum** — 23 次播放
 - 🥉 **CreSpirit/Triodust** — 16 次播放
-- 4️⃣ **水音世界观** — 8 次播放
+- 4️⃣ **水音世界观** — 9 次播放
 - 5️⃣ **CreSpirit/3R2** — 7 次播放
 
 **🎶 热门歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/18 09:32:11*
+*更新时间: 2026/8/18 10:26:38*
 <!-- LASTFM_END -->
