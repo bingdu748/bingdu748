@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,274 次 |
-| 🎤 歌手总计 | 19,891 位 |
-| 💿 专辑总计 | 20,805 张 |
-| 🎶 歌曲总计 | 63,260 首 |
+| 🎧 播放总次数 | 85,287 次 |
+| 🎤 歌手总计 | 19,897 位 |
+| 💿 专辑总计 | 20,808 张 |
+| 🎶 歌曲总计 | 63,270 首 |
 
-🎧 **正在播放：** 自由落体 — FREEFALL/诗岸
+
 
 **🎵 最近在听**  
-- 🎵 自由落体 — FREEFALL/诗岸
-- 🎵 Seeking Twilight — Cre-sc3NT/橙沁Asa
-- 🎵 空に免じて (feat. 初音ミク) — 傘村トータ
-- 🎵 桃花源记 — AniFace
-- 🎵 X-COOL! — tienanh109/HDN/MC K3/hailong140
+- 🎵 Tempestissimo — t pazolite
+- 🎵 Salt — Ava Max
+- 🎵 Carol of the Bells — Lindsey Stirling
+- 🎵 Grafiore — M2U
+- 🎵 Know You (Phonk) — Wehti/BLACK EGG/YaKio/Trispect
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 **🎤 最爱的艺术家**  
 - 🥇 **上海アリス幻樂団** — 2,462 次播放
-- 🥈 **a_hisa** — 1,172 次播放
+- 🥈 **a_hisa** — 1,173 次播放
 - 🥉 **Relaxu** — 975 次播放
 - 4️⃣ **Various Artists** — 782 次播放
 - 5️⃣ **Plum** — 743 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/18 07:36:54*
+*更新时间: 2026/8/18 08:35:24*
 <!-- LASTFM_END -->
