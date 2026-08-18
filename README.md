@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,252 次 |
-| 🎤 歌手总计 | 19,885 位 |
+| 🎧 播放总次数 | 85,262 次 |
+| 🎤 歌手总计 | 19,886 位 |
 | 💿 专辑总计 | 20,804 张 |
-| 🎶 歌曲总计 | 63,246 首 |
+| 🎶 歌曲总计 | 63,250 首 |
 
-
+🎧 **正在播放：** Billie Jean — Eric Cartman
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月15日--糧食出口暴跌76%急求和？俄軍看穿黑海停火陷阱，拉夫羅夫手握美軍衛星偷襲鐵證！ — 水音世界观
-- 🎵 水音世界观--8月15日--糧食出口暴跌76%急求和？俄軍看穿黑海停火陷阱，拉夫羅夫手握美軍衛星偷襲鐵證！ — 水音世界观
-- 🎵 水音世界观--8月14日--前线水兵跳海总统却砸10亿修金厅！第一夫人人间蒸发，老特众叛亲离露馅！ — 水音世界观
-- 🎵 reinou feat. 可不 — のぞみ、ほころび
-- 🎵 ハナビラ／可不・星界 — Shizuku
+- 🎵 Billie Jean — Eric Cartman
+- 🎵 あのね — ナナツカゼ
+- 🎵 Midsummer Dream — Nox丷
+- 🎵 The Last Page — ARForest
+- 🎵 Artificial Existence — Jun Kuroda
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **GuluLand ASMR** — 45 次播放
 - 🥈 **Plum** — 23 次播放
 - 🥉 **CreSpirit/Triodust** — 16 次播放
-- 4️⃣ **Bernard Herrmann** — 8 次播放
-- 5️⃣ **水音世界观** — 8 次播放
+- 4️⃣ **水音世界观** — 8 次播放
+- 5️⃣ **CreSpirit/3R2** — 7 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/18 05:56:56*
+*更新时间: 2026/8/18 06:49:53*
 <!-- LASTFM_END -->
