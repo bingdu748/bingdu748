@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **GuluLand ASMR** — 45 次播放
 - 🥈 **Plum** — 23 次播放
-- 🥉 **CreSpirit/Triodust** — 16 次播放
+- 🥉 **CreSpirit/Triodust** — 11 次播放
 - 4️⃣ **水音世界观** — 9 次播放
-- 5️⃣ **CreSpirit/3R2** — 7 次播放
+- 5️⃣ **Parry Gripp** — 6 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **Rabi-Ribi Original Soundtrack** — CreSpirit/Triodust
-- 🥈 **Rabi-Ribi Original Soundtrack** — CreSpirit/3R2
-- 🥉 **Title - Track by Track Commentary** — Meghan Trainor
+- 🥈 **Title - Track by Track Commentary** — Meghan Trainor
+- 🥉 **Fragment of Eden** — Plum
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/18 11:52:21*
+*更新时间: 2026/8/18 12:43:22*
 <!-- LASTFM_END -->
