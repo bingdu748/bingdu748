@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,262 次 |
-| 🎤 歌手总计 | 19,886 位 |
-| 💿 专辑总计 | 20,804 张 |
-| 🎶 歌曲总计 | 63,250 首 |
+| 🎧 播放总次数 | 85,274 次 |
+| 🎤 歌手总计 | 19,891 位 |
+| 💿 专辑总计 | 20,805 张 |
+| 🎶 歌曲总计 | 63,260 首 |
 
-🎧 **正在播放：** Billie Jean — Eric Cartman
+🎧 **正在播放：** 自由落体 — FREEFALL/诗岸
 
 **🎵 最近在听**  
-- 🎵 Billie Jean — Eric Cartman
-- 🎵 あのね — ナナツカゼ
-- 🎵 Midsummer Dream — Nox丷
-- 🎵 The Last Page — ARForest
-- 🎵 Artificial Existence — Jun Kuroda
+- 🎵 自由落体 — FREEFALL/诗岸
+- 🎵 Seeking Twilight — Cre-sc3NT/橙沁Asa
+- 🎵 空に免じて (feat. 初音ミク) — 傘村トータ
+- 🎵 桃花源记 — AniFace
+- 🎵 X-COOL! — tienanh109/HDN/MC K3/hailong140
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/18 06:49:53*
+*更新时间: 2026/8/18 07:36:54*
 <!-- LASTFM_END -->
