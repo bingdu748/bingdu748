@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,351 次 |
+| 🎧 播放总次数 | 85,352 次 |
 | 🎤 歌手总计 | 19,921 位 |
 | 💿 专辑总计 | 20,833 张 |
-| 🎶 歌曲总计 | 63,324 首 |
+| 🎶 歌曲总计 | 63,325 首 |
 
-
+🎧 **正在播放：** ASMR Teaching You Basic Chinese To Help You Sleep — Tingting ASMR
 
 **🎵 最近在听**  
+- 🎵 ASMR Teaching You Basic Chinese To Help You Sleep — Tingting ASMR
 - 🎵 水音世界观--8月18日--老特氣急威脅動武！伊朗阿曼劃定海峽協議，美軍核威脅遭強硬回絕！ — 水音世界观
 - 🎵 水音世界观--8月18日--伊朗阿曼繞開美軍劃定海峽！老特氣急威脅動用核武，中東盟友集體反水！ — 水音世界观
 - 🎵 Canon in D (Pachelbel) — Mike Strickland
 - 🎵 Canon De Pachelbel — Traditional
-- 🎵 卡农钢琴随弹（Cover 卡农） — Keyshawn Binean
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **GuluLand ASMR** — 38 次播放
+- 🥇 **GuluLand ASMR** — 37 次播放
 - 🥈 **Plum** — 22 次播放
 - 🥉 **水音世界观** — 10 次播放
 - 4️⃣ **Juggernaut.** — 7 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/19 11:51:45*
+*更新时间: 2026/8/19 12:43:46*
 <!-- LASTFM_END -->
