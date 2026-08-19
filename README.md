@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,354 次 |
+| 🎧 播放总次数 | 85,355 次 |
 | 🎤 歌手总计 | 19,921 位 |
 | 💿 专辑总计 | 20,833 张 |
-| 🎶 歌曲总计 | 63,327 首 |
+| 🎶 歌曲总计 | 63,328 首 |
 
-🎧 **正在播放：** ASMR Asking You 20 Would You Rather Questions (Chinese whispering & Relaxing Tapping) — LaurasPillow ASMR
+
 
 **🎵 最近在听**  
+- 🎵 ASMR  📖 Whispered Reading You to Sleep "Reconciling Our Hearts" (Chinese Version) — LaurasPillow ASMR
 - 🎵 ASMR Asking You 20 Would You Rather Questions (Chinese whispering & Relaxing Tapping) — LaurasPillow ASMR
 - 🎵 ASMR 🧙Witch doing your make up with the Wrong Props🪞 Chinese soft spoken — LaurasPillow ASMR
 - 🎵 ASMR Teaching You Basic Chinese To Help You Sleep — Tingting ASMR
 - 🎵 水音世界观--8月18日--老特氣急威脅動武！伊朗阿曼劃定海峽協議，美軍核威脅遭強硬回絕！ — 水音世界观
-- 🎵 水音世界观--8月18日--伊朗阿曼繞開美軍劃定海峽！老特氣急威脅動用核武，中東盟友集體反水！ — 水音世界观
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/19 14:32:43*
+*更新时间: 2026/8/19 15:29:43*
 <!-- LASTFM_END -->
