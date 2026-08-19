@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,319 次 |
-| 🎤 歌手总计 | 19,905 位 |
-| 💿 专辑总计 | 20,826 张 |
-| 🎶 歌曲总计 | 63,301 首 |
+| 🎧 播放总次数 | 85,329 次 |
+| 🎤 歌手总计 | 19,906 位 |
+| 💿 专辑总计 | 20,828 张 |
+| 🎶 歌曲总计 | 63,305 首 |
 
-🎧 **正在播放：** 水音世界观--8月18日--伊朗阿曼繞開美軍劃定海峽！老特氣急威脅動用核武，中東盟友集體反水！ — 水音世界观
+
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月18日--伊朗阿曼繞開美軍劃定海峽！老特氣急威脅動用核武，中東盟友集體反水！ — 水音世界观
-- 🎵 扭结 — 映射者天儿/洛天依
-- 🎵 Semiconscious Godsize Dumbass — Wormrot
-- 🎵 Mary Shaw — Charlie Clouser
-- 🎵 Cow and Chicken Theme (From "Cow and Chicken") — Anime Kei
+- 🎵 Re:Summer — Juggernaut./アイロボ
+- 🎵 Immutable — Juggernaut.
+- 🎵 Lilly — Juggernaut.
+- 🎵 Memories — Juggernaut.
+- 🎵 hymn — Juggernaut.
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **GuluLand ASMR** — 45 次播放
 - 🥈 **Plum** — 22 次播放
 - 🥉 **水音世界观** — 9 次播放
-- 4️⃣ **Parry Gripp** — 6 次播放
-- 5️⃣ **Disasterpeace** — 5 次播放
+- 4️⃣ **Juggernaut.** — 7 次播放
+- 5️⃣ **Parry Gripp** — 6 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/18 23:46:49*
+*更新时间: 2026/8/19 01:11:48*
 <!-- LASTFM_END -->
