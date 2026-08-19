@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,329 次 |
-| 🎤 歌手总计 | 19,906 位 |
-| 💿 专辑总计 | 20,828 张 |
-| 🎶 歌曲总计 | 63,305 首 |
+| 🎧 播放总次数 | 85,339 次 |
+| 🎤 歌手总计 | 19,913 位 |
+| 💿 专辑总计 | 20,831 张 |
+| 🎶 歌曲总计 | 63,314 首 |
 
-
+🎧 **正在播放：** Canon — 宮本笑里
 
 **🎵 最近在听**  
-- 🎵 Re:Summer — Juggernaut./アイロボ
-- 🎵 Immutable — Juggernaut.
-- 🎵 Lilly — Juggernaut.
-- 🎵 Memories — Juggernaut.
-- 🎵 hymn — Juggernaut.
+- 🎵 大琴师乐曲——卡农 — 灰原穷
+- 🎵 卡农 (十孔口琴版) — 晓月老板
+- 🎵 阳光与棕榈树 — Stefano
+- 🎵 Canon (Over a Basso Ostinato) — Peerless 2x2
+- 🎵 Canon in D — Brian Crain
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **GuluLand ASMR** — 41 次播放
+- 🥇 **GuluLand ASMR** — 40 次播放
 - 🥈 **Plum** — 22 次播放
 - 🥉 **水音世界观** — 9 次播放
 - 4️⃣ **Juggernaut.** — 7 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/19 05:58:06*
+*更新时间: 2026/8/19 06:56:23*
 <!-- LASTFM_END -->
