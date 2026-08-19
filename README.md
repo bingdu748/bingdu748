@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,833 张 |
 | 🎶 歌曲总计 | 63,324 首 |
 
-🎧 **正在播放：** 水音世界观--8月18日--老特氣急威脅動武！伊朗阿曼劃定海峽協議，美軍核威脅遭強硬回絕！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--8月18日--老特氣急威脅動武！伊朗阿曼劃定海峽協議，美軍核威脅遭強硬回絕！ — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/19 10:56:14*
+*更新时间: 2026/8/19 11:26:43*
 <!-- LASTFM_END -->
