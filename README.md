@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,833 张 |
 | 🎶 歌曲总计 | 63,328 首 |
 
-🎧 **正在播放：** ASMR  📖 Whispered Reading You to Sleep "Reconciling Our Hearts" (Chinese Version) — LaurasPillow ASMR
+
 
 **🎵 最近在听**  
 - 🎵 ASMR  📖 Whispered Reading You to Sleep "Reconciling Our Hearts" (Chinese Version) — LaurasPillow ASMR
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **GuluLand ASMR** — 37 次播放
+- 🥇 **GuluLand ASMR** — 36 次播放
 - 🥈 **Plum** — 22 次播放
 - 🥉 **水音世界观** — 10 次播放
 - 4️⃣ **Juggernaut.** — 7 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/19 15:59:37*
+*更新时间: 2026/8/19 16:39:58*
 <!-- LASTFM_END -->
