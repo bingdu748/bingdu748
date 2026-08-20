@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,364 次 |
+| 🎧 播放总次数 | 85,365 次 |
 | 🎤 歌手总计 | 19,923 位 |
 | 💿 专辑总计 | 20,838 张 |
 | 🎶 歌曲总计 | 63,334 首 |
 
-
+🎧 **正在播放：** 水音世界观-8月19日 — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观-8月19日 — 水音世界观
 - 🎵 Dash — MDK
 - 🎵 Stay Inside Me (Game Vision) — Ocular Nebula
 - 🎵 Stay Inside Me — Ocular Nebula
 - 🎵 MenuLoop — RobTop
-- 🎵 Fingerdash — MDK
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **GuluLand ASMR** — 36 次播放
 - 🥈 **Plum** — 22 次播放
-- 🥉 **水音世界观** — 11 次播放
+- 🥉 **水音世界观** — 12 次播放
 - 4️⃣ **Juggernaut.** — 7 次播放
 - 5️⃣ **Parry Gripp** — 6 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/20 09:33:29*
+*更新时间: 2026/8/20 10:29:12*
 <!-- LASTFM_END -->
