@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,838 张 |
 | 🎶 歌曲总计 | 63,334 首 |
 
-🎧 **正在播放：** 水音世界观-8月19日 — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观-8月19日 — 水音世界观
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/20 10:59:36*
+*更新时间: 2026/8/20 11:34:47*
 <!-- LASTFM_END -->
