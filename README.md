@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,370 次 |
+| 🎧 播放总次数 | 85,371 次 |
 | 🎤 歌手总计 | 19,923 位 |
 | 💿 专辑总计 | 20,838 张 |
 | 🎶 歌曲总计 | 63,339 首 |
@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 
 **🎵 最近在听**  
+- 🎵 JUST COMMUNICATION — Peaky P-key
 - 🎵 【00猪】up猪的SBTI竟然是... | 轻语闲聊 | 助眠 | Let's take a personality test together! — 小0觉觉猪
 - 🎵 [ASMR] Anna the Maid Dressing You for The Royal Ball⚜️Lily of The Valley Inspired| Soft Spoken Yuri — YING ASMR
 - 🎵 [ASMR] Omegaverse Alpha Crush Invites You To Her House🏠🤍Yuri | You Can Also Talk To Her on Polybuzz — YING ASMR
 - 🎵 [ASMR] Rich Chinese Mom Spoils You With Island Vacation🏝️🌺 Soft Spoken | Personal Attention — YING ASMR
-- 🎵 [ASMR] Reading & Teaching You Chinese Poems | Soft Spoken | Page Turning Paper Sounds | 读古诗 — YING ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **GuluLand ASMR** — 36 次播放
+- 🥇 **GuluLand ASMR** — 35 次播放
 - 🥈 **Plum** — 19 次播放
 - 🥉 **水音世界观** — 12 次播放
 - 4️⃣ **Juggernaut.** — 7 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/20 15:32:26*
+*更新时间: 2026/8/20 16:33:51*
 <!-- LASTFM_END -->
