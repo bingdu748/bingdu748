@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,366 次 |
+| 🎧 播放总次数 | 85,369 次 |
 | 🎤 歌手总计 | 19,923 位 |
 | 💿 专辑总计 | 20,838 张 |
-| 🎶 歌曲总计 | 63,335 首 |
+| 🎶 歌曲总计 | 63,338 首 |
 
-🎧 **正在播放：** [ASMR] Reading & Teaching You Chinese Poems | Soft Spoken | Page Turning Paper Sounds | 读古诗 — YING ASMR
+🎧 **正在播放：** [ASMR] Anna the Maid Dressing You for The Royal Ball⚜️Lily of The Valley Inspired| Soft Spoken Yuri — YING ASMR
 
 **🎵 最近在听**  
+- 🎵 [ASMR] Anna the Maid Dressing You for The Royal Ball⚜️Lily of The Valley Inspired| Soft Spoken Yuri — YING ASMR
+- 🎵 [ASMR] Omegaverse Alpha Crush Invites You To Her House🏠🤍Yuri | You Can Also Talk To Her on Polybuzz — YING ASMR
+- 🎵 [ASMR] Rich Chinese Mom Spoils You With Island Vacation🏝️🌺 Soft Spoken | Personal Attention — YING ASMR
 - 🎵 [ASMR] Reading & Teaching You Chinese Poems | Soft Spoken | Page Turning Paper Sounds | 读古诗 — YING ASMR
 - 🎵 水音世界观-8月19日 — 水音世界观
-- 🎵 Dash — MDK
-- 🎵 Stay Inside Me (Game Vision) — Ocular Nebula
-- 🎵 Stay Inside Me — Ocular Nebula
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/20 12:47:37*
+*更新时间: 2026/8/20 13:45:00*
 <!-- LASTFM_END -->
