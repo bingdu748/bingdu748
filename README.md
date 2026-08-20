@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,357 次 |
-| 🎤 歌手总计 | 19,921 位 |
-| 💿 专辑总计 | 20,833 张 |
-| 🎶 歌曲总计 | 63,329 首 |
+| 🎧 播放总次数 | 85,364 次 |
+| 🎤 歌手总计 | 19,923 位 |
+| 💿 专辑总计 | 20,838 张 |
+| 🎶 歌曲总计 | 63,334 首 |
 
-🎧 **正在播放：** 水音世界观-8月19日 — 水音世界观
+
 
 **🎵 最近在听**  
-- 🎵 水音世界观-8月19日 — 水音世界观
-- 🎵 ASMR  📖 Whispered Reading You to Sleep "Reconciling Our Hearts" (Chinese Version) — LaurasPillow ASMR
-- 🎵 ASMR  📖 Whispered Reading You to Sleep "Reconciling Our Hearts" (Chinese Version) — LaurasPillow ASMR
-- 🎵 ASMR Asking You 20 Would You Rather Questions (Chinese whispering & Relaxing Tapping) — LaurasPillow ASMR
-- 🎵 ASMR 🧙Witch doing your make up with the Wrong Props🪞 Chinese soft spoken — LaurasPillow ASMR
+- 🎵 Dash — MDK
+- 🎵 Stay Inside Me (Game Vision) — Ocular Nebula
+- 🎵 Stay Inside Me — Ocular Nebula
+- 🎵 MenuLoop — RobTop
+- 🎵 Fingerdash — MDK
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/19 23:46:48*
+*更新时间: 2026/8/20 01:10:35*
 <!-- LASTFM_END -->
