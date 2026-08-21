@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,378 次 |
-| 🎤 歌手总计 | 19,923 位 |
-| 💿 专辑总计 | 20,838 张 |
-| 🎶 歌曲总计 | 63,341 首 |
+| 🎧 播放总次数 | 85,391 次 |
+| 🎤 歌手总计 | 19,924 位 |
+| 💿 专辑总计 | 20,839 张 |
+| 🎶 歌曲总计 | 63,344 首 |
 
-🎧 **正在播放：** Kick Off — vichy
+
 
 **🎵 最近在听**  
-- 🎵 Kick Off — vichy
-- 🎵 Keep On Driving — Tama Rhodes
-- 🎵 Keep it up — Peaky P-key
-- 🎵 Kalis Mind — MYUKKE.
-- 🎵 Justice Justice — stereoberry feat. Sanca
+- 🎵 Landscape — Low-pass
+- 🎵 Laivisca — 浅羽ロキ
+- 🎵 Ladi Dadi — Tenpin
+- 🎵 Kreuz — sky_delta
+- 🎵 Korean Technology — The Kiehl
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/20 23:50:45*
+*更新时间: 2026/8/21 01:14:33*
 <!-- LASTFM_END -->
