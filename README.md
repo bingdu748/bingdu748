@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **GuluLand ASMR** — 35 次播放
 - 🥈 **水音世界观** — 11 次播放
-- 🥉 **Plum** — 8 次播放
-- 4️⃣ **Juggernaut.** — 7 次播放
-- 5️⃣ **Parry Gripp** — 6 次播放
+- 🥉 **Juggernaut.** — 7 次播放
+- 4️⃣ **Parry Gripp** — 6 次播放
+- 5️⃣ **Disasterpeace** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/21 14:33:45*
+*更新时间: 2026/8/21 15:31:51*
 <!-- LASTFM_END -->
