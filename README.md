@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,839 张 |
 | 🎶 歌曲总计 | 63,345 首 |
 
-🎧 **正在播放：** ASMR：彻底消除你身上的所有酥麻感 😳⁉️ — Lyssie ASMR
+
 
 **🎵 最近在听**  
 - 🎵 ASMR：彻底消除你身上的所有酥麻感 😳⁉️ — Lyssie ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/21 04:36:48*
+*更新时间: 2026/8/21 05:31:31*
 <!-- LASTFM_END -->
