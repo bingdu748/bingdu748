@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,408 次 |
-| 🎤 歌手总计 | 19,934 位 |
-| 💿 专辑总计 | 20,844 张 |
-| 🎶 歌曲总计 | 63,360 首 |
+| 🎧 播放总次数 | 85,413 次 |
+| 🎤 歌手总计 | 19,938 位 |
+| 💿 专辑总计 | 20,847 张 |
+| 🎶 歌曲总计 | 63,365 首 |
 
-🎧 **正在播放：** Sweet Home - Sakakibara, Dai — Dai Sakakibara
+
 
 **🎵 最近在听**  
-- 🎵 Variations on Pachelbel's Canon in D — Concord Quartet
-- 🎵 Canon In F — BRR (Shakuhachi & Koto Quintet)
-- 🎵 Canon — Canadian Brass
-- 🎵 Earth Angel - Williams — Hampton Quartet
-- 🎵 How, Where, When? (Canon in D) — Cleo Laine
+- 🎵 Canon & Gigue in D — Guildhall String Ensemble
+- 🎵 卡农的幻想 — 薛汀哲
+- 🎵 Canon In D — Arthur Fiedler Sinfonietta
+- 🎵 Canon — Angel Romero
+- 🎵 Sweet Home - Sakakibara, Dai — Dai Sakakibara
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/21 07:41:01*
+*更新时间: 2026/8/21 08:38:57*
 <!-- LASTFM_END -->
