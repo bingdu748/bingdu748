@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,420 次 |
+| 🎧 播放总次数 | 85,421 次 |
 | 🎤 歌手总计 | 19,943 位 |
 | 💿 专辑总计 | 20,849 张 |
-| 🎶 歌曲总计 | 63,370 首 |
+| 🎶 歌曲总计 | 63,371 首 |
 
-
+🎧 **正在播放：** 水音世界观-8月20日 — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观-8月20日 — 水音世界观
 - 🎵 Christmas Canon Rock — Trans-Siberian Orchestra
 - 🎵 Canon in D — Brooklyn Duo
 - 🎵 卡农-帕海贝尔 Canon / Pachelbel — Craig Owen and Greg Scot
 - 🎵 卡农（铃声版） — 孙昊天
-- 🎵 卡农Canon（拇指琴/卡林巴琴） — 羊阿宝
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **GuluLand ASMR** — 35 次播放
 - 🥈 **Plum** — 19 次播放
-- 🥉 **水音世界观** — 10 次播放
+- 🥉 **水音世界观** — 11 次播放
 - 4️⃣ **Juggernaut.** — 7 次播放
 - 5️⃣ **Parry Gripp** — 6 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/21 10:29:16*
+*更新时间: 2026/8/21 10:59:25*
 <!-- LASTFM_END -->
