@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,398 次 |
-| 🎤 歌手总计 | 19,927 位 |
-| 💿 专辑总计 | 20,841 张 |
-| 🎶 歌曲总计 | 63,350 首 |
+| 🎧 播放总次数 | 85,408 次 |
+| 🎤 歌手总计 | 19,934 位 |
+| 💿 专辑总计 | 20,844 张 |
+| 🎶 歌曲总计 | 63,360 首 |
 
-
+🎧 **正在播放：** Sweet Home - Sakakibara, Dai — Dai Sakakibara
 
 **🎵 最近在听**  
-- 🎵 Canon of the Three Stars — Isao Tomita
-- 🎵 Rockelbel's Canon (Pachelbel Canon in D) — The Piano Guys
-- 🎵 Canon in D — James Galway
-- 🎵 Canon — Clive Carroll
-- 🎵 情人节的卡农-文武贝即兴演奏 — 文武贝
+- 🎵 Variations on Pachelbel's Canon in D — Concord Quartet
+- 🎵 Canon In F — BRR (Shakuhachi & Koto Quintet)
+- 🎵 Canon — Canadian Brass
+- 🎵 Earth Angel - Williams — Hampton Quartet
+- 🎵 How, Where, When? (Canon in D) — Cleo Laine
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 - 🥇 **上海アリス幻樂団** — 2,462 次播放
 - 🥈 **a_hisa** — 1,173 次播放
 - 🥉 **Relaxu** — 975 次播放
-- 4️⃣ **Various Artists** — 782 次播放
+- 4️⃣ **Various Artists** — 783 次播放
 - 5️⃣ **Plum** — 743 次播放
 
 **🎶 最爱的歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/21 06:43:58*
+*更新时间: 2026/8/21 07:41:01*
 <!-- LASTFM_END -->
