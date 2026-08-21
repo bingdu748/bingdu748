@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,849 张 |
 | 🎶 歌曲总计 | 63,371 首 |
 
-🎧 **正在播放：** 水音世界观-8月20日 — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观-8月20日 — 水音世界观
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **GuluLand ASMR** — 35 次播放
-- 🥈 **Plum** — 19 次播放
+- 🥈 **Plum** — 12 次播放
 - 🥉 **水音世界观** — 11 次播放
 - 4️⃣ **Juggernaut.** — 7 次播放
 - 5️⃣ **Parry Gripp** — 6 次播放
@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
 - 🥈 The Accomplice — Disasterpeace
 - 🥉 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
-- 4️⃣ MemoryLocked — Plum
-- 5️⃣ Give Myself To You — THEFATRAT&LAURA BREHM
+- 4️⃣ Give Myself To You — THEFATRAT&LAURA BREHM
+- 5️⃣ Cool In My Disaster — Arctic Moon&Shuba
 
 **💿 热门专辑**  
 - 🥇 **Title - Track by Track Commentary** — Meghan Trainor
-- 🥈 **Fragment of Eden** — Plum
-- 🥉 **Under the Silver Lake (Original Motion Picture Soundtrack)** — Disasterpeace
+- 🥈 **Under the Silver Lake (Original Motion Picture Soundtrack)** — Disasterpeace
+- 🥉 **QB 2 Compton Ringtones** — Nas
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/21 10:59:25*
+*更新时间: 2026/8/21 11:33:35*
 <!-- LASTFM_END -->
