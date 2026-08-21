@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **GuluLand ASMR** — 35 次播放
-- 🥈 **Plum** — 12 次播放
-- 🥉 **水音世界观** — 11 次播放
+- 🥈 **水音世界观** — 11 次播放
+- 🥉 **Plum** — 8 次播放
 - 4️⃣ **Juggernaut.** — 7 次播放
 - 5️⃣ **Parry Gripp** — 6 次播放
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/21 11:33:35*
+*更新时间: 2026/8/21 12:44:21*
 <!-- LASTFM_END -->
