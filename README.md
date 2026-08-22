@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,424 次 |
+| 🎧 播放总次数 | 85,429 次 |
 | 🎤 歌手总计 | 19,943 位 |
-| 💿 专辑总计 | 20,849 张 |
+| 💿 专辑总计 | 20,850 张 |
 | 🎶 歌曲总计 | 63,373 首 |
 
-
+🎧 **正在播放：** Over the Horizon — TomLeevis
 
 **🎵 最近在听**  
-- 🎵 ASMR 📏 Measuring Your Face with Five Different Rulers (Chinese whispering, Up Close & Personal) — LaurasPillow ASMR
-- 🎵 ASMR Sleep Clinic Roleplay😴 (Visiaul Triggers, Light Scanning, Relaxation Tests, Whispering) — LaurasPillow ASMR
-- 🎵 彼女は旅に出る — 鎖那
-- 🎵 水音世界观-8月20日 — 水音世界观
-- 🎵 Christmas Canon Rock — Trans-Siberian Orchestra
+- 🎵 Roots — Tobu
+- 🎵 Magical Musical Master — 削除
+- 🎵 Magical Musical Master — 削除
+- 🎵 Blossom — PIKASONIC
+- 🎵 Good Dream — Kirara Magic
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **GuluLand ASMR** — 34 次播放
+- 🥇 **GuluLand ASMR** — 33 次播放
 - 🥈 **水音世界观** — 11 次播放
 - 🥉 **Juggernaut.** — 7 次播放
 - 4️⃣ **LaurasPillow ASMR** — 7 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/22 10:21:57*
+*更新时间: 2026/8/22 10:49:21*
 <!-- LASTFM_END -->
