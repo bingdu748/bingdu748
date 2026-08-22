@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,849 张 |
 | 🎶 歌曲总计 | 63,373 首 |
 
-🎧 **正在播放：** ASMR 📏 Measuring Your Face with Five Different Rulers (Chinese whispering, Up Close & Personal) — LaurasPillow ASMR
+
 
 **🎵 最近在听**  
 - 🎵 ASMR 📏 Measuring Your Face with Five Different Rulers (Chinese whispering, Up Close & Personal) — LaurasPillow ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/22 07:30:43*
+*更新时间: 2026/8/22 08:28:06*
 <!-- LASTFM_END -->
