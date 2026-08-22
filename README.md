@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,422 次 |
+| 🎧 播放总次数 | 85,423 次 |
 | 🎤 歌手总计 | 19,943 位 |
 | 💿 专辑总计 | 20,849 张 |
-| 🎶 歌曲总计 | 63,371 首 |
+| 🎶 歌曲总计 | 63,372 首 |
 
-
+🎧 **正在播放：** ASMR Sleep Clinic Roleplay😴 (Visiaul Triggers, Light Scanning, Relaxation Tests, Whispering) — LaurasPillow ASMR
 
 **🎵 最近在听**  
+- 🎵 ASMR Sleep Clinic Roleplay😴 (Visiaul Triggers, Light Scanning, Relaxation Tests, Whispering) — LaurasPillow ASMR
 - 🎵 彼女は旅に出る — 鎖那
 - 🎵 水音世界观-8月20日 — 水音世界观
 - 🎵 Christmas Canon Rock — Trans-Siberian Orchestra
 - 🎵 Canon in D — Brooklyn Duo
-- 🎵 卡农-帕海贝尔 Canon / Pachelbel — Craig Owen and Greg Scot
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **GuluLand ASMR** — 35 次播放
 - 🥈 **水音世界观** — 11 次播放
 - 🥉 **Juggernaut.** — 7 次播放
-- 4️⃣ **Parry Gripp** — 6 次播放
-- 5️⃣ **Disasterpeace** — 5 次播放
+- 4️⃣ **LaurasPillow ASMR** — 6 次播放
+- 5️⃣ **Parry Gripp** — 6 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/22 04:31:18*
+*更新时间: 2026/8/22 05:26:03*
 <!-- LASTFM_END -->
