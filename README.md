@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,849 张 |
 | 🎶 歌曲总计 | 63,372 首 |
 
-🎧 **正在播放：** ASMR Sleep Clinic Roleplay😴 (Visiaul Triggers, Light Scanning, Relaxation Tests, Whispering) — LaurasPillow ASMR
+
 
 **🎵 最近在听**  
 - 🎵 ASMR Sleep Clinic Roleplay😴 (Visiaul Triggers, Light Scanning, Relaxation Tests, Whispering) — LaurasPillow ASMR
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/22 05:26:03*
+*更新时间: 2026/8/22 05:53:57*
 <!-- LASTFM_END -->
