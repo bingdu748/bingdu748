@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **GuluLand ASMR** — 16 次播放
+- 🥇 **GuluLand ASMR** — 13 次播放
 - 🥈 **水音世界观** — 11 次播放
 - 🥉 **Juggernaut.** — 7 次播放
 - 4️⃣ **LaurasPillow ASMR** — 7 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/22 14:20:03*
+*更新时间: 2026/8/22 14:47:41*
 <!-- LASTFM_END -->
