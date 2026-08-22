@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **GuluLand ASMR** — 21 次播放
+- 🥇 **GuluLand ASMR** — 16 次播放
 - 🥈 **水音世界观** — 11 次播放
 - 🥉 **Juggernaut.** — 7 次播放
 - 4️⃣ **LaurasPillow ASMR** — 7 次播放
@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
-- 🥈 ASMR 中文 | Skincare with "Great-Great-Great-Granny" Cream🧴🛀 — GuluLand ASMR
-- 🥉 Give Myself To You — THEFATRAT&LAURA BREHM
-- 4️⃣ Cool In My Disaster — Arctic Moon&Shuba
-- 5️⃣ Way Of Life — Brennan Heart
+- 🥈 Give Myself To You — THEFATRAT&LAURA BREHM
+- 🥉 Cool In My Disaster — Arctic Moon&Shuba
+- 4️⃣ Way Of Life — Brennan Heart
+- 5️⃣ 逃离印度！德国博主实测中国路边摊：这才是人类该吃的食物！ — Cloud--Walker
 
 **💿 热门专辑**  
 - 🥇 **D4DJ** — Peaky P-key
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/22 13:30:58*
+*更新时间: 2026/8/22 14:20:03*
 <!-- LASTFM_END -->
