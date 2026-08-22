@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **GuluLand ASMR** — 35 次播放
+- 🥇 **GuluLand ASMR** — 34 次播放
 - 🥈 **水音世界观** — 11 次播放
 - 🥉 **Juggernaut.** — 7 次播放
 - 4️⃣ **LaurasPillow ASMR** — 7 次播放
-- 5️⃣ **Parry Gripp** — 6 次播放
+- 5️⃣ **Parry Gripp** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 - 5️⃣ Cool In My Disaster — Arctic Moon&Shuba
 
 **💿 热门专辑**  
-- 🥇 **Title - Track by Track Commentary** — Meghan Trainor
-- 🥈 **Under the Silver Lake (Original Motion Picture Soundtrack)** — Disasterpeace
-- 🥉 **QB 2 Compton Ringtones** — Nas
+- 🥇 **Under the Silver Lake (Original Motion Picture Soundtrack)** — Disasterpeace
+- 🥈 **D4DJ** — Peaky P-key
+- 🥉 **Give Myself To You** — THEFATRAT&LAURA BREHM
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/22 09:34:15*
+*更新时间: 2026/8/22 10:21:57*
 <!-- LASTFM_END -->
