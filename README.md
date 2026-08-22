@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,850 张 |
 | 🎶 歌曲总计 | 63,373 首 |
 
-🎧 **正在播放：** Over the Horizon — TomLeevis
+
 
 **🎵 最近在听**  
 - 🎵 Roots — Tobu
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **GuluLand ASMR** — 33 次播放
+- 🥇 **GuluLand ASMR** — 32 次播放
 - 🥈 **水音世界观** — 11 次播放
 - 🥉 **Juggernaut.** — 7 次播放
 - 4️⃣ **LaurasPillow ASMR** — 7 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/22 10:49:21*
+*更新时间: 2026/8/22 11:19:47*
 <!-- LASTFM_END -->
