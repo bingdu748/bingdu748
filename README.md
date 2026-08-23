@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,460 次 |
+| 🎧 播放总次数 | 85,469 次 |
 | 🎤 歌手总计 | 19,974 位 |
 | 💿 专辑总计 | 20,860 张 |
 | 🎶 歌曲总计 | 63,418 首 |
 
-🎧 **正在播放：** nuph-beat — Mickiila
+
 
 **🎵 最近在听**  
-- 🎵 LAND — low-blows
-- 🎵 LAKE — Reeeko
-- 🎵 JIA — picoandhkohh
-- 🎵 huwa-hou — NUPUCA
-- 🎵 Eee — Elephante
+- 🎵 what's that's?! — Galanboooo
+- 🎵 TrackPlayingGuitar(BeatifulSunDay) — Ginzanooona
+- 🎵 Tom — STAR63
+- 🎵 Tech-Trial — kawahagi
+- 🎵 summer — suzu-chi
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 
 **🎶 热门歌曲**  
 - 🥇 Give Myself To You — THEFATRAT&LAURA BREHM
-- 🥈 Way Of Life — Brennan Heart
+- 🥈 DM — AMPMCM
 - 🥉 Eee — Elephante
-- 4️⃣ ひらり — GRe4N BOYZ (GReeeeN)
-- 5️⃣ Innocence — Guido Negraszus
+- 4️⃣ Plactichu — Fei
+- 5️⃣ what's that's?! — Galanboooo
 
 **💿 热门专辑**  
 - 🥇 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/23 04:35:21*
+*更新时间: 2026/8/23 05:28:12*
 <!-- LASTFM_END -->
