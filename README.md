@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,469 次 |
-| 🎤 歌手总计 | 19,974 位 |
+| 🎧 播放总次数 | 85,473 次 |
+| 🎤 歌手总计 | 19,978 位 |
 | 💿 专辑总计 | 20,860 张 |
-| 🎶 歌曲总计 | 63,418 首 |
+| 🎶 歌曲总计 | 63,422 首 |
 
-
+🎧 **正在播放：** 女生角度告诉你，为什么从来不主动找你聊天 — 哭猫情绪屋
 
 **🎵 最近在听**  
+- 🎵 女生角度告诉你，为什么从来不主动找你聊天 — 哭猫情绪屋
+- 🎵 卢旺达硬刚比利时 外网友：中械师给的勇气？#外网评论 #卢旺达 #中械师 — HongFa探长
+- 🎵 非洲两个国家，一个学习中国，一个学习美国，结果发展如何？ — 兮喵爱追剧
+- 🎵 每当我以为卢旺达抄无可抄时，他总能刷新我的认知 — 辣椒炒肉火火火
 - 🎵 what's that's?! — Galanboooo
-- 🎵 TrackPlayingGuitar(BeatifulSunDay) — Ginzanooona
-- 🎵 Tom — STAR63
-- 🎵 Tech-Trial — kawahagi
-- 🎵 summer — suzu-chi
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/23 06:48:47*
+*更新时间: 2026/8/23 07:32:07*
 <!-- LASTFM_END -->
