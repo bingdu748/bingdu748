@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,503 次 |
-| 🎤 歌手总计 | 19,987 位 |
-| 💿 专辑总计 | 20,874 张 |
-| 🎶 歌曲总计 | 63,438 首 |
+| 🎧 播放总次数 | 85,517 次 |
+| 🎤 歌手总计 | 19,994 位 |
+| 💿 专辑总计 | 20,883 张 |
+| 🎶 歌曲总计 | 63,447 首 |
 
-🎧 **正在播放：** しゅわしゅわハニーレモン350ml — しゃろう
+🎧 **正在播放：** Sweet Little Lies — Bülow
 
 **🎵 最近在听**  
-- 🎵 しゅわしゅわハニーレモン350ml — しゃろう
-- 🎵 あわく心模様 — 森先化歩 ・ 花譜 ・ 夜河世界 ・ ヰ世界情緒
-- 🎵 あわく心模様 — 森先化歩 ・ 花譜 ・ 夜河世界 ・ ヰ世界情緒
-- 🎵 劇薬中毒 — =LOVE
-- 🎵 ならない日々 — MAISONdes&MIMI&華乃
+- 🎵 Sweet Little Lies — Bülow
+- 🎵 salvia — Nornis
+- 🎵 salvia — Nornis
+- 🎵 モシモノセカイ — ヰ世界情緒
+- 🎵 モシモノセカイ — ヰ世界情緒
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/23 14:21:49*
+*更新时间: 2026/8/23 14:49:16*
 <!-- LASTFM_END -->
