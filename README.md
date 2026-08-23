@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,517 次 |
-| 🎤 歌手总计 | 19,994 位 |
-| 💿 专辑总计 | 20,883 张 |
-| 🎶 歌曲总计 | 63,447 首 |
+| 🎧 播放总次数 | 85,522 次 |
+| 🎤 歌手总计 | 19,998 位 |
+| 💿 专辑总计 | 20,888 张 |
+| 🎶 歌曲总计 | 63,452 首 |
 
-🎧 **正在播放：** Sweet Little Lies — Bülow
+
 
 **🎵 最近在听**  
-- 🎵 Sweet Little Lies — Bülow
-- 🎵 salvia — Nornis
-- 🎵 salvia — Nornis
-- 🎵 モシモノセカイ — ヰ世界情緒
-- 🎵 モシモノセカイ — ヰ世界情緒
+- 🎵 Fashionable — シーズ
+- 🎵 故障した車 — SARD UNDERGROUND
+- 🎵 chillow lofi (feat. RJ Pasin) — ptasinski&RJ Pasin
+- 🎵 Constellation — Far Out&Karra
+- 🎵 Catch Me If You Can — Alan Walker&Sorana
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/23 14:49:16*
+*更新时间: 2026/8/23 15:21:20*
 <!-- LASTFM_END -->
