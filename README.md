@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,446 次 |
+| 🎧 播放总次数 | 85,460 次 |
 | 🎤 歌手总计 | 19,974 位 |
-| 💿 专辑总计 | 20,859 张 |
-| 🎶 歌曲总计 | 63,409 首 |
+| 💿 专辑总计 | 20,860 张 |
+| 🎶 歌曲总计 | 63,418 首 |
 
-🎧 **正在播放：** What A Wonderful World — 에이프릴 피아노
+🎧 **正在播放：** nuph-beat — Mickiila
 
 **🎵 最近在听**  
-- 🎵 What A Wonderful World — 에이프릴 피아노
-- 🎵 Desafinado — 라임라이트
-- 🎵 Don`t Know Why — 라임라이트
-- 🎵 Fly Me To The Moon — 달빛소네트
-- 🎵 I Love You For Sentimental Reasons — 라벤더블루
+- 🎵 LAND — low-blows
+- 🎵 LAKE — Reeeko
+- 🎵 JIA — picoandhkohh
+- 🎵 huwa-hou — NUPUCA
+- 🎵 Eee — Elephante
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,23 +45,23 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **水音世界观** — 8 次播放
-- 🥈 **Juggernaut.** — 7 次播放
-- 🥉 **LaurasPillow ASMR** — 7 次播放
-- 4️⃣ **YING ASMR** — 4 次播放
-- 5️⃣ **削除** — 4 次播放
+- 🥇 **라임라이트** — 10 次播放
+- 🥈 **水音世界观** — 8 次播放
+- 🥉 **Juggernaut.** — 7 次播放
+- 4️⃣ **LaurasPillow ASMR** — 7 次播放
+- 5️⃣ **YING ASMR** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Give Myself To You — THEFATRAT&LAURA BREHM
 - 🥈 Way Of Life — Brennan Heart
-- 🥉 ひらり — GRe4N BOYZ (GReeeeN)
-- 4️⃣ Innocence — Guido Negraszus
-- 5️⃣ From The Ashes — Illenium&Skylar Grey
+- 🥉 Eee — Elephante
+- 4️⃣ ひらり — GRe4N BOYZ (GReeeeN)
+- 5️⃣ Innocence — Guido Negraszus
 
 **💿 热门专辑**  
-- 🥇 **D4DJ** — Peaky P-key
-- 🥈 **Give Myself To You** — THEFATRAT&LAURA BREHM
-- 🥉 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
+- 🥇 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
+- 🥈 **D4DJ** — Peaky P-key
+- 🥉 **Give Myself To You** — THEFATRAT&LAURA BREHM
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/23 03:49:58*
+*更新时间: 2026/8/23 04:35:21*
 <!-- LASTFM_END -->
