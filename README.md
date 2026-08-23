@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,482 次 |
-| 🎤 歌手总计 | 19,978 位 |
-| 💿 专辑总计 | 20,860 张 |
-| 🎶 歌曲总计 | 63,422 首 |
+| 🎧 播放总次数 | 85,487 次 |
+| 🎤 歌手总计 | 19,980 位 |
+| 💿 专辑总计 | 20,863 张 |
+| 🎶 歌曲总计 | 63,425 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 S Wonderful — 라임라이트
-- 🎵 All That Jazz — 라임라이트
-- 🎵 What A Wonderful World — 에이프릴 피아노
-- 🎵 Fly Me To The Moon — 달빛소네트
-- 🎵 I Love You For Sentimental Reasons — 라벤더블루
+- 🎵 Psycho — Maisie Peters
+- 🎵 amaoto — a_hisa
+- 🎵 amaoto — a_hisa
+- 🎵 天使の涙 (feat. 初音ミク) — MIMI&初音ミク
+- 🎵 サヨナラは言わないでさ (Cover) — Kotoha
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -52,16 +52,16 @@ Here are some ideas to get you started:
 - 5️⃣ **에이프릴 피아노** — 5 次播放
 
 **🎶 热门歌曲**  
-- 🥇 DM — AMPMCM
-- 🥈 Eee — Elephante
-- 🥉 Plactichu — Fei
-- 4️⃣ what's that's?! — Galanboooo
-- 5️⃣ TrackPlayingGuitar(BeatifulSunDay) — Ginzanooona
+- 🥇 amaoto — a_hisa
+- 🥈 DM — AMPMCM
+- 🥉 Eee — Elephante
+- 4️⃣ Plactichu — Fei
+- 5️⃣ what's that's?! — Galanboooo
 
 **💿 热门专辑**  
 - 🥇 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
 - 🥈 **D4DJ** — Peaky P-key
-- 🥉 **V.A** — Fei
+- 🥉 **flowing** — a_hisa
 
 ---
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 **🎤 最爱的艺术家**  
 - 🥇 **上海アリス幻樂団** — 2,462 次播放
-- 🥈 **a_hisa** — 1,173 次播放
+- 🥈 **a_hisa** — 1,175 次播放
 - 🥉 **Relaxu** — 975 次播放
 - 4️⃣ **Various Artists** — 783 次播放
 - 5️⃣ **Plum** — 744 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/23 08:28:38*
+*更新时间: 2026/8/23 08:59:02*
 <!-- LASTFM_END -->
