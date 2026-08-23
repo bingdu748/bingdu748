@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,419 次 |
-| 🎤 歌手总计 | 19,950 位 |
-| 💿 专辑总计 | 20,856 张 |
-| 🎶 歌曲总计 | 63,382 首 |
+| 🎧 播放总次数 | 85,446 次 |
+| 🎤 歌手总计 | 19,974 位 |
+| 💿 专辑总计 | 20,859 张 |
+| 🎶 歌曲总计 | 63,409 首 |
 
-🎧 **正在播放：** BBBBQ — Ping Pong
+🎧 **正在播放：** What A Wonderful World — 에이프릴 피아노
 
 **🎵 最近在听**  
-- 🎵 BBBBQ — Ping Pong
-- 🎵 Ati — PAO'
-- 🎵 073 — Hirokazooo
-- 🎵 1133 — Pow Pow Pow
-- 🎵 消えない温度 — Hanon&Kotoha
+- 🎵 What A Wonderful World — 에이프릴 피아노
+- 🎵 Desafinado — 라임라이트
+- 🎵 Don`t Know Why — 라임라이트
+- 🎵 Fly Me To The Moon — 달빛소네트
+- 🎵 I Love You For Sentimental Reasons — 라벤더블루
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -53,15 +53,15 @@ Here are some ideas to get you started:
 
 **🎶 热门歌曲**  
 - 🥇 Give Myself To You — THEFATRAT&LAURA BREHM
-- 🥈 Cool In My Disaster — Arctic Moon&Shuba
-- 🥉 Way Of Life — Brennan Heart
-- 4️⃣ ひらり — GRe4N BOYZ (GReeeeN)
-- 5️⃣ Innocence — Guido Negraszus
+- 🥈 Way Of Life — Brennan Heart
+- 🥉 ひらり — GRe4N BOYZ (GReeeeN)
+- 4️⃣ Innocence — Guido Negraszus
+- 5️⃣ From The Ashes — Illenium&Skylar Grey
 
 **💿 热门专辑**  
 - 🥇 **D4DJ** — Peaky P-key
 - 🥈 **Give Myself To You** — THEFATRAT&LAURA BREHM
-- 🥉 **Cool In My Disaster** — Arctic Moon&Shuba
+- 🥉 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/23 02:44:10*
+*更新时间: 2026/8/23 03:49:58*
 <!-- LASTFM_END -->
