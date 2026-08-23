@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,473 次 |
+| 🎧 播放总次数 | 85,482 次 |
 | 🎤 歌手总计 | 19,978 位 |
 | 💿 专辑总计 | 20,860 张 |
 | 🎶 歌曲总计 | 63,422 首 |
 
-🎧 **正在播放：** 女生角度告诉你，为什么从来不主动找你聊天 — 哭猫情绪屋
+
 
 **🎵 最近在听**  
-- 🎵 女生角度告诉你，为什么从来不主动找你聊天 — 哭猫情绪屋
-- 🎵 卢旺达硬刚比利时 外网友：中械师给的勇气？#外网评论 #卢旺达 #中械师 — HongFa探长
-- 🎵 非洲两个国家，一个学习中国，一个学习美国，结果发展如何？ — 兮喵爱追剧
-- 🎵 每当我以为卢旺达抄无可抄时，他总能刷新我的认知 — 辣椒炒肉火火火
-- 🎵 what's that's?! — Galanboooo
+- 🎵 S Wonderful — 라임라이트
+- 🎵 All That Jazz — 라임라이트
+- 🎵 What A Wonderful World — 에이프릴 피아노
+- 🎵 Fly Me To The Moon — 달빛소네트
+- 🎵 I Love You For Sentimental Reasons — 라벤더블루
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **라임라이트** — 10 次播放
+- 🥇 **라임라이트** — 13 次播放
 - 🥈 **水音世界观** — 8 次播放
 - 🥉 **Juggernaut.** — 7 次播放
 - 4️⃣ **LaurasPillow ASMR** — 7 次播放
-- 5️⃣ **YING ASMR** — 4 次播放
+- 5️⃣ **에이프릴 피아노** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 DM — AMPMCM
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/23 07:32:07*
+*更新时间: 2026/8/23 08:28:38*
 <!-- LASTFM_END -->
