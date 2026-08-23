@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,429 次 |
-| 🎤 歌手总计 | 19,943 位 |
-| 💿 专辑总计 | 20,850 张 |
-| 🎶 歌曲总计 | 63,373 首 |
+| 🎧 播放总次数 | 85,438 次 |
+| 🎤 歌手总计 | 19,946 位 |
+| 💿 专辑总计 | 20,855 张 |
+| 🎶 歌曲总计 | 63,378 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 Roots — Tobu
-- 🎵 Magical Musical Master — 削除
-- 🎵 Magical Musical Master — 削除
-- 🎵 Blossom — PIKASONIC
-- 🎵 Good Dream — Kirara Magic
+- 🎵 消えない温度 — Hanon&Kotoha
+- 🎵 カラフルパレット — 日曜日のメゾンデ&礼衣&ふるーり
+- 🎵 Braveheart — Klaas
+- 🎵 main heroine — Synthion
+- 🎵 Mermaid girl (Extended RRver.) — 森永真由美
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 - 🥈 **a_hisa** — 1,173 次播放
 - 🥉 **Relaxu** — 975 次播放
 - 4️⃣ **Various Artists** — 783 次播放
-- 5️⃣ **Plum** — 743 次播放
+- 5️⃣ **Plum** — 744 次播放
 
 **🎶 最爱的歌曲**  
 - 🥇 Anhedonia — a_hisa
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/22 23:45:01*
+*更新时间: 2026/8/23 01:16:49*
 <!-- LASTFM_END -->
