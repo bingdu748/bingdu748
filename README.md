@@ -52,16 +52,16 @@ Here are some ideas to get you started:
 - 5️⃣ **YING ASMR** — 4 次播放
 
 **🎶 热门歌曲**  
-- 🥇 Give Myself To You — THEFATRAT&LAURA BREHM
-- 🥈 DM — AMPMCM
-- 🥉 Eee — Elephante
-- 4️⃣ Plactichu — Fei
-- 5️⃣ what's that's?! — Galanboooo
+- 🥇 DM — AMPMCM
+- 🥈 Eee — Elephante
+- 🥉 Plactichu — Fei
+- 4️⃣ what's that's?! — Galanboooo
+- 5️⃣ TrackPlayingGuitar(BeatifulSunDay) — Ginzanooona
 
 **💿 热门专辑**  
 - 🥇 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
 - 🥈 **D4DJ** — Peaky P-key
-- 🥉 **Give Myself To You** — THEFATRAT&LAURA BREHM
+- 🥉 **V.A** — Fei
 
 ---
 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/23 05:28:12*
+*更新时间: 2026/8/23 05:57:06*
 <!-- LASTFM_END -->
