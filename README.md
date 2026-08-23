@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,487 次 |
+| 🎧 播放总次数 | 85,489 次 |
 | 🎤 歌手总计 | 19,980 位 |
 | 💿 专辑总计 | 20,863 张 |
-| 🎶 歌曲总计 | 63,425 首 |
+| 🎶 歌曲总计 | 63,426 首 |
 
-
+🎧 **正在播放：** 水音世界观--8月21日--中國戰機跨洲際投送埃及！美華盛頓號航母急赴中東，美財長宣布24日經濟絞殺伊朗！ — 水音世界观
 
 **🎵 最近在听**  
+- 🎵 水音世界观--8月21日--中國戰機跨洲際投送埃及！美華盛頓號航母急赴中東，美財長宣布24日經濟絞殺伊朗！ — 水音世界观
+- 🎵 水音世界观-8月20日 — 水音世界观
 - 🎵 Psycho — Maisie Peters
 - 🎵 amaoto — a_hisa
 - 🎵 amaoto — a_hisa
-- 🎵 天使の涙 (feat. 初音ミク) — MIMI&初音ミク
-- 🎵 サヨナラは言わないでさ (Cover) — Kotoha
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **라임라이트** — 13 次播放
-- 🥈 **水音世界观** — 8 次播放
+- 🥈 **水音世界观** — 10 次播放
 - 🥉 **Juggernaut.** — 7 次播放
 - 4️⃣ **LaurasPillow ASMR** — 7 次播放
 - 5️⃣ **에이프릴 피아노** — 5 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/23 09:35:17*
+*更新时间: 2026/8/23 10:22:22*
 <!-- LASTFM_END -->
