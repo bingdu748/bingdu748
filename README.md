@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **라임라이트** — 13 次播放
 - 🥈 **Juggernaut.** — 7 次播放
-- 🥉 **水音世界观** — 7 次播放
-- 4️⃣ **LaurasPillow ASMR** — 6 次播放
+- 🥉 **LaurasPillow ASMR** — 6 次播放
+- 4️⃣ **水音世界观** — 6 次播放
 - 5️⃣ **에이프릴 피아노** — 5 次播放
 
 **🎶 热门歌曲**  
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/25 09:33:57*
+*更新时间: 2026/8/25 10:31:47*
 <!-- LASTFM_END -->
