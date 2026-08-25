@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,525 次 |
-| 🎤 歌手总计 | 19,998 位 |
-| 💿 专辑总计 | 20,888 张 |
-| 🎶 歌曲总计 | 63,455 首 |
+| 🎧 播放总次数 | 85,543 次 |
+| 🎤 歌手总计 | 20,005 位 |
+| 💿 专辑总计 | 20,900 张 |
+| 🎶 歌曲总计 | 63,466 首 |
 
-
+🎧 **正在播放：** レム — DOLLCHESTRA
 
 **🎵 最近在听**  
-- 🎵 喜欢上霸凌自己的女生？最喜欢欺负我的你了!！病娇百合！！ — 十病舍人Tll
-- 🎵 "她很吃这一套的~" — -去看流星雨-
-- 🎵 露露卡，看来我真得控制你了 — 天天座丽世
-- 🎵 Fashionable — シーズ
-- 🎵 故障した車 — SARD UNDERGROUND
+- 🎵 レム — DOLLCHESTRA
+- 🎵 STAY — Justin Bieber&The Kid LAROI
+- 🎵 Lovelag — Klaas
+- 🎵 In Music I Believe (feat. Nila) — Atef&Nila
+- 🎵 虚 — Halv
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/25 10:31:47*
+*更新时间: 2026/8/25 11:26:18*
 <!-- LASTFM_END -->
