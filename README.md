@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - 🥇 **라임라이트** — 13 次播放
 - 🥈 **Juggernaut.** — 7 次播放
 - 🥉 **LaurasPillow ASMR** — 6 次播放
-- 4️⃣ **水音世界观** — 6 次播放
-- 5️⃣ **에이프릴 피아노** — 5 次播放
+- 4️⃣ **에이프릴 피아노** — 5 次播放
+- 5️⃣ **水音世界观** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 amaoto — a_hisa
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/25 23:24:48*
+*更新时间: 2026/8/25 23:48:56*
 <!-- LASTFM_END -->
