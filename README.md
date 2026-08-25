@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,543 次 |
-| 🎤 歌手总计 | 20,005 位 |
-| 💿 专辑总计 | 20,900 张 |
-| 🎶 歌曲总计 | 63,466 首 |
+| 🎧 播放总次数 | 85,554 次 |
+| 🎤 歌手总计 | 20,010 位 |
+| 💿 专辑总计 | 20,906 张 |
+| 🎶 歌曲总计 | 63,472 首 |
 
-🎧 **正在播放：** レム — DOLLCHESTRA
+
 
 **🎵 最近在听**  
-- 🎵 レム — DOLLCHESTRA
-- 🎵 STAY — Justin Bieber&The Kid LAROI
-- 🎵 Lovelag — Klaas
-- 🎵 In Music I Believe (feat. Nila) — Atef&Nila
-- 🎵 虚 — Halv
+- 🎵 星河之旅 — 木子
+- 🎵 二人模様 — しぐれうい
+- 🎵 二人模様 — しぐれうい
+- 🎵 Raindrops — VINAI&Stefy de Cicco&Jessica Chertock
+- 🎵 Mona Lisa — K-391
 
 **📈 播放趋势**  
 - 📅 本周: 0 次播放
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 **🎶 热门歌曲**  
 - 🥇 amaoto — a_hisa
 - 🥈 DM — AMPMCM
-- 🥉 Eee — Elephante
-- 4️⃣ Plactichu — Fei
-- 5️⃣ what's that's?! — Galanboooo
+- 🥉 レム — DOLLCHESTRA
+- 4️⃣ Eee — Elephante
+- 5️⃣ Plactichu — Fei
 
 **💿 热门专辑**  
 - 🥇 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/25 11:26:18*
+*更新时间: 2026/8/25 11:55:04*
 <!-- LASTFM_END -->
