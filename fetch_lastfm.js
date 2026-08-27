@@ -76,7 +76,12 @@ async function fetchAndUpdate() {
     
     // 8. 获取周播放趋势（最近 3 个自然周的总播放次数）
     const weeklyChartData = await fetchData(`method=user.getweeklychartlist&user=${USERNAME}`);
-    const weeklyCharts = asArray(weeklyChartData.weeklychartlist?.chart).slice(0, 3);
+    // getweeklychartlist 返回的 chart 列表按时间升序排列（最旧在前）。
+    // 直接 slice(0, 3) 会永远取到账号最早的 3 周（远古数据播放数为 0），
+    // 必须先按 from 倒序，再取前 3 条才是最近 3 周。
+    const weeklyCharts = asArray(weeklyChartData.weeklychartlist?.chart)
+      .sort((a, b) => parseInt(b.from, 10) - parseInt(a.from, 10))
+      .slice(0, 3);
     const weeklyCounts = await Promise.all(
       weeklyCharts.map(chart => getWeeklyPlayCount(chart.from, chart.to))
     );
