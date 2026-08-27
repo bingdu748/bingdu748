@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,579 次 |
+| 🎧 播放总次数 | 85,584 次 |
 | 🎤 歌手总计 | 20,018 位 |
 | 💿 专辑总计 | 20,918 张 |
-| 🎶 歌曲总计 | 63,492 首 |
+| 🎶 歌曲总计 | 63,494 首 |
 
-🎧 **正在播放：** ASMR for a Cause | About Periods💓🪻 — GuluLand ASMR
+
 
 **🎵 最近在听**  
-- 🎵 ASMR for a Cause | About Periods💓🪻 — GuluLand ASMR
-- 🎵 水音世界观--8月21日--中國戰機跨洲際投送埃及！美華盛頓號航母急赴中東，美財長宣布24日經濟絞殺伊朗！ — 水音世界观
-- 🎵 A - ing (Japanese Version) — OH MY GIRL&Hashishi from DENPAGIRL
+- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
+- 🎵 ASMR 中文 | A New Friend Picks Gifts for You (Children‘s Day Special)🎀🧸 — GuluLand ASMR
+- 🎵 Sun Wukong ASMR Roleplay 孙悟空🐒👑 — GuluLand ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 294 次播放
@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **라임라이트** — 13 次播放
-- 🥈 **에이프릴 피아노** — 5 次播放
-- 🥉 **しぐれうい** — 4 次播放
-- 4️⃣ **水音世界观** — 4 次播放
-- 5️⃣ **Peaky P-key** — 3 次播放
+- 🥈 **GuluLand ASMR** — 5 次播放
+- 🥉 **에이프릴 피아노** — 5 次播放
+- 4️⃣ **しぐれうい** — 4 次播放
+- 5️⃣ **水音世界观** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 amaoto — a_hisa
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 **💿 热门专辑**  
 - 🥇 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
 - 🥈 **fiction** — しぐれうい
-- 🥉 **D4DJ** — Peaky P-key
+- 🥉 **flowing** — a_hisa
 
 ---
 
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/27 14:29:55*
+*更新时间: 2026/8/27 23:55:14*
 <!-- LASTFM_END -->
