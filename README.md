@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,584 次 |
-| 🎤 歌手总计 | 20,018 位 |
+| 🎧 播放总次数 | 85,590 次 |
+| 🎤 歌手总计 | 20,021 位 |
 | 💿 专辑总计 | 20,918 张 |
-| 🎶 歌曲总计 | 63,497 首 |
+| 🎶 歌曲总计 | 63,503 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 ASMR 免疫必入！声控手作球 酥麻解压的声音 中文助眠 — LaurasPillow ASMR
-- 🎵 ASMR 姐姐给你过生日🎂🎈轻语照顾向 吃蛋糕 拆礼物 我问你答 — LaurasPillow ASMR
-- 🎵 ASMR👩‍⚕️医生姐姐给你做专注力测试🔍雨声背景🌧️中文轻语扮演 — LaurasPillow ASMR
+- 🎵 【双女】爱你是我的秘密... — 咩栗
+- 🎵 【探Q/来爱×露露卡】再来一次 — 悲剧over君
+- 🎵 【转载】【神无月巫女&名侦探光美-MAD】「agony／KOTOKO」× 名探偵プリキュア — 吕铃绮的十字戟
 
 **📈 播放趋势**  
 - 📅 本周: 294 次播放
@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **라임라이트** — 13 次播放
-- 🥈 **LaurasPillow ASMR** — 5 次播放
+- 🥈 **LaurasPillow ASMR** — 6 次播放
 - 🥉 **에이프릴 피아노** — 5 次播放
 - 4️⃣ **しぐれうい** — 4 次播放
-- 5️⃣ **水音世界观** — 4 次播放
+- 5️⃣ **달빛소네트** — 3 次播放
 
 **🎶 热门歌曲**  
 - 🥇 amaoto — a_hisa
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/28 09:49:41*
+*更新时间: 2026/8/28 21:06:38*
 <!-- LASTFM_END -->
