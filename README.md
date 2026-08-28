@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 | 🎧 播放总次数 | 85,584 次 |
 | 🎤 歌手总计 | 20,018 位 |
 | 💿 专辑总计 | 20,918 张 |
-| 🎶 歌曲总计 | 63,494 首 |
+| 🎶 歌曲总计 | 63,497 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 ASMR Chinese Whispering | Press-on Nail Collection💅🎀 — GuluLand ASMR
-- 🎵 ASMR 中文 | A New Friend Picks Gifts for You (Children‘s Day Special)🎀🧸 — GuluLand ASMR
-- 🎵 Sun Wukong ASMR Roleplay 孙悟空🐒👑 — GuluLand ASMR
+- 🎵 ASMR 免疫必入！声控手作球 酥麻解压的声音 中文助眠 — LaurasPillow ASMR
+- 🎵 ASMR 姐姐给你过生日🎂🎈轻语照顾向 吃蛋糕 拆礼物 我问你答 — LaurasPillow ASMR
+- 🎵 ASMR👩‍⚕️医生姐姐给你做专注力测试🔍雨声背景🌧️中文轻语扮演 — LaurasPillow ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 294 次播放
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **라임라이트** — 13 次播放
-- 🥈 **GuluLand ASMR** — 5 次播放
+- 🥈 **LaurasPillow ASMR** — 5 次播放
 - 🥉 **에이프릴 피아노** — 5 次播放
 - 4️⃣ **しぐれうい** — 4 次播放
 - 5️⃣ **水音世界观** — 4 次播放
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/27 23:55:14*
+*更新时间: 2026/8/28 09:49:41*
 <!-- LASTFM_END -->
