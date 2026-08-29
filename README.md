@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,635 次 |
-| 🎤 歌手总计 | 20,049 位 |
+| 🎧 播放总次数 | 85,640 次 |
+| 🎤 歌手总计 | 20,051 位 |
 | 💿 专辑总计 | 20,947 张 |
-| 🎶 歌曲总计 | 63,547 首 |
+| 🎶 歌曲总计 | 63,552 首 |
 
-🎧 **正在播放：** Curbed Tooth — Macky Gee
+
 
 **🎵 最近在听**  
-- 🎵 Curbed Tooth — Macky Gee
-- 🎵 A Lost Cause — dBridge
-- 🎵 Pneumatics — Current Value
+- 🎵 国百与日百的区别，塑造的审美倾向 — 白兔不吃栀子花
+- 🎵 为什么所有扭曲疯癫的少女百合故事，都只是对这部神作的拙劣模仿？ — BB姬Studio
+- 🎵 Foolin' — Macky Gee
 
 **📈 播放趋势**  
 - 📅 本周: 294 次播放
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 **💿 热门专辑**  
 - 🥇 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
 - 🥈 **Jazzing EP** — Annix
-- 🥉 **fiction** — しぐれうい
+- 🥉 **It's A Gee Thing** — Macky Gee
 
 ---
 
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/29 10:19:31*
+*更新时间: 2026/8/29 15:10:45*
 <!-- LASTFM_END -->
