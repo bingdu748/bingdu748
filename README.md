@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,590 次 |
-| 🎤 歌手总计 | 20,021 位 |
+| 🎧 播放总次数 | 85,596 次 |
+| 🎤 歌手总计 | 20,027 位 |
 | 💿 专辑总计 | 20,918 张 |
-| 🎶 歌曲总计 | 63,503 首 |
+| 🎶 歌曲总计 | 63,509 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 【双女】爱你是我的秘密... — 咩栗
-- 🎵 【探Q/来爱×露露卡】再来一次 — 悲剧over君
-- 🎵 【转载】【神无月巫女&名侦探光美-MAD】「agony／KOTOKO」× 名探偵プリキュア — 吕铃绮的十字戟
+- 🎵 拉拉神了 — D東N
+- 🎵 【绘画】祥睦 — lelec小粉羊
+- 🎵 两只狐狐被捆绑放置play在行李箱 — 狐狐LastMemory
 
 **📈 播放趋势**  
 - 📅 本周: 294 次播放
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/28 21:06:38*
+*更新时间: 2026/8/29 03:14:41*
 <!-- LASTFM_END -->
