@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,596 次 |
-| 🎤 歌手总计 | 20,027 位 |
-| 💿 专辑总计 | 20,918 张 |
-| 🎶 歌曲总计 | 63,509 首 |
+| 🎧 播放总次数 | 85,635 次 |
+| 🎤 歌手总计 | 20,049 位 |
+| 💿 专辑总计 | 20,947 张 |
+| 🎶 歌曲总计 | 63,547 首 |
 
-
+🎧 **正在播放：** Curbed Tooth — Macky Gee
 
 **🎵 最近在听**  
-- 🎵 拉拉神了 — D東N
-- 🎵 【绘画】祥睦 — lelec小粉羊
-- 🎵 两只狐狐被捆绑放置play在行李箱 — 狐狐LastMemory
+- 🎵 Curbed Tooth — Macky Gee
+- 🎵 A Lost Cause — dBridge
+- 🎵 Pneumatics — Current Value
 
 **📈 播放趋势**  
 - 📅 本周: 294 次播放
@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **라임라이트** — 13 次播放
-- 🥈 **LaurasPillow ASMR** — 6 次播放
-- 🥉 **에이프릴 피아노** — 5 次播放
-- 4️⃣ **しぐれうい** — 4 次播放
-- 5️⃣ **달빛소네트** — 3 次播放
+- 🥈 **Jam Thieves** — 6 次播放
+- 🥉 **Annix** — 5 次播放
+- 4️⃣ **에이프릴 피아노** — 5 次播放
+- 5️⃣ **LaurasPillow ASMR** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 amaoto — a_hisa
@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 **💿 热门专辑**  
 - 🥇 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
-- 🥈 **fiction** — しぐれうい
-- 🥉 **flowing** — a_hisa
+- 🥈 **Jazzing EP** — Annix
+- 🥉 **fiction** — しぐれうい
 
 ---
 
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/29 03:14:41*
+*更新时间: 2026/8/29 10:19:31*
 <!-- LASTFM_END -->
