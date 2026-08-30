@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,640 次 |
-| 🎤 歌手总计 | 20,051 位 |
+| 🎧 播放总次数 | 85,649 次 |
+| 🎤 歌手总计 | 20,053 位 |
 | 💿 专辑总计 | 20,947 张 |
-| 🎶 歌曲总计 | 63,552 首 |
+| 🎶 歌曲总计 | 63,561 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 国百与日百的区别，塑造的审美倾向 — 白兔不吃栀子花
-- 🎵 为什么所有扭曲疯癫的少女百合故事，都只是对这部神作的拙劣模仿？ — BB姬Studio
-- 🎵 Foolin' — Macky Gee
+- 🎵 百合nb — 动漫剪辑君阿宇
+- 🎵 芦花女士的胜利 — 众生皆浮游于世
+- 🎵 玩弄姛学感情的好女孩薇欧拉（） — 只为百合而活
 
 **📈 播放趋势**  
 - 📅 本周: 294 次播放
@@ -43,18 +43,18 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **라임라이트** — 13 次播放
+- 🥇 **라임라이트** — 9 次播放
 - 🥈 **Jam Thieves** — 6 次播放
 - 🥉 **Annix** — 5 次播放
-- 4️⃣ **에이프릴 피아노** — 5 次播放
-- 5️⃣ **LaurasPillow ASMR** — 4 次播放
+- 4️⃣ **LaurasPillow ASMR** — 4 次播放
+- 5️⃣ **Macky Gee** — 4 次播放
 
 **🎶 热门歌曲**  
 - 🥇 amaoto — a_hisa
-- 🥈 DM — AMPMCM
-- 🥉 World's End, Girl's Rondo (Asterisk DnB Remix) — Asterisk
-- 4️⃣ レム — DOLLCHESTRA
-- 5️⃣ Eee — Elephante
+- 🥈 World's End, Girl's Rondo (Asterisk DnB Remix) — Asterisk
+- 🥉 レム — DOLLCHESTRA
+- 4️⃣ 虚 — Halv
+- 5️⃣ Till Tomorrow — Neyra&WildVibes
 
 **💿 热门专辑**  
 - 🥇 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/29 23:54:07*
+*更新时间: 2026/8/30 03:53:39*
 <!-- LASTFM_END -->
