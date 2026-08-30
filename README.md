@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,662 次 |
+| 🎧 播放总次数 | 85,663 次 |
 | 🎤 歌手总计 | 20,054 位 |
 | 💿 专辑总计 | 20,956 张 |
-| 🎶 歌曲总计 | 63,572 首 |
+| 🎶 歌曲总计 | 63,573 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 ASMR 🌍Travel with me on iPad✈️ Show & Tell, Chinese Whispering — LaurasPillow ASMR
 - 🎵 すすめ!ウルトラマンゼロ (前进吧！赛罗奥特曼) — ボイジャー
 - 🎵 英雄 (特摄《奈克瑟斯奥特曼》OP1 ；特撮「ウルトラマンネクサス」OP1テーマ) — Doa
-- 🎵 Time after time ～花舞う街で～ (一如既往~花瓣纷飞的坂道) — 倉木麻衣
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **Jam Thieves** — 6 次播放
 - 🥈 **Annix** — 5 次播放
-- 🥉 **LaurasPillow ASMR** — 4 次播放
+- 🥉 **LaurasPillow ASMR** — 5 次播放
 - 4️⃣ **Macky Gee** — 4 次播放
 - 5️⃣ **しぐれうい** — 4 次播放
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - 🥈 COSMOS(Extended) — BlackY's BEATFLOOR
 - 🥉 レム — DOLLCHESTRA
 - 4️⃣ 虚 — Halv
-- 5️⃣ salvia — Nornis
+- 5️⃣ Zero Gravity — Tatsunoshin&Aira Arere
 
 **💿 热门专辑**  
 - 🥇 **Jazzing EP** — Annix
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/30 14:41:40*
+*更新时间: 2026/8/30 18:25:35*
 <!-- LASTFM_END -->
