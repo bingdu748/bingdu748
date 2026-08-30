@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,649 次 |
+| 🎧 播放总次数 | 85,650 次 |
 | 🎤 歌手总计 | 20,053 位 |
 | 💿 专辑总计 | 20,947 张 |
-| 🎶 歌曲总计 | 63,561 首 |
+| 🎶 歌曲总计 | 63,562 首 |
 
-
+🎧 **正在播放：** ASMR中文｜Repeating My Opening Lines & Trigger Words You've Never Heard Before 👽🪄 — GuluLand ASMR
 
 **🎵 最近在听**  
+- 🎵 ASMR中文｜Repeating My Opening Lines & Trigger Words You've Never Heard Before 👽🪄 — GuluLand ASMR
 - 🎵 百合nb — 动漫剪辑君阿宇
 - 🎵 芦花女士的胜利 — 众生皆浮游于世
-- 🎵 玩弄姛学感情的好女孩薇欧拉（） — 只为百合而活
 
 **📈 播放趋势**  
 - 📅 本周: 294 次播放
@@ -43,23 +43,23 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **라임라이트** — 9 次播放
-- 🥈 **Jam Thieves** — 6 次播放
-- 🥉 **Annix** — 5 次播放
-- 4️⃣ **LaurasPillow ASMR** — 4 次播放
-- 5️⃣ **Macky Gee** — 4 次播放
+- 🥇 **Jam Thieves** — 6 次播放
+- 🥈 **Annix** — 5 次播放
+- 🥉 **LaurasPillow ASMR** — 4 次播放
+- 4️⃣ **Macky Gee** — 4 次播放
+- 5️⃣ **しぐれうい** — 4 次播放
 
 **🎶 热门歌曲**  
-- 🥇 amaoto — a_hisa
-- 🥈 World's End, Girl's Rondo (Asterisk DnB Remix) — Asterisk
-- 🥉 レム — DOLLCHESTRA
-- 4️⃣ 虚 — Halv
-- 5️⃣ Till Tomorrow — Neyra&WildVibes
+- 🥇 World's End, Girl's Rondo (Asterisk DnB Remix) — Asterisk
+- 🥈 レム — DOLLCHESTRA
+- 🥉 虚 — Halv
+- 4️⃣ Till Tomorrow — Neyra&WildVibes
+- 5️⃣ salvia — Nornis
 
 **💿 热门专辑**  
-- 🥇 **Best Jazz Masterpieces Piano For Healing** — 라임라이트
-- 🥈 **Jazzing EP** — Annix
-- 🥉 **It's A Gee Thing** — Macky Gee
+- 🥇 **Jazzing EP** — Annix
+- 🥈 **It's A Gee Thing** — Macky Gee
+- 🥉 **fiction** — しぐれうい
 
 ---
 
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/30 03:53:39*
+*更新时间: 2026/8/30 09:46:05*
 <!-- LASTFM_END -->
