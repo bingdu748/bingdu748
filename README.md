@@ -21,22 +21,22 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,650 次 |
-| 🎤 歌手总计 | 20,053 位 |
-| 💿 专辑总计 | 20,947 张 |
-| 🎶 歌曲总计 | 63,562 首 |
+| 🎧 播放总次数 | 85,662 次 |
+| 🎤 歌手总计 | 20,054 位 |
+| 💿 专辑总计 | 20,956 张 |
+| 🎶 歌曲总计 | 63,572 首 |
 
-🎧 **正在播放：** ASMR中文｜Repeating My Opening Lines & Trigger Words You've Never Heard Before 👽🪄 — GuluLand ASMR
+
 
 **🎵 最近在听**  
-- 🎵 ASMR中文｜Repeating My Opening Lines & Trigger Words You've Never Heard Before 👽🪄 — GuluLand ASMR
-- 🎵 百合nb — 动漫剪辑君阿宇
-- 🎵 芦花女士的胜利 — 众生皆浮游于世
+- 🎵 すすめ!ウルトラマンゼロ (前进吧！赛罗奥特曼) — ボイジャー
+- 🎵 英雄 (特摄《奈克瑟斯奥特曼》OP1 ；特撮「ウルトラマンネクサス」OP1テーマ) — Doa
+- 🎵 Time after time ～花舞う街で～ (一如既往~花瓣纷飞的坂道) — 倉木麻衣
 
 **📈 播放趋势**  
-- 📅 本周: 294 次播放
+- 📅 本周: 173 次播放
+- 📆 8/16: 294 次播放
 - 📆 8/9: 651 次播放
-- 📆 8/2: 498 次播放
 
 ---
 
@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 **🎶 热门歌曲**  
 - 🥇 World's End, Girl's Rondo (Asterisk DnB Remix) — Asterisk
-- 🥈 レム — DOLLCHESTRA
-- 🥉 虚 — Halv
-- 4️⃣ Till Tomorrow — Neyra&WildVibes
+- 🥈 COSMOS(Extended) — BlackY's BEATFLOOR
+- 🥉 レム — DOLLCHESTRA
+- 4️⃣ 虚 — Halv
 - 5️⃣ salvia — Nornis
 
 **💿 热门专辑**  
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/30 09:46:05*
+*更新时间: 2026/8/30 14:41:40*
 <!-- LASTFM_END -->
