@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,956 张 |
 | 🎶 歌曲总计 | 63,574 首 |
 
-🎧 **正在播放：** 水音世界观--8月28日--美军航母疲于奔命，特朗普自封“史上最伟大”！俄乌全境轰炸突发大变局！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观--8月28日--美军航母疲于奔命，特朗普自封“史上最伟大”！俄乌全境轰炸突发大变局！ — 水音世界观
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/30 23:41:49*
+*更新时间: 2026/8/31 03:56:18*
 <!-- LASTFM_END -->
