@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,665 次 |
-| 🎤 歌手总计 | 20,054 位 |
-| 💿 专辑总计 | 20,956 张 |
-| 🎶 歌曲总计 | 63,575 首 |
+| 🎧 播放总次数 | 85,677 次 |
+| 🎤 歌手总计 | 20,058 位 |
+| 💿 专辑总计 | 20,959 张 |
+| 🎶 歌曲总计 | 63,584 首 |
 
-🎧 **正在播放：** 水音世界观--8月25日 --殲16實戰大戰法國陣風！中埃文明之鷹異型機硬碰硬，超視距空戰優勢徹底立威！ — 水音世界观
+
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月25日 --殲16實戰大戰法國陣風！中埃文明之鷹異型機硬碰硬，超視距空戰優勢徹底立威！ — 水音世界观
-- 🎵 水音世界观--8月28日--美军航母疲于奔命，特朗普自封“史上最伟大”！俄乌全境轰炸突发大变局！ — 水音世界观
-- 🎵 ASMR 🌍Travel with me on iPad✈️ Show & Tell, Chinese Whispering — LaurasPillow ASMR
+- 🎵 【 紓壓ASMR 】讓姊姊幫你服務一下♡ 泡泡 | 洗髮 | 剪髮 | 掏耳按摩  #中文音聲 #ASMR — 黑銀夜烏 / Karasu Ch.
+- 🎵 世界が終るまでは··· (直到世界的尽头) — WANDS
+- 🎵 ブルーバード (青鸟) — いきものがかり
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -43,18 +43,18 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **Jam Thieves** — 6 次播放
-- 🥈 **Annix** — 5 次播放
-- 🥉 **LaurasPillow ASMR** — 5 次播放
+- 🥇 **LaurasPillow ASMR** — 7 次播放
+- 🥈 **Jam Thieves** — 6 次播放
+- 🥉 **Annix** — 5 次播放
 - 4️⃣ **Macky Gee** — 4 次播放
 - 5️⃣ **しぐれうい** — 4 次播放
 
 **🎶 热门歌曲**  
-- 🥇 World's End, Girl's Rondo (Asterisk DnB Remix) — Asterisk
-- 🥈 COSMOS(Extended) — BlackY's BEATFLOOR
-- 🥉 レム — DOLLCHESTRA
-- 4️⃣ 虚 — Halv
-- 5️⃣ Zero Gravity — Tatsunoshin&Aira Arere
+- 🥇 見えない地図 (看不见的地图) — ANZA
+- 🥈 World's End, Girl's Rondo (Asterisk DnB Remix) — Asterisk
+- 🥉 COSMOS(Extended) — BlackY's BEATFLOOR
+- 4️⃣ レム — DOLLCHESTRA
+- 5️⃣ 虚 — Halv
 
 **💿 热门专辑**  
 - 🥇 **Jazzing EP** — Annix
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/8/31 10:39:36*
+*更新时间: 2026/8/31 17:54:25*
 <!-- LASTFM_END -->
