@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,702 次 |
-| 🎤 歌手总计 | 20,067 位 |
-| 💿 专辑总计 | 20,962 张 |
-| 🎶 歌曲总计 | 63,604 首 |
+| 🎧 播放总次数 | 85,754 次 |
+| 🎤 歌手总计 | 20,074 位 |
+| 💿 专辑总计 | 20,967 张 |
+| 🎶 歌曲总计 | 63,640 首 |
 
-🎧 **正在播放：** 'Til the End — MitiS
+🎧 **正在播放：** [ASMR] Whispering Quietly in a Very Old Closet 🤫 [On the Hunt for Thrill-Inducing Triggers 💡🔍] — Runa ASMR【るな氏】
 
 **🎵 最近在听**  
-- 🎵 'Til the End — MitiS
-- 🎵 Act Beloved (feat. Salita) — void/Salita
-- 🎵 狐雨 — 棗いつき
+- 🎵 [ASMR] Whispering Quietly in a Very Old Closet 🤫 [On the Hunt for Thrill-Inducing Triggers 💡🔍] — Runa ASMR【るな氏】
+- 🎵 ASMR💍Lighting Shop Roleplay (Light Triggers, Gentle Whispering) — LaurasPillow ASMR
+- 🎵 Fan Noise to Refresh the Mind, Pt.10 — White Noise Meditation
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -43,23 +43,23 @@ Here are some ideas to get you started:
 ### 🌟 本周排行
 
 **🎤 热门艺术家**  
-- 🥇 **LaurasPillow ASMR** — 7 次播放
-- 🥈 **Jam Thieves** — 6 次播放
-- 🥉 **Annix** — 5 次播放
-- 4️⃣ **水音世界观** — 5 次播放
-- 5️⃣ **Macky Gee** — 4 次播放
+- 🥇 **White Noise Meditation** — 28 次播放
+- 🥈 **LaurasPillow ASMR** — 8 次播放
+- 🥉 **Jam Thieves** — 6 次播放
+- 4️⃣ **Annix** — 5 次播放
+- 5️⃣ **Zomboy** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 見えない地図 (看不见的地图) — ANZA
 - 🥈 World's End, Girl's Rondo (Asterisk DnB Remix) — Asterisk
 - 🥉 COSMOS(Extended) — BlackY's BEATFLOOR
-- 4️⃣ レム — DOLLCHESTRA
-- 5️⃣ 虚 — Halv
+- 4️⃣ Fan Noise to Refresh the Mind, Pt.10 — White Noise Meditation
+- 5️⃣ Fan Noise to Refresh the Mind, Pt.3 — White Noise Meditation
 
 **💿 热门专辑**  
-- 🥇 **Jazzing EP** — Annix
-- 🥈 **It's A Gee Thing** — Macky Gee
-- 🥉 **fiction** — しぐれうい
+- 🥇 **The Dead Symphonic Ep** — Zomboy
+- 🥈 **Jazzing EP** — Annix
+- 🥉 **It's A Gee Thing** — Macky Gee
 
 ---
 
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/1 07:19:32*
+*更新时间: 2026/9/1 12:40:11*
 <!-- LASTFM_END -->
