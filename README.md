@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,683 次 |
-| 🎤 歌手总计 | 20,058 位 |
-| 💿 专辑总计 | 20,959 张 |
-| 🎶 歌曲总计 | 63,589 首 |
+| 🎧 播放总次数 | 85,702 次 |
+| 🎤 歌手总计 | 20,067 位 |
+| 💿 专辑总计 | 20,962 张 |
+| 🎶 歌曲总计 | 63,604 首 |
 
-
+🎧 **正在播放：** 'Til the End — MitiS
 
 **🎵 最近在听**  
-- 🎵 水音世界观--8月31日--美军夜袭拉拉克岛！伊朗导弹狂轰约旦阿联酋基地，死神无人机坠海航道再遭封锁！ — 水音世界观
-- 🎵 国际在线8月31日直播1。美国和加拿大的贸易冲突，由于特朗普改了湖泊的名字，导致美国的很多船只滞留在了美国湖。 — 全球动态局势
-- 🎵 *学マスASMR*莉波お姉ちゃんが看病＆添い寝 Nurse back to health Role playing*囁き声* — ゆまりあ
+- 🎵 'Til the End — MitiS
+- 🎵 Act Beloved (feat. Salita) — void/Salita
+- 🎵 狐雨 — 棗いつき
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/1 01:40:24*
+*更新时间: 2026/9/1 07:19:32*
 <!-- LASTFM_END -->
