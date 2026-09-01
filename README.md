@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,754 次 |
-| 🎤 歌手总计 | 20,074 位 |
+| 🎧 播放总次数 | 85,762 次 |
+| 🎤 歌手总计 | 20,075 位 |
 | 💿 专辑总计 | 20,967 张 |
-| 🎶 歌曲总计 | 63,640 首 |
+| 🎶 歌曲总计 | 63,645 首 |
 
-🎧 **正在播放：** [ASMR] Whispering Quietly in a Very Old Closet 🤫 [On the Hunt for Thrill-Inducing Triggers 💡🔍] — Runa ASMR【るな氏】
+
 
 **🎵 最近在听**  
-- 🎵 [ASMR] Whispering Quietly in a Very Old Closet 🤫 [On the Hunt for Thrill-Inducing Triggers 💡🔍] — Runa ASMR【るな氏】
-- 🎵 ASMR💍Lighting Shop Roleplay (Light Triggers, Gentle Whispering) — LaurasPillow ASMR
-- 🎵 Fan Noise to Refresh the Mind, Pt.10 — White Noise Meditation
+- 🎵 ASMR 夜间护士的神秘检查｜轻语助眠＋多重视觉触发＋灯光助眠｜沉浸式护士角色扮演 — YUE_19wASMR
+- 🎵 ASMR 🍣 Are these real or fake foods? Show & Tell, Chinese Whispering — LaurasPillow ASMR
+- 🎵 ASMR Doing your MakeUp with Crystals 💎💄(Mouth sounds) — LaurasPillow ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -44,17 +44,17 @@ Here are some ideas to get you started:
 
 **🎤 热门艺术家**  
 - 🥇 **White Noise Meditation** — 28 次播放
-- 🥈 **LaurasPillow ASMR** — 8 次播放
+- 🥈 **LaurasPillow ASMR** — 14 次播放
 - 🥉 **Jam Thieves** — 6 次播放
 - 4️⃣ **Annix** — 5 次播放
 - 5️⃣ **Zomboy** — 5 次播放
 
 **🎶 热门歌曲**  
-- 🥇 見えない地図 (看不见的地图) — ANZA
-- 🥈 World's End, Girl's Rondo (Asterisk DnB Remix) — Asterisk
-- 🥉 COSMOS(Extended) — BlackY's BEATFLOOR
-- 4️⃣ Fan Noise to Refresh the Mind, Pt.10 — White Noise Meditation
-- 5️⃣ Fan Noise to Refresh the Mind, Pt.3 — White Noise Meditation
+- 🥇 ASMR Doing your MakeUp with Crystals 💎💄(Mouth sounds) — LaurasPillow ASMR
+- 🥈 見えない地図 (看不见的地图) — ANZA
+- 🥉 World's End, Girl's Rondo (Asterisk DnB Remix) — Asterisk
+- 4️⃣ COSMOS(Extended) — BlackY's BEATFLOOR
+- 5️⃣ Fan Noise to Refresh the Mind, Pt.10 — White Noise Meditation
 
 **💿 热门专辑**  
 - 🥇 **The Dead Symphonic Ep** — Zomboy
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/1 12:40:11*
+*更新时间: 2026/9/1 20:02:39*
 <!-- LASTFM_END -->
