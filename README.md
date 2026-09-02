@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,851 次 |
+| 🎧 播放总次数 | 85,852 次 |
 | 🎤 歌手总计 | 20,082 位 |
 | 💿 专辑总计 | 20,979 张 |
-| 🎶 歌曲总计 | 63,714 首 |
+| 🎶 歌曲总计 | 63,715 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 国际在线9月2日直播1。普京和伊朗总统见面引起了美国的注意。 — 全球动态局势
 - 🎵 Fan Noise to Refresh the Mind, Pt.19 — White Noise Meditation
 - 🎵 Fan Noise to Refresh the Mind, Pt.18 — White Noise Meditation
-- 🎵 Fan Noise to Refresh the Mind, Pt.20 — White Noise Meditation
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/2 09:50:44*
+*更新时间: 2026/9/2 14:06:46*
 <!-- LASTFM_END -->
