@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,762 次 |
-| 🎤 歌手总计 | 20,075 位 |
+| 🎧 播放总次数 | 85,765 次 |
+| 🎤 歌手总计 | 20,076 位 |
 | 💿 专辑总计 | 20,967 张 |
-| 🎶 歌曲总计 | 63,645 首 |
+| 🎶 歌曲总计 | 63,647 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 ASMR 夜间护士的神秘检查｜轻语助眠＋多重视觉触发＋灯光助眠｜沉浸式护士角色扮演 — YUE_19wASMR
-- 🎵 ASMR 🍣 Are these real or fake foods? Show & Tell, Chinese Whispering — LaurasPillow ASMR
-- 🎵 ASMR Doing your MakeUp with Crystals 💎💄(Mouth sounds) — LaurasPillow ASMR
+- 🎵 ガールズ・イン・ザ・フロンティア (M@STER VERSION) — 福原綾香&朝井彩加&安野希世乃
+- 🎵 水音世界观--9月1日--中埃近战实测打出7:1！歼-16咬尾锁死法国阵风战机，法总参谋长紧急赴埃叫停对抗！ — 水音世界观
+- 🎵 古月说天下9月1日（上）--美伊5分钟闪击战收场？伊朗三轮反击猛轰美军基地，老特发AI视频造势！ — 时局news
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 - 🥇 **White Noise Meditation** — 28 次播放
 - 🥈 **LaurasPillow ASMR** — 14 次播放
 - 🥉 **Jam Thieves** — 6 次播放
-- 4️⃣ **Annix** — 5 次播放
-- 5️⃣ **Zomboy** — 5 次播放
+- 4️⃣ **水音世界观** — 6 次播放
+- 5️⃣ **Annix** — 5 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Doing your MakeUp with Crystals 💎💄(Mouth sounds) — LaurasPillow ASMR
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/1 22:43:31*
+*更新时间: 2026/9/2 00:49:59*
 <!-- LASTFM_END -->
