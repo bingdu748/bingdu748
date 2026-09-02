@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,765 次 |
+| 🎧 播放总次数 | 85,777 次 |
 | 🎤 歌手总计 | 20,076 位 |
-| 💿 专辑总计 | 20,967 张 |
-| 🎶 歌曲总计 | 63,647 首 |
+| 💿 专辑总计 | 20,968 张 |
+| 🎶 歌曲总计 | 63,658 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 ガールズ・イン・ザ・フロンティア (M@STER VERSION) — 福原綾香&朝井彩加&安野希世乃
-- 🎵 水音世界观--9月1日--中埃近战实测打出7:1！歼-16咬尾锁死法国阵风战机，法总参谋长紧急赴埃叫停对抗！ — 水音世界观
-- 🎵 古月说天下9月1日（上）--美伊5分钟闪击战收场？伊朗三轮反击猛轰美军基地，老特发AI视频造势！ — 时局news
+- 🎵 真愛一生 — 張信哲
+- 🎵 日出之前請將悲傷終結 — 張信哲
+- 🎵 假裝有你 — 張信哲
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **White Noise Meditation** — 28 次播放
 - 🥈 **LaurasPillow ASMR** — 14 次播放
-- 🥉 **Jam Thieves** — 6 次播放
-- 4️⃣ **水音世界观** — 6 次播放
-- 5️⃣ **Annix** — 5 次播放
+- 🥉 **張信哲** — 10 次播放
+- 4️⃣ **Jam Thieves** — 6 次播放
+- 5️⃣ **水音世界观** — 6 次播放
 
 **🎶 热门歌曲**  
 - 🥇 ASMR Doing your MakeUp with Crystals 💎💄(Mouth sounds) — LaurasPillow ASMR
@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 - 5️⃣ Fan Noise to Refresh the Mind, Pt.10 — White Noise Meditation
 
 **💿 热门专辑**  
-- 🥇 **The Dead Symphonic Ep** — Zomboy
-- 🥈 **Jazzing EP** — Annix
-- 🥉 **It's A Gee Thing** — Macky Gee
+- 🥇 **寬容** — 張信哲
+- 🥈 **The Dead Symphonic Ep** — Zomboy
+- 🥉 **Jazzing EP** — Annix
 
 ---
 
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/2 00:49:59*
+*更新时间: 2026/9/2 05:27:59*
 <!-- LASTFM_END -->
