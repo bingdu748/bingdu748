@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,876 次 |
-| 🎤 歌手总计 | 20,086 位 |
+| 🎧 播放总次数 | 85,886 次 |
+| 🎤 歌手总计 | 20,089 位 |
 | 💿 专辑总计 | 20,981 张 |
-| 🎶 歌曲总计 | 63,736 首 |
+| 🎶 歌曲总计 | 63,743 首 |
 
-
+🎧 **正在播放：** 화장 asmr — 신지원
 
 **🎵 最近在听**  
-- 🎵 ASMR Color Challenge 🌈 | Guess the Color Before the Reveal — ASMR bappa
-- 🎵 水音世界观--9月3日--战巡黄岩岛带刀执勤！教10实弹驱离菲机，4万吨榴莲烂大街到底赖谁？ — 水音世界观
-- 🎵 Noel The Mortal Fate — UnicornPhantom
+- 🎵 화장 asmr — 신지원
+- 🎵 [ASMR] Chinese Ear Cleaning Salon Roleplay 🦻 [A New Employee Who Mixes Chinese and Japanese 🔰] — Runa ASMR【るな氏】
+- 🎵 #asmr #asmrsounds #relax #mouthsounds #tinglesounds #tingles #tapping #asmrvideo — Fairy Alina ASMR
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - 🥈 Fan Noise to Refresh the Mind, Pt.19 — White Noise Meditation
 - 🥉 Fan Noise to Refresh the Mind, Pt.20 — White Noise Meditation
 - 4️⃣ ASMR Doing your MakeUp with Crystals 💎💄(Mouth sounds) — LaurasPillow ASMR
-- 5️⃣ 見えない地図 (看不见的地图) — ANZA
+- 5️⃣ ASMR FASTEST UNPROFESSIONAL EYEBROW APPOINTMENT! Doing Your Eyebrows #asmr #shorts — Lyssie ASMR
 
 **💿 热门专辑**  
 - 🥇 **寬容** — 張信哲
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/4 21:39:25*
+*更新时间: 2026/9/4 23:44:38*
 <!-- LASTFM_END -->
