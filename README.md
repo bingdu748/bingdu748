@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | 💿 专辑总计 | 20,979 张 |
 | 🎶 歌曲总计 | 63,722 首 |
 
-🎧 **正在播放：** 水音世界观-9月3日 -运-20高空为法制阵风加油！中国加油机首度跨体系兼容西方主力，打破数十年军工垄断底牌！ — 水音世界观
+
 
 **🎵 最近在听**  
 - 🎵 水音世界观-9月3日 -运-20高空为法制阵风加油！中国加油机首度跨体系兼容西方主力，打破数十年军工垄断底牌！ — 水音世界观
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/3 23:47:46*
+*更新时间: 2026/9/4 03:07:23*
 <!-- LASTFM_END -->
