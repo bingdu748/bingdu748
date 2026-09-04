@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,874 次 |
+| 🎧 播放总次数 | 85,875 次 |
 | 🎤 歌手总计 | 20,086 位 |
 | 💿 专辑总计 | 20,981 张 |
-| 🎶 歌曲总计 | 63,734 首 |
+| 🎶 歌曲总计 | 63,735 首 |
 
 
 
 **🎵 最近在听**  
+- 🎵 水音世界观--9月3日--战巡黄岩岛带刀执勤！教10实弹驱离菲机，4万吨榴莲烂大街到底赖谁？ — 水音世界观
 - 🎵 Noel The Mortal Fate — UnicornPhantom
 - 🎵 Seascapes:II. Lonely Sail — David Aaron Carpenter/David Parry/London Philharmonic Orchestra
-- 🎵 反叛之师 — 西蒙Leonardo
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 **🎤 热门艺术家**  
 - 🥇 **White Noise Meditation** — 45 次播放
 - 🥈 **Relaxu** — 34 次播放
-- 🥉 **LaurasPillow ASMR** — 13 次播放
+- 🥉 **LaurasPillow ASMR** — 10 次播放
 - 4️⃣ **張信哲** — 10 次播放
 - 5️⃣ **AVIAND, Relaxu** — 9 次播放
 
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/4 08:08:27*
+*更新时间: 2026/9/4 12:50:34*
 <!-- LASTFM_END -->
