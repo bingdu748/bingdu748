@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,929 次 |
-| 🎤 歌手总计 | 20,105 位 |
-| 💿 专辑总计 | 21,003 张 |
-| 🎶 歌曲总计 | 63,767 首 |
+| 🎧 播放总次数 | 85,947 次 |
+| 🎤 歌手总计 | 20,110 位 |
+| 💿 专辑总计 | 21,012 张 |
+| 🎶 歌曲总计 | 63,783 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 时梦 — zuayean
-- 🎵 ニニ(feat. Qayo & mii) — テヅカ&Qayo&Mii
-- 🎵 Cold Inflation (Extend Mix) — Yoohsic Roomz&kanone
+- 🎵 THE CELESTIA 180 — Sobrem/Sound piercer “Espitz” Gt.NeLiME
+- 🎵 Dematerialized (游戏《Arcaea》第四届公募大赛优胜曲) — In Love With a Ghost
+- 🎵 Paracausal Cocoon Protocol — かめりあ
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/5 11:39:52*
+*更新时间: 2026/9/5 14:40:21*
 <!-- LASTFM_END -->
