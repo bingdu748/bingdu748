@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 **📊 统计概览**  
 | 项目 | 数据 |
 |------|------|
-| 🎧 播放总次数 | 85,947 次 |
-| 🎤 歌手总计 | 20,110 位 |
-| 💿 专辑总计 | 21,012 张 |
-| 🎶 歌曲总计 | 63,783 首 |
+| 🎧 播放总次数 | 85,957 次 |
+| 🎤 歌手总计 | 20,111 位 |
+| 💿 专辑总计 | 21,013 张 |
+| 🎶 歌曲总计 | 63,793 首 |
 
 
 
 **🎵 最近在听**  
-- 🎵 THE CELESTIA 180 — Sobrem/Sound piercer “Espitz” Gt.NeLiME
-- 🎵 Dematerialized (游戏《Arcaea》第四届公募大赛优胜曲) — In Love With a Ghost
-- 🎵 Paracausal Cocoon Protocol — かめりあ
+- 🎵 Music To Soothe The Savage Snake Plant — Mort Garson
+- 🎵 A Mellow Mood for Maidenhair — Mort Garson
+- 🎵 You Don't Have To Walk A Begonia — Mort Garson
 
 **📈 播放趋势**  
 - 📅 本周: 173 次播放
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 - 🥇 **White Noise Meditation** — 45 次播放
 - 🥈 **Relaxu** — 34 次播放
 - 🥉 **LaurasPillow ASMR** — 10 次播放
-- 4️⃣ **張信哲** — 10 次播放
-- 5️⃣ **AVIAND, Relaxu** — 9 次播放
+- 4️⃣ **Mort Garson** — 10 次播放
+- 5️⃣ **張信哲** — 10 次播放
 
 **🎶 热门歌曲**  
 - 🥇 Fan Noise to Refresh the Mind, Pt.18 — White Noise Meditation
@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 - 5️⃣ ASMR FASTEST UNPROFESSIONAL EYEBROW APPOINTMENT! Doing Your Eyebrows #asmr #shorts — Lyssie ASMR
 
 **💿 热门专辑**  
-- 🥇 **寬容** — 張信哲
-- 🥈 **Felted Piano Collection, Vol. 4** — AVIAND, Relaxu
-- 🥉 **Felted Piano Collection, Vol. 5** — Relaxu, aviand
+- 🥇 **Mother Earth's Plantasia** — Mort Garson
+- 🥈 **寬容** — 張信哲
+- 🥉 **Felted Piano Collection, Vol. 4** — AVIAND, Relaxu
 
 ---
 
@@ -88,5 +88,5 @@ Here are some ideas to get you started:
 - 👤 [xquto](https://www.last.fm/user/xquto)
 - 👤 [KarkatVantaz](https://www.last.fm/user/KarkatVantaz)
 
-*更新时间: 2026/9/5 14:40:21*
+*更新时间: 2026/9/5 17:09:48*
 <!-- LASTFM_END -->
